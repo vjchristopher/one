@@ -1,8 +1,11 @@
 import streamlit as st
   
 st.set_page_config(layout="wide",page_title = "This is a Multipage WebApp") 
+st.markdown("# Main page 🎈")
+st.sidebar.markdown("# Main page 🎈")
+
 st.title("📶Information on Spectrum .")
-st.sidebar.success("Selection Above") 
+#st.sidebar.success("Selection Above") 
 st.markdown(
 """
 ### What Information is here?
