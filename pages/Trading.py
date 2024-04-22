@@ -25,7 +25,7 @@ band_trading=[800,1800,2300]
 
 
 BANDS=st.multiselect('Choose the Bands:',options=band_trading, default = [800,])
-LSAS= st.multiselect('Choose LSA:',options=lsa_trade, default = ['Andhra Pradesh',])
+LSAS= st.multiselect('Choose LSA:',options=lsa_trade, default = ['All LSAs',])
 #If 'All LSAs selected:
 if 'All LSAs' in (LSAS):
     LSAS=lsa_trade[1:] 
