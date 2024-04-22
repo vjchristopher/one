@@ -1,0 +1,33 @@
+band,tsp1,tsp2,lsa,bw_tsp1,bw_tsp2,effect_date,status
+800,RCL,Jio,Andhra Pradesh,1.25,3.75,30-06-16,Expired.
+,,,Assam,5,5,21-04-16,Expired.
+,,,Bihar ,5,5,21-04-16,Expired.
+,,,Delhi,1.25,3.75,30-06-16,Expired.
+,,,Gujarat,2.5,3.75,30-06-16,Terminated.
+,,,Haryana ,5,5,21-04-16,Expired.
+,,,Himachal Pradesh,5,5,21-04-16,Expired.
+,,,Karnataka ,1.25,3.75,04-08-16,Expired.
+,,,Kerala ,1.25,3.75,04-08-16,Expired.
+,,,Kolkata,1.25,5,30-06-16,Expired.
+,,,Madhya Pradesh,5,5,21-04-16,Expired.
+,,,Maharashtra,1.25,3.75,30-06-16,Expired.
+,,,Mumbai,5,5,21-04-16,Expired.
+,,,North East ,5,5,21-04-16,Expired.
+,,,Orissa ,5,5,21-04-16,Expired.
+,,,Punjab ,2.5,3.75,30-06-16,Expired.
+,,,Rajasthan ,1.25,2.5,04-08-16,Expired.
+,,,Tamil Nadu ,1.25,3.75,04-08-16,Expired.
+,,,Uttar Pradesh (East),3.75,5,21-04-16,Expired.
+,,,Uttar Pradesh (West),1.25,5,30-06-16,Expired.
+,,,West Bengal,1.25,3.75,30-06-16,Expired.
+1800,Bharti,Tata Teleservices,Andhra Pradesh ,16.4,5,14-03-18,Expired.
+,,,Maharashtra,10,5,23-05-18,Expired.
+,,,Mumbai,6,5,23-05-18,Expired.
+2100,Bharti,Tata Teleservices,Gujarat,5,5,14-03-18,Expired.
+,,,Haryana ,5,5,14-03-18,Expired.
+,,,Karnataka ,5,5,14-03-18,Expired.
+,,,Kerala ,5,5,14-03-18,Expired.
+,,,Madhya Pradesh,5,5,14-03-18,Expired.
+,,,Maharashtra,5,5,14-03-18,Expired.
+,,,Uttar Pradesh (West),5,5,14-03-18,Expired.
+,,,Rajasthan ,10,5,20-01-19,Expired.
