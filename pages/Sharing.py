@@ -16,6 +16,8 @@ share['lsa']=share['lsa'].str.strip()
 
 
 lsa_share=share['lsa'].unique().tolist()
+#append the ALL LSAs
+lsa_share[:0]=['All LSAs']
 tsp_list1=share['tsp1'].unique().tolist()
 tsp_list2=share['tsp2'].unique().tolist()
 
@@ -23,7 +25,10 @@ band_sharing=[800,1800,2100]
 
 
 BANDS=st.multiselect('Choose the Bands:',options=band_sharing, default = [800,])
-LSAS= st.multiselect('Choose LSA:',options=lsa_share, default = ['Andhra Pradesh',])
+LSAS= st.multiselect('Choose LSA:',options=lsa_share, default = ['All LSAs',])
+#If 'All LSAs selected:
+if 'All LSAs' in (LSAS):
+    LSAS=LSAS[1:] 
 TSPS1=st.selectbox('Choose the first TSP sharing spectrum',tsp_list1)
 TSPS2=st.selectbox('Choose the second TSP sharing spectrum',tsp_list2)
 
