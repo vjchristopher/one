@@ -1,0 +1,135 @@
+LSA,TSP,700 MHz band (paired),800 MHz band (paired),900 MHz band (paired),1800 MHz band (paired),2100 MHz band (paired),2300 MHz band (unpaired),2500 MHz band (unpaired),3300 MHz band (unpaired),26 GHz band (unpaired)
+Andhra Pradesh,Adani,,,,,,,,,50
+,Aircel,,,,4.4,5,,,,
+,Bharti,,,9,21.4,5,30,,100,800
+,BSNL,10,,6.4,,5,,,,
+,Reliance Jio,10,10,,10,,40,,100,1000
+,Vodafone Idea,,,5,10,5,,20,50,200
+Assam,Aircel,,,4.4,1.8,5,,,,
+,Bharti,,,11.8,15.45,10,40,,100,800
+,BSNL,,,6.4,,5,,20,,
+,Reliance Jio,10,9.5,,10,,40,,100,1000
+,Reliance Telecom,,5,,,5,,,,
+,Vodafone Idea,,,,25,5,,20,,
+Bihar,Aircel,,,,6.2,5,,,,
+,Bharti,,,11.2,18,15,40,,100,800
+,BSNL,,,6.4,,5,,20,,
+,Reliance Jio,10,10,,10,,40,,100,1000
+,Reliance Telecom,,,,,5,,,,
+,Vodafone Idea,,,,17.8,5,,10,50,
+Delhi,Aircel,,,,4.4,,,,,
+,Bharti,,,6,7,15,30,,100,800
+,MTNL,,,5,,5,,,,
+,Reliance Communications,,3.75,,,5,,,,
+,Reliance Jio,10,10,,10,,40,,100,1000
+,Vodafone Idea,,,10,10.6,5,,20,50,200
+Gujarat,Adani,,,,,,,,,100
+,Bharti,,,4.2,10,15,40,,100,800
+,BSNL,,,6.4,,5,,,,
+,Reliance Communications,,6.25,,,,,,,
+,Reliance Jio,10,10,,20,,40,,100,1000
+,Vodafone Idea,,,11,20.8,10,,30,50,450
+Haryana,Bharti,,5,,10,15,40,,100,800
+,BSNL,,,6.4,,10,,20,,
+,Reliance Communications,,1.25,,0.6,,,,,
+,Reliance Jio,10,10,,10,,40,,100,1000
+,Vodafone Idea,,,12.2,15.8,15,,20,50,400
+Himachal Pradesh,Bharti,,,10,20,5,40,,100,800
+,BSNL,,,6.4,,10,,20,,
+,Reliance Communications,,2.5,,,,,,,
+,Reliance Jio,10,10,,10.4,,40,,130,1000
+,Reliance Telecom,,,5,,5,,,,
+,Vodafone Idea,,,,11.2,5,,10,,
+Jammu & Kashmir,Aircel,,,4.4,1.8,5,,,,
+,Bharti,,,11.2,15,10,40,,100,800
+,BSNL,,,6.4,,5,,20,,
+,Reliance Communications,,5,,5,5,,,,
+,Reliance Jio,10,9.5,,10,,40,,130,1000
+,Vodafone Idea,,,,17,5,,10,,
+Karnataka,Adani,,,,,,,,,50
+,Aircel,,,,4.4,5,,,,
+,Bharti,,,8.8,20,10,30,,100,800
+,BSNL,,,6.4,,5,,,,
+,Reliance Communications,,3.75,,0.6,,,,,
+,Reliance Jio,10,10,,10,,40,,130,1000
+,Vodafone Idea,,,5,15,10,,,50,200
+Kerala,Aircel,,,,4.4,5,,,,
+,Bharti,,,4.6,10,15,30,,100,800
+,BSNL,,,6.4,2,5,,20,,
+,Reliance Communications,,3.75,,,,,,,
+,Reliance Jio,10,10,,10,,40,,130,1000
+,Vodafone Idea,,,12.4,20,10,10,20,50,800
+Kolkata,Aircel,,,,4.4,5,,,,
+,Bharti,,,7,15,,30,,100,800
+,BSNL,,,6.4,,5,,,,
+,Reliance Communications,,5,,,,,,,
+,Reliance Jio,10,10,,10,,40,,100,1000
+,Reliance Telecom,,,,,5,,,,
+,Vodafone Idea,,,7,15,10,,20,50,200
+Madhya Pradesh,Bharti,,5,,15,10,30,,100,800
+,BSNL,10,,6.4,,5,,20,,
+,Reliance Jio,10,10,,20,,40,,130,1000
+,Reliance Telecom,,,5,,5,,,,
+,Vodafone Idea,,,7.4,18.6,5,10,20,50,400
+Maharashtra,Adani,,,,,,,,,
+,Bharti,,5,,20,10,30,,100,800
+,BSNL,,,6.4,,5,,,,
+,Reliance Jio,10,10,,20,,40,,100,1000
+,Vodafone Idea,,,14,12.4,15,10,30,50,400
+Mumbai,Adani,,,,,,,,,100
+,Aircel,,,,4.4,,,,,
+,Bharti,,,5,15,5,30,,100,800
+,MTNL,,,5,,5,,,,
+,Reliance Communications,,,,0.6,5,,,,
+,Reliance Jio,10,15,,10,,40,,100,1000
+,Vodafone Idea,,,11,14.6,10,,20,50,200
+North East,Aircel,,,4.4,1.8,5,,,,
+,Bharti,,,14,10,10,40,,100,800
+,BSNL,10,,6.4,,5,,20,,
+,Reliance Jio,10,9.5,,10,,40,,130,1000
+,Reliance Telecom,,5,,5,5,,,,
+,Vodafone Idea,,,,25.8,5,,20,,
+Odisha,Aircel,,,,4.4,5,,,,
+,Bharti,,,11.2,19.6,5,40,,100,800
+,BSNL,,,6.4,2,5,,20,,
+,Reliance Communications,,1.25,,,,,,,
+,Reliance Jio,10,10,,20,,40,,100,1000
+,Reliance Telecom,,,,5,5,,,,
+,Vodafone Idea,,,5,17,5,,20,,
+Punjab,Aircel,,,,4.4,5,,,,
+,Bharti,,,10,15,5,40,,100,800
+,BSNL,10,,6.4,,10,,20,,
+,Reliance Communications,,2.5,,0.6,5,,,,
+,Reliance Jio,10,10,,10,,40,,100,1000
+,Vodafone Idea,,,5.6,15,10,,20,50,300
+Rajasthan,Adani,,,,,,,,,50
+,Aircel,,,,6,,,,,
+,Bharti,,,6,10,15,40,,100,800
+,BSNL,10,,6.4,,5,,20,,
+,Reliance Communications,,,,,5,,,,
+,Reliance Jio,10,10,,20,,40,,130,1000
+,Vodafone Idea,,,6.4,10,15,,20,50,300
+Tamilnadu,Adani,,,,,,,,,50
+,Aircel,,,,10,5,,,,
+,Bharti,,,5,20,10,30,,100,800
+,BSNL,,,6.4,2,5,,,,
+,Reliance Communications,,3.75,,,,,,,
+,Reliance Jio,10,10,,10,,40,,100,1000
+,Vodafone Idea,,,5,11.4,15,,,50,300
+Uttar Pradesh (East),Aircel,,,,6.2,5,,,,
+,Bharti,,,11.2,16.8,5,40,,100,800
+,BSNL,,,6.4,,10,,20,,
+,Reliance Jio,10,10,,20,,40,,100,1000
+,Vodafone Idea,,,5.6,10,20,,20,50,250
+Uttar Pradesh (West),Bharti,,5,,15,10,40,,100,800
+,BSNL,,,6.4,,10,,20,,
+,Reliance Communications,,5,,,,,,,
+,Reliance Jio,10,9.5,,10,,40,,130,1000
+,Vodafone Idea,,,10,15,10,,20,50,350
+West Bengal,Aircel,,,,5.6,5,,,,
+,Bharti,,,9.4,10,15,40,,100,800
+,BSNL,,,6.4,,5,,20,,
+,Reliance Communications,,5,,,,,,,
+,Reliance Jio,10,10,,10.6,,40,,100,1000
+,Reliance Telecom,,,,,5,,,,
+,Vodafone Idea,,,7.4,23.4,5,,20,50,400
