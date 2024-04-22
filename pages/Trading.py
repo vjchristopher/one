@@ -28,7 +28,7 @@ BANDS=st.multiselect('Choose the Bands:',options=band_trading, default = [800,])
 LSAS= st.multiselect('Choose LSA:',options=lsa_trade, default = ['Andhra Pradesh',])
 #If 'All LSAs selected:
 if 'All LSAs' in (LSAS):
-    LSAS=LSAS[1:] 
+    LSAS=lsa_trade[1:] 
 SELLER=st.selectbox('Choose the Seller of spectrum',sellers)
 BUYER=st.selectbox('Choose the Buyer of spectrum',buyers)
 
