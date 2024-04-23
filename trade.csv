@@ -12,9 +12,9 @@ band,seller,buyer,lsa,traded_spectrum,effect_date,traded_price,status
 ,,,Uttar Pradesh (East),1.25,17-05-2016,0.51,Active
 ,,,Uttar Pradesh (West),5,17-05-2016,1.44,Active
 ,,,West Bengal,3.75,17-05-2016,0.65,Active
-800,Bharti,Jio,Andhra Pradesh,3.75,17-05-2016,10.4,Active
-,,,Delhi,1.25,17-05-2016,5.97,Active
-,,,Mumbai,2.5,17-05-2016,13.57,Active
+800,Bharti,Jio,Andhra Pradesh,3.75,10-08-2021,10.4,Active
+,,,Delhi,1.25,10-08-2021,5.97,Active
+,,,Mumbai,2.5,10-08-2021,13.57,Active
 1800,Videocon,Bharti,Bihar,5,18-05-2016,4.48,Active
 ,,,Gujarat,5,18-05-2016,17.29,Active
 ,,,Haryana ,5,18-05-2016,3.4,Active
@@ -22,7 +22,7 @@ band,seller,buyer,lsa,traded_spectrum,effect_date,traded_price,status
 ,,,Uttar Pradesh (East),5,18-05-2016,8.34,Active
 ,,,Uttar Pradesh (West),5,18-05-2016,6.98,Active
 2300,Aircel,Bharti,Andhra Pradesh,20,16-11-2016,16.28,Active
-,,,Assam,20,17-06-2016,0.54,Active
+2300,Dishnet Wireless,Bharti,Assam,20,17-06-2016,0.54,Active
 ,,,Bihar ,20,17-06-2016,1.51,Active
 ,,,Jammu and Kashmir,20,17-06-2016,0.33,Active
 ,,,North East ,20,17-06-2016,0.33,Active
