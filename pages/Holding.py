@@ -13,11 +13,15 @@ holding.iloc[:,2:]=holding.iloc[:,2:].fillna(0)# filling value 0 in NAN
 valuation=valuation.set_index('service_area')
 
 lsa_list=holding['LSA'].unique().tolist()
+#Add 'ALL LSAs"
+lsa_list[:0]=['All LSAs']
 tsp_list=holding['TSP'].unique().tolist()
 band_list=holding.columns.unique().tolist()[2:]
 
 
-LSAS= st.multiselect('Choose LSA:',options=lsa_list, default = ['Andhra Pradesh'])
+LSAS= st.multiselect('Choose LSA:',options=lsa_list, default = ['All LSAs'])
+if 'All LSAs' in (LSAS):
+    LSAS=lsa_list[1:] 
 BANDS=st.multiselect('Choose the Bands:',options=band_list, default = ['700 MHz band (paired)'])
 TSPS=st.selectbox('Choose the TSP',tsp_list)
 
