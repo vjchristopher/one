@@ -1,4 +1,4 @@
-band,uplink_freq_mhz,downlink_freq_mhz,bandwidth_mhz,Type,3GPP_design,technology
+Band,Uplink Frequency (MHz),Downlink Frequency (MHz),Bandwidth (MHz),Type,3GPP_design,Technology
 600,663-703,612-652,40,FDD,n105,IMT (not deployed yet)
 700,713-748,768-803,35,FDD,n28,IMT
 800,824-844,869-889,20,FDD,n5,IMT
