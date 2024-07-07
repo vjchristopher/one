@@ -87,7 +87,7 @@ def plot_slope(df):
     
     #duplicate LSA s in reserve price columns of the dataframe
     if df.empty:
-        st.write("Dataframe empty")
+        #st.write("Dataframe empty")
         return
     #first find the LSA s with the same Reserve Price and same selling price in two dictionaries
     dup_rp,dup_sp=find_repeated_rp(df)
