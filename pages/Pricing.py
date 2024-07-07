@@ -34,7 +34,7 @@ st.title('Reserve ₹rice and Winning ₹rice in various auctions in tabular and
 #initialise
 service_area_list=['All LSAs','AP','Assam','Bihar','Delhi','Gujarat','Haryana','HP','J & K','Karnataka','Kerala','Kolkata',
                    'MP','Maharashtra','Mumbai','NE','Odisha','Punjab','Rajasthan','TN','UP(E)','UP(W)','WB'] 
-auction_year_list=['All Auctions',2010,2012,2013,2014,2015,2016,2021,2022]
+auction_year_list=['All Auctions',2010,2012,2013,2014,2015,2016,2021,2022,2024]
 freq_bands_list=['All Bands','600','700','800','900','1800','2100','2300','2500','3300 MHz','26 GHz']
 
 
@@ -61,6 +61,7 @@ pd.options.plotting.backend = "plotly"
 
 def load_data():
     df=pd.read_csv(r'combined_file_RP_WP_cols_ordered.csv')
+    #st.dataframe(df)
     return df
   
 def read_lsa():
@@ -78,6 +79,7 @@ def read_bands():
 def process_df(df):  
     df=df.set_index('service_area')      
     df=df.apply(pd.to_numeric)
+    #st.dataframe(df)
     return(df)
   
 def write_text(txt):
@@ -133,7 +135,7 @@ if submitted: #The submit button has been pressed.
     df2=df.loc[lsa,year]
     if not isinstance(df2, pd.DataFrame):
         df2=pd.DataFrame(df2).T
-    #st.dataframe(df2) # year selected  
+    #st.dataframe(df2.T) # year selected  
     #plot_df(df2) 
     # now in the dataframe filter those belonging to the band if any selected
     new_columns_list=[]
