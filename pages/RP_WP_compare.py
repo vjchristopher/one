@@ -18,7 +18,7 @@ freq_bands_list=['600','700','800','900','1800','2100','2300','2500','3300','26'
 #---------------------------------#
 # Sidebar + Main panel
 form1=st.sidebar.form(key='Options')
-form1.header('Selection Panel')
+form1.header('Selection Panel for comparing RP and SP')
 with form1:    
     auction_year = form1.selectbox('Select auction year',auction_year_list,key='key1')
     freq_bands=form1.selectbox('Select frequency bands',freq_bands_list,key='key2')
@@ -87,7 +87,7 @@ def plot_slope(df):
     
     #duplicate LSA s in reserve price columns of the dataframe
     if df.empty:
-        print("Dataframe empty")
+        st.write("Dataframe empty")
         return
     #first find the LSA s with the same Reserve Price and same selling price in two dictionaries
     dup_rp,dup_sp=find_repeated_rp(df)
@@ -104,26 +104,37 @@ def plot_slope(df):
     )
 
     for data,col in zip(fig.data,df.columns):    
-
+        # col is divided into colx and coly representations for x and y because x, y in single pass ( for x, y in enu....]
+        # copy the same col to y wrogly if we use the same name col in both x==0 and x!=0 logic
+       
         data.x=['Reserve Price','Winning Price']
-        for x,y in enumerate(df[col]):           
-            if x==0:
+        for x,y in enumerate(df[col]): # x=0, y=RP; x=1,y=SP          
+            #st.write(x,y) 
+            if x==0: #x=0 corresponding to RP
                 if (y in dup_rp.keys()):
-                    col=dup_rp[y] #to factor the multiple LSA s with the same selling price
-                fig.add_annotation(x=x,y=y,text=f'Rs {y} Crores <br>{col} ',showarrow=False,
+                    colx=dup_rp[y] #to factor the multiple LSA s with the same reserve price
+                else:
+                    colx=col
+                fig.add_annotation(x=x,y=y,text=f'Rs {y} Crores <br>{colx} ',showarrow=False,
                                   width=200,align='right',
                                   xshift=-110,
                                   yshift=0,
                                   #font={'color':color}
                                   )
-            else:
+                
+            else: # x=1 corresponding to SP
+                # st.write("x=",x)
+                # st.write(col)
                 if (y in dup_sp.keys()):
-                    col=dup_sp[y] #to factor the multiple LSA s with the same selling price
+                    coly=dup_sp[y] #to factor the multiple LSA s with the same selling price
+                else:
+                    coly=col
                 if y==-1:
                     #split if columns more than 4
-                    col1 = col[:len(col)//2]
-                    col2 = col[len(col)//2:]
-                    fig.add_annotation(x=x,y=0,text=f' No Bids recevd for LSAs in <br>{col1} and<br>{col2} ',showarrow=False,
+                    
+                    coly1 = coly[:len(coly)//2]
+                    coly2 = coly[len(coly)//2:]
+                    fig.add_annotation(x=x,y=0,text=f' No Bids recevd for LSAs in <br>{coly1} and<br>{coly2} ',showarrow=False,
                                   width=300,align='left',
                                   xshift=150,
                                   yshift=0,
@@ -131,8 +142,8 @@ def plot_slope(df):
                                   #font={'color':color}
                                   )   
 
-                else:
-                    fig.add_annotation(x=x,y=y,text=f' Rs {y} Crores <br>{col} ',showarrow=False,
+                else:                    
+                    fig.add_annotation(x=x,y=y,text=f' Rs {y} Crores <br>{coly} ',showarrow=False,
                                   width=200,align='left',
                                   xshift=110,
                                   yshift=0,
@@ -177,4 +188,7 @@ if submitted: #The submit button has been pressed.
         df1=df1[df1.iloc[:,0]!=0]
     #call the plot function
     #st.dataframe(df1)
+    
     (df1.pipe(plot_slope))  
+    st.subheader(" :orange[A negative value (-1) for the Selling Price in any LSA, if any\
+                  indicates no offers were received for the selected band in that LSA.]")
