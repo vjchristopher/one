@@ -107,7 +107,7 @@ def plot_slope(df):
         # col is divided into colx and coly representations for x and y because x, y in single pass ( for x, y in enu....]
         # copy the same col to y wrogly if we use the same name col in both x==0 and x!=0 logic
        
-        data.x=['Reserve Price','Winning Price']
+        data.x=['Reserve Price','Selling Price']
         for x,y in enumerate(df[col]): # x=0, y=RP; x=1,y=SP          
             #st.write(x,y) 
             if x==0: #x=0 corresponding to RP
