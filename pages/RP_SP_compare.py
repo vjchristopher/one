@@ -143,7 +143,7 @@ def plot_slope(df):
                                   )   
 
                 else:                    
-                    fig.add_annotation(x=x,y=y,text=f' Rs {y} Crores <br>{coly} ',showarrow=False,
+                    fig.add_annotation(x=x,y=y,text=f' Rs {y} Crores ({coly}) ',showarrow=False,
                                   width=200,align='left',
                                   xshift=110,
                                   yshift=0,
