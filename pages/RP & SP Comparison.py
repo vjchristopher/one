@@ -134,7 +134,7 @@ def plot_slope(df):
                     
                     coly1 = coly[:len(coly)//2]
                     coly2 = coly[len(coly)//2:]
-                    fig.add_annotation(x=x,y=0,text=f' No Bids recevd for LSAs in <br>{coly1} and<br>{coly2} ',showarrow=False,
+                    fig.add_annotation(x=x,y=-3,text=f' No Bids recevd for LSAs in <br>{coly1} and<br>{coly2} ',showarrow=False,
                                   width=300,align='left',
                                   xshift=150,
                                   yshift=0,
