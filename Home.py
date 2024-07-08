@@ -11,6 +11,7 @@ st.markdown(
 ### What Information is here?
     🌌Spectrum Holding information.
     🌐Spectrum Pricing information.
+    :volcano: Reserve Price,Selling Price Comparison 
     🌀Spectrum Shared information.
     🌈Spectrum Traded information.
             
