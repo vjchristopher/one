@@ -9,7 +9,7 @@ pd.options.plotting.backend='plotly'
 
 
 
-st.subheader('Reserve Price and Selling Price (Winning Price) compared in various auctions :')
+st.subheader('🆚 Reserve Price and Selling Price compared in various auctions :')
 
 auction_year_list=[2010,2012,2013,2014,2015,2016,2021,2022,2024]
 freq_bands_list=['600','700','800','900','1800','2100','2300','2500','3300','26']
