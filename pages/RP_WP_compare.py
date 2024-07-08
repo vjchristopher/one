@@ -171,7 +171,7 @@ df=process_df(df)
 if submitted: #The submit button has been pressed.  
     year=read_auction_year() 
     band=read_bands()
-    st.markdown(f"*** Frequency band {band}  MHz Bid outcome from  {year}  auction.***")
+    st.markdown(f"Sub: Frequency band {band}  MHz Bid outcome from  {year}  auction.")
 
     #st.write(band)   
     # st.write(year)
