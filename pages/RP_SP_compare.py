@@ -115,7 +115,7 @@ def plot_slope(df):
                     colx=dup_rp[y] #to factor the multiple LSA s with the same reserve price
                 else:
                     colx=col
-                fig.add_annotation(x=x,y=y,text=f'Rs {y} Crores <br>{colx} ',showarrow=False,
+                fig.add_annotation(x=x,y=y,text=f'Rs {y} Crores ({colx}) ',showarrow=False,
                                   width=200,align='right',
                                   xshift=-110,
                                   yshift=0,
