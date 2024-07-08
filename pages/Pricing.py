@@ -1,4 +1,4 @@
-import streamlit as st 
+erimport streamlit as st 
 import pandas as pd
 import plotly.express as px
 import plotly.io as pio
@@ -24,7 +24,7 @@ image = Image.open('auction.jpg')
 col1,col2,col3=st.columns(3)
 with col2:
     st.image(image,width=200) 
-st.title('Reserve ₹rice and Winning ₹rice in various auctions in tabular and graphic form - Press "Submit" button in the Sidebar Panel:')
+st.header('💵Reserve ₹rice and Winning ₹rice in various auctions in tabular and graphic form - Press "Submit" button in the Sidebar Panel:')
 # st.markdown("""
 # 💾  
 # -------------------------------------------            
