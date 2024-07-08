@@ -24,7 +24,7 @@ st.markdown("***Best Viewed on Laptops and Desktops***.")
 # col1,col2,col3=st.columns(3)
 # with col2:
 #     st.image(image,width=200) 
-st.header('💵Reserve ₹rice and Winning ₹rice in various auctions in tabular and graphic form - Press "Submit" button in the Sidebar Panel:')
+st.header('💲Reserve Price and Winning Price in various auctions in tabular and graphic form - Press "Submit" button in the Sidebar Panel:')
 # st.markdown("""
 # 💾  
 # -------------------------------------------            
