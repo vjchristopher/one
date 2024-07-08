@@ -155,7 +155,7 @@ def plot_slope(df):
     fig.update_layout(
     autosize=True,
     width=1000,
-    height=800,
+    height=1400,
     #hovermode="y unified"
     xaxis=dict(tickfont=dict(size=20, color='black')),
     #yaxis=dict(tickfont=dict(size=20, color='black')),
