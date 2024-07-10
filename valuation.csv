@@ -1,7 +1,7 @@
 service_area,600 MHz band (paired),700 MHz band (paired),800 MHz band (paired),900 MHz band (paired),1800 MHz band (paired),2100 MHz band (paired),2300 MHz band (unpaired),2500 MHz band (unpaired),3300 MHz band (unpaired),26 GHz band (unpaired)
 Andhra Pradesh,318,318,292,288,193,142,59,51,29.12,0.64
 Assam,57,57,50,63,32,24,2,2,5.6,0.11
-Bihar,145,145,126,147,82,68,7,15,13.44,0.3
+Bihar,145,145,126,147,84.05,68,7,15,13.44,0.3
 Delhi,509,509,479,436,270,251,104,86,44.8,1
 Gujarat,282,282,262,399,168,140,70,44,25.76,0.56
 Haryana,71,71,62,68,41,34,8,8,6.72,0.15
@@ -20,4 +20,4 @@ Rajasthan,146,146,142,135,84,140,6,6,12.32,0.28
 Tamilnadu,253,253,225,222,141,344,81,58,23.52,0.52
 Uttar Pradesh (East),171,171,160,186,184,110,9,9,15.68,0.34
 Uttar Pradesh (West),154,154,133,152,87,72,12,12,14.56,0.32
-West Bengal,102,102,89,99,58,37,6,5,10.08,0.21
+West Bengal,102,102,89,99,58.87,37,6,5,10.08,0.21
