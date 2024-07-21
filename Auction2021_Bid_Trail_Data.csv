@@ -1,0 +1,4969 @@
+Clock_Round,Service_Area,Band,Bidder,bid_decision,No of block(s ) selecte d,prov_win_bid,Provisi onally Allocat ed Block( s) at end of clock round,prov_rank
+1,Andhra Pradesh,700,Bharti,No,0,0,0,0
+1,Andhra Pradesh,700,Jio,No,0,0,0,0
+1,Andhra Pradesh,700,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,800,Bharti,No,0,0,0,0
+1,Andhra Pradesh,800,Jio,Bid,5,487.5,5,1
+1,Andhra Pradesh,800,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,900,Bharti,No,0,0,0,0
+1,Andhra Pradesh,900,Jio,No,0,0,0,0
+1,Andhra Pradesh,900,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,1800,Bharti,No,0,0,0,0
+1,Andhra Pradesh,1800,Jio,Bid,21,55.8,21,1
+1,Andhra Pradesh,1800,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,2100,Bharti,No,0,0,0,0
+1,Andhra Pradesh,2100,Jio,No,0,0,0,0
+1,Andhra Pradesh,2100,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,2500,Vodafone,No,0,0,0,0
+1,Jammu & Kashmir,700,Bharti,No,0,0,0,0
+1,Jammu & Kashmir,700,Jio,No,0,0,0,0
+1,Jammu & Kashmir,700,Vodafone,No,0,0,0,0
+1,Jammu & Kashmir,800,Bharti,No,0,0,0,0
+1,Jammu & Kashmir,800,Jio,No,0,0,0,0
+1,Jammu & Kashmir,800,Vodafone,No,0,0,0,0
+1,Jammu & Kashmir,1800,Bharti,Bid,50,3.4,50,1
+1,Jammu & Kashmir,1800,Jio,No,0,0,0,0
+1,Jammu & Kashmir,1800,Vodafone,No,0,0,0,0
+1,Jammu & Kashmir,2100,Bharti,No,0,0,0,0
+4,Maharashtra,2300,Bharti,No,0,720,1,2
+4,Maharashtra,2300,Jio,No,0,720,1,1
+4,Maharashtra,2300,Vodafone,No,0,0,0,0
+4,Maharashtra,2500,Bharti,No,0,0,0,0
+4,Maharashtra,2500,Jio,No,0,0,0,0
+4,Maharashtra,2500,Vodafone,No,0,0,0,0
+4,Mumbai,700,Bharti,No,0,0,0,0
+4,Mumbai,700,Jio,No,0,0,0,0
+4,Mumbai,700,Vodafone,No,0,0,0,0
+4,Mumbai,800,Bharti,No,0,0,0,0
+4,Mumbai,800,Jio,No,0,908.75,6,1
+4,Mumbai,800,Vodafone,No,0,0,0,0
+4,Mumbai,900,Bharti,No,0,0,0,0
+4,Mumbai,900,Jio,No,0,0,0,0
+4,Mumbai,900,Vodafone,No,0,0,0,0
+4,Mumbai,1800,Bharti,No,0,0,0,0
+4,Mumbai,1800,Jio,No,0,112.2,17,1
+4,Mumbai,1800,Vodafone,No,0,0,0,0
+4,Mumbai,2100,Bharti,No,0,0,0,0
+4,Mumbai,2100,Jio,No,0,0,0,0
+4,Mumbai,2100,Vodafone,No,0,0,0,0
+4,Mumbai,2300,Bharti,No,0,0,0,0
+4,Mumbai,2300,Jio,No,0,1670,1,1
+4,Mumbai,2300,Vodafone,No,0,0,0,0
+4,Mumbai,2500,Bharti,No,0,0,0,0
+4,Mumbai,2500,Jio,No,0,0,0,0
+4,Mumbai,2500,Vodafone,No,0,0,0,0
+4,North East,700,Bharti,No,0,0,0,0
+4,North East,700,Jio,No,0,0,0,0
+4,North East,700,Vodafone,No,0,0,0,0
+4,North East,800,Bharti,No,0,0,0,0
+4,North East,800,Jio,No,0,0,0,0
+4,North East,800,Vodafone,No,0,0,0,0
+4,North East,900,Bharti,No,0,4.6,6,1
+4,North East,900,Jio,No,0,0,0,0
+4,North East,900,Vodafone,No,0,0,0,0
+4,North East,1800,Bharti,No,0,0,0,0
+4,North East,1800,Jio,No,0,3.4,18,1
+4,North East,1800,Vodafone,No,0,0,0,0
+4,North East,2100,Bharti,No,0,30,1,1
+4,North East,2100,Jio,No,0,0,0,0
+4,North East,2100,Vodafone,No,0,0,0,0
+4,North East,2300,Bharti,No,0,10,1,2
+4,North East,2300,Jio,No,0,10,1,1
+4,North East,2300,Vodafone,No,0,0,0,0
+4,Odisha,700,Bharti,No,0,0,0,0
+4,Odisha,700,Jio,No,0,0,0,0
+4,Odisha,700,Vodafone,No,0,0,0,0
+4,Odisha,800,Bharti,No,0,0,0,0
+4,Odisha,800,Jio,No,0,58.75,4,1
+4,Odisha,800,Vodafone,No,0,0,0,0
+4,Odisha,900,Bharti,No,0,17.2,19,1
+4,Odisha,900,Jio,No,0,0,0,0
+4,Odisha,900,Vodafone,No,0,0,0,0
+4,Odisha,1800,Bharti,No,0,5.4,13,2
+4,Odisha,1800,Jio,No,0,5.4,25,1
+4,Odisha,1800,Vodafone,No,0,0,0,0
+4,Odisha,2100,Bharti,No,0,0,0,0
+4,Odisha,2100,Jio,No,0,0,0,0
+4,Odisha,2100,Vodafone,No,0,0,0,0
+4,Odisha,2300,Bharti,No,0,50,1,2
+4,Odisha,2300,Jio,No,0,50,1,1
+4,Odisha,2300,Vodafone,No,0,0,0,0
+4,Punjab,700,Bharti,No,0,0,0,0
+4,Punjab,700,Jio,No,0,0,0,0
+4,Punjab,700,Vodafone,No,0,0,0,0
+4,Punjab,800,Bharti,No,0,0,0,0
+4,Punjab,800,Jio,No,0,196.25,5,1
+4,Punjab,800,Vodafone,No,0,0,0,0
+4,Punjab,1800,Bharti,No,0,17.6,25,1
+4,Punjab,1800,Jio,No,0,17.6,24,2
+4,Punjab,1800,Vodafone,No,0,0,0,0
+4,Punjab,2100,Bharti,No,0,0,0,0
+4,Punjab,2100,Jio,No,0,0,0,0
+4,Punjab,2100,Vodafone,No,0,0,0,0
+4,Punjab,2300,Bharti,No,0,210,2,2
+4,Punjab,2300,Jio,No,0,210,2,1
+4,Punjab,2300,Vodafone,No,0,0,0,0
+4,Punjab,2500,Bharti,No,0,0,0,0
+4,Punjab,2500,Jio,No,0,0,0,0
+4,Punjab,2500,Vodafone,No,0,0,0,0
+4,Rajasthan,700,Bharti,No,0,0,0,0
+4,Rajasthan,700,Jio,No,0,0,0,0
+4,Rajasthan,700,Vodafone,No,0,0,0,0
+4,Rajasthan,800,Bharti,No,0,0,0,0
+4,Rajasthan,800,Jio,No,0,332.5,4,1
+4,Rajasthan,800,Vodafone,No,0,0,0,0
+4,Rajasthan,1800,Bharti,No,0,0,0,0
+4,Rajasthan,1800,Jio,No,0,0,0,0
+4,Rajasthan,1800,Vodafone,No,0,0,0,0
+4,Rajasthan,2300,Bharti,No,0,60,2,2
+4,Rajasthan,2300,Jio,No,0,60,2,1
+4,Rajasthan,2300,Vodafone,No,0,0,0,0
+4,Tamil Nadu,700,Bharti,No,0,0,0,0
+4,Tamil Nadu,700,Jio,No,0,0,0,0
+4,Tamil Nadu,700,Vodafone,No,0,0,0,0
+4,Tamil Nadu,800,Bharti,No,0,0,0,0
+4,Tamil Nadu,800,Jio,No,0,217.5,8,1
+4,Tamil Nadu,800,Vodafone,No,0,0,0,0
+4,Tamil Nadu,900,Bharti,No,0,47,25,1
+4,Tamil Nadu,900,Jio,No,0,0,0,0
+4,Tamil Nadu,900,Vodafone,No,0,47,25,2
+4,Tamil Nadu,1800,Bharti,No,0,20,50,1
+4,Tamil Nadu,1800,Jio,No,0,20,16,2
+4,Tamil Nadu,1800,Vodafone,No,0,0,0,0
+4,Tamil Nadu,2300,Bharti,No,0,0,0,0
+4,Tamil Nadu,2300,Jio,No,0,1510,1,1
+4,Tamil Nadu,2300,Vodafone,No,0,0,0,0
+4,Tamil Nadu,2500,Bharti,No,0,0,0,0
+4,Tamil Nadu,2500,Jio,No,0,0,0,0
+4,Tamil Nadu,2500,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (East),700,Bharti,No,0,0,0,0
+4,Uttar Pradesh (East),700,Jio,No,0,0,0,0
+4,Uttar Pradesh (East),700,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (East),800,Bharti,No,0,0,0,0
+4,Uttar Pradesh (East),800,Jio,No,0,313.75,4,1
+4,Uttar Pradesh (East),800,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (East),900,Bharti,No,0,52.4,25,1
+4,Uttar Pradesh (East),900,Jio,No,0,0,0,0
+4,Uttar Pradesh (East),900,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (East),1800,Bharti,No,0,30.6,16,2
+4,Uttar Pradesh (East),1800,Jio,No,0,30.6,18,1
+4,Uttar Pradesh (East),1800,Vodafone,No,0,30.6,7,3
+4,Uttar Pradesh (East),2300,Bharti,No,0,90,2,2
+4,Uttar Pradesh (East),2300,Jio,No,0,90,2,1
+4,Uttar Pradesh (East),2300,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (West),700,Bharti,No,0,0,0,0
+4,Uttar Pradesh (West),700,Jio,No,0,0,0,0
+4,Uttar Pradesh (West),700,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (West),800,Bharti,No,0,201.25,4,2
+4,Uttar Pradesh (West),800,Jio,No,0,201.25,4,1
+4,Uttar Pradesh (West),800,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (West),900,Bharti,No,0,0,0,0
+4,Uttar Pradesh (West),900,Jio,No,0,0,0,0
+4,Uttar Pradesh (West),900,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (West),1800,Bharti,No,0,23,15,2
+4,Uttar Pradesh (West),1800,Jio,No,0,23,25,1
+4,Uttar Pradesh (West),1800,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (West),2100,Bharti,No,0,0,0,0
+4,Uttar Pradesh (West),2100,Jio,No,0,0,0,0
+4,Uttar Pradesh (West),2100,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (West),2300,Bharti,No,0,120,2,2
+4,Uttar Pradesh (West),2300,Jio,No,0,120,2,1
+4,Uttar Pradesh (West),2300,Vodafone,No,0,0,0,0
+4,West Bengal,700,Bharti,No,0,0,0,0
+4,West Bengal,700,Jio,No,0,0,0,0
+4,West Bengal,700,Vodafone,No,0,0,0,0
+4,West Bengal,800,Bharti,No,0,0,0,0
+4,West Bengal,800,Jio,No,0,92.5,8,1
+4,West Bengal,800,Vodafone,No,0,0,0,0
+4,West Bengal,900,Bharti,No,0,24.8,14,1
+4,West Bengal,900,Jio,No,0,0,0,0
+1,Jammu & Kashmir,2100,Jio,No,0,0,0,0
+1,Jammu & Kashmir,2100,Vodafone,No,0,0,0,0
+1,Jammu & Kashmir,2300,Bharti,Bid,2,10,2,2
+1,Jammu & Kashmir,2300,Jio,Bid,2,10,2,1
+1,Jammu & Kashmir,2300,Vodafone,No,0,0,0,0
+1,Jammu & Kashmir,2500,Bharti,No,0,0,0,0
+1,Jammu & Kashmir,2500,Jio,No,0,0,0,0
+1,Jammu & Kashmir,2500,Vodafone,No,0,0,0,0
+1,Karnataka,700,Bharti,No,0,0,0,0
+1,Karnataka,700,Jio,No,0,0,0,0
+1,Karnataka,700,Vodafone,No,0,0,0,0
+1,Karnataka,800,Bharti,No,0,0,0,0
+4,West Bengal,900,Vodafone,No,0,0,0,0
+4,West Bengal,1800,Bharti,No,0,10.6,19,1
+4,West Bengal,1800,Jio,No,0,0,0,0
+4,West Bengal,1800,Vodafone,No,0,0,0,0
+4,West Bengal,2100,Bharti,No,0,175,1,1
+4,West Bengal,2100,Jio,No,0,0,0,0
+4,West Bengal,2100,Vodafone,No,0,0,0,0
+4,West Bengal,2300,Bharti,No,0,60,1,2
+4,West Bengal,2300,Jio,No,0,60,1,1
+4,West Bengal,2300,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,700,Bharti,No,0,0,0,0
+5,Andhra Pradesh,700,Jio,No,0,0,0,0
+5,Andhra Pradesh,700,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,800,Bharti,No,0,0,0,0
+5,Andhra Pradesh,800,Jio,No,0,487.5,5,1
+5,Andhra Pradesh,800,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,900,Bharti,No,0,0,0,0
+5,Andhra Pradesh,900,Jio,No,0,0,0,0
+5,Andhra Pradesh,900,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,1800,Bharti,No,0,0,0,0
+5,Andhra Pradesh,1800,Jio,No,0,55.8,21,1
+5,Andhra Pradesh,1800,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,2100,Bharti,No,0,0,0,0
+5,Andhra Pradesh,2100,Jio,No,0,0,0,0
+5,Andhra Pradesh,2100,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,2300,Bharti,No,0,0,0,0
+5,Andhra Pradesh,2300,Jio,No,0,780,1,1
+5,Andhra Pradesh,2300,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,2500,Bharti,No,0,0,0,0
+5,Andhra Pradesh,2500,Jio,No,0,0,0,0
+5,Andhra Pradesh,2500,Vodafone,No,0,0,0,0
+5,Assam,700,Bharti,No,0,0,0,0
+5,Assam,700,Jio,No,0,0,0,0
+5,Assam,700,Vodafone,No,0,0,0,0
+5,Assam,800,Bharti,No,0,0,0,0
+5,Assam,800,Jio,No,0,0,0,0
+5,Assam,800,Vodafone,No,0,0,0,0
+5,Assam,900,Bharti,No,0,0,0,0
+5,Assam,900,Jio,No,0,0,0,0
+5,Assam,900,Vodafone,No,0,0,0,0
+5,Assam,1800,Bharti,No,0,0,0,0
+5,Assam,1800,Jio,No,0,9.2,23,1
+5,Assam,1800,Vodafone,No,0,0,0,0
+5,Assam,2100,Bharti,No,0,150,1,1
+5,Assam,2100,Jio,No,0,0,0,0
+5,Assam,2100,Vodafone,No,0,0,0,0
+5,Assam,2300,Bharti,No,0,20,1,2
+5,Assam,2300,Jio,No,0,20,1,1
+5,Assam,2300,Vodafone,No,0,0,0,0
+5,Bihar,700,Bharti,No,0,0,0,0
+5,Bihar,700,Jio,No,0,0,0,0
+5,Bihar,700,Vodafone,No,0,0,0,0
+5,Bihar,800,Bharti,No,0,0,0,0
+5,Bihar,800,Jio,No,0,170,4,1
+5,Bihar,800,Vodafone,No,0,0,0,0
+5,Bihar,900,Bharti,No,0,40.2,17,1
+5,Bihar,900,Jio,No,0,0,0,0
+5,Bihar,900,Vodafone,No,0,0,0,0
+5,Bihar,1800,Bharti,No,0,17.6,14,2
+5,Bihar,1800,Jio,No,0,17.6,25,1
+5,Bihar,1800,Vodafone,No,0,0,0,0
+5,Bihar,2100,Bharti,No,0,0,0,0
+5,Bihar,2100,Jio,No,0,0,0,0
+5,Bihar,2100,Vodafone,No,0,0,0,0
+5,Bihar,2300,Bharti,No,0,70,1,2
+5,Bihar,2300,Jio,No,0,70,1,1
+5,Bihar,2300,Vodafone,No,0,0,0,0
+5,Bihar,2500,Bharti,No,0,0,0,0
+5,Bihar,2500,Jio,No,0,0,0,0
+5,Bihar,2500,Vodafone,No,0,0,0,0
+5,Delhi,700,Bharti,No,0,0,0,0
+5,Delhi,700,Jio,No,0,0,0,0
+5,Delhi,700,Vodafone,No,0,0,0,0
+5,Delhi,800,Bharti,No,0,0,0,0
+5,Delhi,800,Jio,No,0,800,7,1
+5,Delhi,800,Vodafone,No,0,0,0,0
+5,Delhi,900,Bharti,No,0,0,0,0
+5,Delhi,900,Jio,No,0,0,0,0
+5,Delhi,900,Vodafone,No,0,0,0,0
+5,Delhi,1800,Bharti,No,0,0,0,0
+5,Delhi,1800,Jio,No,0,91.4,23,1
+5,Delhi,1800,Vodafone,No,0,0,0,0
+5,Delhi,2100,Bharti,No,0,0,0,0
+5,Delhi,2100,Jio,No,0,0,0,0
+5,Delhi,2100,Vodafone,No,0,0,0,0
+5,Delhi,2300,Bharti,No,0,0,0,0
+5,Delhi,2300,Jio,No,0,1640,1,1
+5,Delhi,2300,Vodafone,No,0,0,0,0
+5,Delhi,2500,Bharti,No,0,0,0,0
+5,Delhi,2500,Jio,No,0,0,0,0
+5,Delhi,2500,Vodafone,No,0,0,0,0
+5,Gujarat,700,Bharti,No,0,0,0,0
+5,Gujarat,700,Jio,No,0,0,0,0
+5,Gujarat,700,Vodafone,No,0,0,0,0
+5,Gujarat,800,Bharti,No,0,0,0,0
+5,Gujarat,800,Jio,No,0,481.25,4,1
+5,Gujarat,800,Vodafone,No,0,0,0,0
+5,Gujarat,900,Bharti,No,0,74.6,21,1
+5,Gujarat,900,Jio,No,0,0,0,0
+5,Gujarat,900,Vodafone,No,0,0,0,0
+5,Gujarat,1800,Bharti,No,0,0,0,0
+5,Gujarat,1800,Jio,No,0,54.6,20,1
+5,Gujarat,1800,Vodafone,No,0,0,0,0
+5,Gujarat,2100,Bharti,No,0,0,0,0
+5,Gujarat,2100,Jio,No,0,0,0,0
+5,Gujarat,2100,Vodafone,No,0,0,0,0
+5,Gujarat,2300,Bharti,No,0,700,1,2
+5,Gujarat,2300,Jio,No,0,700,1,1
+5,Gujarat,2300,Vodafone,No,0,0,0,0
+5,Gujarat,2500,Bharti,No,0,0,0,0
+5,Gujarat,2500,Jio,No,0,0,0,0
+5,Gujarat,2500,Vodafone,No,0,0,0,0
+5,Haryana,700,Bharti,No,0,0,0,0
+5,Haryana,700,Jio,No,0,0,0,0
+5,Haryana,700,Vodafone,No,0,0,0,0
+5,Haryana,800,Bharti,No,0,71.25,3,2
+5,Haryana,800,Jio,No,0,71.25,4,1
+5,Haryana,800,Vodafone,No,0,0,0,0
+5,Haryana,900,Bharti,No,0,0,0,0
+5,Haryana,900,Jio,No,0,0,0,0
+5,Haryana,900,Vodafone,No,0,0,0,0
+5,Haryana,1800,Bharti,No,0,0,0,0
+5,Haryana,1800,Jio,No,0,11.4,25,1
+5,Haryana,1800,Vodafone,No,0,0,0,0
+5,Haryana,2100,Bharti,No,0,0,0,0
+5,Haryana,2100,Jio,No,0,0,0,0
+5,Haryana,2100,Vodafone,No,0,0,0,0
+5,Haryana,2300,Bharti,No,0,80,2,2
+5,Haryana,2300,Jio,No,0,80,2,1
+5,Haryana,2300,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,700,Bharti,No,0,0,0,0
+5,Himachal Pradesh,700,Jio,No,0,0,0,0
+5,Himachal Pradesh,700,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,800,Bharti,No,0,0,0,0
+5,Himachal Pradesh,800,Jio,No,0,30,4,1
+5,Himachal Pradesh,800,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,900,Bharti,No,0,7.4,13,1
+5,Himachal Pradesh,900,Jio,No,0,0,0,0
+5,Himachal Pradesh,900,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,1800,Bharti,No,0,3.6,24,1
+5,Himachal Pradesh,1800,Jio,No,0,0,0,0
+5,Himachal Pradesh,1800,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,2100,Bharti,No,0,0,0,0
+5,Himachal Pradesh,2100,Jio,No,0,0,0,0
+5,Himachal Pradesh,2100,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,2300,Bharti,No,0,10,1,2
+5,Himachal Pradesh,2300,Jio,No,0,10,1,1
+5,Himachal Pradesh,2300,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,2500,Bharti,No,0,0,0,0
+5,Himachal Pradesh,2500,Jio,No,0,0,0,0
+5,Himachal Pradesh,2500,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,700,Bharti,No,0,0,0,0
+5,Jammu & Kashmir,700,Jio,No,0,0,0,0
+5,Jammu & Kashmir,700,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,800,Bharti,No,0,0,0,0
+5,Jammu & Kashmir,800,Jio,No,0,0,0,0
+1,Karnataka,800,Jio,Bid,8,240,8,1
+1,Karnataka,800,Vodafone,No,0,0,0,0
+1,Karnataka,900,Bharti,No,0,0,0,0
+1,Karnataka,900,Jio,No,0,0,0,0
+1,Karnataka,900,Vodafone,No,0,0,0,0
+1,Karnataka,1800,Bharti,Bid,56,21.8,56,1
+1,Karnataka,1800,Jio,Bid,25,21.8,25,2
+1,Karnataka,1800,Vodafone,Bid,20,21.8,20,3
+1,Karnataka,2100,Bharti,No,0,0,0,0
+1,Karnataka,2100,Jio,No,0,0,0,0
+1,Karnataka,2100,Vodafone,No,0,0,0,0
+1,Karnataka,2300,Bharti,No,0,0,0,0
+1,Karnataka,2300,Jio,Bid,1,1120,1,1
+1,Karnataka,2300,Vodafone,No,0,0,0,0
+1,Karnataka,2500,Bharti,No,0,0,0,0
+1,Karnataka,2500,Jio,No,0,0,0,0
+1,Karnataka,2500,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,800,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,1800,Bharti,No,0,3.4,50,1
+5,Jammu & Kashmir,1800,Jio,No,0,0,0,0
+5,Jammu & Kashmir,1800,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,2100,Bharti,No,0,0,0,0
+5,Jammu & Kashmir,2100,Jio,No,0,0,0,0
+5,Jammu & Kashmir,2100,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,2300,Bharti,No,0,10,2,2
+5,Jammu & Kashmir,2300,Jio,No,0,10,2,1
+5,Jammu & Kashmir,2300,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,2500,Bharti,No,0,0,0,0
+5,Jammu & Kashmir,2500,Jio,No,0,0,0,0
+5,Jammu & Kashmir,2500,Vodafone,No,0,0,0,0
+5,Karnataka,700,Bharti,No,0,0,0,0
+5,Karnataka,700,Jio,No,0,0,0,0
+5,Karnataka,700,Vodafone,No,0,0,0,0
+5,Karnataka,800,Bharti,No,0,0,0,0
+5,Karnataka,800,Jio,No,0,240,8,1
+5,Karnataka,800,Vodafone,No,0,0,0,0
+5,Karnataka,900,Bharti,No,0,0,0,0
+5,Karnataka,900,Jio,No,0,0,0,0
+5,Karnataka,900,Vodafone,No,0,0,0,0
+5,Karnataka,1800,Bharti,No,0,21.8,56,1
+5,Karnataka,1800,Jio,No,0,21.8,25,2
+5,Karnataka,1800,Vodafone,No,0,21.8,20,3
+5,Karnataka,2100,Bharti,No,0,0,0,0
+5,Karnataka,2100,Jio,No,0,0,0,0
+5,Karnataka,2100,Vodafone,No,0,0,0,0
+5,Karnataka,2300,Bharti,No,0,0,0,0
+5,Karnataka,2300,Jio,No,0,1120,1,1
+5,Karnataka,2300,Vodafone,No,0,0,0,0
+5,Karnataka,2500,Bharti,No,0,0,0,0
+5,Karnataka,2500,Jio,No,0,0,0,0
+5,Karnataka,2500,Vodafone,No,0,0,0,0
+5,Kerala,700,Bharti,No,0,0,0,0
+5,Kerala,700,Jio,No,0,0,0,0
+5,Kerala,700,Vodafone,No,0,0,0,0
+5,Kerala,800,Bharti,No,0,0,0,0
+5,Kerala,800,Jio,No,0,196.25,8,1
+5,Kerala,800,Vodafone,No,0,0,0,0
+5,Kerala,900,Bharti,No,0,39.8,23,1
+5,Kerala,900,Jio,No,0,0,0,0
+5,Kerala,900,Vodafone,No,0,0,0,0
+5,Kerala,1800,Bharti,No,0,19,25,2
+5,Kerala,1800,Jio,No,0,19,25,1
+5,Kerala,1800,Vodafone,No,0,0,0,0
+5,Kerala,2100,Bharti,No,0,0,0,0
+5,Kerala,2100,Jio,No,0,0,0,0
+5,Kerala,2100,Vodafone,No,0,0,0,0
+5,Kerala,2300,Bharti,No,0,200,1,2
+5,Kerala,2300,Jio,No,0,200,1,1
+5,Kerala,2300,Vodafone,No,0,0,0,0
+5,Kolkata,700,Bharti,No,0,0,0,0
+5,Kolkata,700,Jio,No,0,0,0,0
+5,Kolkata,700,Vodafone,No,0,0,0,0
+5,Kolkata,800,Bharti,No,0,0,0,0
+5,Kolkata,800,Jio,No,0,200,8,1
+5,Kolkata,800,Vodafone,No,0,0,0,0
+5,Kolkata,900,Bharti,No,0,0,0,0
+5,Kolkata,900,Jio,No,0,0,0,0
+5,Kolkata,900,Vodafone,No,0,0,0,0
+5,Kolkata,1800,Bharti,No,0,34.6,5,1
+5,Kolkata,1800,Jio,No,0,0,0,0
+5,Kolkata,1800,Vodafone,No,0,0,0,0
+5,Kolkata,2100,Bharti,No,0,0,0,0
+5,Kolkata,2100,Jio,No,0,0,0,0
+5,Kolkata,2100,Vodafone,No,0,0,0,0
+5,Kolkata,2300,Bharti,No,0,0,0,0
+5,Kolkata,2300,Jio,No,0,380,1,1
+5,Kolkata,2300,Vodafone,No,0,0,0,0
+5,Kolkata,2500,Bharti,No,0,0,0,0
+5,Kolkata,2500,Jio,No,0,0,0,0
+5,Kolkata,2500,Vodafone,No,0,0,0,0
+5,Madhya Pradesh,700,Bharti,No,0,0,0,0
+5,Madhya Pradesh,700,Jio,No,0,0,0,0
+5,Madhya Pradesh,700,Vodafone,No,0,0,0,0
+5,Madhya Pradesh,800,Bharti,No,0,178.75,4,2
+5,Madhya Pradesh,800,Jio,No,0,178.75,4,1
+5,Madhya Pradesh,800,Vodafone,No,0,0,0,0
+5,Madhya Pradesh,900,Bharti,No,0,0,0,0
+5,Madhya Pradesh,900,Jio,No,0,0,0,0
+5,Madhya Pradesh,900,Vodafone,No,0,0,0,0
+5,Madhya Pradesh,1800,Bharti,No,0,19,21,1
+5,Madhya Pradesh,1800,Jio,No,0,19,18,2
+5,Madhya Pradesh,1800,Vodafone,No,0,0,0,0
+5,Madhya Pradesh,2100,Bharti,No,0,0,0,0
+5,Madhya Pradesh,2100,Jio,No,0,0,0,0
+5,Madhya Pradesh,2100,Vodafone,No,0,0,0,0
+5,Madhya Pradesh,2300,Bharti,No,0,90,1,2
+5,Madhya Pradesh,2300,Jio,No,0,90,1,1
+5,Madhya Pradesh,2300,Vodafone,No,0,0,0,0
+5,Maharashtra,700,Bharti,No,0,0,0,0
+5,Maharashtra,700,Jio,No,0,0,0,0
+5,Maharashtra,700,Vodafone,No,0,0,0,0
+5,Maharashtra,800,Bharti,No,0,637.5,2,2
+5,Maharashtra,800,Jio,No,0,637.5,8,1
+5,Maharashtra,800,Vodafone,No,0,0,0,0
+5,Maharashtra,900,Bharti,No,0,0,0,0
+5,Maharashtra,900,Jio,No,0,0,0,0
+5,Maharashtra,900,Vodafone,No,0,0,0,0
+5,Maharashtra,1800,Bharti,No,0,0,0,0
+5,Maharashtra,1800,Jio,No,0,73,25,1
+5,Maharashtra,1800,Vodafone,No,0,0,0,0
+5,Maharashtra,2100,Bharti,No,0,0,0,0
+5,Maharashtra,2100,Jio,No,0,0,0,0
+5,Maharashtra,2100,Vodafone,No,0,0,0,0
+5,Maharashtra,2300,Bharti,No,0,720,1,2
+5,Maharashtra,2300,Jio,No,0,720,1,1
+5,Maharashtra,2300,Vodafone,No,0,0,0,0
+5,Maharashtra,2500,Bharti,No,0,0,0,0
+5,Maharashtra,2500,Jio,No,0,0,0,0
+5,Maharashtra,2500,Vodafone,No,0,0,0,0
+5,Mumbai,700,Bharti,No,0,0,0,0
+5,Mumbai,700,Jio,No,0,0,0,0
+5,Mumbai,700,Vodafone,No,0,0,0,0
+5,Mumbai,800,Bharti,No,0,0,0,0
+5,Mumbai,800,Jio,No,0,908.75,6,1
+5,Mumbai,800,Vodafone,No,0,0,0,0
+5,Mumbai,900,Bharti,No,0,0,0,0
+5,Mumbai,900,Jio,No,0,0,0,0
+5,Mumbai,900,Vodafone,No,0,0,0,0
+5,Mumbai,1800,Bharti,No,0,0,0,0
+5,Mumbai,1800,Jio,No,0,112.2,17,1
+5,Mumbai,1800,Vodafone,No,0,0,0,0
+5,Mumbai,2100,Bharti,No,0,0,0,0
+5,Mumbai,2100,Jio,No,0,0,0,0
+5,Mumbai,2100,Vodafone,No,0,0,0,0
+5,Mumbai,2300,Bharti,No,0,0,0,0
+5,Mumbai,2300,Jio,No,0,1670,1,1
+5,Mumbai,2300,Vodafone,No,0,0,0,0
+5,Mumbai,2500,Bharti,No,0,0,0,0
+5,Mumbai,2500,Jio,No,0,0,0,0
+5,Mumbai,2500,Vodafone,No,0,0,0,0
+5,North East,700,Bharti,No,0,0,0,0
+5,North East,700,Jio,No,0,0,0,0
+5,North East,700,Vodafone,No,0,0,0,0
+5,North East,800,Bharti,No,0,0,0,0
+5,North East,800,Jio,No,0,0,0,0
+5,North East,800,Vodafone,No,0,0,0,0
+5,North East,900,Bharti,No,0,4.6,6,1
+5,North East,900,Jio,No,0,0,0,0
+5,North East,900,Vodafone,No,0,0,0,0
+5,North East,1800,Bharti,No,0,0,0,0
+5,North East,1800,Jio,No,0,3.4,18,1
+5,North East,1800,Vodafone,No,0,0,0,0
+5,North East,2100,Bharti,No,0,30,1,1
+5,North East,2100,Jio,No,0,0,0,0
+5,North East,2100,Vodafone,No,0,0,0,0
+5,North East,2300,Bharti,No,0,10,1,2
+5,North East,2300,Jio,No,0,10,1,1
+5,North East,2300,Vodafone,No,0,0,0,0
+5,Odisha,700,Bharti,No,0,0,0,0
+5,Odisha,700,Jio,No,0,0,0,0
+1,Kerala,700,Bharti,No,0,0,0,0
+1,Kerala,700,Jio,No,0,0,0,0
+1,Kerala,700,Vodafone,No,0,0,0,0
+1,Kerala,800,Bharti,No,0,0,0,0
+1,Kerala,800,Jio,Bid,8,196.25,8,1
+1,Kerala,800,Vodafone,No,0,0,0,0
+1,Kerala,900,Bharti,No,0,0,0,0
+1,Kerala,900,Jio,No,0,0,0,0
+1,Kerala,900,Vodafone,No,0,0,0,0
+1,Kerala,1800,Bharti,Bid,25,19,25,2
+1,Kerala,1800,Jio,Bid,25,19,25,1
+1,Kerala,1800,Vodafone,No,0,0,0,0
+1,Kerala,2100,Bharti,No,0,0,0,0
+1,Kerala,2100,Jio,No,0,0,0,0
+1,Kerala,2100,Vodafone,No,0,0,0,0
+1,Kerala,2300,Bharti,Bid,1,200,1,2
+1,Kerala,2300,Jio,Bid,1,200,1,1
+5,Odisha,700,Vodafone,No,0,0,0,0
+5,Odisha,800,Bharti,No,0,0,0,0
+5,Odisha,800,Jio,No,0,58.75,4,1
+5,Odisha,800,Vodafone,No,0,0,0,0
+5,Odisha,900,Bharti,No,0,17.2,19,1
+5,Odisha,900,Jio,No,0,0,0,0
+5,Odisha,900,Vodafone,No,0,0,0,0
+5,Odisha,1800,Bharti,No,0,5.4,13,2
+5,Odisha,1800,Jio,No,0,5.4,25,1
+5,Odisha,1800,Vodafone,No,0,0,0,0
+5,Odisha,2100,Bharti,No,0,0,0,0
+5,Odisha,2100,Jio,No,0,0,0,0
+5,Odisha,2100,Vodafone,No,0,0,0,0
+5,Odisha,2300,Bharti,No,0,50,1,2
+5,Odisha,2300,Jio,No,0,50,1,1
+5,Odisha,2300,Vodafone,No,0,0,0,0
+5,Punjab,700,Bharti,No,0,0,0,0
+5,Punjab,700,Jio,No,0,0,0,0
+5,Punjab,700,Vodafone,No,0,0,0,0
+5,Punjab,800,Bharti,No,0,0,0,0
+5,Punjab,800,Jio,No,0,196.25,5,1
+5,Punjab,800,Vodafone,No,0,0,0,0
+5,Punjab,1800,Bharti,No,0,17.6,25,1
+5,Punjab,1800,Jio,No,0,17.6,24,2
+5,Punjab,1800,Vodafone,No,0,0,0,0
+5,Punjab,2100,Bharti,No,0,0,0,0
+5,Punjab,2100,Jio,No,0,0,0,0
+5,Punjab,2100,Vodafone,No,0,0,0,0
+5,Punjab,2300,Bharti,No,0,210,2,2
+5,Punjab,2300,Jio,No,0,210,2,1
+5,Punjab,2300,Vodafone,No,0,0,0,0
+5,Punjab,2500,Bharti,No,0,0,0,0
+5,Punjab,2500,Jio,No,0,0,0,0
+5,Punjab,2500,Vodafone,No,0,0,0,0
+5,Rajasthan,700,Bharti,No,0,0,0,0
+5,Rajasthan,700,Jio,No,0,0,0,0
+5,Rajasthan,700,Vodafone,No,0,0,0,0
+5,Rajasthan,800,Bharti,No,0,0,0,0
+5,Rajasthan,800,Jio,No,0,332.5,4,1
+5,Rajasthan,800,Vodafone,No,0,0,0,0
+5,Rajasthan,1800,Bharti,No,0,0,0,0
+5,Rajasthan,1800,Jio,No,0,0,0,0
+5,Rajasthan,1800,Vodafone,No,0,0,0,0
+5,Rajasthan,2300,Bharti,No,0,60,2,2
+5,Rajasthan,2300,Jio,No,0,60,2,1
+5,Rajasthan,2300,Vodafone,No,0,0,0,0
+5,Tamil Nadu,700,Bharti,No,0,0,0,0
+5,Tamil Nadu,700,Jio,No,0,0,0,0
+5,Tamil Nadu,700,Vodafone,No,0,0,0,0
+5,Tamil Nadu,800,Bharti,No,0,0,0,0
+5,Tamil Nadu,800,Jio,No,0,217.5,8,1
+5,Tamil Nadu,800,Vodafone,No,0,0,0,0
+5,Tamil Nadu,900,Bharti,No,0,47,25,1
+5,Tamil Nadu,900,Jio,No,0,0,0,0
+5,Tamil Nadu,900,Vodafone,No,0,47,25,2
+5,Tamil Nadu,1800,Bharti,Bid,25,20,75,1
+5,Tamil Nadu,1800,Jio,No,0,20,16,2
+5,Tamil Nadu,1800,Vodafone,No,0,0,0,0
+5,Tamil Nadu,2300,Bharti,No,0,0,0,0
+5,Tamil Nadu,2300,Jio,No,0,1510,1,1
+5,Tamil Nadu,2300,Vodafone,No,0,0,0,0
+5,Tamil Nadu,2500,Bharti,No,0,0,0,0
+5,Tamil Nadu,2500,Jio,No,0,0,0,0
+5,Tamil Nadu,2500,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (East),700,Bharti,No,0,0,0,0
+5,Uttar Pradesh (East),700,Jio,No,0,0,0,0
+5,Uttar Pradesh (East),700,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (East),800,Bharti,No,0,0,0,0
+5,Uttar Pradesh (East),800,Jio,No,0,313.75,4,1
+5,Uttar Pradesh (East),800,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (East),900,Bharti,No,0,52.4,25,1
+5,Uttar Pradesh (East),900,Jio,No,0,0,0,0
+5,Uttar Pradesh (East),900,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (East),1800,Bharti,No,0,30.6,16,2
+5,Uttar Pradesh (East),1800,Jio,No,0,30.6,18,1
+5,Uttar Pradesh (East),1800,Vodafone,No,0,30.6,7,3
+5,Uttar Pradesh (East),2300,Bharti,No,0,90,2,2
+5,Uttar Pradesh (East),2300,Jio,No,0,90,2,1
+5,Uttar Pradesh (East),2300,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (West),700,Bharti,No,0,0,0,0
+5,Uttar Pradesh (West),700,Jio,No,0,0,0,0
+5,Uttar Pradesh (West),700,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (West),800,Bharti,No,0,201.25,4,2
+5,Uttar Pradesh (West),800,Jio,No,0,201.25,4,1
+5,Uttar Pradesh (West),800,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (West),900,Bharti,No,0,0,0,0
+5,Uttar Pradesh (West),900,Jio,No,0,0,0,0
+5,Uttar Pradesh (West),900,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (West),1800,Bharti,No,0,23,15,2
+5,Uttar Pradesh (West),1800,Jio,No,0,23,25,1
+5,Uttar Pradesh (West),1800,Vodafone,Bid,3,23,3,3
+5,Uttar Pradesh (West),2100,Bharti,No,0,0,0,0
+5,Uttar Pradesh (West),2100,Jio,No,0,0,0,0
+5,Uttar Pradesh (West),2100,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (West),2300,Bharti,No,0,120,2,2
+5,Uttar Pradesh (West),2300,Jio,No,0,120,2,1
+5,Uttar Pradesh (West),2300,Vodafone,No,0,0,0,0
+5,West Bengal,700,Bharti,No,0,0,0,0
+5,West Bengal,700,Jio,No,0,0,0,0
+5,West Bengal,700,Vodafone,No,0,0,0,0
+5,West Bengal,800,Bharti,No,0,0,0,0
+5,West Bengal,800,Jio,No,0,92.5,8,1
+5,West Bengal,800,Vodafone,No,0,0,0,0
+5,West Bengal,900,Bharti,No,0,24.8,14,1
+5,West Bengal,900,Jio,No,0,0,0,0
+5,West Bengal,900,Vodafone,Bid,4,24.8,4,2
+5,West Bengal,1800,Bharti,No,0,10.6,19,1
+5,West Bengal,1800,Jio,No,0,0,0,0
+5,West Bengal,1800,Vodafone,No,0,0,0,0
+5,West Bengal,2100,Bharti,No,0,175,1,1
+5,West Bengal,2100,Jio,No,0,0,0,0
+5,West Bengal,2100,Vodafone,No,0,0,0,0
+5,West Bengal,2300,Bharti,No,0,60,1,2
+5,West Bengal,2300,Jio,No,0,60,1,1
+5,West Bengal,2300,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,700,Bharti,No,0,0,0,0
+6,Andhra Pradesh,700,Jio,No,0,0,0,0
+6,Andhra Pradesh,700,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,800,Bharti,No,0,0,0,0
+6,Andhra Pradesh,800,Jio,No,0,487.5,5,1
+6,Andhra Pradesh,800,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,900,Bharti,No,0,0,0,0
+6,Andhra Pradesh,900,Jio,No,0,0,0,0
+6,Andhra Pradesh,900,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,1800,Bharti,No,0,0,0,0
+6,Andhra Pradesh,1800,Jio,No,0,55.8,21,1
+6,Andhra Pradesh,1800,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,2100,Bharti,No,0,0,0,0
+6,Andhra Pradesh,2100,Jio,No,0,0,0,0
+6,Andhra Pradesh,2100,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,2300,Bharti,No,0,0,0,0
+6,Andhra Pradesh,2300,Jio,No,0,780,1,1
+6,Andhra Pradesh,2300,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,2500,Bharti,No,0,0,0,0
+6,Andhra Pradesh,2500,Jio,No,0,0,0,0
+6,Andhra Pradesh,2500,Vodafone,No,0,0,0,0
+6,Assam,700,Bharti,No,0,0,0,0
+6,Assam,700,Jio,No,0,0,0,0
+6,Assam,700,Vodafone,No,0,0,0,0
+6,Assam,800,Bharti,No,0,0,0,0
+6,Assam,800,Jio,No,0,0,0,0
+6,Assam,800,Vodafone,No,0,0,0,0
+6,Assam,900,Bharti,No,0,0,0,0
+6,Assam,900,Jio,No,0,0,0,0
+6,Assam,900,Vodafone,No,0,0,0,0
+6,Assam,1800,Bharti,No,0,0,0,0
+6,Assam,1800,Jio,No,0,9.2,23,1
+6,Assam,1800,Vodafone,No,0,0,0,0
+6,Assam,2100,Bharti,No,0,150,1,1
+6,Assam,2100,Jio,No,0,0,0,0
+6,Assam,2100,Vodafone,No,0,0,0,0
+1,Kerala,2300,Vodafone,No,0,0,0,0
+1,Kolkata,700,Bharti,No,0,0,0,0
+1,Kolkata,700,Jio,No,0,0,0,0
+1,Kolkata,700,Vodafone,No,0,0,0,0
+1,Kolkata,800,Bharti,No,0,0,0,0
+1,Kolkata,800,Jio,Bid,8,200,8,1
+1,Kolkata,800,Vodafone,No,0,0,0,0
+1,Kolkata,900,Bharti,No,0,0,0,0
+1,Kolkata,900,Jio,No,0,0,0,0
+1,Kolkata,900,Vodafone,No,0,0,0,0
+1,Kolkata,1800,Bharti,Bid,5,34.6,5,1
+1,Kolkata,1800,Jio,No,0,0,0,0
+1,Kolkata,1800,Vodafone,No,0,0,0,0
+1,Kolkata,2100,Bharti,No,0,0,0,0
+1,Kolkata,2100,Jio,No,0,0,0,0
+1,Kolkata,2100,Vodafone,No,0,0,0,0
+1,Kolkata,2300,Bharti,No,0,0,0,0
+6,Assam,2300,Bharti,No,0,20,1,2
+6,Assam,2300,Jio,No,0,20,1,1
+6,Assam,2300,Vodafone,No,0,0,0,0
+6,Bihar,700,Bharti,No,0,0,0,0
+6,Bihar,700,Jio,No,0,0,0,0
+6,Bihar,700,Vodafone,No,0,0,0,0
+6,Bihar,800,Bharti,No,0,0,0,0
+6,Bihar,800,Jio,No,0,170,4,1
+6,Bihar,800,Vodafone,No,0,0,0,0
+6,Bihar,900,Bharti,No,0,40.2,17,1
+6,Bihar,900,Jio,No,0,0,0,0
+6,Bihar,900,Vodafone,No,0,0,0,0
+6,Bihar,1800,Bharti,No,0,17.6,14,2
+6,Bihar,1800,Jio,No,0,17.6,25,1
+6,Bihar,1800,Vodafone,No,0,0,0,0
+6,Bihar,2100,Bharti,No,0,0,0,0
+6,Bihar,2100,Jio,No,0,0,0,0
+6,Bihar,2100,Vodafone,No,0,0,0,0
+6,Bihar,2300,Bharti,No,0,70,1,2
+6,Bihar,2300,Jio,No,0,70,1,1
+6,Bihar,2300,Vodafone,No,0,0,0,0
+6,Bihar,2500,Bharti,No,0,0,0,0
+6,Bihar,2500,Jio,No,0,0,0,0
+6,Bihar,2500,Vodafone,No,0,0,0,0
+6,Delhi,700,Bharti,No,0,0,0,0
+6,Delhi,700,Jio,No,0,0,0,0
+6,Delhi,700,Vodafone,No,0,0,0,0
+6,Delhi,800,Bharti,No,0,0,0,0
+6,Delhi,800,Jio,No,0,800,7,1
+6,Delhi,800,Vodafone,No,0,0,0,0
+6,Delhi,900,Bharti,No,0,0,0,0
+6,Delhi,900,Jio,No,0,0,0,0
+6,Delhi,900,Vodafone,No,0,0,0,0
+6,Delhi,1800,Bharti,No,0,0,0,0
+6,Delhi,1800,Jio,No,0,91.4,23,1
+6,Delhi,1800,Vodafone,No,0,0,0,0
+6,Delhi,2100,Bharti,No,0,0,0,0
+6,Delhi,2100,Jio,No,0,0,0,0
+6,Delhi,2100,Vodafone,No,0,0,0,0
+6,Delhi,2300,Bharti,No,0,0,0,0
+6,Delhi,2300,Jio,No,0,1640,1,1
+6,Delhi,2300,Vodafone,No,0,0,0,0
+6,Delhi,2500,Bharti,No,0,0,0,0
+6,Delhi,2500,Jio,No,0,0,0,0
+6,Delhi,2500,Vodafone,No,0,0,0,0
+6,Gujarat,700,Bharti,No,0,0,0,0
+6,Gujarat,700,Jio,No,0,0,0,0
+6,Gujarat,700,Vodafone,No,0,0,0,0
+6,Gujarat,800,Bharti,No,0,0,0,0
+6,Gujarat,800,Jio,No,0,481.25,4,1
+6,Gujarat,800,Vodafone,No,0,0,0,0
+6,Gujarat,900,Bharti,No,0,74.6,21,1
+6,Gujarat,900,Jio,No,0,0,0,0
+6,Gujarat,900,Vodafone,No,0,0,0,0
+6,Gujarat,1800,Bharti,No,0,0,0,0
+6,Gujarat,1800,Jio,No,0,54.6,20,1
+6,Gujarat,1800,Vodafone,No,0,0,0,0
+6,Gujarat,2100,Bharti,No,0,0,0,0
+6,Gujarat,2100,Jio,No,0,0,0,0
+6,Gujarat,2100,Vodafone,No,0,0,0,0
+6,Gujarat,2300,Bharti,No,0,700,1,2
+6,Gujarat,2300,Jio,No,0,700,1,1
+6,Gujarat,2300,Vodafone,No,0,0,0,0
+6,Gujarat,2500,Bharti,No,0,0,0,0
+6,Gujarat,2500,Jio,No,0,0,0,0
+6,Gujarat,2500,Vodafone,No,0,0,0,0
+6,Haryana,700,Bharti,No,0,0,0,0
+6,Haryana,700,Jio,No,0,0,0,0
+6,Haryana,700,Vodafone,No,0,0,0,0
+6,Haryana,800,Bharti,No,0,71.25,3,2
+6,Haryana,800,Jio,No,0,71.25,4,1
+6,Haryana,800,Vodafone,No,0,0,0,0
+6,Haryana,900,Bharti,No,0,0,0,0
+6,Haryana,900,Jio,No,0,0,0,0
+6,Haryana,900,Vodafone,No,0,0,0,0
+6,Haryana,1800,Bharti,No,0,0,0,0
+6,Haryana,1800,Jio,No,0,11.4,25,1
+6,Haryana,1800,Vodafone,No,0,0,0,0
+6,Haryana,2100,Bharti,No,0,0,0,0
+6,Haryana,2100,Jio,No,0,0,0,0
+6,Haryana,2100,Vodafone,No,0,0,0,0
+6,Haryana,2300,Bharti,No,0,80,2,2
+6,Haryana,2300,Jio,No,0,80,2,1
+6,Haryana,2300,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,700,Bharti,No,0,0,0,0
+6,Himachal Pradesh,700,Jio,No,0,0,0,0
+6,Himachal Pradesh,700,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,800,Bharti,No,0,0,0,0
+6,Himachal Pradesh,800,Jio,No,0,30,4,1
+6,Himachal Pradesh,800,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,900,Bharti,No,0,7.4,13,1
+6,Himachal Pradesh,900,Jio,No,0,0,0,0
+6,Himachal Pradesh,900,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,1800,Bharti,No,0,3.6,24,1
+6,Himachal Pradesh,1800,Jio,No,0,0,0,0
+6,Himachal Pradesh,1800,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,2100,Bharti,No,0,0,0,0
+6,Himachal Pradesh,2100,Jio,No,0,0,0,0
+6,Himachal Pradesh,2100,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,2300,Bharti,No,0,10,1,2
+6,Himachal Pradesh,2300,Jio,No,0,10,1,1
+6,Himachal Pradesh,2300,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,2500,Bharti,No,0,0,0,0
+6,Himachal Pradesh,2500,Jio,No,0,0,0,0
+6,Himachal Pradesh,2500,Vodafone,No,0,0,0,0
+6,Jammu & Kashmir,700,Bharti,No,0,0,0,0
+6,Jammu & Kashmir,700,Jio,No,0,0,0,0
+6,Jammu & Kashmir,700,Vodafone,No,0,0,0,0
+6,Jammu & Kashmir,800,Bharti,No,0,0,0,0
+6,Jammu & Kashmir,800,Jio,No,0,0,0,0
+6,Jammu & Kashmir,800,Vodafone,No,0,0,0,0
+6,Jammu & Kashmir,1800,Bharti,No,0,3.4,50,1
+6,Jammu & Kashmir,1800,Jio,No,0,0,0,0
+6,Jammu & Kashmir,1800,Vodafone,No,0,0,0,0
+6,Jammu & Kashmir,2100,Bharti,No,0,0,0,0
+6,Jammu & Kashmir,2100,Jio,No,0,0,0,0
+6,Jammu & Kashmir,2100,Vodafone,No,0,0,0,0
+6,Jammu & Kashmir,2300,Bharti,No,0,10,2,2
+6,Jammu & Kashmir,2300,Jio,No,0,10,2,1
+6,Jammu & Kashmir,2300,Vodafone,No,0,0,0,0
+6,Jammu & Kashmir,2500,Bharti,No,0,0,0,0
+6,Jammu & Kashmir,2500,Jio,No,0,0,0,0
+6,Jammu & Kashmir,2500,Vodafone,No,0,0,0,0
+6,Karnataka,700,Bharti,No,0,0,0,0
+6,Karnataka,700,Jio,No,0,0,0,0
+6,Karnataka,700,Vodafone,No,0,0,0,0
+6,Karnataka,800,Bharti,No,0,0,0,0
+6,Karnataka,800,Jio,No,0,240,8,1
+6,Karnataka,800,Vodafone,No,0,0,0,0
+6,Karnataka,900,Bharti,No,0,0,0,0
+6,Karnataka,900,Jio,No,0,0,0,0
+6,Karnataka,900,Vodafone,No,0,0,0,0
+6,Karnataka,1800,Bharti,No,0,21.8,56,1
+6,Karnataka,1800,Jio,No,0,21.8,25,2
+6,Karnataka,1800,Vodafone,No,0,21.8,20,3
+6,Karnataka,2100,Bharti,No,0,0,0,0
+6,Karnataka,2100,Jio,No,0,0,0,0
+6,Karnataka,2100,Vodafone,No,0,0,0,0
+6,Karnataka,2300,Bharti,No,0,0,0,0
+6,Karnataka,2300,Jio,No,0,1120,1,1
+6,Karnataka,2300,Vodafone,No,0,0,0,0
+6,Karnataka,2500,Bharti,No,0,0,0,0
+6,Karnataka,2500,Jio,No,0,0,0,0
+6,Karnataka,2500,Vodafone,No,0,0,0,0
+6,Kerala,700,Bharti,No,0,0,0,0
+6,Kerala,700,Jio,No,0,0,0,0
+6,Kerala,700,Vodafone,No,0,0,0,0
+6,Kerala,800,Bharti,No,0,0,0,0
+1,Kolkata,2300,Jio,Bid,1,380,1,1
+1,Kolkata,2300,Vodafone,No,0,0,0,0
+1,Kolkata,2500,Bharti,No,0,0,0,0
+1,Kolkata,2500,Jio,No,0,0,0,0
+1,Kolkata,2500,Vodafone,No,0,0,0,0
+1,Madhya Pradesh,700,Bharti,No,0,0,0,0
+1,Madhya Pradesh,700,Jio,No,0,0,0,0
+1,Madhya Pradesh,700,Vodafone,No,0,0,0,0
+1,Madhya Pradesh,800,Bharti,Bid,4,178.75,4,2
+1,Madhya Pradesh,800,Jio,Bid,4,178.75,4,1
+1,Madhya Pradesh,800,Vodafone,No,0,0,0,0
+1,Madhya Pradesh,900,Bharti,No,0,0,0,0
+6,Kerala,800,Jio,No,0,196.25,8,1
+6,Kerala,800,Vodafone,No,0,0,0,0
+6,Kerala,900,Bharti,No,0,39.8,23,1
+6,Kerala,900,Jio,No,0,0,0,0
+6,Kerala,900,Vodafone,No,0,0,0,0
+6,Kerala,1800,Bharti,No,0,19,25,2
+6,Kerala,1800,Jio,No,0,19,25,1
+6,Kerala,1800,Vodafone,No,0,0,0,0
+6,Kerala,2100,Bharti,No,0,0,0,0
+6,Kerala,2100,Jio,No,0,0,0,0
+6,Kerala,2100,Vodafone,No,0,0,0,0
+6,Kerala,2300,Bharti,No,0,200,1,2
+6,Kerala,2300,Jio,No,0,200,1,1
+6,Kerala,2300,Vodafone,No,0,0,0,0
+6,Kolkata,700,Bharti,No,0,0,0,0
+6,Kolkata,700,Jio,No,0,0,0,0
+6,Kolkata,700,Vodafone,No,0,0,0,0
+6,Kolkata,800,Bharti,No,0,0,0,0
+6,Kolkata,800,Jio,No,0,200,8,1
+6,Kolkata,800,Vodafone,No,0,0,0,0
+6,Kolkata,900,Bharti,No,0,0,0,0
+6,Kolkata,900,Jio,No,0,0,0,0
+6,Kolkata,900,Vodafone,No,0,0,0,0
+6,Kolkata,1800,Bharti,No,0,34.6,5,1
+6,Kolkata,1800,Jio,No,0,0,0,0
+6,Kolkata,1800,Vodafone,No,0,0,0,0
+6,Kolkata,2100,Bharti,No,0,0,0,0
+6,Kolkata,2100,Jio,No,0,0,0,0
+6,Kolkata,2100,Vodafone,No,0,0,0,0
+6,Kolkata,2300,Bharti,No,0,0,0,0
+6,Kolkata,2300,Jio,No,0,380,1,1
+6,Kolkata,2300,Vodafone,No,0,0,0,0
+6,Kolkata,2500,Bharti,No,0,0,0,0
+6,Kolkata,2500,Jio,No,0,0,0,0
+6,Kolkata,2500,Vodafone,No,0,0,0,0
+6,Madhya Pradesh,700,Bharti,No,0,0,0,0
+6,Madhya Pradesh,700,Jio,No,0,0,0,0
+6,Madhya Pradesh,700,Vodafone,No,0,0,0,0
+6,Madhya Pradesh,800,Bharti,No,0,178.75,4,2
+6,Madhya Pradesh,800,Jio,No,0,178.75,4,1
+6,Madhya Pradesh,800,Vodafone,No,0,0,0,0
+6,Madhya Pradesh,900,Bharti,No,0,0,0,0
+6,Madhya Pradesh,900,Jio,No,0,0,0,0
+6,Madhya Pradesh,900,Vodafone,No,0,0,0,0
+6,Madhya Pradesh,1800,Bharti,No,0,19,21,1
+6,Madhya Pradesh,1800,Jio,No,0,19,18,2
+6,Madhya Pradesh,1800,Vodafone,No,0,0,0,0
+6,Madhya Pradesh,2100,Bharti,No,0,0,0,0
+6,Madhya Pradesh,2100,Jio,No,0,0,0,0
+6,Madhya Pradesh,2100,Vodafone,No,0,0,0,0
+6,Madhya Pradesh,2300,Bharti,No,0,90,1,2
+6,Madhya Pradesh,2300,Jio,No,0,90,1,1
+6,Madhya Pradesh,2300,Vodafone,No,0,0,0,0
+6,Maharashtra,700,Bharti,No,0,0,0,0
+6,Maharashtra,700,Jio,No,0,0,0,0
+6,Maharashtra,700,Vodafone,No,0,0,0,0
+6,Maharashtra,800,Bharti,No,0,637.5,2,2
+6,Maharashtra,800,Jio,No,0,637.5,8,1
+6,Maharashtra,800,Vodafone,No,0,0,0,0
+6,Maharashtra,900,Bharti,No,0,0,0,0
+6,Maharashtra,900,Jio,No,0,0,0,0
+6,Maharashtra,900,Vodafone,No,0,0,0,0
+6,Maharashtra,1800,Bharti,No,0,0,0,0
+6,Maharashtra,1800,Jio,No,0,73,25,1
+6,Maharashtra,1800,Vodafone,No,0,0,0,0
+6,Maharashtra,2100,Bharti,No,0,0,0,0
+6,Maharashtra,2100,Jio,No,0,0,0,0
+6,Maharashtra,2100,Vodafone,No,0,0,0,0
+6,Maharashtra,2300,Bharti,No,0,720,1,2
+6,Maharashtra,2300,Jio,No,0,720,1,1
+6,Maharashtra,2300,Vodafone,No,0,0,0,0
+6,Maharashtra,2500,Bharti,No,0,0,0,0
+6,Maharashtra,2500,Jio,No,0,0,0,0
+6,Maharashtra,2500,Vodafone,No,0,0,0,0
+6,Mumbai,700,Bharti,No,0,0,0,0
+6,Mumbai,700,Jio,No,0,0,0,0
+6,Mumbai,700,Vodafone,No,0,0,0,0
+6,Mumbai,800,Bharti,No,0,0,0,0
+6,Mumbai,800,Jio,No,0,908.75,6,1
+6,Mumbai,800,Vodafone,No,0,0,0,0
+6,Mumbai,900,Bharti,No,0,0,0,0
+6,Mumbai,900,Jio,No,0,0,0,0
+6,Mumbai,900,Vodafone,No,0,0,0,0
+6,Mumbai,1800,Bharti,No,0,0,0,0
+6,Mumbai,1800,Jio,No,0,112.2,17,1
+6,Mumbai,1800,Vodafone,No,0,0,0,0
+6,Mumbai,2100,Bharti,No,0,0,0,0
+6,Mumbai,2100,Jio,No,0,0,0,0
+6,Mumbai,2100,Vodafone,No,0,0,0,0
+6,Mumbai,2300,Bharti,No,0,0,0,0
+6,Mumbai,2300,Jio,No,0,1670,1,1
+6,Mumbai,2300,Vodafone,No,0,0,0,0
+6,Mumbai,2500,Bharti,No,0,0,0,0
+6,Mumbai,2500,Jio,No,0,0,0,0
+6,Mumbai,2500,Vodafone,No,0,0,0,0
+6,North East,700,Bharti,No,0,0,0,0
+6,North East,700,Jio,No,0,0,0,0
+6,North East,700,Vodafone,No,0,0,0,0
+6,North East,800,Bharti,No,0,0,0,0
+6,North East,800,Jio,No,0,0,0,0
+6,North East,800,Vodafone,No,0,0,0,0
+6,North East,900,Bharti,No,0,4.6,6,1
+6,North East,900,Jio,No,0,0,0,0
+6,North East,900,Vodafone,No,0,0,0,0
+6,North East,1800,Bharti,No,0,0,0,0
+6,North East,1800,Jio,No,0,3.4,18,1
+6,North East,1800,Vodafone,No,0,0,0,0
+6,North East,2100,Bharti,No,0,30,1,1
+6,North East,2100,Jio,No,0,0,0,0
+6,North East,2100,Vodafone,No,0,0,0,0
+6,North East,2300,Bharti,No,0,10,1,2
+6,North East,2300,Jio,No,0,10,1,1
+6,North East,2300,Vodafone,No,0,0,0,0
+6,Odisha,700,Bharti,No,0,0,0,0
+6,Odisha,700,Jio,No,0,0,0,0
+6,Odisha,700,Vodafone,No,0,0,0,0
+6,Odisha,800,Bharti,No,0,0,0,0
+6,Odisha,800,Jio,No,0,58.75,4,1
+6,Odisha,800,Vodafone,No,0,0,0,0
+6,Odisha,900,Bharti,No,0,17.2,19,1
+6,Odisha,900,Jio,No,0,0,0,0
+6,Odisha,900,Vodafone,No,0,0,0,0
+6,Odisha,1800,Bharti,No,0,5.4,13,2
+6,Odisha,1800,Jio,No,0,5.4,25,1
+6,Odisha,1800,Vodafone,No,0,0,0,0
+6,Odisha,2100,Bharti,No,0,0,0,0
+6,Odisha,2100,Jio,No,0,0,0,0
+6,Odisha,2100,Vodafone,No,0,0,0,0
+6,Odisha,2300,Bharti,No,0,50,1,2
+6,Odisha,2300,Jio,No,0,50,1,1
+6,Odisha,2300,Vodafone,No,0,0,0,0
+6,Punjab,700,Bharti,No,0,0,0,0
+6,Punjab,700,Jio,No,0,0,0,0
+6,Punjab,700,Vodafone,No,0,0,0,0
+6,Punjab,800,Bharti,No,0,0,0,0
+6,Punjab,800,Jio,No,0,196.25,5,1
+6,Punjab,800,Vodafone,No,0,0,0,0
+6,Punjab,1800,Bharti,No,0,17.6,25,1
+6,Punjab,1800,Jio,No,0,17.6,24,2
+6,Punjab,1800,Vodafone,No,0,0,0,0
+6,Punjab,2100,Bharti,No,0,0,0,0
+6,Punjab,2100,Jio,No,0,0,0,0
+6,Punjab,2100,Vodafone,No,0,0,0,0
+6,Punjab,2300,Bharti,No,0,210,2,2
+6,Punjab,2300,Jio,No,0,210,2,1
+6,Punjab,2300,Vodafone,No,0,0,0,0
+6,Punjab,2500,Bharti,No,0,0,0,0
+6,Punjab,2500,Jio,No,0,0,0,0
+6,Punjab,2500,Vodafone,No,0,0,0,0
+6,Rajasthan,700,Bharti,No,0,0,0,0
+6,Rajasthan,700,Jio,No,0,0,0,0
+6,Rajasthan,700,Vodafone,No,0,0,0,0
+6,Rajasthan,800,Bharti,No,0,0,0,0
+6,Rajasthan,800,Jio,No,0,332.5,4,1
+6,Rajasthan,800,Vodafone,No,0,0,0,0
+6,Rajasthan,1800,Bharti,No,0,0,0,0
+6,Rajasthan,1800,Jio,No,0,0,0,0
+6,Rajasthan,1800,Vodafone,No,0,0,0,0
+6,Rajasthan,2300,Bharti,No,0,60,2,2
+1,Madhya Pradesh,900,Jio,No,0,0,0,0
+1,Madhya Pradesh,900,Vodafone,No,0,0,0,0
+1,Madhya Pradesh,1800,Bharti,Bid,21,19,21,1
+1,Madhya Pradesh,1800,Jio,Bid,18,19,18,2
+1,Madhya Pradesh,1800,Vodafone,No,0,0,0,0
+1,Madhya Pradesh,2100,Bharti,No,0,0,0,0
+1,Madhya Pradesh,2100,Jio,No,0,0,0,0
+1,Madhya Pradesh,2100,Vodafone,No,0,0,0,0
+1,Madhya Pradesh,2300,Bharti,Bid,1,90,1,2
+1,Madhya Pradesh,2300,Jio,Bid,1,90,1,1
+1,Madhya Pradesh,2300,Vodafone,No,0,0,0,0
+6,Rajasthan,2300,Jio,No,0,60,2,1
+6,Rajasthan,2300,Vodafone,No,0,0,0,0
+6,Tamil Nadu,700,Bharti,No,0,0,0,0
+6,Tamil Nadu,700,Jio,No,0,0,0,0
+6,Tamil Nadu,700,Vodafone,No,0,0,0,0
+6,Tamil Nadu,800,Bharti,No,0,0,0,0
+6,Tamil Nadu,800,Jio,No,0,217.5,8,1
+6,Tamil Nadu,800,Vodafone,No,0,0,0,0
+6,Tamil Nadu,900,Bharti,No,0,47,25,1
+6,Tamil Nadu,900,Jio,No,0,0,0,0
+6,Tamil Nadu,900,Vodafone,No,0,47,25,2
+6,Tamil Nadu,1800,Bharti,No,0,20,75,1
+6,Tamil Nadu,1800,Jio,No,0,20,16,2
+6,Tamil Nadu,1800,Vodafone,No,0,0,0,0
+6,Tamil Nadu,2300,Bharti,No,0,0,0,0
+6,Tamil Nadu,2300,Jio,No,0,1510,1,1
+6,Tamil Nadu,2300,Vodafone,No,0,0,0,0
+6,Tamil Nadu,2500,Bharti,No,0,0,0,0
+6,Tamil Nadu,2500,Jio,No,0,0,0,0
+6,Tamil Nadu,2500,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (East),700,Bharti,No,0,0,0,0
+6,Uttar Pradesh (East),700,Jio,No,0,0,0,0
+6,Uttar Pradesh (East),700,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (East),800,Bharti,No,0,0,0,0
+6,Uttar Pradesh (East),800,Jio,No,0,313.75,4,1
+6,Uttar Pradesh (East),800,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (East),900,Bharti,No,0,52.4,25,1
+6,Uttar Pradesh (East),900,Jio,No,0,0,0,0
+6,Uttar Pradesh (East),900,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (East),1800,Bharti,No,0,30.6,16,2
+6,Uttar Pradesh (East),1800,Jio,No,0,30.6,18,1
+6,Uttar Pradesh (East),1800,Vodafone,No,0,30.6,7,3
+6,Uttar Pradesh (East),2300,Bharti,No,0,90,2,2
+6,Uttar Pradesh (East),2300,Jio,No,0,90,2,1
+6,Uttar Pradesh (East),2300,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (West),700,Bharti,No,0,0,0,0
+6,Uttar Pradesh (West),700,Jio,No,0,0,0,0
+6,Uttar Pradesh (West),700,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (West),800,Bharti,No,0,201.25,4,2
+6,Uttar Pradesh (West),800,Jio,No,0,201.25,4,1
+6,Uttar Pradesh (West),800,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (West),900,Bharti,No,0,0,0,0
+6,Uttar Pradesh (West),900,Jio,No,0,0,0,0
+6,Uttar Pradesh (West),900,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (West),1800,Bharti,No,0,23,15,2
+6,Uttar Pradesh (West),1800,Jio,No,0,23,25,1
+6,Uttar Pradesh (West),1800,Vodafone,No,0,23,3,3
+6,Uttar Pradesh (West),2100,Bharti,No,0,0,0,0
+6,Uttar Pradesh (West),2100,Jio,No,0,0,0,0
+6,Uttar Pradesh (West),2100,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (West),2300,Bharti,No,0,120,2,2
+6,Uttar Pradesh (West),2300,Jio,No,0,120,2,1
+6,Uttar Pradesh (West),2300,Vodafone,No,0,0,0,0
+6,West Bengal,700,Bharti,No,0,0,0,0
+6,West Bengal,700,Jio,No,0,0,0,0
+6,West Bengal,700,Vodafone,No,0,0,0,0
+6,West Bengal,800,Bharti,No,0,0,0,0
+6,West Bengal,800,Jio,No,0,92.5,8,1
+6,West Bengal,800,Vodafone,No,0,0,0,0
+6,West Bengal,900,Bharti,No,0,24.8,14,1
+6,West Bengal,900,Jio,No,0,0,0,0
+6,West Bengal,900,Vodafone,No,0,24.8,4,2
+6,West Bengal,1800,Bharti,No,0,10.6,19,1
+6,West Bengal,1800,Jio,No,0,0,0,0
+6,West Bengal,1800,Vodafone,No,0,0,0,0
+6,West Bengal,2100,Bharti,No,0,175,1,1
+6,West Bengal,2100,Jio,No,0,0,0,0
+6,West Bengal,2100,Vodafone,No,0,0,0,0
+6,West Bengal,2300,Bharti,No,0,60,1,2
+6,West Bengal,2300,Jio,No,0,60,1,1
+6,West Bengal,2300,Vodafone,No,0,0,0,0
+1,Maharashtra,700,Bharti,No,0,0,0,0
+1,Maharashtra,700,Jio,No,0,0,0,0
+1,Maharashtra,700,Vodafone,No,0,0,0,0
+1,Maharashtra,800,Bharti,Bid,2,637.5,2,2
+1,Maharashtra,800,Jio,Bid,8,637.5,8,1
+1,Maharashtra,800,Vodafone,No,0,0,0,0
+1,Maharashtra,900,Bharti,No,0,0,0,0
+1,Maharashtra,900,Jio,No,0,0,0,0
+1,Maharashtra,900,Vodafone,No,0,0,0,0
+1,Maharashtra,1800,Bharti,No,0,0,0,0
+1,Maharashtra,1800,Jio,Bid,25,73,25,1
+1,Maharashtra,1800,Vodafone,No,0,0,0,0
+1,Maharashtra,2100,Bharti,No,0,0,0,0
+1,Maharashtra,2100,Jio,No,0,0,0,0
+1,Maharashtra,2100,Vodafone,No,0,0,0,0
+1,Maharashtra,2300,Bharti,Bid,1,720,1,2
+1,Maharashtra,2300,Jio,Bid,1,720,1,1
+1,Maharashtra,2300,Vodafone,No,0,0,0,0
+1,Maharashtra,2500,Bharti,No,0,0,0,0
+1,Maharashtra,2500,Jio,No,0,0,0,0
+1,Maharashtra,2500,Vodafone,No,0,0,0,0
+1,Mumbai,700,Bharti,No,0,0,0,0
+1,Mumbai,700,Jio,No,0,0,0,0
+1,Mumbai,700,Vodafone,No,0,0,0,0
+1,Mumbai,800,Bharti,No,0,0,0,0
+1,Mumbai,800,Jio,Bid,6,908.75,6,1
+1,Mumbai,800,Vodafone,No,0,0,0,0
+1,Mumbai,900,Bharti,No,0,0,0,0
+1,Mumbai,900,Jio,No,0,0,0,0
+1,Mumbai,900,Vodafone,No,0,0,0,0
+1,Mumbai,1800,Bharti,No,0,0,0,0
+1,Mumbai,1800,Jio,Bid,17,112.2,17,1
+1,Mumbai,1800,Vodafone,No,0,0,0,0
+1,Mumbai,2100,Bharti,No,0,0,0,0
+1,Mumbai,2100,Jio,No,0,0,0,0
+1,Mumbai,2100,Vodafone,No,0,0,0,0
+1,Mumbai,2300,Bharti,No,0,0,0,0
+1,Mumbai,2300,Jio,Bid,1,1670,1,1
+1,Mumbai,2300,Vodafone,No,0,0,0,0
+1,Mumbai,2500,Bharti,No,0,0,0,0
+1,Mumbai,2500,Jio,No,0,0,0,0
+1,Mumbai,2500,Vodafone,No,0,0,0,0
+1,North East,700,Bharti,No,0,0,0,0
+1,North East,700,Jio,No,0,0,0,0
+1,North East,700,Vodafone,No,0,0,0,0
+1,North East,800,Bharti,No,0,0,0,0
+1,North East,800,Jio,No,0,0,0,0
+1,North East,800,Vodafone,No,0,0,0,0
+1,North East,900,Bharti,Bid,6,4.6,6,1
+1,North East,900,Jio,No,0,0,0,0
+1,North East,900,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,2300,Bharti,No,0,0,0,0
+1,Andhra Pradesh,2300,Jio,Bid,1,780,1,1
+1,Andhra Pradesh,2300,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,2500,Bharti,No,0,0,0,0
+1,Andhra Pradesh,2500,Jio,No,0,0,0,0
+1,Andhra Pradesh,2500,Vodafone,No,0,0,0,0
+1,Assam,700,Bharti,No,0,0,0,0
+1,Assam,700,Jio,No,0,0,0,0
+1,Assam,700,Vodafone,No,0,0,0,0
+1,Assam,800,Bharti,No,0,0,0,0
+1,Assam,800,Jio,No,0,0,0,0
+1,Assam,800,Vodafone,No,0,0,0,0
+1,Assam,900,Bharti,No,0,0,0,0
+1,Assam,900,Jio,No,0,0,0,0
+1,Assam,900,Vodafone,No,0,0,0,0
+1,Assam,1800,Bharti,No,0,0,0,0
+1,Assam,1800,Jio,Bid,23,9.2,23,1
+1,North East,1800,Bharti,No,0,0,0,0
+1,North East,1800,Jio,Bid,18,3.4,18,1
+1,North East,1800,Vodafone,No,0,0,0,0
+1,North East,2100,Bharti,Bid,1,30,1,1
+1,North East,2100,Jio,No,0,0,0,0
+1,North East,2100,Vodafone,No,0,0,0,0
+1,North East,2300,Bharti,Bid,1,10,1,2
+1,North East,2300,Jio,Bid,1,10,1,1
+1,North East,2300,Vodafone,No,0,0,0,0
+1,Odisha,700,Bharti,No,0,0,0,0
+1,Odisha,700,Jio,No,0,0,0,0
+1,Odisha,700,Vodafone,No,0,0,0,0
+1,Odisha,800,Bharti,No,0,0,0,0
+1,Odisha,800,Jio,Bid,4,58.75,4,1
+1,Odisha,800,Vodafone,No,0,0,0,0
+1,Odisha,900,Bharti,Bid,19,17.2,19,1
+1,Odisha,900,Jio,No,0,0,0,0
+1,Odisha,900,Vodafone,No,0,0,0,0
+1,Odisha,1800,Bharti,No,0,0,0,0
+1,Odisha,1800,Jio,Bid,25,5.4,25,1
+1,Odisha,1800,Vodafone,No,0,0,0,0
+1,Odisha,2100,Bharti,No,0,0,0,0
+1,Odisha,2100,Jio,No,0,0,0,0
+1,Odisha,2100,Vodafone,No,0,0,0,0
+1,Odisha,2300,Bharti,Bid,1,50,1,2
+1,Odisha,2300,Jio,Bid,1,50,1,1
+1,Odisha,2300,Vodafone,No,0,0,0,0
+1,Punjab,700,Bharti,No,0,0,0,0
+1,Punjab,700,Jio,No,0,0,0,0
+1,Punjab,700,Vodafone,No,0,0,0,0
+1,Punjab,800,Bharti,No,0,0,0,0
+1,Punjab,800,Jio,Bid,5,196.25,5,1
+1,Punjab,800,Vodafone,No,0,0,0,0
+1,Punjab,1800,Bharti,Bid,25,17.6,25,1
+1,Punjab,1800,Jio,Bid,24,17.6,24,2
+1,Punjab,1800,Vodafone,No,0,0,0,0
+1,Punjab,2100,Bharti,No,0,0,0,0
+1,Punjab,2100,Jio,No,0,0,0,0
+1,Punjab,2100,Vodafone,No,0,0,0,0
+1,Punjab,2300,Bharti,Bid,2,210,2,2
+1,Punjab,2300,Jio,Bid,2,210,2,1
+1,Punjab,2300,Vodafone,No,0,0,0,0
+1,Punjab,2500,Bharti,No,0,0,0,0
+1,Punjab,2500,Jio,No,0,0,0,0
+1,Punjab,2500,Vodafone,No,0,0,0,0
+1,Rajasthan,700,Bharti,No,0,0,0,0
+1,Rajasthan,700,Jio,No,0,0,0,0
+1,Rajasthan,700,Vodafone,No,0,0,0,0
+1,Rajasthan,800,Bharti,No,0,0,0,0
+1,Rajasthan,800,Jio,Bid,4,332.5,4,1
+1,Rajasthan,800,Vodafone,No,0,0,0,0
+1,Rajasthan,1800,Bharti,No,0,0,0,0
+1,Rajasthan,1800,Jio,No,0,0,0,0
+1,Rajasthan,1800,Vodafone,No,0,0,0,0
+1,Rajasthan,2300,Bharti,Bid,2,60,2,2
+1,Rajasthan,2300,Jio,Bid,2,60,2,1
+1,Rajasthan,2300,Vodafone,No,0,0,0,0
+1,Tamil Nadu,700,Bharti,No,0,0,0,0
+1,Tamil Nadu,700,Jio,No,0,0,0,0
+1,Tamil Nadu,700,Vodafone,No,0,0,0,0
+1,Tamil Nadu,800,Bharti,No,0,0,0,0
+1,Tamil Nadu,800,Jio,Bid,8,217.5,8,1
+1,Tamil Nadu,800,Vodafone,No,0,0,0,0
+1,Tamil Nadu,900,Bharti,Bid,25,47,25,1
+1,Tamil Nadu,900,Jio,No,0,0,0,0
+1,Tamil Nadu,900,Vodafone,Bid,25,47,25,2
+1,Tamil Nadu,1800,Bharti,Bid,50,20,50,1
+1,Tamil Nadu,1800,Jio,Bid,16,20,16,2
+1,Tamil Nadu,1800,Vodafone,No,0,0,0,0
+1,Tamil Nadu,2300,Bharti,No,0,0,0,0
+1,Tamil Nadu,2300,Jio,Bid,1,1510,1,1
+1,Tamil Nadu,2300,Vodafone,No,0,0,0,0
+1,Tamil Nadu,2500,Bharti,No,0,0,0,0
+1,Tamil Nadu,2500,Jio,No,0,0,0,0
+1,Tamil Nadu,2500,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (East),700,Bharti,No,0,0,0,0
+1,Uttar Pradesh (East),700,Jio,No,0,0,0,0
+1,Uttar Pradesh (East),700,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (East),800,Bharti,No,0,0,0,0
+1,Uttar Pradesh (East),800,Jio,Bid,4,313.75,4,1
+1,Uttar Pradesh (East),800,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (East),900,Bharti,Bid,25,52.4,25,1
+1,Uttar Pradesh (East),900,Jio,No,0,0,0,0
+1,Uttar Pradesh (East),900,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (East),1800,Bharti,Bid,16,30.6,16,2
+1,Uttar Pradesh (East),1800,Jio,Bid,18,30.6,18,1
+1,Uttar Pradesh (East),1800,Vodafone,Bid,7,30.6,7,3
+1,Uttar Pradesh (East),2300,Bharti,Bid,2,90,2,2
+1,Uttar Pradesh (East),2300,Jio,Bid,2,90,2,1
+1,Uttar Pradesh (East),2300,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (West),700,Bharti,No,0,0,0,0
+1,Uttar Pradesh (West),700,Jio,No,0,0,0,0
+1,Uttar Pradesh (West),700,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (West),800,Bharti,Bid,4,201.25,4,2
+1,Uttar Pradesh (West),800,Jio,Bid,4,201.25,4,1
+1,Uttar Pradesh (West),800,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (West),900,Bharti,No,0,0,0,0
+1,Uttar Pradesh (West),900,Jio,No,0,0,0,0
+1,Uttar Pradesh (West),900,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (West),1800,Bharti,Bid,15,23,15,2
+1,Uttar Pradesh (West),1800,Jio,Bid,25,23,25,1
+1,Uttar Pradesh (West),1800,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (West),2100,Bharti,No,0,0,0,0
+1,Uttar Pradesh (West),2100,Jio,No,0,0,0,0
+1,Uttar Pradesh (West),2100,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (West),2300,Bharti,Bid,2,120,2,2
+1,Uttar Pradesh (West),2300,Jio,Bid,2,120,2,1
+1,Uttar Pradesh (West),2300,Vodafone,No,0,0,0,0
+1,West Bengal,700,Bharti,No,0,0,0,0
+1,West Bengal,700,Jio,No,0,0,0,0
+1,West Bengal,700,Vodafone,No,0,0,0,0
+1,West Bengal,800,Bharti,No,0,0,0,0
+1,West Bengal,800,Jio,Bid,8,92.5,8,1
+1,West Bengal,800,Vodafone,No,0,0,0,0
+1,West Bengal,900,Bharti,Bid,14,24.8,14,1
+1,West Bengal,900,Jio,No,0,0,0,0
+1,West Bengal,900,Vodafone,No,0,0,0,0
+1,West Bengal,1800,Bharti,No,0,0,0,0
+1,West Bengal,1800,Jio,No,0,0,0,0
+1,West Bengal,1800,Vodafone,No,0,0,0,0
+1,West Bengal,2100,Bharti,Bid,1,175,1,1
+1,West Bengal,2100,Jio,No,0,0,0,0
+1,West Bengal,2100,Vodafone,No,0,0,0,0
+1,West Bengal,2300,Bharti,Bid,1,60,1,2
+1,West Bengal,2300,Jio,Bid,1,60,1,1
+1,West Bengal,2300,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,700,Bharti,No,0,0,0,0
+2,Andhra Pradesh,700,Jio,No,0,0,0,0
+2,Andhra Pradesh,700,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,800,Bharti,No,0,0,0,0
+2,Andhra Pradesh,800,Jio,No,0,487.5,5,1
+2,Andhra Pradesh,800,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,900,Bharti,No,0,0,0,0
+2,Andhra Pradesh,900,Jio,No,0,0,0,0
+2,Andhra Pradesh,900,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,1800,Bharti,No,0,0,0,0
+2,Andhra Pradesh,1800,Jio,No,0,55.8,21,1
+2,Andhra Pradesh,1800,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,2100,Bharti,No,0,0,0,0
+2,Andhra Pradesh,2100,Jio,No,0,0,0,0
+2,Andhra Pradesh,2100,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,2300,Bharti,No,0,0,0,0
+2,Andhra Pradesh,2300,Jio,No,0,780,1,1
+2,Andhra Pradesh,2300,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,2500,Bharti,No,0,0,0,0
+2,Andhra Pradesh,2500,Jio,No,0,0,0,0
+2,Andhra Pradesh,2500,Vodafone,No,0,0,0,0
+2,Assam,700,Bharti,No,0,0,0,0
+2,Assam,700,Jio,No,0,0,0,0
+2,Assam,700,Vodafone,No,0,0,0,0
+2,Assam,800,Bharti,No,0,0,0,0
+1,Assam,1800,Vodafone,No,0,0,0,0
+1,Assam,2100,Bharti,Bid,1,150,1,1
+1,Assam,2100,Jio,No,0,0,0,0
+1,Assam,2100,Vodafone,No,0,0,0,0
+1,Assam,2300,Bharti,Bid,1,20,1,2
+1,Assam,2300,Jio,Bid,1,20,1,1
+1,Assam,2300,Vodafone,No,0,0,0,0
+1,Bihar,700,Bharti,No,0,0,0,0
+1,Bihar,700,Jio,No,0,0,0,0
+1,Bihar,700,Vodafone,No,0,0,0,0
+1,Bihar,800,Bharti,No,0,0,0,0
+1,Bihar,800,Jio,Bid,4,170,4,1
+1,Bihar,800,Vodafone,No,0,0,0,0
+1,Bihar,900,Bharti,Bid,17,40.2,17,1
+1,Bihar,900,Jio,No,0,0,0,0
+1,Bihar,900,Vodafone,No,0,0,0,0
+1,Bihar,1800,Bharti,Bid,14,17.6,14,2
+2,Assam,800,Jio,No,0,0,0,0
+2,Assam,800,Vodafone,No,0,0,0,0
+2,Assam,900,Bharti,No,0,0,0,0
+2,Assam,900,Jio,No,0,0,0,0
+2,Assam,900,Vodafone,No,0,0,0,0
+2,Assam,1800,Bharti,No,0,0,0,0
+2,Assam,1800,Jio,No,0,9.2,23,1
+2,Assam,1800,Vodafone,No,0,0,0,0
+2,Assam,2100,Bharti,No,0,150,1,1
+2,Assam,2100,Jio,No,0,0,0,0
+2,Assam,2100,Vodafone,No,0,0,0,0
+2,Assam,2300,Bharti,No,0,20,1,2
+2,Assam,2300,Jio,No,0,20,1,1
+2,Assam,2300,Vodafone,No,0,0,0,0
+2,Bihar,700,Bharti,No,0,0,0,0
+2,Bihar,700,Jio,No,0,0,0,0
+2,Bihar,700,Vodafone,No,0,0,0,0
+2,Bihar,800,Bharti,No,0,0,0,0
+2,Bihar,800,Jio,No,0,170,4,1
+2,Bihar,800,Vodafone,No,0,0,0,0
+2,Bihar,900,Bharti,No,0,40.2,17,1
+2,Bihar,900,Jio,No,0,0,0,0
+2,Bihar,900,Vodafone,No,0,0,0,0
+2,Bihar,1800,Bharti,No,0,17.6,14,2
+2,Bihar,1800,Jio,No,0,17.6,25,1
+2,Bihar,1800,Vodafone,No,0,0,0,0
+2,Bihar,2100,Bharti,No,0,0,0,0
+2,Bihar,2100,Jio,No,0,0,0,0
+2,Bihar,2100,Vodafone,No,0,0,0,0
+2,Bihar,2300,Bharti,No,0,70,1,2
+2,Bihar,2300,Jio,No,0,70,1,1
+2,Bihar,2300,Vodafone,No,0,0,0,0
+2,Bihar,2500,Bharti,No,0,0,0,0
+2,Bihar,2500,Jio,No,0,0,0,0
+2,Bihar,2500,Vodafone,No,0,0,0,0
+2,Delhi,700,Bharti,No,0,0,0,0
+2,Delhi,700,Jio,No,0,0,0,0
+2,Delhi,700,Vodafone,No,0,0,0,0
+2,Delhi,800,Bharti,No,0,0,0,0
+2,Delhi,800,Jio,No,0,800,7,1
+2,Delhi,800,Vodafone,No,0,0,0,0
+2,Delhi,900,Bharti,No,0,0,0,0
+2,Delhi,900,Jio,No,0,0,0,0
+2,Delhi,900,Vodafone,No,0,0,0,0
+2,Delhi,1800,Bharti,No,0,0,0,0
+2,Delhi,1800,Jio,No,0,91.4,23,1
+2,Delhi,1800,Vodafone,No,0,0,0,0
+2,Delhi,2100,Bharti,No,0,0,0,0
+2,Delhi,2100,Jio,No,0,0,0,0
+2,Delhi,2100,Vodafone,No,0,0,0,0
+2,Delhi,2300,Bharti,No,0,0,0,0
+2,Delhi,2300,Jio,No,0,1640,1,1
+2,Delhi,2300,Vodafone,No,0,0,0,0
+2,Delhi,2500,Bharti,No,0,0,0,0
+2,Delhi,2500,Jio,No,0,0,0,0
+2,Delhi,2500,Vodafone,No,0,0,0,0
+2,Gujarat,700,Bharti,No,0,0,0,0
+2,Gujarat,700,Jio,No,0,0,0,0
+2,Gujarat,700,Vodafone,No,0,0,0,0
+2,Gujarat,800,Bharti,No,0,0,0,0
+2,Gujarat,800,Jio,No,0,481.25,4,1
+2,Gujarat,800,Vodafone,No,0,0,0,0
+2,Gujarat,900,Bharti,No,0,0,0,0
+2,Gujarat,900,Jio,No,0,0,0,0
+2,Gujarat,900,Vodafone,No,0,0,0,0
+2,Gujarat,1800,Bharti,No,0,0,0,0
+2,Gujarat,1800,Jio,No,0,54.6,20,1
+2,Gujarat,1800,Vodafone,No,0,0,0,0
+2,Gujarat,2100,Bharti,No,0,0,0,0
+2,Gujarat,2100,Jio,No,0,0,0,0
+2,Gujarat,2100,Vodafone,No,0,0,0,0
+2,Gujarat,2300,Bharti,No,0,700,1,2
+2,Gujarat,2300,Jio,No,0,700,1,1
+2,Gujarat,2300,Vodafone,No,0,0,0,0
+2,Gujarat,2500,Bharti,No,0,0,0,0
+2,Gujarat,2500,Jio,No,0,0,0,0
+2,Gujarat,2500,Vodafone,No,0,0,0,0
+2,Haryana,700,Bharti,No,0,0,0,0
+2,Haryana,700,Jio,No,0,0,0,0
+2,Haryana,700,Vodafone,No,0,0,0,0
+2,Haryana,800,Bharti,No,0,71.25,3,2
+2,Haryana,800,Jio,No,0,71.25,4,1
+2,Haryana,800,Vodafone,No,0,0,0,0
+2,Haryana,900,Bharti,No,0,0,0,0
+2,Haryana,900,Jio,No,0,0,0,0
+2,Haryana,900,Vodafone,No,0,0,0,0
+2,Haryana,1800,Bharti,No,0,0,0,0
+2,Haryana,1800,Jio,No,0,11.4,25,1
+2,Haryana,1800,Vodafone,No,0,0,0,0
+2,Haryana,2100,Bharti,No,0,0,0,0
+2,Haryana,2100,Jio,No,0,0,0,0
+2,Haryana,2100,Vodafone,No,0,0,0,0
+2,Haryana,2300,Bharti,No,0,80,2,2
+2,Haryana,2300,Jio,No,0,80,2,1
+2,Haryana,2300,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,700,Bharti,No,0,0,0,0
+2,Himachal Pradesh,700,Jio,No,0,0,0,0
+2,Himachal Pradesh,700,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,800,Bharti,No,0,0,0,0
+2,Himachal Pradesh,800,Jio,No,0,30,4,1
+2,Himachal Pradesh,800,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,900,Bharti,No,0,7.4,13,1
+2,Himachal Pradesh,900,Jio,No,0,0,0,0
+2,Himachal Pradesh,900,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,1800,Bharti,No,0,3.6,24,1
+2,Himachal Pradesh,1800,Jio,No,0,0,0,0
+2,Himachal Pradesh,1800,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,2100,Bharti,No,0,0,0,0
+2,Himachal Pradesh,2100,Jio,No,0,0,0,0
+2,Himachal Pradesh,2100,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,2300,Bharti,No,0,10,1,2
+2,Himachal Pradesh,2300,Jio,No,0,10,1,1
+2,Himachal Pradesh,2300,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,2500,Bharti,No,0,0,0,0
+2,Himachal Pradesh,2500,Jio,No,0,0,0,0
+2,Himachal Pradesh,2500,Vodafone,No,0,0,0,0
+2,Jammu & Kashmir,700,Bharti,No,0,0,0,0
+2,Jammu & Kashmir,700,Jio,No,0,0,0,0
+2,Jammu & Kashmir,700,Vodafone,No,0,0,0,0
+2,Jammu & Kashmir,800,Bharti,No,0,0,0,0
+2,Jammu & Kashmir,800,Jio,No,0,0,0,0
+2,Jammu & Kashmir,800,Vodafone,No,0,0,0,0
+2,Jammu & Kashmir,1800,Bharti,No,0,3.4,50,1
+2,Jammu & Kashmir,1800,Jio,No,0,0,0,0
+2,Jammu & Kashmir,1800,Vodafone,No,0,0,0,0
+2,Jammu & Kashmir,2100,Bharti,No,0,0,0,0
+2,Jammu & Kashmir,2100,Jio,No,0,0,0,0
+2,Jammu & Kashmir,2100,Vodafone,No,0,0,0,0
+2,Jammu & Kashmir,2300,Bharti,No,0,10,2,2
+2,Jammu & Kashmir,2300,Jio,No,0,10,2,1
+2,Jammu & Kashmir,2300,Vodafone,No,0,0,0,0
+2,Jammu & Kashmir,2500,Bharti,No,0,0,0,0
+2,Jammu & Kashmir,2500,Jio,No,0,0,0,0
+2,Jammu & Kashmir,2500,Vodafone,No,0,0,0,0
+2,Karnataka,700,Bharti,No,0,0,0,0
+2,Karnataka,700,Jio,No,0,0,0,0
+2,Karnataka,700,Vodafone,No,0,0,0,0
+2,Karnataka,800,Bharti,No,0,0,0,0
+2,Karnataka,800,Jio,No,0,240,8,1
+2,Karnataka,800,Vodafone,No,0,0,0,0
+2,Karnataka,900,Bharti,No,0,0,0,0
+2,Karnataka,900,Jio,No,0,0,0,0
+2,Karnataka,900,Vodafone,No,0,0,0,0
+2,Karnataka,1800,Bharti,No,0,21.8,56,1
+2,Karnataka,1800,Jio,No,0,21.8,25,2
+2,Karnataka,1800,Vodafone,No,0,21.8,20,3
+2,Karnataka,2100,Bharti,No,0,0,0,0
+2,Karnataka,2100,Jio,No,0,0,0,0
+1,Bihar,1800,Jio,Bid,25,17.6,25,1
+1,Bihar,1800,Vodafone,No,0,0,0,0
+1,Bihar,2100,Bharti,No,0,0,0,0
+1,Bihar,2100,Jio,No,0,0,0,0
+1,Bihar,2100,Vodafone,No,0,0,0,0
+1,Bihar,2300,Bharti,Bid,1,70,1,2
+1,Bihar,2300,Jio,Bid,1,70,1,1
+1,Bihar,2300,Vodafone,No,0,0,0,0
+1,Bihar,2500,Bharti,No,0,0,0,0
+1,Bihar,2500,Jio,No,0,0,0,0
+1,Bihar,2500,Vodafone,No,0,0,0,0
+1,Delhi,700,Bharti,No,0,0,0,0
+1,Delhi,700,Jio,No,0,0,0,0
+1,Delhi,700,Vodafone,No,0,0,0,0
+1,Delhi,800,Bharti,No,0,0,0,0
+1,Delhi,800,Jio,Bid,7,800,7,1
+1,Delhi,800,Vodafone,No,0,0,0,0
+2,Karnataka,2100,Vodafone,No,0,0,0,0
+2,Karnataka,2300,Bharti,No,0,0,0,0
+2,Karnataka,2300,Jio,No,0,1120,1,1
+2,Karnataka,2300,Vodafone,No,0,0,0,0
+2,Karnataka,2500,Bharti,No,0,0,0,0
+2,Karnataka,2500,Jio,No,0,0,0,0
+2,Karnataka,2500,Vodafone,No,0,0,0,0
+2,Kerala,700,Bharti,No,0,0,0,0
+2,Kerala,700,Jio,No,0,0,0,0
+2,Kerala,700,Vodafone,No,0,0,0,0
+2,Kerala,800,Bharti,No,0,0,0,0
+2,Kerala,800,Jio,No,0,196.25,8,1
+2,Kerala,800,Vodafone,No,0,0,0,0
+2,Kerala,900,Bharti,No,0,0,0,0
+2,Kerala,900,Jio,No,0,0,0,0
+2,Kerala,900,Vodafone,No,0,0,0,0
+2,Kerala,1800,Bharti,No,0,19,25,2
+2,Kerala,1800,Jio,No,0,19,25,1
+2,Kerala,1800,Vodafone,No,0,0,0,0
+2,Kerala,2100,Bharti,No,0,0,0,0
+2,Kerala,2100,Jio,No,0,0,0,0
+2,Kerala,2100,Vodafone,No,0,0,0,0
+2,Kerala,2300,Bharti,No,0,200,1,2
+2,Kerala,2300,Jio,No,0,200,1,1
+2,Kerala,2300,Vodafone,No,0,0,0,0
+2,Kolkata,700,Bharti,No,0,0,0,0
+2,Kolkata,700,Jio,No,0,0,0,0
+2,Kolkata,700,Vodafone,No,0,0,0,0
+2,Kolkata,800,Bharti,No,0,0,0,0
+2,Kolkata,800,Jio,No,0,200,8,1
+2,Kolkata,800,Vodafone,No,0,0,0,0
+2,Kolkata,900,Bharti,No,0,0,0,0
+2,Kolkata,900,Jio,No,0,0,0,0
+2,Kolkata,900,Vodafone,No,0,0,0,0
+2,Kolkata,1800,Bharti,No,0,34.6,5,1
+2,Kolkata,1800,Jio,No,0,0,0,0
+2,Kolkata,1800,Vodafone,No,0,0,0,0
+2,Kolkata,2100,Bharti,No,0,0,0,0
+2,Kolkata,2100,Jio,No,0,0,0,0
+2,Kolkata,2100,Vodafone,No,0,0,0,0
+2,Kolkata,2300,Bharti,No,0,0,0,0
+2,Kolkata,2300,Jio,No,0,380,1,1
+2,Kolkata,2300,Vodafone,No,0,0,0,0
+2,Kolkata,2500,Bharti,No,0,0,0,0
+2,Kolkata,2500,Jio,No,0,0,0,0
+2,Kolkata,2500,Vodafone,No,0,0,0,0
+2,Madhya Pradesh,700,Bharti,No,0,0,0,0
+2,Madhya Pradesh,700,Jio,No,0,0,0,0
+2,Madhya Pradesh,700,Vodafone,No,0,0,0,0
+2,Madhya Pradesh,800,Bharti,No,0,178.75,4,2
+2,Madhya Pradesh,800,Jio,No,0,178.75,4,1
+2,Madhya Pradesh,800,Vodafone,No,0,0,0,0
+2,Madhya Pradesh,900,Bharti,No,0,0,0,0
+2,Madhya Pradesh,900,Jio,No,0,0,0,0
+2,Madhya Pradesh,900,Vodafone,No,0,0,0,0
+2,Madhya Pradesh,1800,Bharti,No,0,19,21,1
+2,Madhya Pradesh,1800,Jio,No,0,19,18,2
+2,Madhya Pradesh,1800,Vodafone,No,0,0,0,0
+2,Madhya Pradesh,2100,Bharti,No,0,0,0,0
+2,Madhya Pradesh,2100,Jio,No,0,0,0,0
+2,Madhya Pradesh,2100,Vodafone,No,0,0,0,0
+2,Madhya Pradesh,2300,Bharti,No,0,90,1,2
+2,Madhya Pradesh,2300,Jio,No,0,90,1,1
+2,Madhya Pradesh,2300,Vodafone,No,0,0,0,0
+2,Maharashtra,700,Bharti,No,0,0,0,0
+2,Maharashtra,700,Jio,No,0,0,0,0
+2,Maharashtra,700,Vodafone,No,0,0,0,0
+2,Maharashtra,800,Bharti,No,0,637.5,2,2
+2,Maharashtra,800,Jio,No,0,637.5,8,1
+2,Maharashtra,800,Vodafone,No,0,0,0,0
+2,Maharashtra,900,Bharti,No,0,0,0,0
+2,Maharashtra,900,Jio,No,0,0,0,0
+2,Maharashtra,900,Vodafone,No,0,0,0,0
+2,Maharashtra,1800,Bharti,No,0,0,0,0
+2,Maharashtra,1800,Jio,No,0,73,25,1
+2,Maharashtra,1800,Vodafone,No,0,0,0,0
+2,Maharashtra,2100,Bharti,No,0,0,0,0
+2,Maharashtra,2100,Jio,No,0,0,0,0
+2,Maharashtra,2100,Vodafone,No,0,0,0,0
+2,Maharashtra,2300,Bharti,No,0,720,1,2
+2,Maharashtra,2300,Jio,No,0,720,1,1
+2,Maharashtra,2300,Vodafone,No,0,0,0,0
+2,Maharashtra,2500,Bharti,No,0,0,0,0
+2,Maharashtra,2500,Jio,No,0,0,0,0
+2,Maharashtra,2500,Vodafone,No,0,0,0,0
+2,Mumbai,700,Bharti,No,0,0,0,0
+2,Mumbai,700,Jio,No,0,0,0,0
+2,Mumbai,700,Vodafone,No,0,0,0,0
+2,Mumbai,800,Bharti,No,0,0,0,0
+2,Mumbai,800,Jio,No,0,908.75,6,1
+2,Mumbai,800,Vodafone,No,0,0,0,0
+2,Mumbai,900,Bharti,No,0,0,0,0
+2,Mumbai,900,Jio,No,0,0,0,0
+2,Mumbai,900,Vodafone,No,0,0,0,0
+2,Mumbai,1800,Bharti,No,0,0,0,0
+2,Mumbai,1800,Jio,No,0,112.2,17,1
+2,Mumbai,1800,Vodafone,No,0,0,0,0
+2,Mumbai,2100,Bharti,No,0,0,0,0
+2,Mumbai,2100,Jio,No,0,0,0,0
+2,Mumbai,2100,Vodafone,No,0,0,0,0
+2,Mumbai,2300,Bharti,No,0,0,0,0
+2,Mumbai,2300,Jio,No,0,1670,1,1
+2,Mumbai,2300,Vodafone,No,0,0,0,0
+2,Mumbai,2500,Bharti,No,0,0,0,0
+2,Mumbai,2500,Jio,No,0,0,0,0
+2,Mumbai,2500,Vodafone,No,0,0,0,0
+2,North East,700,Bharti,No,0,0,0,0
+2,North East,700,Jio,No,0,0,0,0
+2,North East,700,Vodafone,No,0,0,0,0
+2,North East,800,Bharti,No,0,0,0,0
+2,North East,800,Jio,No,0,0,0,0
+2,North East,800,Vodafone,No,0,0,0,0
+2,North East,900,Bharti,No,0,4.6,6,1
+2,North East,900,Jio,No,0,0,0,0
+2,North East,900,Vodafone,No,0,0,0,0
+2,North East,1800,Bharti,No,0,0,0,0
+2,North East,1800,Jio,No,0,3.4,18,1
+2,North East,1800,Vodafone,No,0,0,0,0
+2,North East,2100,Bharti,No,0,30,1,1
+2,North East,2100,Jio,No,0,0,0,0
+2,North East,2100,Vodafone,No,0,0,0,0
+2,North East,2300,Bharti,No,0,10,1,2
+2,North East,2300,Jio,No,0,10,1,1
+2,North East,2300,Vodafone,No,0,0,0,0
+2,Odisha,700,Bharti,No,0,0,0,0
+2,Odisha,700,Jio,No,0,0,0,0
+2,Odisha,700,Vodafone,No,0,0,0,0
+2,Odisha,800,Bharti,No,0,0,0,0
+2,Odisha,800,Jio,No,0,58.75,4,1
+2,Odisha,800,Vodafone,No,0,0,0,0
+2,Odisha,900,Bharti,No,0,17.2,19,1
+2,Odisha,900,Jio,No,0,0,0,0
+2,Odisha,900,Vodafone,No,0,0,0,0
+2,Odisha,1800,Bharti,No,0,0,0,0
+2,Odisha,1800,Jio,No,0,5.4,25,1
+2,Odisha,1800,Vodafone,No,0,0,0,0
+2,Odisha,2100,Bharti,No,0,0,0,0
+2,Odisha,2100,Jio,No,0,0,0,0
+2,Odisha,2100,Vodafone,No,0,0,0,0
+2,Odisha,2300,Bharti,No,0,50,1,2
+2,Odisha,2300,Jio,No,0,50,1,1
+2,Odisha,2300,Vodafone,No,0,0,0,0
+2,Punjab,700,Bharti,No,0,0,0,0
+2,Punjab,700,Jio,No,0,0,0,0
+2,Punjab,700,Vodafone,No,0,0,0,0
+2,Punjab,800,Bharti,No,0,0,0,0
+2,Punjab,800,Jio,No,0,196.25,5,1
+2,Punjab,800,Vodafone,No,0,0,0,0
+2,Punjab,1800,Bharti,No,0,17.6,25,1
+2,Punjab,1800,Jio,No,0,17.6,24,2
+2,Punjab,1800,Vodafone,No,0,0,0,0
+2,Punjab,2100,Bharti,No,0,0,0,0
+2,Punjab,2100,Jio,No,0,0,0,0
+2,Punjab,2100,Vodafone,No,0,0,0,0
+2,Punjab,2300,Bharti,No,0,210,2,2
+2,Punjab,2300,Jio,No,0,210,2,1
+2,Punjab,2300,Vodafone,No,0,0,0,0
+2,Punjab,2500,Bharti,No,0,0,0,0
+2,Punjab,2500,Jio,No,0,0,0,0
+2,Punjab,2500,Vodafone,No,0,0,0,0
+1,Delhi,900,Bharti,No,0,0,0,0
+1,Delhi,900,Jio,No,0,0,0,0
+1,Delhi,900,Vodafone,No,0,0,0,0
+1,Delhi,1800,Bharti,No,0,0,0,0
+1,Delhi,1800,Jio,Bid,23,91.4,23,1
+1,Delhi,1800,Vodafone,No,0,0,0,0
+1,Delhi,2100,Bharti,No,0,0,0,0
+1,Delhi,2100,Jio,No,0,0,0,0
+1,Delhi,2100,Vodafone,No,0,0,0,0
+1,Delhi,2300,Bharti,No,0,0,0,0
+1,Delhi,2300,Jio,Bid,1,1640,1,1
+1,Delhi,2300,Vodafone,No,0,0,0,0
+1,Delhi,2500,Bharti,No,0,0,0,0
+1,Delhi,2500,Jio,No,0,0,0,0
+1,Delhi,2500,Vodafone,No,0,0,0,0
+1,Gujarat,700,Bharti,No,0,0,0,0
+1,Gujarat,700,Jio,No,0,0,0,0
+2,Rajasthan,700,Bharti,No,0,0,0,0
+2,Rajasthan,700,Jio,No,0,0,0,0
+2,Rajasthan,700,Vodafone,No,0,0,0,0
+2,Rajasthan,800,Bharti,No,0,0,0,0
+2,Rajasthan,800,Jio,No,0,332.5,4,1
+2,Rajasthan,800,Vodafone,No,0,0,0,0
+2,Rajasthan,1800,Bharti,No,0,0,0,0
+2,Rajasthan,1800,Jio,No,0,0,0,0
+2,Rajasthan,1800,Vodafone,No,0,0,0,0
+2,Rajasthan,2300,Bharti,No,0,60,2,2
+2,Rajasthan,2300,Jio,No,0,60,2,1
+2,Rajasthan,2300,Vodafone,No,0,0,0,0
+2,Tamil Nadu,700,Bharti,No,0,0,0,0
+2,Tamil Nadu,700,Jio,No,0,0,0,0
+2,Tamil Nadu,700,Vodafone,No,0,0,0,0
+2,Tamil Nadu,800,Bharti,No,0,0,0,0
+2,Tamil Nadu,800,Jio,No,0,217.5,8,1
+2,Tamil Nadu,800,Vodafone,No,0,0,0,0
+2,Tamil Nadu,900,Bharti,No,0,47,25,1
+2,Tamil Nadu,900,Jio,No,0,0,0,0
+2,Tamil Nadu,900,Vodafone,No,0,47,25,2
+2,Tamil Nadu,1800,Bharti,No,0,20,50,1
+2,Tamil Nadu,1800,Jio,No,0,20,16,2
+2,Tamil Nadu,1800,Vodafone,No,0,0,0,0
+2,Tamil Nadu,2300,Bharti,No,0,0,0,0
+2,Tamil Nadu,2300,Jio,No,0,1510,1,1
+2,Tamil Nadu,2300,Vodafone,No,0,0,0,0
+2,Tamil Nadu,2500,Bharti,No,0,0,0,0
+2,Tamil Nadu,2500,Jio,No,0,0,0,0
+2,Tamil Nadu,2500,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (East),700,Bharti,No,0,0,0,0
+2,Uttar Pradesh (East),700,Jio,No,0,0,0,0
+2,Uttar Pradesh (East),700,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (East),800,Bharti,No,0,0,0,0
+2,Uttar Pradesh (East),800,Jio,No,0,313.75,4,1
+2,Uttar Pradesh (East),800,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (East),900,Bharti,No,0,52.4,25,1
+2,Uttar Pradesh (East),900,Jio,No,0,0,0,0
+2,Uttar Pradesh (East),900,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (East),1800,Bharti,No,0,30.6,16,2
+2,Uttar Pradesh (East),1800,Jio,No,0,30.6,18,1
+2,Uttar Pradesh (East),1800,Vodafone,No,0,30.6,7,3
+2,Uttar Pradesh (East),2300,Bharti,No,0,90,2,2
+2,Uttar Pradesh (East),2300,Jio,No,0,90,2,1
+2,Uttar Pradesh (East),2300,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (West),700,Bharti,No,0,0,0,0
+2,Uttar Pradesh (West),700,Jio,No,0,0,0,0
+2,Uttar Pradesh (West),700,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (West),800,Bharti,No,0,201.25,4,2
+2,Uttar Pradesh (West),800,Jio,No,0,201.25,4,1
+2,Uttar Pradesh (West),800,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (West),900,Bharti,No,0,0,0,0
+2,Uttar Pradesh (West),900,Jio,No,0,0,0,0
+2,Uttar Pradesh (West),900,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (West),1800,Bharti,No,0,23,15,2
+2,Uttar Pradesh (West),1800,Jio,No,0,23,25,1
+2,Uttar Pradesh (West),1800,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (West),2100,Bharti,No,0,0,0,0
+2,Uttar Pradesh (West),2100,Jio,No,0,0,0,0
+2,Uttar Pradesh (West),2100,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (West),2300,Bharti,No,0,120,2,2
+2,Uttar Pradesh (West),2300,Jio,No,0,120,2,1
+2,Uttar Pradesh (West),2300,Vodafone,No,0,0,0,0
+2,West Bengal,700,Bharti,No,0,0,0,0
+2,West Bengal,700,Jio,No,0,0,0,0
+2,West Bengal,700,Vodafone,No,0,0,0,0
+2,West Bengal,800,Bharti,No,0,0,0,0
+2,West Bengal,800,Jio,No,0,92.5,8,1
+2,West Bengal,800,Vodafone,No,0,0,0,0
+2,West Bengal,900,Bharti,No,0,24.8,14,1
+2,West Bengal,900,Jio,No,0,0,0,0
+2,West Bengal,900,Vodafone,No,0,0,0,0
+2,West Bengal,1800,Bharti,No,0,0,0,0
+2,West Bengal,1800,Jio,No,0,0,0,0
+2,West Bengal,1800,Vodafone,No,0,0,0,0
+2,West Bengal,2100,Bharti,No,0,175,1,1
+2,West Bengal,2100,Jio,No,0,0,0,0
+2,West Bengal,2100,Vodafone,No,0,0,0,0
+2,West Bengal,2300,Bharti,No,0,60,1,2
+2,West Bengal,2300,Jio,No,0,60,1,1
+2,West Bengal,2300,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,700,Bharti,No,0,0,0,0
+3,Andhra Pradesh,700,Jio,No,0,0,0,0
+3,Andhra Pradesh,700,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,800,Bharti,No,0,0,0,0
+3,Andhra Pradesh,800,Jio,No,0,487.5,5,1
+3,Andhra Pradesh,800,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,900,Bharti,No,0,0,0,0
+3,Andhra Pradesh,900,Jio,No,0,0,0,0
+3,Andhra Pradesh,900,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,1800,Bharti,No,0,0,0,0
+3,Andhra Pradesh,1800,Jio,No,0,55.8,21,1
+3,Andhra Pradesh,1800,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,2100,Bharti,No,0,0,0,0
+3,Andhra Pradesh,2100,Jio,No,0,0,0,0
+3,Andhra Pradesh,2100,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,2300,Bharti,No,0,0,0,0
+3,Andhra Pradesh,2300,Jio,No,0,780,1,1
+3,Andhra Pradesh,2300,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,2500,Bharti,No,0,0,0,0
+3,Andhra Pradesh,2500,Jio,No,0,0,0,0
+3,Andhra Pradesh,2500,Vodafone,No,0,0,0,0
+3,Assam,700,Bharti,No,0,0,0,0
+3,Assam,700,Jio,No,0,0,0,0
+3,Assam,700,Vodafone,No,0,0,0,0
+3,Assam,800,Bharti,No,0,0,0,0
+3,Assam,800,Jio,No,0,0,0,0
+3,Assam,800,Vodafone,No,0,0,0,0
+3,Assam,900,Bharti,No,0,0,0,0
+3,Assam,900,Jio,No,0,0,0,0
+3,Assam,900,Vodafone,No,0,0,0,0
+3,Assam,1800,Bharti,No,0,0,0,0
+3,Assam,1800,Jio,No,0,9.2,23,1
+3,Assam,1800,Vodafone,No,0,0,0,0
+3,Assam,2100,Bharti,No,0,150,1,1
+3,Assam,2100,Jio,No,0,0,0,0
+3,Assam,2100,Vodafone,No,0,0,0,0
+3,Assam,2300,Bharti,No,0,20,1,2
+3,Assam,2300,Jio,No,0,20,1,1
+3,Assam,2300,Vodafone,No,0,0,0,0
+3,Bihar,700,Bharti,No,0,0,0,0
+3,Bihar,700,Jio,No,0,0,0,0
+3,Bihar,700,Vodafone,No,0,0,0,0
+3,Bihar,800,Bharti,No,0,0,0,0
+3,Bihar,800,Jio,No,0,170,4,1
+3,Bihar,800,Vodafone,No,0,0,0,0
+3,Bihar,900,Bharti,No,0,40.2,17,1
+3,Bihar,900,Jio,No,0,0,0,0
+3,Bihar,900,Vodafone,No,0,0,0,0
+3,Bihar,1800,Bharti,No,0,17.6,14,2
+3,Bihar,1800,Jio,No,0,17.6,25,1
+3,Bihar,1800,Vodafone,No,0,0,0,0
+3,Bihar,2100,Bharti,No,0,0,0,0
+3,Bihar,2100,Jio,No,0,0,0,0
+3,Bihar,2100,Vodafone,No,0,0,0,0
+3,Bihar,2300,Bharti,No,0,70,1,2
+3,Bihar,2300,Jio,No,0,70,1,1
+3,Bihar,2300,Vodafone,No,0,0,0,0
+3,Bihar,2500,Bharti,No,0,0,0,0
+3,Bihar,2500,Jio,No,0,0,0,0
+3,Bihar,2500,Vodafone,No,0,0,0,0
+3,Delhi,700,Bharti,No,0,0,0,0
+3,Delhi,700,Jio,No,0,0,0,0
+3,Delhi,700,Vodafone,No,0,0,0,0
+3,Delhi,800,Bharti,No,0,0,0,0
+3,Delhi,800,Jio,No,0,800,7,1
+3,Delhi,800,Vodafone,No,0,0,0,0
+3,Delhi,900,Bharti,No,0,0,0,0
+3,Delhi,900,Jio,No,0,0,0,0
+3,Delhi,900,Vodafone,No,0,0,0,0
+3,Delhi,1800,Bharti,No,0,0,0,0
+1,Gujarat,700,Vodafone,No,0,0,0,0
+1,Gujarat,800,Bharti,No,0,0,0,0
+1,Gujarat,800,Jio,Bid,4,481.25,4,1
+1,Gujarat,800,Vodafone,No,0,0,0,0
+1,Gujarat,900,Bharti,No,0,0,0,0
+1,Gujarat,900,Jio,No,0,0,0,0
+1,Gujarat,900,Vodafone,No,0,0,0,0
+1,Gujarat,1800,Bharti,No,0,0,0,0
+1,Gujarat,1800,Jio,Bid,20,54.6,20,1
+1,Gujarat,1800,Vodafone,No,0,0,0,0
+1,Gujarat,2100,Bharti,No,0,0,0,0
+1,Gujarat,2100,Jio,No,0,0,0,0
+1,Gujarat,2100,Vodafone,No,0,0,0,0
+1,Gujarat,2300,Bharti,Bid,1,700,1,2
+1,Gujarat,2300,Jio,Bid,1,700,1,1
+1,Gujarat,2300,Vodafone,No,0,0,0,0
+1,Gujarat,2500,Bharti,No,0,0,0,0
+3,Delhi,1800,Jio,No,0,91.4,23,1
+3,Delhi,1800,Vodafone,No,0,0,0,0
+3,Delhi,2100,Bharti,No,0,0,0,0
+3,Delhi,2100,Jio,No,0,0,0,0
+3,Delhi,2100,Vodafone,No,0,0,0,0
+3,Delhi,2300,Bharti,No,0,0,0,0
+3,Delhi,2300,Jio,No,0,1640,1,1
+3,Delhi,2300,Vodafone,No,0,0,0,0
+3,Delhi,2500,Bharti,No,0,0,0,0
+3,Delhi,2500,Jio,No,0,0,0,0
+3,Delhi,2500,Vodafone,No,0,0,0,0
+3,Gujarat,700,Bharti,No,0,0,0,0
+3,Gujarat,700,Jio,No,0,0,0,0
+3,Gujarat,700,Vodafone,No,0,0,0,0
+3,Gujarat,800,Bharti,No,0,0,0,0
+3,Gujarat,800,Jio,No,0,481.25,4,1
+3,Gujarat,800,Vodafone,No,0,0,0,0
+3,Gujarat,900,Bharti,Bid,21,74.6,21,1
+3,Gujarat,900,Jio,No,0,0,0,0
+3,Gujarat,900,Vodafone,No,0,0,0,0
+3,Gujarat,1800,Bharti,No,0,0,0,0
+3,Gujarat,1800,Jio,No,0,54.6,20,1
+3,Gujarat,1800,Vodafone,No,0,0,0,0
+3,Gujarat,2100,Bharti,No,0,0,0,0
+3,Gujarat,2100,Jio,No,0,0,0,0
+3,Gujarat,2100,Vodafone,No,0,0,0,0
+3,Gujarat,2300,Bharti,No,0,700,1,2
+3,Gujarat,2300,Jio,No,0,700,1,1
+3,Gujarat,2300,Vodafone,No,0,0,0,0
+3,Gujarat,2500,Bharti,No,0,0,0,0
+3,Gujarat,2500,Jio,No,0,0,0,0
+3,Gujarat,2500,Vodafone,No,0,0,0,0
+3,Haryana,700,Bharti,No,0,0,0,0
+3,Haryana,700,Jio,No,0,0,0,0
+3,Haryana,700,Vodafone,No,0,0,0,0
+3,Haryana,800,Bharti,No,0,71.25,3,2
+3,Haryana,800,Jio,No,0,71.25,4,1
+3,Haryana,800,Vodafone,No,0,0,0,0
+3,Haryana,900,Bharti,No,0,0,0,0
+3,Haryana,900,Jio,No,0,0,0,0
+3,Haryana,900,Vodafone,No,0,0,0,0
+3,Haryana,1800,Bharti,No,0,0,0,0
+3,Haryana,1800,Jio,No,0,11.4,25,1
+3,Haryana,1800,Vodafone,No,0,0,0,0
+3,Haryana,2100,Bharti,No,0,0,0,0
+3,Haryana,2100,Jio,No,0,0,0,0
+3,Haryana,2100,Vodafone,No,0,0,0,0
+3,Haryana,2300,Bharti,No,0,80,2,2
+3,Haryana,2300,Jio,No,0,80,2,1
+3,Haryana,2300,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,700,Bharti,No,0,0,0,0
+3,Himachal Pradesh,700,Jio,No,0,0,0,0
+3,Himachal Pradesh,700,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,800,Bharti,No,0,0,0,0
+3,Himachal Pradesh,800,Jio,No,0,30,4,1
+3,Himachal Pradesh,800,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,900,Bharti,No,0,7.4,13,1
+3,Himachal Pradesh,900,Jio,No,0,0,0,0
+3,Himachal Pradesh,900,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,1800,Bharti,No,0,3.6,24,1
+3,Himachal Pradesh,1800,Jio,No,0,0,0,0
+3,Himachal Pradesh,1800,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,2100,Bharti,No,0,0,0,0
+3,Himachal Pradesh,2100,Jio,No,0,0,0,0
+3,Himachal Pradesh,2100,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,2300,Bharti,No,0,10,1,2
+3,Himachal Pradesh,2300,Jio,No,0,10,1,1
+3,Himachal Pradesh,2300,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,2500,Bharti,No,0,0,0,0
+3,Himachal Pradesh,2500,Jio,No,0,0,0,0
+3,Himachal Pradesh,2500,Vodafone,No,0,0,0,0
+3,Jammu & Kashmir,700,Bharti,No,0,0,0,0
+3,Jammu & Kashmir,700,Jio,No,0,0,0,0
+3,Jammu & Kashmir,700,Vodafone,No,0,0,0,0
+3,Jammu & Kashmir,800,Bharti,No,0,0,0,0
+3,Jammu & Kashmir,800,Jio,No,0,0,0,0
+3,Jammu & Kashmir,800,Vodafone,No,0,0,0,0
+3,Jammu & Kashmir,1800,Bharti,No,0,3.4,50,1
+3,Jammu & Kashmir,1800,Jio,No,0,0,0,0
+3,Jammu & Kashmir,1800,Vodafone,No,0,0,0,0
+3,Jammu & Kashmir,2100,Bharti,No,0,0,0,0
+3,Jammu & Kashmir,2100,Jio,No,0,0,0,0
+3,Jammu & Kashmir,2100,Vodafone,No,0,0,0,0
+3,Jammu & Kashmir,2300,Bharti,No,0,10,2,2
+3,Jammu & Kashmir,2300,Jio,No,0,10,2,1
+3,Jammu & Kashmir,2300,Vodafone,No,0,0,0,0
+3,Jammu & Kashmir,2500,Bharti,No,0,0,0,0
+3,Jammu & Kashmir,2500,Jio,No,0,0,0,0
+3,Jammu & Kashmir,2500,Vodafone,No,0,0,0,0
+3,Karnataka,700,Bharti,No,0,0,0,0
+3,Karnataka,700,Jio,No,0,0,0,0
+3,Karnataka,700,Vodafone,No,0,0,0,0
+3,Karnataka,800,Bharti,No,0,0,0,0
+3,Karnataka,800,Jio,No,0,240,8,1
+3,Karnataka,800,Vodafone,No,0,0,0,0
+3,Karnataka,900,Bharti,No,0,0,0,0
+3,Karnataka,900,Jio,No,0,0,0,0
+3,Karnataka,900,Vodafone,No,0,0,0,0
+3,Karnataka,1800,Bharti,No,0,21.8,56,1
+3,Karnataka,1800,Jio,No,0,21.8,25,2
+3,Karnataka,1800,Vodafone,No,0,21.8,20,3
+3,Karnataka,2100,Bharti,No,0,0,0,0
+3,Karnataka,2100,Jio,No,0,0,0,0
+3,Karnataka,2100,Vodafone,No,0,0,0,0
+3,Karnataka,2300,Bharti,No,0,0,0,0
+3,Karnataka,2300,Jio,No,0,1120,1,1
+3,Karnataka,2300,Vodafone,No,0,0,0,0
+3,Karnataka,2500,Bharti,No,0,0,0,0
+3,Karnataka,2500,Jio,No,0,0,0,0
+3,Karnataka,2500,Vodafone,No,0,0,0,0
+3,Kerala,700,Bharti,No,0,0,0,0
+3,Kerala,700,Jio,No,0,0,0,0
+3,Kerala,700,Vodafone,No,0,0,0,0
+3,Kerala,800,Bharti,No,0,0,0,0
+3,Kerala,800,Jio,No,0,196.25,8,1
+3,Kerala,800,Vodafone,No,0,0,0,0
+3,Kerala,900,Bharti,Bid,23,39.8,23,1
+3,Kerala,900,Jio,No,0,0,0,0
+3,Kerala,900,Vodafone,No,0,0,0,0
+3,Kerala,1800,Bharti,No,0,19,25,2
+3,Kerala,1800,Jio,No,0,19,25,1
+3,Kerala,1800,Vodafone,No,0,0,0,0
+3,Kerala,2100,Bharti,No,0,0,0,0
+3,Kerala,2100,Jio,No,0,0,0,0
+3,Kerala,2100,Vodafone,No,0,0,0,0
+3,Kerala,2300,Bharti,No,0,200,1,2
+3,Kerala,2300,Jio,No,0,200,1,1
+3,Kerala,2300,Vodafone,No,0,0,0,0
+3,Kolkata,700,Bharti,No,0,0,0,0
+3,Kolkata,700,Jio,No,0,0,0,0
+3,Kolkata,700,Vodafone,No,0,0,0,0
+3,Kolkata,800,Bharti,No,0,0,0,0
+3,Kolkata,800,Jio,No,0,200,8,1
+3,Kolkata,800,Vodafone,No,0,0,0,0
+3,Kolkata,900,Bharti,No,0,0,0,0
+3,Kolkata,900,Jio,No,0,0,0,0
+3,Kolkata,900,Vodafone,No,0,0,0,0
+3,Kolkata,1800,Bharti,No,0,34.6,5,1
+3,Kolkata,1800,Jio,No,0,0,0,0
+3,Kolkata,1800,Vodafone,No,0,0,0,0
+3,Kolkata,2100,Bharti,No,0,0,0,0
+3,Kolkata,2100,Jio,No,0,0,0,0
+3,Kolkata,2100,Vodafone,No,0,0,0,0
+3,Kolkata,2300,Bharti,No,0,0,0,0
+3,Kolkata,2300,Jio,No,0,380,1,1
+3,Kolkata,2300,Vodafone,No,0,0,0,0
+3,Kolkata,2500,Bharti,No,0,0,0,0
+3,Kolkata,2500,Jio,No,0,0,0,0
+1,Gujarat,2500,Jio,No,0,0,0,0
+1,Gujarat,2500,Vodafone,No,0,0,0,0
+1,Haryana,700,Bharti,No,0,0,0,0
+1,Haryana,700,Jio,No,0,0,0,0
+1,Haryana,700,Vodafone,No,0,0,0,0
+1,Haryana,800,Bharti,Bid,3,71.25,3,2
+1,Haryana,800,Jio,Bid,4,71.25,4,1
+1,Haryana,800,Vodafone,No,0,0,0,0
+1,Haryana,900,Bharti,No,0,0,0,0
+1,Haryana,900,Jio,No,0,0,0,0
+1,Haryana,900,Vodafone,No,0,0,0,0
+1,Haryana,1800,Bharti,No,0,0,0,0
+1,Haryana,1800,Jio,Bid,25,11.4,25,1
+1,Haryana,1800,Vodafone,No,0,0,0,0
+1,Haryana,2100,Bharti,No,0,0,0,0
+1,Haryana,2100,Jio,No,0,0,0,0
+1,Haryana,2100,Vodafone,No,0,0,0,0
+3,Kolkata,2500,Vodafone,No,0,0,0,0
+3,Madhya Pradesh,700,Bharti,No,0,0,0,0
+3,Madhya Pradesh,700,Jio,No,0,0,0,0
+3,Madhya Pradesh,700,Vodafone,No,0,0,0,0
+3,Madhya Pradesh,800,Bharti,No,0,178.75,4,2
+3,Madhya Pradesh,800,Jio,No,0,178.75,4,1
+3,Madhya Pradesh,800,Vodafone,No,0,0,0,0
+3,Madhya Pradesh,900,Bharti,No,0,0,0,0
+3,Madhya Pradesh,900,Jio,No,0,0,0,0
+3,Madhya Pradesh,900,Vodafone,No,0,0,0,0
+3,Madhya Pradesh,1800,Bharti,No,0,19,21,1
+3,Madhya Pradesh,1800,Jio,No,0,19,18,2
+3,Madhya Pradesh,1800,Vodafone,No,0,0,0,0
+3,Madhya Pradesh,2100,Bharti,No,0,0,0,0
+3,Madhya Pradesh,2100,Jio,No,0,0,0,0
+3,Madhya Pradesh,2100,Vodafone,No,0,0,0,0
+3,Madhya Pradesh,2300,Bharti,No,0,90,1,2
+3,Madhya Pradesh,2300,Jio,No,0,90,1,1
+3,Madhya Pradesh,2300,Vodafone,No,0,0,0,0
+3,Maharashtra,700,Bharti,No,0,0,0,0
+3,Maharashtra,700,Jio,No,0,0,0,0
+3,Maharashtra,700,Vodafone,No,0,0,0,0
+3,Maharashtra,800,Bharti,No,0,637.5,2,2
+3,Maharashtra,800,Jio,No,0,637.5,8,1
+3,Maharashtra,800,Vodafone,No,0,0,0,0
+3,Maharashtra,900,Bharti,No,0,0,0,0
+3,Maharashtra,900,Jio,No,0,0,0,0
+3,Maharashtra,900,Vodafone,No,0,0,0,0
+3,Maharashtra,1800,Bharti,No,0,0,0,0
+3,Maharashtra,1800,Jio,No,0,73,25,1
+3,Maharashtra,1800,Vodafone,No,0,0,0,0
+3,Maharashtra,2100,Bharti,No,0,0,0,0
+3,Maharashtra,2100,Jio,No,0,0,0,0
+3,Maharashtra,2100,Vodafone,No,0,0,0,0
+3,Maharashtra,2300,Bharti,No,0,720,1,2
+3,Maharashtra,2300,Jio,No,0,720,1,1
+3,Maharashtra,2300,Vodafone,No,0,0,0,0
+3,Maharashtra,2500,Bharti,No,0,0,0,0
+3,Maharashtra,2500,Jio,No,0,0,0,0
+3,Maharashtra,2500,Vodafone,No,0,0,0,0
+3,Mumbai,700,Bharti,No,0,0,0,0
+3,Mumbai,700,Jio,No,0,0,0,0
+3,Mumbai,700,Vodafone,No,0,0,0,0
+3,Mumbai,800,Bharti,No,0,0,0,0
+3,Mumbai,800,Jio,No,0,908.75,6,1
+3,Mumbai,800,Vodafone,No,0,0,0,0
+3,Mumbai,900,Bharti,No,0,0,0,0
+3,Mumbai,900,Jio,No,0,0,0,0
+3,Mumbai,900,Vodafone,No,0,0,0,0
+3,Mumbai,1800,Bharti,No,0,0,0,0
+3,Mumbai,1800,Jio,No,0,112.2,17,1
+3,Mumbai,1800,Vodafone,No,0,0,0,0
+3,Mumbai,2100,Bharti,No,0,0,0,0
+3,Mumbai,2100,Jio,No,0,0,0,0
+3,Mumbai,2100,Vodafone,No,0,0,0,0
+3,Mumbai,2300,Bharti,No,0,0,0,0
+3,Mumbai,2300,Jio,No,0,1670,1,1
+3,Mumbai,2300,Vodafone,No,0,0,0,0
+3,Mumbai,2500,Bharti,No,0,0,0,0
+3,Mumbai,2500,Jio,No,0,0,0,0
+3,Mumbai,2500,Vodafone,No,0,0,0,0
+3,North East,700,Bharti,No,0,0,0,0
+3,North East,700,Jio,No,0,0,0,0
+3,North East,700,Vodafone,No,0,0,0,0
+3,North East,800,Bharti,No,0,0,0,0
+3,North East,800,Jio,No,0,0,0,0
+3,North East,800,Vodafone,No,0,0,0,0
+3,North East,900,Bharti,No,0,4.6,6,1
+3,North East,900,Jio,No,0,0,0,0
+3,North East,900,Vodafone,No,0,0,0,0
+3,North East,1800,Bharti,No,0,0,0,0
+3,North East,1800,Jio,No,0,3.4,18,1
+3,North East,1800,Vodafone,No,0,0,0,0
+3,North East,2100,Bharti,No,0,30,1,1
+3,North East,2100,Jio,No,0,0,0,0
+3,North East,2100,Vodafone,No,0,0,0,0
+3,North East,2300,Bharti,No,0,10,1,2
+3,North East,2300,Jio,No,0,10,1,1
+3,North East,2300,Vodafone,No,0,0,0,0
+3,Odisha,700,Bharti,No,0,0,0,0
+3,Odisha,700,Jio,No,0,0,0,0
+3,Odisha,700,Vodafone,No,0,0,0,0
+3,Odisha,800,Bharti,No,0,0,0,0
+3,Odisha,800,Jio,No,0,58.75,4,1
+3,Odisha,800,Vodafone,No,0,0,0,0
+3,Odisha,900,Bharti,No,0,17.2,19,1
+3,Odisha,900,Jio,No,0,0,0,0
+3,Odisha,900,Vodafone,No,0,0,0,0
+3,Odisha,1800,Bharti,Bid,13,5.4,13,2
+3,Odisha,1800,Jio,No,0,5.4,25,1
+3,Odisha,1800,Vodafone,No,0,0,0,0
+3,Odisha,2100,Bharti,No,0,0,0,0
+3,Odisha,2100,Jio,No,0,0,0,0
+3,Odisha,2100,Vodafone,No,0,0,0,0
+3,Odisha,2300,Bharti,No,0,50,1,2
+3,Odisha,2300,Jio,No,0,50,1,1
+3,Odisha,2300,Vodafone,No,0,0,0,0
+3,Punjab,700,Bharti,No,0,0,0,0
+3,Punjab,700,Jio,No,0,0,0,0
+3,Punjab,700,Vodafone,No,0,0,0,0
+3,Punjab,800,Bharti,No,0,0,0,0
+3,Punjab,800,Jio,No,0,196.25,5,1
+3,Punjab,800,Vodafone,No,0,0,0,0
+3,Punjab,1800,Bharti,No,0,17.6,25,1
+3,Punjab,1800,Jio,No,0,17.6,24,2
+3,Punjab,1800,Vodafone,No,0,0,0,0
+3,Punjab,2100,Bharti,No,0,0,0,0
+3,Punjab,2100,Jio,No,0,0,0,0
+3,Punjab,2100,Vodafone,No,0,0,0,0
+3,Punjab,2300,Bharti,No,0,210,2,2
+3,Punjab,2300,Jio,No,0,210,2,1
+3,Punjab,2300,Vodafone,No,0,0,0,0
+3,Punjab,2500,Bharti,No,0,0,0,0
+3,Punjab,2500,Jio,No,0,0,0,0
+3,Punjab,2500,Vodafone,No,0,0,0,0
+3,Rajasthan,700,Bharti,No,0,0,0,0
+3,Rajasthan,700,Jio,No,0,0,0,0
+3,Rajasthan,700,Vodafone,No,0,0,0,0
+3,Rajasthan,800,Bharti,No,0,0,0,0
+3,Rajasthan,800,Jio,No,0,332.5,4,1
+3,Rajasthan,800,Vodafone,No,0,0,0,0
+3,Rajasthan,1800,Bharti,No,0,0,0,0
+3,Rajasthan,1800,Jio,No,0,0,0,0
+3,Rajasthan,1800,Vodafone,No,0,0,0,0
+3,Rajasthan,2300,Bharti,No,0,60,2,2
+3,Rajasthan,2300,Jio,No,0,60,2,1
+3,Rajasthan,2300,Vodafone,No,0,0,0,0
+3,Tamil Nadu,700,Bharti,No,0,0,0,0
+3,Tamil Nadu,700,Jio,No,0,0,0,0
+3,Tamil Nadu,700,Vodafone,No,0,0,0,0
+3,Tamil Nadu,800,Bharti,No,0,0,0,0
+3,Tamil Nadu,800,Jio,No,0,217.5,8,1
+3,Tamil Nadu,800,Vodafone,No,0,0,0,0
+3,Tamil Nadu,900,Bharti,No,0,47,25,1
+3,Tamil Nadu,900,Jio,No,0,0,0,0
+3,Tamil Nadu,900,Vodafone,No,0,47,25,2
+3,Tamil Nadu,1800,Bharti,No,0,20,50,1
+3,Tamil Nadu,1800,Jio,No,0,20,16,2
+3,Tamil Nadu,1800,Vodafone,No,0,0,0,0
+3,Tamil Nadu,2300,Bharti,No,0,0,0,0
+3,Tamil Nadu,2300,Jio,No,0,1510,1,1
+3,Tamil Nadu,2300,Vodafone,No,0,0,0,0
+3,Tamil Nadu,2500,Bharti,No,0,0,0,0
+3,Tamil Nadu,2500,Jio,No,0,0,0,0
+3,Tamil Nadu,2500,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (East),700,Bharti,No,0,0,0,0
+3,Uttar Pradesh (East),700,Jio,No,0,0,0,0
+3,Uttar Pradesh (East),700,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (East),800,Bharti,No,0,0,0,0
+3,Uttar Pradesh (East),800,Jio,No,0,313.75,4,1
+3,Uttar Pradesh (East),800,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (East),900,Bharti,No,0,52.4,25,1
+3,Uttar Pradesh (East),900,Jio,No,0,0,0,0
+3,Uttar Pradesh (East),900,Vodafone,No,0,0,0,0
+1,Haryana,2300,Bharti,Bid,2,80,2,2
+1,Haryana,2300,Jio,Bid,2,80,2,1
+1,Haryana,2300,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,700,Bharti,No,0,0,0,0
+1,Himachal Pradesh,700,Jio,No,0,0,0,0
+1,Himachal Pradesh,700,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,800,Bharti,No,0,0,0,0
+1,Himachal Pradesh,800,Jio,Bid,4,30,4,1
+1,Himachal Pradesh,800,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,900,Bharti,Bid,13,7.4,13,1
+1,Himachal Pradesh,900,Jio,No,0,0,0,0
+1,Himachal Pradesh,900,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (East),1800,Bharti,No,0,30.6,16,2
+3,Uttar Pradesh (East),1800,Jio,No,0,30.6,18,1
+3,Uttar Pradesh (East),1800,Vodafone,No,0,30.6,7,3
+3,Uttar Pradesh (East),2300,Bharti,No,0,90,2,2
+3,Uttar Pradesh (East),2300,Jio,No,0,90,2,1
+3,Uttar Pradesh (East),2300,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (West),700,Bharti,No,0,0,0,0
+3,Uttar Pradesh (West),700,Jio,No,0,0,0,0
+3,Uttar Pradesh (West),700,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (West),800,Bharti,No,0,201.25,4,2
+3,Uttar Pradesh (West),800,Jio,No,0,201.25,4,1
+3,Uttar Pradesh (West),800,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (West),900,Bharti,No,0,0,0,0
+3,Uttar Pradesh (West),900,Jio,No,0,0,0,0
+3,Uttar Pradesh (West),900,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (West),1800,Bharti,No,0,23,15,2
+3,Uttar Pradesh (West),1800,Jio,No,0,23,25,1
+3,Uttar Pradesh (West),1800,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (West),2100,Bharti,No,0,0,0,0
+3,Uttar Pradesh (West),2100,Jio,No,0,0,0,0
+3,Uttar Pradesh (West),2100,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (West),2300,Bharti,No,0,120,2,2
+3,Uttar Pradesh (West),2300,Jio,No,0,120,2,1
+3,Uttar Pradesh (West),2300,Vodafone,No,0,0,0,0
+3,West Bengal,700,Bharti,No,0,0,0,0
+3,West Bengal,700,Jio,No,0,0,0,0
+3,West Bengal,700,Vodafone,No,0,0,0,0
+3,West Bengal,800,Bharti,No,0,0,0,0
+3,West Bengal,800,Jio,No,0,92.5,8,1
+3,West Bengal,800,Vodafone,No,0,0,0,0
+3,West Bengal,900,Bharti,No,0,24.8,14,1
+3,West Bengal,900,Jio,No,0,0,0,0
+3,West Bengal,900,Vodafone,No,0,0,0,0
+3,West Bengal,1800,Bharti,Bid,19,10.6,19,1
+3,West Bengal,1800,Jio,No,0,0,0,0
+3,West Bengal,1800,Vodafone,No,0,0,0,0
+3,West Bengal,2100,Bharti,No,0,175,1,1
+3,West Bengal,2100,Jio,No,0,0,0,0
+3,West Bengal,2100,Vodafone,No,0,0,0,0
+3,West Bengal,2300,Bharti,No,0,60,1,2
+3,West Bengal,2300,Jio,No,0,60,1,1
+3,West Bengal,2300,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,700,Bharti,No,0,0,0,0
+4,Andhra Pradesh,700,Jio,No,0,0,0,0
+4,Andhra Pradesh,700,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,800,Bharti,No,0,0,0,0
+4,Andhra Pradesh,800,Jio,No,0,487.5,5,1
+4,Andhra Pradesh,800,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,900,Bharti,No,0,0,0,0
+4,Andhra Pradesh,900,Jio,No,0,0,0,0
+4,Andhra Pradesh,900,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,1800,Bharti,No,0,0,0,0
+4,Andhra Pradesh,1800,Jio,No,0,55.8,21,1
+4,Andhra Pradesh,1800,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,2100,Bharti,No,0,0,0,0
+4,Andhra Pradesh,2100,Jio,No,0,0,0,0
+4,Andhra Pradesh,2100,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,2300,Bharti,No,0,0,0,0
+4,Andhra Pradesh,2300,Jio,No,0,780,1,1
+4,Andhra Pradesh,2300,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,2500,Bharti,No,0,0,0,0
+4,Andhra Pradesh,2500,Jio,No,0,0,0,0
+4,Andhra Pradesh,2500,Vodafone,No,0,0,0,0
+4,Assam,700,Bharti,No,0,0,0,0
+4,Assam,700,Jio,No,0,0,0,0
+4,Assam,700,Vodafone,No,0,0,0,0
+4,Assam,800,Bharti,No,0,0,0,0
+4,Assam,800,Jio,No,0,0,0,0
+4,Assam,800,Vodafone,No,0,0,0,0
+4,Assam,900,Bharti,No,0,0,0,0
+4,Assam,900,Jio,No,0,0,0,0
+4,Assam,900,Vodafone,No,0,0,0,0
+4,Assam,1800,Bharti,No,0,0,0,0
+4,Assam,1800,Jio,No,0,9.2,23,1
+4,Assam,1800,Vodafone,No,0,0,0,0
+4,Assam,2100,Bharti,No,0,150,1,1
+4,Assam,2100,Jio,No,0,0,0,0
+4,Assam,2100,Vodafone,No,0,0,0,0
+4,Assam,2300,Bharti,No,0,20,1,2
+4,Assam,2300,Jio,No,0,20,1,1
+4,Assam,2300,Vodafone,No,0,0,0,0
+4,Bihar,700,Bharti,No,0,0,0,0
+4,Bihar,700,Jio,No,0,0,0,0
+4,Bihar,700,Vodafone,No,0,0,0,0
+4,Bihar,800,Bharti,No,0,0,0,0
+4,Bihar,800,Jio,No,0,170,4,1
+4,Bihar,800,Vodafone,No,0,0,0,0
+4,Bihar,900,Bharti,No,0,40.2,17,1
+4,Bihar,900,Jio,No,0,0,0,0
+4,Bihar,900,Vodafone,No,0,0,0,0
+4,Bihar,1800,Bharti,No,0,17.6,14,2
+4,Bihar,1800,Jio,No,0,17.6,25,1
+4,Bihar,1800,Vodafone,No,0,0,0,0
+4,Bihar,2100,Bharti,No,0,0,0,0
+4,Bihar,2100,Jio,No,0,0,0,0
+4,Bihar,2100,Vodafone,No,0,0,0,0
+4,Bihar,2300,Bharti,No,0,70,1,2
+4,Bihar,2300,Jio,No,0,70,1,1
+4,Bihar,2300,Vodafone,No,0,0,0,0
+4,Bihar,2500,Bharti,No,0,0,0,0
+4,Bihar,2500,Jio,No,0,0,0,0
+4,Bihar,2500,Vodafone,No,0,0,0,0
+4,Delhi,700,Bharti,No,0,0,0,0
+4,Delhi,700,Jio,No,0,0,0,0
+4,Delhi,700,Vodafone,No,0,0,0,0
+4,Delhi,800,Bharti,No,0,0,0,0
+4,Delhi,800,Jio,No,0,800,7,1
+4,Delhi,800,Vodafone,No,0,0,0,0
+4,Delhi,900,Bharti,No,0,0,0,0
+4,Delhi,900,Jio,No,0,0,0,0
+4,Delhi,900,Vodafone,No,0,0,0,0
+4,Delhi,1800,Bharti,No,0,0,0,0
+4,Delhi,1800,Jio,No,0,91.4,23,1
+4,Delhi,1800,Vodafone,No,0,0,0,0
+4,Delhi,2100,Bharti,No,0,0,0,0
+4,Delhi,2100,Jio,No,0,0,0,0
+4,Delhi,2100,Vodafone,No,0,0,0,0
+4,Delhi,2300,Bharti,No,0,0,0,0
+4,Delhi,2300,Jio,No,0,1640,1,1
+4,Delhi,2300,Vodafone,No,0,0,0,0
+4,Delhi,2500,Bharti,No,0,0,0,0
+4,Delhi,2500,Jio,No,0,0,0,0
+4,Delhi,2500,Vodafone,No,0,0,0,0
+4,Gujarat,700,Bharti,No,0,0,0,0
+4,Gujarat,700,Jio,No,0,0,0,0
+4,Gujarat,700,Vodafone,No,0,0,0,0
+4,Gujarat,800,Bharti,No,0,0,0,0
+4,Gujarat,800,Jio,No,0,481.25,4,1
+4,Gujarat,800,Vodafone,No,0,0,0,0
+4,Gujarat,900,Bharti,No,0,74.6,21,1
+4,Gujarat,900,Jio,No,0,0,0,0
+4,Gujarat,900,Vodafone,No,0,0,0,0
+4,Gujarat,1800,Bharti,No,0,0,0,0
+4,Gujarat,1800,Jio,No,0,54.6,20,1
+4,Gujarat,1800,Vodafone,No,0,0,0,0
+4,Gujarat,2100,Bharti,No,0,0,0,0
+4,Gujarat,2100,Jio,No,0,0,0,0
+4,Gujarat,2100,Vodafone,No,0,0,0,0
+4,Gujarat,2300,Bharti,No,0,700,1,2
+4,Gujarat,2300,Jio,No,0,700,1,1
+4,Gujarat,2300,Vodafone,No,0,0,0,0
+4,Gujarat,2500,Bharti,No,0,0,0,0
+4,Gujarat,2500,Jio,No,0,0,0,0
+4,Gujarat,2500,Vodafone,No,0,0,0,0
+4,Haryana,700,Bharti,No,0,0,0,0
+4,Haryana,700,Jio,No,0,0,0,0
+4,Haryana,700,Vodafone,No,0,0,0,0
+4,Haryana,800,Bharti,No,0,71.25,3,2
+4,Haryana,800,Jio,No,0,71.25,4,1
+4,Haryana,800,Vodafone,No,0,0,0,0
+4,Haryana,900,Bharti,No,0,0,0,0
+4,Haryana,900,Jio,No,0,0,0,0
+4,Haryana,900,Vodafone,No,0,0,0,0
+4,Haryana,1800,Bharti,No,0,0,0,0
+4,Haryana,1800,Jio,No,0,11.4,25,1
+4,Haryana,1800,Vodafone,No,0,0,0,0
+4,Haryana,2100,Bharti,No,0,0,0,0
+1,Himachal Pradesh,1800,Bharti,Bid,24,3.6,24,1
+1,Himachal Pradesh,1800,Jio,No,0,0,0,0
+1,Himachal Pradesh,1800,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,2100,Bharti,No,0,0,0,0
+1,Himachal Pradesh,2100,Jio,No,0,0,0,0
+1,Himachal Pradesh,2100,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,2300,Bharti,Bid,1,10,1,2
+1,Himachal Pradesh,2300,Jio,Bid,1,10,1,1
+1,Himachal Pradesh,2300,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,2500,Bharti,No,0,0,0,0
+1,Himachal Pradesh,2500,Jio,No,0,0,0,0
+4,Haryana,2100,Jio,No,0,0,0,0
+4,Haryana,2100,Vodafone,No,0,0,0,0
+4,Haryana,2300,Bharti,No,0,80,2,2
+4,Haryana,2300,Jio,No,0,80,2,1
+4,Haryana,2300,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,700,Bharti,No,0,0,0,0
+4,Himachal Pradesh,700,Jio,No,0,0,0,0
+4,Himachal Pradesh,700,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,800,Bharti,No,0,0,0,0
+4,Himachal Pradesh,800,Jio,No,0,30,4,1
+4,Himachal Pradesh,800,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,900,Bharti,No,0,7.4,13,1
+4,Himachal Pradesh,900,Jio,No,0,0,0,0
+4,Himachal Pradesh,900,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,1800,Bharti,No,0,3.6,24,1
+4,Himachal Pradesh,1800,Jio,No,0,0,0,0
+4,Himachal Pradesh,1800,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,2100,Bharti,No,0,0,0,0
+4,Himachal Pradesh,2100,Jio,No,0,0,0,0
+4,Himachal Pradesh,2100,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,2300,Bharti,No,0,10,1,2
+4,Himachal Pradesh,2300,Jio,No,0,10,1,1
+4,Himachal Pradesh,2300,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,2500,Bharti,No,0,0,0,0
+4,Himachal Pradesh,2500,Jio,No,0,0,0,0
+4,Himachal Pradesh,2500,Vodafone,No,0,0,0,0
+4,Jammu & Kashmir,700,Bharti,No,0,0,0,0
+4,Jammu & Kashmir,700,Jio,No,0,0,0,0
+4,Jammu & Kashmir,700,Vodafone,No,0,0,0,0
+4,Jammu & Kashmir,800,Bharti,No,0,0,0,0
+4,Jammu & Kashmir,800,Jio,No,0,0,0,0
+4,Jammu & Kashmir,800,Vodafone,No,0,0,0,0
+4,Jammu & Kashmir,1800,Bharti,No,0,3.4,50,1
+4,Jammu & Kashmir,1800,Jio,No,0,0,0,0
+4,Jammu & Kashmir,1800,Vodafone,No,0,0,0,0
+4,Jammu & Kashmir,2100,Bharti,No,0,0,0,0
+4,Jammu & Kashmir,2100,Jio,No,0,0,0,0
+4,Jammu & Kashmir,2100,Vodafone,No,0,0,0,0
+4,Jammu & Kashmir,2300,Bharti,No,0,10,2,2
+4,Jammu & Kashmir,2300,Jio,No,0,10,2,1
+4,Jammu & Kashmir,2300,Vodafone,No,0,0,0,0
+4,Jammu & Kashmir,2500,Bharti,No,0,0,0,0
+4,Jammu & Kashmir,2500,Jio,No,0,0,0,0
+4,Jammu & Kashmir,2500,Vodafone,No,0,0,0,0
+4,Karnataka,700,Bharti,No,0,0,0,0
+4,Karnataka,700,Jio,No,0,0,0,0
+4,Karnataka,700,Vodafone,No,0,0,0,0
+4,Karnataka,800,Bharti,No,0,0,0,0
+4,Karnataka,800,Jio,No,0,240,8,1
+4,Karnataka,800,Vodafone,No,0,0,0,0
+4,Karnataka,900,Bharti,No,0,0,0,0
+4,Karnataka,900,Jio,No,0,0,0,0
+4,Karnataka,900,Vodafone,No,0,0,0,0
+4,Karnataka,1800,Bharti,No,0,21.8,56,1
+4,Karnataka,1800,Jio,No,0,21.8,25,2
+4,Karnataka,1800,Vodafone,No,0,21.8,20,3
+4,Karnataka,2100,Bharti,No,0,0,0,0
+4,Karnataka,2100,Jio,No,0,0,0,0
+4,Karnataka,2100,Vodafone,No,0,0,0,0
+4,Karnataka,2300,Bharti,No,0,0,0,0
+4,Karnataka,2300,Jio,No,0,1120,1,1
+4,Karnataka,2300,Vodafone,No,0,0,0,0
+4,Karnataka,2500,Bharti,No,0,0,0,0
+4,Karnataka,2500,Jio,No,0,0,0,0
+4,Karnataka,2500,Vodafone,No,0,0,0,0
+4,Kerala,700,Bharti,No,0,0,0,0
+4,Kerala,700,Jio,No,0,0,0,0
+4,Kerala,700,Vodafone,No,0,0,0,0
+4,Kerala,800,Bharti,No,0,0,0,0
+4,Kerala,800,Jio,No,0,196.25,8,1
+4,Kerala,800,Vodafone,No,0,0,0,0
+4,Kerala,900,Bharti,No,0,39.8,23,1
+4,Kerala,900,Jio,No,0,0,0,0
+4,Kerala,900,Vodafone,No,0,0,0,0
+4,Kerala,1800,Bharti,No,0,19,25,2
+4,Kerala,1800,Jio,No,0,19,25,1
+4,Kerala,1800,Vodafone,No,0,0,0,0
+4,Kerala,2100,Bharti,No,0,0,0,0
+4,Kerala,2100,Jio,No,0,0,0,0
+4,Kerala,2100,Vodafone,No,0,0,0,0
+4,Kerala,2300,Bharti,No,0,200,1,2
+4,Kerala,2300,Jio,No,0,200,1,1
+4,Kerala,2300,Vodafone,No,0,0,0,0
+4,Kolkata,700,Bharti,No,0,0,0,0
+4,Kolkata,700,Jio,No,0,0,0,0
+4,Kolkata,700,Vodafone,No,0,0,0,0
+4,Kolkata,800,Bharti,No,0,0,0,0
+4,Kolkata,800,Jio,No,0,200,8,1
+4,Kolkata,800,Vodafone,No,0,0,0,0
+4,Kolkata,900,Bharti,No,0,0,0,0
+4,Kolkata,900,Jio,No,0,0,0,0
+4,Kolkata,900,Vodafone,No,0,0,0,0
+4,Kolkata,1800,Bharti,No,0,34.6,5,1
+4,Kolkata,1800,Jio,No,0,0,0,0
+4,Kolkata,1800,Vodafone,No,0,0,0,0
+4,Kolkata,2100,Bharti,No,0,0,0,0
+4,Kolkata,2100,Jio,No,0,0,0,0
+4,Kolkata,2100,Vodafone,No,0,0,0,0
+4,Kolkata,2300,Bharti,No,0,0,0,0
+4,Kolkata,2300,Jio,No,0,380,1,1
+4,Kolkata,2300,Vodafone,No,0,0,0,0
+4,Kolkata,2500,Bharti,No,0,0,0,0
+4,Kolkata,2500,Jio,No,0,0,0,0
+4,Kolkata,2500,Vodafone,No,0,0,0,0
+4,Madhya Pradesh,700,Bharti,No,0,0,0,0
+4,Madhya Pradesh,700,Jio,No,0,0,0,0
+4,Madhya Pradesh,700,Vodafone,No,0,0,0,0
+4,Madhya Pradesh,800,Bharti,No,0,178.75,4,2
+4,Madhya Pradesh,800,Jio,No,0,178.75,4,1
+4,Madhya Pradesh,800,Vodafone,No,0,0,0,0
+4,Madhya Pradesh,900,Bharti,No,0,0,0,0
+4,Madhya Pradesh,900,Jio,No,0,0,0,0
+4,Madhya Pradesh,900,Vodafone,No,0,0,0,0
+4,Madhya Pradesh,1800,Bharti,No,0,19,21,1
+4,Madhya Pradesh,1800,Jio,No,0,19,18,2
+4,Madhya Pradesh,1800,Vodafone,No,0,0,0,0
+4,Madhya Pradesh,2100,Bharti,No,0,0,0,0
+4,Madhya Pradesh,2100,Jio,No,0,0,0,0
+4,Madhya Pradesh,2100,Vodafone,No,0,0,0,0
+4,Madhya Pradesh,2300,Bharti,No,0,90,1,2
+4,Madhya Pradesh,2300,Jio,No,0,90,1,1
+4,Madhya Pradesh,2300,Vodafone,No,0,0,0,0
+4,Maharashtra,700,Bharti,No,0,0,0,0
+4,Maharashtra,700,Jio,No,0,0,0,0
+4,Maharashtra,700,Vodafone,No,0,0,0,0
+4,Maharashtra,800,Bharti,No,0,637.5,2,2
+4,Maharashtra,800,Jio,No,0,637.5,8,1
+4,Maharashtra,800,Vodafone,No,0,0,0,0
+4,Maharashtra,900,Bharti,No,0,0,0,0
+4,Maharashtra,900,Jio,No,0,0,0,0
+4,Maharashtra,900,Vodafone,No,0,0,0,0
+4,Maharashtra,1800,Bharti,No,0,0,0,0
+4,Maharashtra,1800,Jio,No,0,73,25,1
+4,Maharashtra,1800,Vodafone,No,0,0,0,0
+4,Maharashtra,2100,Bharti,No,0,0,0,0
+4,Maharashtra,2100,Jio,No,0,0,0,0
+4,Maharashtra,2100,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,700,Bharti,No,0,0,0,0
+1,Andhra Pradesh,700,Jio,No,0,0,0,0
+1,Andhra Pradesh,700,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,800,Bharti,No,0,0,0,0
+1,Andhra Pradesh,800,Jio,Bid,5,487.5,5,1
+1,Andhra Pradesh,800,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,900,Bharti,No,0,0,0,0
+1,Andhra Pradesh,900,Jio,No,0,0,0,0
+1,Andhra Pradesh,900,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,1800,Bharti,No,0,0,0,0
+1,Andhra Pradesh,1800,Jio,Bid,21,55.8,21,1
+1,Andhra Pradesh,1800,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,2100,Bharti,No,0,0,0,0
+1,Andhra Pradesh,2100,Jio,No,0,0,0,0
+1,Andhra Pradesh,2100,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,2500,Vodafone,No,0,0,0,0
+1,Jammu & Kashmir,700,Bharti,No,0,0,0,0
+1,Jammu & Kashmir,700,Jio,No,0,0,0,0
+1,Jammu & Kashmir,700,Vodafone,No,0,0,0,0
+1,Jammu & Kashmir,800,Bharti,No,0,0,0,0
+1,Jammu & Kashmir,800,Jio,No,0,0,0,0
+1,Jammu & Kashmir,800,Vodafone,No,0,0,0,0
+1,Jammu & Kashmir,1800,Bharti,Bid,50,3.4,50,1
+1,Jammu & Kashmir,1800,Jio,No,0,0,0,0
+1,Jammu & Kashmir,1800,Vodafone,No,0,0,0,0
+1,Jammu & Kashmir,2100,Bharti,No,0,0,0,0
+4,Maharashtra,2300,Bharti,No,0,720,1,2
+4,Maharashtra,2300,Jio,No,0,720,1,1
+4,Maharashtra,2300,Vodafone,No,0,0,0,0
+4,Maharashtra,2500,Bharti,No,0,0,0,0
+4,Maharashtra,2500,Jio,No,0,0,0,0
+4,Maharashtra,2500,Vodafone,No,0,0,0,0
+4,Mumbai,700,Bharti,No,0,0,0,0
+4,Mumbai,700,Jio,No,0,0,0,0
+4,Mumbai,700,Vodafone,No,0,0,0,0
+4,Mumbai,800,Bharti,No,0,0,0,0
+4,Mumbai,800,Jio,No,0,908.75,6,1
+4,Mumbai,800,Vodafone,No,0,0,0,0
+4,Mumbai,900,Bharti,No,0,0,0,0
+4,Mumbai,900,Jio,No,0,0,0,0
+4,Mumbai,900,Vodafone,No,0,0,0,0
+4,Mumbai,1800,Bharti,No,0,0,0,0
+4,Mumbai,1800,Jio,No,0,112.2,17,1
+4,Mumbai,1800,Vodafone,No,0,0,0,0
+4,Mumbai,2100,Bharti,No,0,0,0,0
+4,Mumbai,2100,Jio,No,0,0,0,0
+4,Mumbai,2100,Vodafone,No,0,0,0,0
+4,Mumbai,2300,Bharti,No,0,0,0,0
+4,Mumbai,2300,Jio,No,0,1670,1,1
+4,Mumbai,2300,Vodafone,No,0,0,0,0
+4,Mumbai,2500,Bharti,No,0,0,0,0
+4,Mumbai,2500,Jio,No,0,0,0,0
+4,Mumbai,2500,Vodafone,No,0,0,0,0
+4,North East,700,Bharti,No,0,0,0,0
+4,North East,700,Jio,No,0,0,0,0
+4,North East,700,Vodafone,No,0,0,0,0
+4,North East,800,Bharti,No,0,0,0,0
+4,North East,800,Jio,No,0,0,0,0
+4,North East,800,Vodafone,No,0,0,0,0
+4,North East,900,Bharti,No,0,4.6,6,1
+4,North East,900,Jio,No,0,0,0,0
+4,North East,900,Vodafone,No,0,0,0,0
+4,North East,1800,Bharti,No,0,0,0,0
+4,North East,1800,Jio,No,0,3.4,18,1
+4,North East,1800,Vodafone,No,0,0,0,0
+4,North East,2100,Bharti,No,0,30,1,1
+4,North East,2100,Jio,No,0,0,0,0
+4,North East,2100,Vodafone,No,0,0,0,0
+4,North East,2300,Bharti,No,0,10,1,2
+4,North East,2300,Jio,No,0,10,1,1
+4,North East,2300,Vodafone,No,0,0,0,0
+4,Odisha,700,Bharti,No,0,0,0,0
+4,Odisha,700,Jio,No,0,0,0,0
+4,Odisha,700,Vodafone,No,0,0,0,0
+4,Odisha,800,Bharti,No,0,0,0,0
+4,Odisha,800,Jio,No,0,58.75,4,1
+4,Odisha,800,Vodafone,No,0,0,0,0
+4,Odisha,900,Bharti,No,0,17.2,19,1
+4,Odisha,900,Jio,No,0,0,0,0
+4,Odisha,900,Vodafone,No,0,0,0,0
+4,Odisha,1800,Bharti,No,0,5.4,13,2
+4,Odisha,1800,Jio,No,0,5.4,25,1
+4,Odisha,1800,Vodafone,No,0,0,0,0
+4,Odisha,2100,Bharti,No,0,0,0,0
+4,Odisha,2100,Jio,No,0,0,0,0
+4,Odisha,2100,Vodafone,No,0,0,0,0
+4,Odisha,2300,Bharti,No,0,50,1,2
+4,Odisha,2300,Jio,No,0,50,1,1
+4,Odisha,2300,Vodafone,No,0,0,0,0
+4,Punjab,700,Bharti,No,0,0,0,0
+4,Punjab,700,Jio,No,0,0,0,0
+4,Punjab,700,Vodafone,No,0,0,0,0
+4,Punjab,800,Bharti,No,0,0,0,0
+4,Punjab,800,Jio,No,0,196.25,5,1
+4,Punjab,800,Vodafone,No,0,0,0,0
+4,Punjab,1800,Bharti,No,0,17.6,25,1
+4,Punjab,1800,Jio,No,0,17.6,24,2
+4,Punjab,1800,Vodafone,No,0,0,0,0
+4,Punjab,2100,Bharti,No,0,0,0,0
+4,Punjab,2100,Jio,No,0,0,0,0
+4,Punjab,2100,Vodafone,No,0,0,0,0
+4,Punjab,2300,Bharti,No,0,210,2,2
+4,Punjab,2300,Jio,No,0,210,2,1
+4,Punjab,2300,Vodafone,No,0,0,0,0
+4,Punjab,2500,Bharti,No,0,0,0,0
+4,Punjab,2500,Jio,No,0,0,0,0
+4,Punjab,2500,Vodafone,No,0,0,0,0
+4,Rajasthan,700,Bharti,No,0,0,0,0
+4,Rajasthan,700,Jio,No,0,0,0,0
+4,Rajasthan,700,Vodafone,No,0,0,0,0
+4,Rajasthan,800,Bharti,No,0,0,0,0
+4,Rajasthan,800,Jio,No,0,332.5,4,1
+4,Rajasthan,800,Vodafone,No,0,0,0,0
+4,Rajasthan,1800,Bharti,No,0,0,0,0
+4,Rajasthan,1800,Jio,No,0,0,0,0
+4,Rajasthan,1800,Vodafone,No,0,0,0,0
+4,Rajasthan,2300,Bharti,No,0,60,2,2
+4,Rajasthan,2300,Jio,No,0,60,2,1
+4,Rajasthan,2300,Vodafone,No,0,0,0,0
+4,Tamil Nadu,700,Bharti,No,0,0,0,0
+4,Tamil Nadu,700,Jio,No,0,0,0,0
+4,Tamil Nadu,700,Vodafone,No,0,0,0,0
+4,Tamil Nadu,800,Bharti,No,0,0,0,0
+4,Tamil Nadu,800,Jio,No,0,217.5,8,1
+4,Tamil Nadu,800,Vodafone,No,0,0,0,0
+4,Tamil Nadu,900,Bharti,No,0,47,25,1
+4,Tamil Nadu,900,Jio,No,0,0,0,0
+4,Tamil Nadu,900,Vodafone,No,0,47,25,2
+4,Tamil Nadu,1800,Bharti,No,0,20,50,1
+4,Tamil Nadu,1800,Jio,No,0,20,16,2
+4,Tamil Nadu,1800,Vodafone,No,0,0,0,0
+4,Tamil Nadu,2300,Bharti,No,0,0,0,0
+4,Tamil Nadu,2300,Jio,No,0,1510,1,1
+4,Tamil Nadu,2300,Vodafone,No,0,0,0,0
+4,Tamil Nadu,2500,Bharti,No,0,0,0,0
+4,Tamil Nadu,2500,Jio,No,0,0,0,0
+4,Tamil Nadu,2500,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (East),700,Bharti,No,0,0,0,0
+4,Uttar Pradesh (East),700,Jio,No,0,0,0,0
+4,Uttar Pradesh (East),700,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (East),800,Bharti,No,0,0,0,0
+4,Uttar Pradesh (East),800,Jio,No,0,313.75,4,1
+4,Uttar Pradesh (East),800,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (East),900,Bharti,No,0,52.4,25,1
+4,Uttar Pradesh (East),900,Jio,No,0,0,0,0
+4,Uttar Pradesh (East),900,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (East),1800,Bharti,No,0,30.6,16,2
+4,Uttar Pradesh (East),1800,Jio,No,0,30.6,18,1
+4,Uttar Pradesh (East),1800,Vodafone,No,0,30.6,7,3
+4,Uttar Pradesh (East),2300,Bharti,No,0,90,2,2
+4,Uttar Pradesh (East),2300,Jio,No,0,90,2,1
+4,Uttar Pradesh (East),2300,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (West),700,Bharti,No,0,0,0,0
+4,Uttar Pradesh (West),700,Jio,No,0,0,0,0
+4,Uttar Pradesh (West),700,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (West),800,Bharti,No,0,201.25,4,2
+4,Uttar Pradesh (West),800,Jio,No,0,201.25,4,1
+4,Uttar Pradesh (West),800,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (West),900,Bharti,No,0,0,0,0
+4,Uttar Pradesh (West),900,Jio,No,0,0,0,0
+4,Uttar Pradesh (West),900,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (West),1800,Bharti,No,0,23,15,2
+4,Uttar Pradesh (West),1800,Jio,No,0,23,25,1
+4,Uttar Pradesh (West),1800,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (West),2100,Bharti,No,0,0,0,0
+4,Uttar Pradesh (West),2100,Jio,No,0,0,0,0
+4,Uttar Pradesh (West),2100,Vodafone,No,0,0,0,0
+4,Uttar Pradesh (West),2300,Bharti,No,0,120,2,2
+4,Uttar Pradesh (West),2300,Jio,No,0,120,2,1
+4,Uttar Pradesh (West),2300,Vodafone,No,0,0,0,0
+4,West Bengal,700,Bharti,No,0,0,0,0
+4,West Bengal,700,Jio,No,0,0,0,0
+4,West Bengal,700,Vodafone,No,0,0,0,0
+4,West Bengal,800,Bharti,No,0,0,0,0
+4,West Bengal,800,Jio,No,0,92.5,8,1
+4,West Bengal,800,Vodafone,No,0,0,0,0
+4,West Bengal,900,Bharti,No,0,24.8,14,1
+4,West Bengal,900,Jio,No,0,0,0,0
+1,Jammu & Kashmir,2100,Jio,No,0,0,0,0
+1,Jammu & Kashmir,2100,Vodafone,No,0,0,0,0
+1,Jammu & Kashmir,2300,Bharti,Bid,2,10,2,2
+1,Jammu & Kashmir,2300,Jio,Bid,2,10,2,1
+1,Jammu & Kashmir,2300,Vodafone,No,0,0,0,0
+1,Jammu & Kashmir,2500,Bharti,No,0,0,0,0
+1,Jammu & Kashmir,2500,Jio,No,0,0,0,0
+1,Jammu & Kashmir,2500,Vodafone,No,0,0,0,0
+1,Karnataka,700,Bharti,No,0,0,0,0
+1,Karnataka,700,Jio,No,0,0,0,0
+1,Karnataka,700,Vodafone,No,0,0,0,0
+1,Karnataka,800,Bharti,No,0,0,0,0
+4,West Bengal,900,Vodafone,No,0,0,0,0
+4,West Bengal,1800,Bharti,No,0,10.6,19,1
+4,West Bengal,1800,Jio,No,0,0,0,0
+4,West Bengal,1800,Vodafone,No,0,0,0,0
+4,West Bengal,2100,Bharti,No,0,175,1,1
+4,West Bengal,2100,Jio,No,0,0,0,0
+4,West Bengal,2100,Vodafone,No,0,0,0,0
+4,West Bengal,2300,Bharti,No,0,60,1,2
+4,West Bengal,2300,Jio,No,0,60,1,1
+4,West Bengal,2300,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,700,Bharti,No,0,0,0,0
+5,Andhra Pradesh,700,Jio,No,0,0,0,0
+5,Andhra Pradesh,700,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,800,Bharti,No,0,0,0,0
+5,Andhra Pradesh,800,Jio,No,0,487.5,5,1
+5,Andhra Pradesh,800,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,900,Bharti,No,0,0,0,0
+5,Andhra Pradesh,900,Jio,No,0,0,0,0
+5,Andhra Pradesh,900,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,1800,Bharti,No,0,0,0,0
+5,Andhra Pradesh,1800,Jio,No,0,55.8,21,1
+5,Andhra Pradesh,1800,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,2100,Bharti,No,0,0,0,0
+5,Andhra Pradesh,2100,Jio,No,0,0,0,0
+5,Andhra Pradesh,2100,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,2300,Bharti,No,0,0,0,0
+5,Andhra Pradesh,2300,Jio,No,0,780,1,1
+5,Andhra Pradesh,2300,Vodafone,No,0,0,0,0
+5,Andhra Pradesh,2500,Bharti,No,0,0,0,0
+5,Andhra Pradesh,2500,Jio,No,0,0,0,0
+5,Andhra Pradesh,2500,Vodafone,No,0,0,0,0
+5,Assam,700,Bharti,No,0,0,0,0
+5,Assam,700,Jio,No,0,0,0,0
+5,Assam,700,Vodafone,No,0,0,0,0
+5,Assam,800,Bharti,No,0,0,0,0
+5,Assam,800,Jio,No,0,0,0,0
+5,Assam,800,Vodafone,No,0,0,0,0
+5,Assam,900,Bharti,No,0,0,0,0
+5,Assam,900,Jio,No,0,0,0,0
+5,Assam,900,Vodafone,No,0,0,0,0
+5,Assam,1800,Bharti,No,0,0,0,0
+5,Assam,1800,Jio,No,0,9.2,23,1
+5,Assam,1800,Vodafone,No,0,0,0,0
+5,Assam,2100,Bharti,No,0,150,1,1
+5,Assam,2100,Jio,No,0,0,0,0
+5,Assam,2100,Vodafone,No,0,0,0,0
+5,Assam,2300,Bharti,No,0,20,1,2
+5,Assam,2300,Jio,No,0,20,1,1
+5,Assam,2300,Vodafone,No,0,0,0,0
+5,Bihar,700,Bharti,No,0,0,0,0
+5,Bihar,700,Jio,No,0,0,0,0
+5,Bihar,700,Vodafone,No,0,0,0,0
+5,Bihar,800,Bharti,No,0,0,0,0
+5,Bihar,800,Jio,No,0,170,4,1
+5,Bihar,800,Vodafone,No,0,0,0,0
+5,Bihar,900,Bharti,No,0,40.2,17,1
+5,Bihar,900,Jio,No,0,0,0,0
+5,Bihar,900,Vodafone,No,0,0,0,0
+5,Bihar,1800,Bharti,No,0,17.6,14,2
+5,Bihar,1800,Jio,No,0,17.6,25,1
+5,Bihar,1800,Vodafone,No,0,0,0,0
+5,Bihar,2100,Bharti,No,0,0,0,0
+5,Bihar,2100,Jio,No,0,0,0,0
+5,Bihar,2100,Vodafone,No,0,0,0,0
+5,Bihar,2300,Bharti,No,0,70,1,2
+5,Bihar,2300,Jio,No,0,70,1,1
+5,Bihar,2300,Vodafone,No,0,0,0,0
+5,Bihar,2500,Bharti,No,0,0,0,0
+5,Bihar,2500,Jio,No,0,0,0,0
+5,Bihar,2500,Vodafone,No,0,0,0,0
+5,Delhi,700,Bharti,No,0,0,0,0
+5,Delhi,700,Jio,No,0,0,0,0
+5,Delhi,700,Vodafone,No,0,0,0,0
+5,Delhi,800,Bharti,No,0,0,0,0
+5,Delhi,800,Jio,No,0,800,7,1
+5,Delhi,800,Vodafone,No,0,0,0,0
+5,Delhi,900,Bharti,No,0,0,0,0
+5,Delhi,900,Jio,No,0,0,0,0
+5,Delhi,900,Vodafone,No,0,0,0,0
+5,Delhi,1800,Bharti,No,0,0,0,0
+5,Delhi,1800,Jio,No,0,91.4,23,1
+5,Delhi,1800,Vodafone,No,0,0,0,0
+5,Delhi,2100,Bharti,No,0,0,0,0
+5,Delhi,2100,Jio,No,0,0,0,0
+5,Delhi,2100,Vodafone,No,0,0,0,0
+5,Delhi,2300,Bharti,No,0,0,0,0
+5,Delhi,2300,Jio,No,0,1640,1,1
+5,Delhi,2300,Vodafone,No,0,0,0,0
+5,Delhi,2500,Bharti,No,0,0,0,0
+5,Delhi,2500,Jio,No,0,0,0,0
+5,Delhi,2500,Vodafone,No,0,0,0,0
+5,Gujarat,700,Bharti,No,0,0,0,0
+5,Gujarat,700,Jio,No,0,0,0,0
+5,Gujarat,700,Vodafone,No,0,0,0,0
+5,Gujarat,800,Bharti,No,0,0,0,0
+5,Gujarat,800,Jio,No,0,481.25,4,1
+5,Gujarat,800,Vodafone,No,0,0,0,0
+5,Gujarat,900,Bharti,No,0,74.6,21,1
+5,Gujarat,900,Jio,No,0,0,0,0
+5,Gujarat,900,Vodafone,No,0,0,0,0
+5,Gujarat,1800,Bharti,No,0,0,0,0
+5,Gujarat,1800,Jio,No,0,54.6,20,1
+5,Gujarat,1800,Vodafone,No,0,0,0,0
+5,Gujarat,2100,Bharti,No,0,0,0,0
+5,Gujarat,2100,Jio,No,0,0,0,0
+5,Gujarat,2100,Vodafone,No,0,0,0,0
+5,Gujarat,2300,Bharti,No,0,700,1,2
+5,Gujarat,2300,Jio,No,0,700,1,1
+5,Gujarat,2300,Vodafone,No,0,0,0,0
+5,Gujarat,2500,Bharti,No,0,0,0,0
+5,Gujarat,2500,Jio,No,0,0,0,0
+5,Gujarat,2500,Vodafone,No,0,0,0,0
+5,Haryana,700,Bharti,No,0,0,0,0
+5,Haryana,700,Jio,No,0,0,0,0
+5,Haryana,700,Vodafone,No,0,0,0,0
+5,Haryana,800,Bharti,No,0,71.25,3,2
+5,Haryana,800,Jio,No,0,71.25,4,1
+5,Haryana,800,Vodafone,No,0,0,0,0
+5,Haryana,900,Bharti,No,0,0,0,0
+5,Haryana,900,Jio,No,0,0,0,0
+5,Haryana,900,Vodafone,No,0,0,0,0
+5,Haryana,1800,Bharti,No,0,0,0,0
+5,Haryana,1800,Jio,No,0,11.4,25,1
+5,Haryana,1800,Vodafone,No,0,0,0,0
+5,Haryana,2100,Bharti,No,0,0,0,0
+5,Haryana,2100,Jio,No,0,0,0,0
+5,Haryana,2100,Vodafone,No,0,0,0,0
+5,Haryana,2300,Bharti,No,0,80,2,2
+5,Haryana,2300,Jio,No,0,80,2,1
+5,Haryana,2300,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,700,Bharti,No,0,0,0,0
+5,Himachal Pradesh,700,Jio,No,0,0,0,0
+5,Himachal Pradesh,700,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,800,Bharti,No,0,0,0,0
+5,Himachal Pradesh,800,Jio,No,0,30,4,1
+5,Himachal Pradesh,800,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,900,Bharti,No,0,7.4,13,1
+5,Himachal Pradesh,900,Jio,No,0,0,0,0
+5,Himachal Pradesh,900,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,1800,Bharti,No,0,3.6,24,1
+5,Himachal Pradesh,1800,Jio,No,0,0,0,0
+5,Himachal Pradesh,1800,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,2100,Bharti,No,0,0,0,0
+5,Himachal Pradesh,2100,Jio,No,0,0,0,0
+5,Himachal Pradesh,2100,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,2300,Bharti,No,0,10,1,2
+5,Himachal Pradesh,2300,Jio,No,0,10,1,1
+5,Himachal Pradesh,2300,Vodafone,No,0,0,0,0
+5,Himachal Pradesh,2500,Bharti,No,0,0,0,0
+5,Himachal Pradesh,2500,Jio,No,0,0,0,0
+5,Himachal Pradesh,2500,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,700,Bharti,No,0,0,0,0
+5,Jammu & Kashmir,700,Jio,No,0,0,0,0
+5,Jammu & Kashmir,700,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,800,Bharti,No,0,0,0,0
+5,Jammu & Kashmir,800,Jio,No,0,0,0,0
+1,Karnataka,800,Jio,Bid,8,240,8,1
+1,Karnataka,800,Vodafone,No,0,0,0,0
+1,Karnataka,900,Bharti,No,0,0,0,0
+1,Karnataka,900,Jio,No,0,0,0,0
+1,Karnataka,900,Vodafone,No,0,0,0,0
+1,Karnataka,1800,Bharti,Bid,56,21.8,56,1
+1,Karnataka,1800,Jio,Bid,25,21.8,25,2
+1,Karnataka,1800,Vodafone,Bid,20,21.8,20,3
+1,Karnataka,2100,Bharti,No,0,0,0,0
+1,Karnataka,2100,Jio,No,0,0,0,0
+1,Karnataka,2100,Vodafone,No,0,0,0,0
+1,Karnataka,2300,Bharti,No,0,0,0,0
+1,Karnataka,2300,Jio,Bid,1,1120,1,1
+1,Karnataka,2300,Vodafone,No,0,0,0,0
+1,Karnataka,2500,Bharti,No,0,0,0,0
+1,Karnataka,2500,Jio,No,0,0,0,0
+1,Karnataka,2500,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,800,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,1800,Bharti,No,0,3.4,50,1
+5,Jammu & Kashmir,1800,Jio,No,0,0,0,0
+5,Jammu & Kashmir,1800,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,2100,Bharti,No,0,0,0,0
+5,Jammu & Kashmir,2100,Jio,No,0,0,0,0
+5,Jammu & Kashmir,2100,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,2300,Bharti,No,0,10,2,2
+5,Jammu & Kashmir,2300,Jio,No,0,10,2,1
+5,Jammu & Kashmir,2300,Vodafone,No,0,0,0,0
+5,Jammu & Kashmir,2500,Bharti,No,0,0,0,0
+5,Jammu & Kashmir,2500,Jio,No,0,0,0,0
+5,Jammu & Kashmir,2500,Vodafone,No,0,0,0,0
+5,Karnataka,700,Bharti,No,0,0,0,0
+5,Karnataka,700,Jio,No,0,0,0,0
+5,Karnataka,700,Vodafone,No,0,0,0,0
+5,Karnataka,800,Bharti,No,0,0,0,0
+5,Karnataka,800,Jio,No,0,240,8,1
+5,Karnataka,800,Vodafone,No,0,0,0,0
+5,Karnataka,900,Bharti,No,0,0,0,0
+5,Karnataka,900,Jio,No,0,0,0,0
+5,Karnataka,900,Vodafone,No,0,0,0,0
+5,Karnataka,1800,Bharti,No,0,21.8,56,1
+5,Karnataka,1800,Jio,No,0,21.8,25,2
+5,Karnataka,1800,Vodafone,No,0,21.8,20,3
+5,Karnataka,2100,Bharti,No,0,0,0,0
+5,Karnataka,2100,Jio,No,0,0,0,0
+5,Karnataka,2100,Vodafone,No,0,0,0,0
+5,Karnataka,2300,Bharti,No,0,0,0,0
+5,Karnataka,2300,Jio,No,0,1120,1,1
+5,Karnataka,2300,Vodafone,No,0,0,0,0
+5,Karnataka,2500,Bharti,No,0,0,0,0
+5,Karnataka,2500,Jio,No,0,0,0,0
+5,Karnataka,2500,Vodafone,No,0,0,0,0
+5,Kerala,700,Bharti,No,0,0,0,0
+5,Kerala,700,Jio,No,0,0,0,0
+5,Kerala,700,Vodafone,No,0,0,0,0
+5,Kerala,800,Bharti,No,0,0,0,0
+5,Kerala,800,Jio,No,0,196.25,8,1
+5,Kerala,800,Vodafone,No,0,0,0,0
+5,Kerala,900,Bharti,No,0,39.8,23,1
+5,Kerala,900,Jio,No,0,0,0,0
+5,Kerala,900,Vodafone,No,0,0,0,0
+5,Kerala,1800,Bharti,No,0,19,25,2
+5,Kerala,1800,Jio,No,0,19,25,1
+5,Kerala,1800,Vodafone,No,0,0,0,0
+5,Kerala,2100,Bharti,No,0,0,0,0
+5,Kerala,2100,Jio,No,0,0,0,0
+5,Kerala,2100,Vodafone,No,0,0,0,0
+5,Kerala,2300,Bharti,No,0,200,1,2
+5,Kerala,2300,Jio,No,0,200,1,1
+5,Kerala,2300,Vodafone,No,0,0,0,0
+5,Kolkata,700,Bharti,No,0,0,0,0
+5,Kolkata,700,Jio,No,0,0,0,0
+5,Kolkata,700,Vodafone,No,0,0,0,0
+5,Kolkata,800,Bharti,No,0,0,0,0
+5,Kolkata,800,Jio,No,0,200,8,1
+5,Kolkata,800,Vodafone,No,0,0,0,0
+5,Kolkata,900,Bharti,No,0,0,0,0
+5,Kolkata,900,Jio,No,0,0,0,0
+5,Kolkata,900,Vodafone,No,0,0,0,0
+5,Kolkata,1800,Bharti,No,0,34.6,5,1
+5,Kolkata,1800,Jio,No,0,0,0,0
+5,Kolkata,1800,Vodafone,No,0,0,0,0
+5,Kolkata,2100,Bharti,No,0,0,0,0
+5,Kolkata,2100,Jio,No,0,0,0,0
+5,Kolkata,2100,Vodafone,No,0,0,0,0
+5,Kolkata,2300,Bharti,No,0,0,0,0
+5,Kolkata,2300,Jio,No,0,380,1,1
+5,Kolkata,2300,Vodafone,No,0,0,0,0
+5,Kolkata,2500,Bharti,No,0,0,0,0
+5,Kolkata,2500,Jio,No,0,0,0,0
+5,Kolkata,2500,Vodafone,No,0,0,0,0
+5,Madhya Pradesh,700,Bharti,No,0,0,0,0
+5,Madhya Pradesh,700,Jio,No,0,0,0,0
+5,Madhya Pradesh,700,Vodafone,No,0,0,0,0
+5,Madhya Pradesh,800,Bharti,No,0,178.75,4,2
+5,Madhya Pradesh,800,Jio,No,0,178.75,4,1
+5,Madhya Pradesh,800,Vodafone,No,0,0,0,0
+5,Madhya Pradesh,900,Bharti,No,0,0,0,0
+5,Madhya Pradesh,900,Jio,No,0,0,0,0
+5,Madhya Pradesh,900,Vodafone,No,0,0,0,0
+5,Madhya Pradesh,1800,Bharti,No,0,19,21,1
+5,Madhya Pradesh,1800,Jio,No,0,19,18,2
+5,Madhya Pradesh,1800,Vodafone,No,0,0,0,0
+5,Madhya Pradesh,2100,Bharti,No,0,0,0,0
+5,Madhya Pradesh,2100,Jio,No,0,0,0,0
+5,Madhya Pradesh,2100,Vodafone,No,0,0,0,0
+5,Madhya Pradesh,2300,Bharti,No,0,90,1,2
+5,Madhya Pradesh,2300,Jio,No,0,90,1,1
+5,Madhya Pradesh,2300,Vodafone,No,0,0,0,0
+5,Maharashtra,700,Bharti,No,0,0,0,0
+5,Maharashtra,700,Jio,No,0,0,0,0
+5,Maharashtra,700,Vodafone,No,0,0,0,0
+5,Maharashtra,800,Bharti,No,0,637.5,2,2
+5,Maharashtra,800,Jio,No,0,637.5,8,1
+5,Maharashtra,800,Vodafone,No,0,0,0,0
+5,Maharashtra,900,Bharti,No,0,0,0,0
+5,Maharashtra,900,Jio,No,0,0,0,0
+5,Maharashtra,900,Vodafone,No,0,0,0,0
+5,Maharashtra,1800,Bharti,No,0,0,0,0
+5,Maharashtra,1800,Jio,No,0,73,25,1
+5,Maharashtra,1800,Vodafone,No,0,0,0,0
+5,Maharashtra,2100,Bharti,No,0,0,0,0
+5,Maharashtra,2100,Jio,No,0,0,0,0
+5,Maharashtra,2100,Vodafone,No,0,0,0,0
+5,Maharashtra,2300,Bharti,No,0,720,1,2
+5,Maharashtra,2300,Jio,No,0,720,1,1
+5,Maharashtra,2300,Vodafone,No,0,0,0,0
+5,Maharashtra,2500,Bharti,No,0,0,0,0
+5,Maharashtra,2500,Jio,No,0,0,0,0
+5,Maharashtra,2500,Vodafone,No,0,0,0,0
+5,Mumbai,700,Bharti,No,0,0,0,0
+5,Mumbai,700,Jio,No,0,0,0,0
+5,Mumbai,700,Vodafone,No,0,0,0,0
+5,Mumbai,800,Bharti,No,0,0,0,0
+5,Mumbai,800,Jio,No,0,908.75,6,1
+5,Mumbai,800,Vodafone,No,0,0,0,0
+5,Mumbai,900,Bharti,No,0,0,0,0
+5,Mumbai,900,Jio,No,0,0,0,0
+5,Mumbai,900,Vodafone,No,0,0,0,0
+5,Mumbai,1800,Bharti,No,0,0,0,0
+5,Mumbai,1800,Jio,No,0,112.2,17,1
+5,Mumbai,1800,Vodafone,No,0,0,0,0
+5,Mumbai,2100,Bharti,No,0,0,0,0
+5,Mumbai,2100,Jio,No,0,0,0,0
+5,Mumbai,2100,Vodafone,No,0,0,0,0
+5,Mumbai,2300,Bharti,No,0,0,0,0
+5,Mumbai,2300,Jio,No,0,1670,1,1
+5,Mumbai,2300,Vodafone,No,0,0,0,0
+5,Mumbai,2500,Bharti,No,0,0,0,0
+5,Mumbai,2500,Jio,No,0,0,0,0
+5,Mumbai,2500,Vodafone,No,0,0,0,0
+5,North East,700,Bharti,No,0,0,0,0
+5,North East,700,Jio,No,0,0,0,0
+5,North East,700,Vodafone,No,0,0,0,0
+5,North East,800,Bharti,No,0,0,0,0
+5,North East,800,Jio,No,0,0,0,0
+5,North East,800,Vodafone,No,0,0,0,0
+5,North East,900,Bharti,No,0,4.6,6,1
+5,North East,900,Jio,No,0,0,0,0
+5,North East,900,Vodafone,No,0,0,0,0
+5,North East,1800,Bharti,No,0,0,0,0
+5,North East,1800,Jio,No,0,3.4,18,1
+5,North East,1800,Vodafone,No,0,0,0,0
+5,North East,2100,Bharti,No,0,30,1,1
+5,North East,2100,Jio,No,0,0,0,0
+5,North East,2100,Vodafone,No,0,0,0,0
+5,North East,2300,Bharti,No,0,10,1,2
+5,North East,2300,Jio,No,0,10,1,1
+5,North East,2300,Vodafone,No,0,0,0,0
+5,Odisha,700,Bharti,No,0,0,0,0
+5,Odisha,700,Jio,No,0,0,0,0
+1,Kerala,700,Bharti,No,0,0,0,0
+1,Kerala,700,Jio,No,0,0,0,0
+1,Kerala,700,Vodafone,No,0,0,0,0
+1,Kerala,800,Bharti,No,0,0,0,0
+1,Kerala,800,Jio,Bid,8,196.25,8,1
+1,Kerala,800,Vodafone,No,0,0,0,0
+1,Kerala,900,Bharti,No,0,0,0,0
+1,Kerala,900,Jio,No,0,0,0,0
+1,Kerala,900,Vodafone,No,0,0,0,0
+1,Kerala,1800,Bharti,Bid,25,19,25,2
+1,Kerala,1800,Jio,Bid,25,19,25,1
+1,Kerala,1800,Vodafone,No,0,0,0,0
+1,Kerala,2100,Bharti,No,0,0,0,0
+1,Kerala,2100,Jio,No,0,0,0,0
+1,Kerala,2100,Vodafone,No,0,0,0,0
+1,Kerala,2300,Bharti,Bid,1,200,1,2
+1,Kerala,2300,Jio,Bid,1,200,1,1
+5,Odisha,700,Vodafone,No,0,0,0,0
+5,Odisha,800,Bharti,No,0,0,0,0
+5,Odisha,800,Jio,No,0,58.75,4,1
+5,Odisha,800,Vodafone,No,0,0,0,0
+5,Odisha,900,Bharti,No,0,17.2,19,1
+5,Odisha,900,Jio,No,0,0,0,0
+5,Odisha,900,Vodafone,No,0,0,0,0
+5,Odisha,1800,Bharti,No,0,5.4,13,2
+5,Odisha,1800,Jio,No,0,5.4,25,1
+5,Odisha,1800,Vodafone,No,0,0,0,0
+5,Odisha,2100,Bharti,No,0,0,0,0
+5,Odisha,2100,Jio,No,0,0,0,0
+5,Odisha,2100,Vodafone,No,0,0,0,0
+5,Odisha,2300,Bharti,No,0,50,1,2
+5,Odisha,2300,Jio,No,0,50,1,1
+5,Odisha,2300,Vodafone,No,0,0,0,0
+5,Punjab,700,Bharti,No,0,0,0,0
+5,Punjab,700,Jio,No,0,0,0,0
+5,Punjab,700,Vodafone,No,0,0,0,0
+5,Punjab,800,Bharti,No,0,0,0,0
+5,Punjab,800,Jio,No,0,196.25,5,1
+5,Punjab,800,Vodafone,No,0,0,0,0
+5,Punjab,1800,Bharti,No,0,17.6,25,1
+5,Punjab,1800,Jio,No,0,17.6,24,2
+5,Punjab,1800,Vodafone,No,0,0,0,0
+5,Punjab,2100,Bharti,No,0,0,0,0
+5,Punjab,2100,Jio,No,0,0,0,0
+5,Punjab,2100,Vodafone,No,0,0,0,0
+5,Punjab,2300,Bharti,No,0,210,2,2
+5,Punjab,2300,Jio,No,0,210,2,1
+5,Punjab,2300,Vodafone,No,0,0,0,0
+5,Punjab,2500,Bharti,No,0,0,0,0
+5,Punjab,2500,Jio,No,0,0,0,0
+5,Punjab,2500,Vodafone,No,0,0,0,0
+5,Rajasthan,700,Bharti,No,0,0,0,0
+5,Rajasthan,700,Jio,No,0,0,0,0
+5,Rajasthan,700,Vodafone,No,0,0,0,0
+5,Rajasthan,800,Bharti,No,0,0,0,0
+5,Rajasthan,800,Jio,No,0,332.5,4,1
+5,Rajasthan,800,Vodafone,No,0,0,0,0
+5,Rajasthan,1800,Bharti,No,0,0,0,0
+5,Rajasthan,1800,Jio,No,0,0,0,0
+5,Rajasthan,1800,Vodafone,No,0,0,0,0
+5,Rajasthan,2300,Bharti,No,0,60,2,2
+5,Rajasthan,2300,Jio,No,0,60,2,1
+5,Rajasthan,2300,Vodafone,No,0,0,0,0
+5,Tamil Nadu,700,Bharti,No,0,0,0,0
+5,Tamil Nadu,700,Jio,No,0,0,0,0
+5,Tamil Nadu,700,Vodafone,No,0,0,0,0
+5,Tamil Nadu,800,Bharti,No,0,0,0,0
+5,Tamil Nadu,800,Jio,No,0,217.5,8,1
+5,Tamil Nadu,800,Vodafone,No,0,0,0,0
+5,Tamil Nadu,900,Bharti,No,0,47,25,1
+5,Tamil Nadu,900,Jio,No,0,0,0,0
+5,Tamil Nadu,900,Vodafone,No,0,47,25,2
+5,Tamil Nadu,1800,Bharti,Bid,25,20,75,1
+5,Tamil Nadu,1800,Jio,No,0,20,16,2
+5,Tamil Nadu,1800,Vodafone,No,0,0,0,0
+5,Tamil Nadu,2300,Bharti,No,0,0,0,0
+5,Tamil Nadu,2300,Jio,No,0,1510,1,1
+5,Tamil Nadu,2300,Vodafone,No,0,0,0,0
+5,Tamil Nadu,2500,Bharti,No,0,0,0,0
+5,Tamil Nadu,2500,Jio,No,0,0,0,0
+5,Tamil Nadu,2500,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (East),700,Bharti,No,0,0,0,0
+5,Uttar Pradesh (East),700,Jio,No,0,0,0,0
+5,Uttar Pradesh (East),700,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (East),800,Bharti,No,0,0,0,0
+5,Uttar Pradesh (East),800,Jio,No,0,313.75,4,1
+5,Uttar Pradesh (East),800,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (East),900,Bharti,No,0,52.4,25,1
+5,Uttar Pradesh (East),900,Jio,No,0,0,0,0
+5,Uttar Pradesh (East),900,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (East),1800,Bharti,No,0,30.6,16,2
+5,Uttar Pradesh (East),1800,Jio,No,0,30.6,18,1
+5,Uttar Pradesh (East),1800,Vodafone,No,0,30.6,7,3
+5,Uttar Pradesh (East),2300,Bharti,No,0,90,2,2
+5,Uttar Pradesh (East),2300,Jio,No,0,90,2,1
+5,Uttar Pradesh (East),2300,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (West),700,Bharti,No,0,0,0,0
+5,Uttar Pradesh (West),700,Jio,No,0,0,0,0
+5,Uttar Pradesh (West),700,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (West),800,Bharti,No,0,201.25,4,2
+5,Uttar Pradesh (West),800,Jio,No,0,201.25,4,1
+5,Uttar Pradesh (West),800,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (West),900,Bharti,No,0,0,0,0
+5,Uttar Pradesh (West),900,Jio,No,0,0,0,0
+5,Uttar Pradesh (West),900,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (West),1800,Bharti,No,0,23,15,2
+5,Uttar Pradesh (West),1800,Jio,No,0,23,25,1
+5,Uttar Pradesh (West),1800,Vodafone,Bid,3,23,3,3
+5,Uttar Pradesh (West),2100,Bharti,No,0,0,0,0
+5,Uttar Pradesh (West),2100,Jio,No,0,0,0,0
+5,Uttar Pradesh (West),2100,Vodafone,No,0,0,0,0
+5,Uttar Pradesh (West),2300,Bharti,No,0,120,2,2
+5,Uttar Pradesh (West),2300,Jio,No,0,120,2,1
+5,Uttar Pradesh (West),2300,Vodafone,No,0,0,0,0
+5,West Bengal,700,Bharti,No,0,0,0,0
+5,West Bengal,700,Jio,No,0,0,0,0
+5,West Bengal,700,Vodafone,No,0,0,0,0
+5,West Bengal,800,Bharti,No,0,0,0,0
+5,West Bengal,800,Jio,No,0,92.5,8,1
+5,West Bengal,800,Vodafone,No,0,0,0,0
+5,West Bengal,900,Bharti,No,0,24.8,14,1
+5,West Bengal,900,Jio,No,0,0,0,0
+5,West Bengal,900,Vodafone,Bid,4,24.8,4,2
+5,West Bengal,1800,Bharti,No,0,10.6,19,1
+5,West Bengal,1800,Jio,No,0,0,0,0
+5,West Bengal,1800,Vodafone,No,0,0,0,0
+5,West Bengal,2100,Bharti,No,0,175,1,1
+5,West Bengal,2100,Jio,No,0,0,0,0
+5,West Bengal,2100,Vodafone,No,0,0,0,0
+5,West Bengal,2300,Bharti,No,0,60,1,2
+5,West Bengal,2300,Jio,No,0,60,1,1
+5,West Bengal,2300,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,700,Bharti,No,0,0,0,0
+6,Andhra Pradesh,700,Jio,No,0,0,0,0
+6,Andhra Pradesh,700,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,800,Bharti,No,0,0,0,0
+6,Andhra Pradesh,800,Jio,No,0,487.5,5,1
+6,Andhra Pradesh,800,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,900,Bharti,No,0,0,0,0
+6,Andhra Pradesh,900,Jio,No,0,0,0,0
+6,Andhra Pradesh,900,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,1800,Bharti,No,0,0,0,0
+6,Andhra Pradesh,1800,Jio,No,0,55.8,21,1
+6,Andhra Pradesh,1800,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,2100,Bharti,No,0,0,0,0
+6,Andhra Pradesh,2100,Jio,No,0,0,0,0
+6,Andhra Pradesh,2100,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,2300,Bharti,No,0,0,0,0
+6,Andhra Pradesh,2300,Jio,No,0,780,1,1
+6,Andhra Pradesh,2300,Vodafone,No,0,0,0,0
+6,Andhra Pradesh,2500,Bharti,No,0,0,0,0
+6,Andhra Pradesh,2500,Jio,No,0,0,0,0
+6,Andhra Pradesh,2500,Vodafone,No,0,0,0,0
+6,Assam,700,Bharti,No,0,0,0,0
+6,Assam,700,Jio,No,0,0,0,0
+6,Assam,700,Vodafone,No,0,0,0,0
+6,Assam,800,Bharti,No,0,0,0,0
+6,Assam,800,Jio,No,0,0,0,0
+6,Assam,800,Vodafone,No,0,0,0,0
+6,Assam,900,Bharti,No,0,0,0,0
+6,Assam,900,Jio,No,0,0,0,0
+6,Assam,900,Vodafone,No,0,0,0,0
+6,Assam,1800,Bharti,No,0,0,0,0
+6,Assam,1800,Jio,No,0,9.2,23,1
+6,Assam,1800,Vodafone,No,0,0,0,0
+6,Assam,2100,Bharti,No,0,150,1,1
+6,Assam,2100,Jio,No,0,0,0,0
+6,Assam,2100,Vodafone,No,0,0,0,0
+1,Kerala,2300,Vodafone,No,0,0,0,0
+1,Kolkata,700,Bharti,No,0,0,0,0
+1,Kolkata,700,Jio,No,0,0,0,0
+1,Kolkata,700,Vodafone,No,0,0,0,0
+1,Kolkata,800,Bharti,No,0,0,0,0
+1,Kolkata,800,Jio,Bid,8,200,8,1
+1,Kolkata,800,Vodafone,No,0,0,0,0
+1,Kolkata,900,Bharti,No,0,0,0,0
+1,Kolkata,900,Jio,No,0,0,0,0
+1,Kolkata,900,Vodafone,No,0,0,0,0
+1,Kolkata,1800,Bharti,Bid,5,34.6,5,1
+1,Kolkata,1800,Jio,No,0,0,0,0
+1,Kolkata,1800,Vodafone,No,0,0,0,0
+1,Kolkata,2100,Bharti,No,0,0,0,0
+1,Kolkata,2100,Jio,No,0,0,0,0
+1,Kolkata,2100,Vodafone,No,0,0,0,0
+1,Kolkata,2300,Bharti,No,0,0,0,0
+6,Assam,2300,Bharti,No,0,20,1,2
+6,Assam,2300,Jio,No,0,20,1,1
+6,Assam,2300,Vodafone,No,0,0,0,0
+6,Bihar,700,Bharti,No,0,0,0,0
+6,Bihar,700,Jio,No,0,0,0,0
+6,Bihar,700,Vodafone,No,0,0,0,0
+6,Bihar,800,Bharti,No,0,0,0,0
+6,Bihar,800,Jio,No,0,170,4,1
+6,Bihar,800,Vodafone,No,0,0,0,0
+6,Bihar,900,Bharti,No,0,40.2,17,1
+6,Bihar,900,Jio,No,0,0,0,0
+6,Bihar,900,Vodafone,No,0,0,0,0
+6,Bihar,1800,Bharti,No,0,17.6,14,2
+6,Bihar,1800,Jio,No,0,17.6,25,1
+6,Bihar,1800,Vodafone,No,0,0,0,0
+6,Bihar,2100,Bharti,No,0,0,0,0
+6,Bihar,2100,Jio,No,0,0,0,0
+6,Bihar,2100,Vodafone,No,0,0,0,0
+6,Bihar,2300,Bharti,No,0,70,1,2
+6,Bihar,2300,Jio,No,0,70,1,1
+6,Bihar,2300,Vodafone,No,0,0,0,0
+6,Bihar,2500,Bharti,No,0,0,0,0
+6,Bihar,2500,Jio,No,0,0,0,0
+6,Bihar,2500,Vodafone,No,0,0,0,0
+6,Delhi,700,Bharti,No,0,0,0,0
+6,Delhi,700,Jio,No,0,0,0,0
+6,Delhi,700,Vodafone,No,0,0,0,0
+6,Delhi,800,Bharti,No,0,0,0,0
+6,Delhi,800,Jio,No,0,800,7,1
+6,Delhi,800,Vodafone,No,0,0,0,0
+6,Delhi,900,Bharti,No,0,0,0,0
+6,Delhi,900,Jio,No,0,0,0,0
+6,Delhi,900,Vodafone,No,0,0,0,0
+6,Delhi,1800,Bharti,No,0,0,0,0
+6,Delhi,1800,Jio,No,0,91.4,23,1
+6,Delhi,1800,Vodafone,No,0,0,0,0
+6,Delhi,2100,Bharti,No,0,0,0,0
+6,Delhi,2100,Jio,No,0,0,0,0
+6,Delhi,2100,Vodafone,No,0,0,0,0
+6,Delhi,2300,Bharti,No,0,0,0,0
+6,Delhi,2300,Jio,No,0,1640,1,1
+6,Delhi,2300,Vodafone,No,0,0,0,0
+6,Delhi,2500,Bharti,No,0,0,0,0
+6,Delhi,2500,Jio,No,0,0,0,0
+6,Delhi,2500,Vodafone,No,0,0,0,0
+6,Gujarat,700,Bharti,No,0,0,0,0
+6,Gujarat,700,Jio,No,0,0,0,0
+6,Gujarat,700,Vodafone,No,0,0,0,0
+6,Gujarat,800,Bharti,No,0,0,0,0
+6,Gujarat,800,Jio,No,0,481.25,4,1
+6,Gujarat,800,Vodafone,No,0,0,0,0
+6,Gujarat,900,Bharti,No,0,74.6,21,1
+6,Gujarat,900,Jio,No,0,0,0,0
+6,Gujarat,900,Vodafone,No,0,0,0,0
+6,Gujarat,1800,Bharti,No,0,0,0,0
+6,Gujarat,1800,Jio,No,0,54.6,20,1
+6,Gujarat,1800,Vodafone,No,0,0,0,0
+6,Gujarat,2100,Bharti,No,0,0,0,0
+6,Gujarat,2100,Jio,No,0,0,0,0
+6,Gujarat,2100,Vodafone,No,0,0,0,0
+6,Gujarat,2300,Bharti,No,0,700,1,2
+6,Gujarat,2300,Jio,No,0,700,1,1
+6,Gujarat,2300,Vodafone,No,0,0,0,0
+6,Gujarat,2500,Bharti,No,0,0,0,0
+6,Gujarat,2500,Jio,No,0,0,0,0
+6,Gujarat,2500,Vodafone,No,0,0,0,0
+6,Haryana,700,Bharti,No,0,0,0,0
+6,Haryana,700,Jio,No,0,0,0,0
+6,Haryana,700,Vodafone,No,0,0,0,0
+6,Haryana,800,Bharti,No,0,71.25,3,2
+6,Haryana,800,Jio,No,0,71.25,4,1
+6,Haryana,800,Vodafone,No,0,0,0,0
+6,Haryana,900,Bharti,No,0,0,0,0
+6,Haryana,900,Jio,No,0,0,0,0
+6,Haryana,900,Vodafone,No,0,0,0,0
+6,Haryana,1800,Bharti,No,0,0,0,0
+6,Haryana,1800,Jio,No,0,11.4,25,1
+6,Haryana,1800,Vodafone,No,0,0,0,0
+6,Haryana,2100,Bharti,No,0,0,0,0
+6,Haryana,2100,Jio,No,0,0,0,0
+6,Haryana,2100,Vodafone,No,0,0,0,0
+6,Haryana,2300,Bharti,No,0,80,2,2
+6,Haryana,2300,Jio,No,0,80,2,1
+6,Haryana,2300,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,700,Bharti,No,0,0,0,0
+6,Himachal Pradesh,700,Jio,No,0,0,0,0
+6,Himachal Pradesh,700,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,800,Bharti,No,0,0,0,0
+6,Himachal Pradesh,800,Jio,No,0,30,4,1
+6,Himachal Pradesh,800,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,900,Bharti,No,0,7.4,13,1
+6,Himachal Pradesh,900,Jio,No,0,0,0,0
+6,Himachal Pradesh,900,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,1800,Bharti,No,0,3.6,24,1
+6,Himachal Pradesh,1800,Jio,No,0,0,0,0
+6,Himachal Pradesh,1800,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,2100,Bharti,No,0,0,0,0
+6,Himachal Pradesh,2100,Jio,No,0,0,0,0
+6,Himachal Pradesh,2100,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,2300,Bharti,No,0,10,1,2
+6,Himachal Pradesh,2300,Jio,No,0,10,1,1
+6,Himachal Pradesh,2300,Vodafone,No,0,0,0,0
+6,Himachal Pradesh,2500,Bharti,No,0,0,0,0
+6,Himachal Pradesh,2500,Jio,No,0,0,0,0
+6,Himachal Pradesh,2500,Vodafone,No,0,0,0,0
+6,Jammu & Kashmir,700,Bharti,No,0,0,0,0
+6,Jammu & Kashmir,700,Jio,No,0,0,0,0
+6,Jammu & Kashmir,700,Vodafone,No,0,0,0,0
+6,Jammu & Kashmir,800,Bharti,No,0,0,0,0
+6,Jammu & Kashmir,800,Jio,No,0,0,0,0
+6,Jammu & Kashmir,800,Vodafone,No,0,0,0,0
+6,Jammu & Kashmir,1800,Bharti,No,0,3.4,50,1
+6,Jammu & Kashmir,1800,Jio,No,0,0,0,0
+6,Jammu & Kashmir,1800,Vodafone,No,0,0,0,0
+6,Jammu & Kashmir,2100,Bharti,No,0,0,0,0
+6,Jammu & Kashmir,2100,Jio,No,0,0,0,0
+6,Jammu & Kashmir,2100,Vodafone,No,0,0,0,0
+6,Jammu & Kashmir,2300,Bharti,No,0,10,2,2
+6,Jammu & Kashmir,2300,Jio,No,0,10,2,1
+6,Jammu & Kashmir,2300,Vodafone,No,0,0,0,0
+6,Jammu & Kashmir,2500,Bharti,No,0,0,0,0
+6,Jammu & Kashmir,2500,Jio,No,0,0,0,0
+6,Jammu & Kashmir,2500,Vodafone,No,0,0,0,0
+6,Karnataka,700,Bharti,No,0,0,0,0
+6,Karnataka,700,Jio,No,0,0,0,0
+6,Karnataka,700,Vodafone,No,0,0,0,0
+6,Karnataka,800,Bharti,No,0,0,0,0
+6,Karnataka,800,Jio,No,0,240,8,1
+6,Karnataka,800,Vodafone,No,0,0,0,0
+6,Karnataka,900,Bharti,No,0,0,0,0
+6,Karnataka,900,Jio,No,0,0,0,0
+6,Karnataka,900,Vodafone,No,0,0,0,0
+6,Karnataka,1800,Bharti,No,0,21.8,56,1
+6,Karnataka,1800,Jio,No,0,21.8,25,2
+6,Karnataka,1800,Vodafone,No,0,21.8,20,3
+6,Karnataka,2100,Bharti,No,0,0,0,0
+6,Karnataka,2100,Jio,No,0,0,0,0
+6,Karnataka,2100,Vodafone,No,0,0,0,0
+6,Karnataka,2300,Bharti,No,0,0,0,0
+6,Karnataka,2300,Jio,No,0,1120,1,1
+6,Karnataka,2300,Vodafone,No,0,0,0,0
+6,Karnataka,2500,Bharti,No,0,0,0,0
+6,Karnataka,2500,Jio,No,0,0,0,0
+6,Karnataka,2500,Vodafone,No,0,0,0,0
+6,Kerala,700,Bharti,No,0,0,0,0
+6,Kerala,700,Jio,No,0,0,0,0
+6,Kerala,700,Vodafone,No,0,0,0,0
+6,Kerala,800,Bharti,No,0,0,0,0
+1,Kolkata,2300,Jio,Bid,1,380,1,1
+1,Kolkata,2300,Vodafone,No,0,0,0,0
+1,Kolkata,2500,Bharti,No,0,0,0,0
+1,Kolkata,2500,Jio,No,0,0,0,0
+1,Kolkata,2500,Vodafone,No,0,0,0,0
+1,Madhya Pradesh,700,Bharti,No,0,0,0,0
+1,Madhya Pradesh,700,Jio,No,0,0,0,0
+1,Madhya Pradesh,700,Vodafone,No,0,0,0,0
+1,Madhya Pradesh,800,Bharti,Bid,4,178.75,4,2
+1,Madhya Pradesh,800,Jio,Bid,4,178.75,4,1
+1,Madhya Pradesh,800,Vodafone,No,0,0,0,0
+1,Madhya Pradesh,900,Bharti,No,0,0,0,0
+6,Kerala,800,Jio,No,0,196.25,8,1
+6,Kerala,800,Vodafone,No,0,0,0,0
+6,Kerala,900,Bharti,No,0,39.8,23,1
+6,Kerala,900,Jio,No,0,0,0,0
+6,Kerala,900,Vodafone,No,0,0,0,0
+6,Kerala,1800,Bharti,No,0,19,25,2
+6,Kerala,1800,Jio,No,0,19,25,1
+6,Kerala,1800,Vodafone,No,0,0,0,0
+6,Kerala,2100,Bharti,No,0,0,0,0
+6,Kerala,2100,Jio,No,0,0,0,0
+6,Kerala,2100,Vodafone,No,0,0,0,0
+6,Kerala,2300,Bharti,No,0,200,1,2
+6,Kerala,2300,Jio,No,0,200,1,1
+6,Kerala,2300,Vodafone,No,0,0,0,0
+6,Kolkata,700,Bharti,No,0,0,0,0
+6,Kolkata,700,Jio,No,0,0,0,0
+6,Kolkata,700,Vodafone,No,0,0,0,0
+6,Kolkata,800,Bharti,No,0,0,0,0
+6,Kolkata,800,Jio,No,0,200,8,1
+6,Kolkata,800,Vodafone,No,0,0,0,0
+6,Kolkata,900,Bharti,No,0,0,0,0
+6,Kolkata,900,Jio,No,0,0,0,0
+6,Kolkata,900,Vodafone,No,0,0,0,0
+6,Kolkata,1800,Bharti,No,0,34.6,5,1
+6,Kolkata,1800,Jio,No,0,0,0,0
+6,Kolkata,1800,Vodafone,No,0,0,0,0
+6,Kolkata,2100,Bharti,No,0,0,0,0
+6,Kolkata,2100,Jio,No,0,0,0,0
+6,Kolkata,2100,Vodafone,No,0,0,0,0
+6,Kolkata,2300,Bharti,No,0,0,0,0
+6,Kolkata,2300,Jio,No,0,380,1,1
+6,Kolkata,2300,Vodafone,No,0,0,0,0
+6,Kolkata,2500,Bharti,No,0,0,0,0
+6,Kolkata,2500,Jio,No,0,0,0,0
+6,Kolkata,2500,Vodafone,No,0,0,0,0
+6,Madhya Pradesh,700,Bharti,No,0,0,0,0
+6,Madhya Pradesh,700,Jio,No,0,0,0,0
+6,Madhya Pradesh,700,Vodafone,No,0,0,0,0
+6,Madhya Pradesh,800,Bharti,No,0,178.75,4,2
+6,Madhya Pradesh,800,Jio,No,0,178.75,4,1
+6,Madhya Pradesh,800,Vodafone,No,0,0,0,0
+6,Madhya Pradesh,900,Bharti,No,0,0,0,0
+6,Madhya Pradesh,900,Jio,No,0,0,0,0
+6,Madhya Pradesh,900,Vodafone,No,0,0,0,0
+6,Madhya Pradesh,1800,Bharti,No,0,19,21,1
+6,Madhya Pradesh,1800,Jio,No,0,19,18,2
+6,Madhya Pradesh,1800,Vodafone,No,0,0,0,0
+6,Madhya Pradesh,2100,Bharti,No,0,0,0,0
+6,Madhya Pradesh,2100,Jio,No,0,0,0,0
+6,Madhya Pradesh,2100,Vodafone,No,0,0,0,0
+6,Madhya Pradesh,2300,Bharti,No,0,90,1,2
+6,Madhya Pradesh,2300,Jio,No,0,90,1,1
+6,Madhya Pradesh,2300,Vodafone,No,0,0,0,0
+6,Maharashtra,700,Bharti,No,0,0,0,0
+6,Maharashtra,700,Jio,No,0,0,0,0
+6,Maharashtra,700,Vodafone,No,0,0,0,0
+6,Maharashtra,800,Bharti,No,0,637.5,2,2
+6,Maharashtra,800,Jio,No,0,637.5,8,1
+6,Maharashtra,800,Vodafone,No,0,0,0,0
+6,Maharashtra,900,Bharti,No,0,0,0,0
+6,Maharashtra,900,Jio,No,0,0,0,0
+6,Maharashtra,900,Vodafone,No,0,0,0,0
+6,Maharashtra,1800,Bharti,No,0,0,0,0
+6,Maharashtra,1800,Jio,No,0,73,25,1
+6,Maharashtra,1800,Vodafone,No,0,0,0,0
+6,Maharashtra,2100,Bharti,No,0,0,0,0
+6,Maharashtra,2100,Jio,No,0,0,0,0
+6,Maharashtra,2100,Vodafone,No,0,0,0,0
+6,Maharashtra,2300,Bharti,No,0,720,1,2
+6,Maharashtra,2300,Jio,No,0,720,1,1
+6,Maharashtra,2300,Vodafone,No,0,0,0,0
+6,Maharashtra,2500,Bharti,No,0,0,0,0
+6,Maharashtra,2500,Jio,No,0,0,0,0
+6,Maharashtra,2500,Vodafone,No,0,0,0,0
+6,Mumbai,700,Bharti,No,0,0,0,0
+6,Mumbai,700,Jio,No,0,0,0,0
+6,Mumbai,700,Vodafone,No,0,0,0,0
+6,Mumbai,800,Bharti,No,0,0,0,0
+6,Mumbai,800,Jio,No,0,908.75,6,1
+6,Mumbai,800,Vodafone,No,0,0,0,0
+6,Mumbai,900,Bharti,No,0,0,0,0
+6,Mumbai,900,Jio,No,0,0,0,0
+6,Mumbai,900,Vodafone,No,0,0,0,0
+6,Mumbai,1800,Bharti,No,0,0,0,0
+6,Mumbai,1800,Jio,No,0,112.2,17,1
+6,Mumbai,1800,Vodafone,No,0,0,0,0
+6,Mumbai,2100,Bharti,No,0,0,0,0
+6,Mumbai,2100,Jio,No,0,0,0,0
+6,Mumbai,2100,Vodafone,No,0,0,0,0
+6,Mumbai,2300,Bharti,No,0,0,0,0
+6,Mumbai,2300,Jio,No,0,1670,1,1
+6,Mumbai,2300,Vodafone,No,0,0,0,0
+6,Mumbai,2500,Bharti,No,0,0,0,0
+6,Mumbai,2500,Jio,No,0,0,0,0
+6,Mumbai,2500,Vodafone,No,0,0,0,0
+6,North East,700,Bharti,No,0,0,0,0
+6,North East,700,Jio,No,0,0,0,0
+6,North East,700,Vodafone,No,0,0,0,0
+6,North East,800,Bharti,No,0,0,0,0
+6,North East,800,Jio,No,0,0,0,0
+6,North East,800,Vodafone,No,0,0,0,0
+6,North East,900,Bharti,No,0,4.6,6,1
+6,North East,900,Jio,No,0,0,0,0
+6,North East,900,Vodafone,No,0,0,0,0
+6,North East,1800,Bharti,No,0,0,0,0
+6,North East,1800,Jio,No,0,3.4,18,1
+6,North East,1800,Vodafone,No,0,0,0,0
+6,North East,2100,Bharti,No,0,30,1,1
+6,North East,2100,Jio,No,0,0,0,0
+6,North East,2100,Vodafone,No,0,0,0,0
+6,North East,2300,Bharti,No,0,10,1,2
+6,North East,2300,Jio,No,0,10,1,1
+6,North East,2300,Vodafone,No,0,0,0,0
+6,Odisha,700,Bharti,No,0,0,0,0
+6,Odisha,700,Jio,No,0,0,0,0
+6,Odisha,700,Vodafone,No,0,0,0,0
+6,Odisha,800,Bharti,No,0,0,0,0
+6,Odisha,800,Jio,No,0,58.75,4,1
+6,Odisha,800,Vodafone,No,0,0,0,0
+6,Odisha,900,Bharti,No,0,17.2,19,1
+6,Odisha,900,Jio,No,0,0,0,0
+6,Odisha,900,Vodafone,No,0,0,0,0
+6,Odisha,1800,Bharti,No,0,5.4,13,2
+6,Odisha,1800,Jio,No,0,5.4,25,1
+6,Odisha,1800,Vodafone,No,0,0,0,0
+6,Odisha,2100,Bharti,No,0,0,0,0
+6,Odisha,2100,Jio,No,0,0,0,0
+6,Odisha,2100,Vodafone,No,0,0,0,0
+6,Odisha,2300,Bharti,No,0,50,1,2
+6,Odisha,2300,Jio,No,0,50,1,1
+6,Odisha,2300,Vodafone,No,0,0,0,0
+6,Punjab,700,Bharti,No,0,0,0,0
+6,Punjab,700,Jio,No,0,0,0,0
+6,Punjab,700,Vodafone,No,0,0,0,0
+6,Punjab,800,Bharti,No,0,0,0,0
+6,Punjab,800,Jio,No,0,196.25,5,1
+6,Punjab,800,Vodafone,No,0,0,0,0
+6,Punjab,1800,Bharti,No,0,17.6,25,1
+6,Punjab,1800,Jio,No,0,17.6,24,2
+6,Punjab,1800,Vodafone,No,0,0,0,0
+6,Punjab,2100,Bharti,No,0,0,0,0
+6,Punjab,2100,Jio,No,0,0,0,0
+6,Punjab,2100,Vodafone,No,0,0,0,0
+6,Punjab,2300,Bharti,No,0,210,2,2
+6,Punjab,2300,Jio,No,0,210,2,1
+6,Punjab,2300,Vodafone,No,0,0,0,0
+6,Punjab,2500,Bharti,No,0,0,0,0
+6,Punjab,2500,Jio,No,0,0,0,0
+6,Punjab,2500,Vodafone,No,0,0,0,0
+6,Rajasthan,700,Bharti,No,0,0,0,0
+6,Rajasthan,700,Jio,No,0,0,0,0
+6,Rajasthan,700,Vodafone,No,0,0,0,0
+6,Rajasthan,800,Bharti,No,0,0,0,0
+6,Rajasthan,800,Jio,No,0,332.5,4,1
+6,Rajasthan,800,Vodafone,No,0,0,0,0
+6,Rajasthan,1800,Bharti,No,0,0,0,0
+6,Rajasthan,1800,Jio,No,0,0,0,0
+6,Rajasthan,1800,Vodafone,No,0,0,0,0
+6,Rajasthan,2300,Bharti,No,0,60,2,2
+1,Madhya Pradesh,900,Jio,No,0,0,0,0
+1,Madhya Pradesh,900,Vodafone,No,0,0,0,0
+1,Madhya Pradesh,1800,Bharti,Bid,21,19,21,1
+1,Madhya Pradesh,1800,Jio,Bid,18,19,18,2
+1,Madhya Pradesh,1800,Vodafone,No,0,0,0,0
+1,Madhya Pradesh,2100,Bharti,No,0,0,0,0
+1,Madhya Pradesh,2100,Jio,No,0,0,0,0
+1,Madhya Pradesh,2100,Vodafone,No,0,0,0,0
+1,Madhya Pradesh,2300,Bharti,Bid,1,90,1,2
+1,Madhya Pradesh,2300,Jio,Bid,1,90,1,1
+1,Madhya Pradesh,2300,Vodafone,No,0,0,0,0
+6,Rajasthan,2300,Jio,No,0,60,2,1
+6,Rajasthan,2300,Vodafone,No,0,0,0,0
+6,Tamil Nadu,700,Bharti,No,0,0,0,0
+6,Tamil Nadu,700,Jio,No,0,0,0,0
+6,Tamil Nadu,700,Vodafone,No,0,0,0,0
+6,Tamil Nadu,800,Bharti,No,0,0,0,0
+6,Tamil Nadu,800,Jio,No,0,217.5,8,1
+6,Tamil Nadu,800,Vodafone,No,0,0,0,0
+6,Tamil Nadu,900,Bharti,No,0,47,25,1
+6,Tamil Nadu,900,Jio,No,0,0,0,0
+6,Tamil Nadu,900,Vodafone,No,0,47,25,2
+6,Tamil Nadu,1800,Bharti,No,0,20,75,1
+6,Tamil Nadu,1800,Jio,No,0,20,16,2
+6,Tamil Nadu,1800,Vodafone,No,0,0,0,0
+6,Tamil Nadu,2300,Bharti,No,0,0,0,0
+6,Tamil Nadu,2300,Jio,No,0,1510,1,1
+6,Tamil Nadu,2300,Vodafone,No,0,0,0,0
+6,Tamil Nadu,2500,Bharti,No,0,0,0,0
+6,Tamil Nadu,2500,Jio,No,0,0,0,0
+6,Tamil Nadu,2500,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (East),700,Bharti,No,0,0,0,0
+6,Uttar Pradesh (East),700,Jio,No,0,0,0,0
+6,Uttar Pradesh (East),700,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (East),800,Bharti,No,0,0,0,0
+6,Uttar Pradesh (East),800,Jio,No,0,313.75,4,1
+6,Uttar Pradesh (East),800,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (East),900,Bharti,No,0,52.4,25,1
+6,Uttar Pradesh (East),900,Jio,No,0,0,0,0
+6,Uttar Pradesh (East),900,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (East),1800,Bharti,No,0,30.6,16,2
+6,Uttar Pradesh (East),1800,Jio,No,0,30.6,18,1
+6,Uttar Pradesh (East),1800,Vodafone,No,0,30.6,7,3
+6,Uttar Pradesh (East),2300,Bharti,No,0,90,2,2
+6,Uttar Pradesh (East),2300,Jio,No,0,90,2,1
+6,Uttar Pradesh (East),2300,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (West),700,Bharti,No,0,0,0,0
+6,Uttar Pradesh (West),700,Jio,No,0,0,0,0
+6,Uttar Pradesh (West),700,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (West),800,Bharti,No,0,201.25,4,2
+6,Uttar Pradesh (West),800,Jio,No,0,201.25,4,1
+6,Uttar Pradesh (West),800,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (West),900,Bharti,No,0,0,0,0
+6,Uttar Pradesh (West),900,Jio,No,0,0,0,0
+6,Uttar Pradesh (West),900,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (West),1800,Bharti,No,0,23,15,2
+6,Uttar Pradesh (West),1800,Jio,No,0,23,25,1
+6,Uttar Pradesh (West),1800,Vodafone,No,0,23,3,3
+6,Uttar Pradesh (West),2100,Bharti,No,0,0,0,0
+6,Uttar Pradesh (West),2100,Jio,No,0,0,0,0
+6,Uttar Pradesh (West),2100,Vodafone,No,0,0,0,0
+6,Uttar Pradesh (West),2300,Bharti,No,0,120,2,2
+6,Uttar Pradesh (West),2300,Jio,No,0,120,2,1
+6,Uttar Pradesh (West),2300,Vodafone,No,0,0,0,0
+6,West Bengal,700,Bharti,No,0,0,0,0
+6,West Bengal,700,Jio,No,0,0,0,0
+6,West Bengal,700,Vodafone,No,0,0,0,0
+6,West Bengal,800,Bharti,No,0,0,0,0
+6,West Bengal,800,Jio,No,0,92.5,8,1
+6,West Bengal,800,Vodafone,No,0,0,0,0
+6,West Bengal,900,Bharti,No,0,24.8,14,1
+6,West Bengal,900,Jio,No,0,0,0,0
+6,West Bengal,900,Vodafone,No,0,24.8,4,2
+6,West Bengal,1800,Bharti,No,0,10.6,19,1
+6,West Bengal,1800,Jio,No,0,0,0,0
+6,West Bengal,1800,Vodafone,No,0,0,0,0
+6,West Bengal,2100,Bharti,No,0,175,1,1
+6,West Bengal,2100,Jio,No,0,0,0,0
+6,West Bengal,2100,Vodafone,No,0,0,0,0
+6,West Bengal,2300,Bharti,No,0,60,1,2
+6,West Bengal,2300,Jio,No,0,60,1,1
+6,West Bengal,2300,Vodafone,No,0,0,0,0
+1,Maharashtra,700,Bharti,No,0,0,0,0
+1,Maharashtra,700,Jio,No,0,0,0,0
+1,Maharashtra,700,Vodafone,No,0,0,0,0
+1,Maharashtra,800,Bharti,Bid,2,637.5,2,2
+1,Maharashtra,800,Jio,Bid,8,637.5,8,1
+1,Maharashtra,800,Vodafone,No,0,0,0,0
+1,Maharashtra,900,Bharti,No,0,0,0,0
+1,Maharashtra,900,Jio,No,0,0,0,0
+1,Maharashtra,900,Vodafone,No,0,0,0,0
+1,Maharashtra,1800,Bharti,No,0,0,0,0
+1,Maharashtra,1800,Jio,Bid,25,73,25,1
+1,Maharashtra,1800,Vodafone,No,0,0,0,0
+1,Maharashtra,2100,Bharti,No,0,0,0,0
+1,Maharashtra,2100,Jio,No,0,0,0,0
+1,Maharashtra,2100,Vodafone,No,0,0,0,0
+1,Maharashtra,2300,Bharti,Bid,1,720,1,2
+1,Maharashtra,2300,Jio,Bid,1,720,1,1
+1,Maharashtra,2300,Vodafone,No,0,0,0,0
+1,Maharashtra,2500,Bharti,No,0,0,0,0
+1,Maharashtra,2500,Jio,No,0,0,0,0
+1,Maharashtra,2500,Vodafone,No,0,0,0,0
+1,Mumbai,700,Bharti,No,0,0,0,0
+1,Mumbai,700,Jio,No,0,0,0,0
+1,Mumbai,700,Vodafone,No,0,0,0,0
+1,Mumbai,800,Bharti,No,0,0,0,0
+1,Mumbai,800,Jio,Bid,6,908.75,6,1
+1,Mumbai,800,Vodafone,No,0,0,0,0
+1,Mumbai,900,Bharti,No,0,0,0,0
+1,Mumbai,900,Jio,No,0,0,0,0
+1,Mumbai,900,Vodafone,No,0,0,0,0
+1,Mumbai,1800,Bharti,No,0,0,0,0
+1,Mumbai,1800,Jio,Bid,17,112.2,17,1
+1,Mumbai,1800,Vodafone,No,0,0,0,0
+1,Mumbai,2100,Bharti,No,0,0,0,0
+1,Mumbai,2100,Jio,No,0,0,0,0
+1,Mumbai,2100,Vodafone,No,0,0,0,0
+1,Mumbai,2300,Bharti,No,0,0,0,0
+1,Mumbai,2300,Jio,Bid,1,1670,1,1
+1,Mumbai,2300,Vodafone,No,0,0,0,0
+1,Mumbai,2500,Bharti,No,0,0,0,0
+1,Mumbai,2500,Jio,No,0,0,0,0
+1,Mumbai,2500,Vodafone,No,0,0,0,0
+1,North East,700,Bharti,No,0,0,0,0
+1,North East,700,Jio,No,0,0,0,0
+1,North East,700,Vodafone,No,0,0,0,0
+1,North East,800,Bharti,No,0,0,0,0
+1,North East,800,Jio,No,0,0,0,0
+1,North East,800,Vodafone,No,0,0,0,0
+1,North East,900,Bharti,Bid,6,4.6,6,1
+1,North East,900,Jio,No,0,0,0,0
+1,North East,900,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,2300,Bharti,No,0,0,0,0
+1,Andhra Pradesh,2300,Jio,Bid,1,780,1,1
+1,Andhra Pradesh,2300,Vodafone,No,0,0,0,0
+1,Andhra Pradesh,2500,Bharti,No,0,0,0,0
+1,Andhra Pradesh,2500,Jio,No,0,0,0,0
+1,Andhra Pradesh,2500,Vodafone,No,0,0,0,0
+1,Assam,700,Bharti,No,0,0,0,0
+1,Assam,700,Jio,No,0,0,0,0
+1,Assam,700,Vodafone,No,0,0,0,0
+1,Assam,800,Bharti,No,0,0,0,0
+1,Assam,800,Jio,No,0,0,0,0
+1,Assam,800,Vodafone,No,0,0,0,0
+1,Assam,900,Bharti,No,0,0,0,0
+1,Assam,900,Jio,No,0,0,0,0
+1,Assam,900,Vodafone,No,0,0,0,0
+1,Assam,1800,Bharti,No,0,0,0,0
+1,Assam,1800,Jio,Bid,23,9.2,23,1
+1,North East,1800,Bharti,No,0,0,0,0
+1,North East,1800,Jio,Bid,18,3.4,18,1
+1,North East,1800,Vodafone,No,0,0,0,0
+1,North East,2100,Bharti,Bid,1,30,1,1
+1,North East,2100,Jio,No,0,0,0,0
+1,North East,2100,Vodafone,No,0,0,0,0
+1,North East,2300,Bharti,Bid,1,10,1,2
+1,North East,2300,Jio,Bid,1,10,1,1
+1,North East,2300,Vodafone,No,0,0,0,0
+1,Odisha,700,Bharti,No,0,0,0,0
+1,Odisha,700,Jio,No,0,0,0,0
+1,Odisha,700,Vodafone,No,0,0,0,0
+1,Odisha,800,Bharti,No,0,0,0,0
+1,Odisha,800,Jio,Bid,4,58.75,4,1
+1,Odisha,800,Vodafone,No,0,0,0,0
+1,Odisha,900,Bharti,Bid,19,17.2,19,1
+1,Odisha,900,Jio,No,0,0,0,0
+1,Odisha,900,Vodafone,No,0,0,0,0
+1,Odisha,1800,Bharti,No,0,0,0,0
+1,Odisha,1800,Jio,Bid,25,5.4,25,1
+1,Odisha,1800,Vodafone,No,0,0,0,0
+1,Odisha,2100,Bharti,No,0,0,0,0
+1,Odisha,2100,Jio,No,0,0,0,0
+1,Odisha,2100,Vodafone,No,0,0,0,0
+1,Odisha,2300,Bharti,Bid,1,50,1,2
+1,Odisha,2300,Jio,Bid,1,50,1,1
+1,Odisha,2300,Vodafone,No,0,0,0,0
+1,Punjab,700,Bharti,No,0,0,0,0
+1,Punjab,700,Jio,No,0,0,0,0
+1,Punjab,700,Vodafone,No,0,0,0,0
+1,Punjab,800,Bharti,No,0,0,0,0
+1,Punjab,800,Jio,Bid,5,196.25,5,1
+1,Punjab,800,Vodafone,No,0,0,0,0
+1,Punjab,1800,Bharti,Bid,25,17.6,25,1
+1,Punjab,1800,Jio,Bid,24,17.6,24,2
+1,Punjab,1800,Vodafone,No,0,0,0,0
+1,Punjab,2100,Bharti,No,0,0,0,0
+1,Punjab,2100,Jio,No,0,0,0,0
+1,Punjab,2100,Vodafone,No,0,0,0,0
+1,Punjab,2300,Bharti,Bid,2,210,2,2
+1,Punjab,2300,Jio,Bid,2,210,2,1
+1,Punjab,2300,Vodafone,No,0,0,0,0
+1,Punjab,2500,Bharti,No,0,0,0,0
+1,Punjab,2500,Jio,No,0,0,0,0
+1,Punjab,2500,Vodafone,No,0,0,0,0
+1,Rajasthan,700,Bharti,No,0,0,0,0
+1,Rajasthan,700,Jio,No,0,0,0,0
+1,Rajasthan,700,Vodafone,No,0,0,0,0
+1,Rajasthan,800,Bharti,No,0,0,0,0
+1,Rajasthan,800,Jio,Bid,4,332.5,4,1
+1,Rajasthan,800,Vodafone,No,0,0,0,0
+1,Rajasthan,1800,Bharti,No,0,0,0,0
+1,Rajasthan,1800,Jio,No,0,0,0,0
+1,Rajasthan,1800,Vodafone,No,0,0,0,0
+1,Rajasthan,2300,Bharti,Bid,2,60,2,2
+1,Rajasthan,2300,Jio,Bid,2,60,2,1
+1,Rajasthan,2300,Vodafone,No,0,0,0,0
+1,Tamil Nadu,700,Bharti,No,0,0,0,0
+1,Tamil Nadu,700,Jio,No,0,0,0,0
+1,Tamil Nadu,700,Vodafone,No,0,0,0,0
+1,Tamil Nadu,800,Bharti,No,0,0,0,0
+1,Tamil Nadu,800,Jio,Bid,8,217.5,8,1
+1,Tamil Nadu,800,Vodafone,No,0,0,0,0
+1,Tamil Nadu,900,Bharti,Bid,25,47,25,1
+1,Tamil Nadu,900,Jio,No,0,0,0,0
+1,Tamil Nadu,900,Vodafone,Bid,25,47,25,2
+1,Tamil Nadu,1800,Bharti,Bid,50,20,50,1
+1,Tamil Nadu,1800,Jio,Bid,16,20,16,2
+1,Tamil Nadu,1800,Vodafone,No,0,0,0,0
+1,Tamil Nadu,2300,Bharti,No,0,0,0,0
+1,Tamil Nadu,2300,Jio,Bid,1,1510,1,1
+1,Tamil Nadu,2300,Vodafone,No,0,0,0,0
+1,Tamil Nadu,2500,Bharti,No,0,0,0,0
+1,Tamil Nadu,2500,Jio,No,0,0,0,0
+1,Tamil Nadu,2500,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (East),700,Bharti,No,0,0,0,0
+1,Uttar Pradesh (East),700,Jio,No,0,0,0,0
+1,Uttar Pradesh (East),700,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (East),800,Bharti,No,0,0,0,0
+1,Uttar Pradesh (East),800,Jio,Bid,4,313.75,4,1
+1,Uttar Pradesh (East),800,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (East),900,Bharti,Bid,25,52.4,25,1
+1,Uttar Pradesh (East),900,Jio,No,0,0,0,0
+1,Uttar Pradesh (East),900,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (East),1800,Bharti,Bid,16,30.6,16,2
+1,Uttar Pradesh (East),1800,Jio,Bid,18,30.6,18,1
+1,Uttar Pradesh (East),1800,Vodafone,Bid,7,30.6,7,3
+1,Uttar Pradesh (East),2300,Bharti,Bid,2,90,2,2
+1,Uttar Pradesh (East),2300,Jio,Bid,2,90,2,1
+1,Uttar Pradesh (East),2300,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (West),700,Bharti,No,0,0,0,0
+1,Uttar Pradesh (West),700,Jio,No,0,0,0,0
+1,Uttar Pradesh (West),700,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (West),800,Bharti,Bid,4,201.25,4,2
+1,Uttar Pradesh (West),800,Jio,Bid,4,201.25,4,1
+1,Uttar Pradesh (West),800,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (West),900,Bharti,No,0,0,0,0
+1,Uttar Pradesh (West),900,Jio,No,0,0,0,0
+1,Uttar Pradesh (West),900,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (West),1800,Bharti,Bid,15,23,15,2
+1,Uttar Pradesh (West),1800,Jio,Bid,25,23,25,1
+1,Uttar Pradesh (West),1800,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (West),2100,Bharti,No,0,0,0,0
+1,Uttar Pradesh (West),2100,Jio,No,0,0,0,0
+1,Uttar Pradesh (West),2100,Vodafone,No,0,0,0,0
+1,Uttar Pradesh (West),2300,Bharti,Bid,2,120,2,2
+1,Uttar Pradesh (West),2300,Jio,Bid,2,120,2,1
+1,Uttar Pradesh (West),2300,Vodafone,No,0,0,0,0
+1,West Bengal,700,Bharti,No,0,0,0,0
+1,West Bengal,700,Jio,No,0,0,0,0
+1,West Bengal,700,Vodafone,No,0,0,0,0
+1,West Bengal,800,Bharti,No,0,0,0,0
+1,West Bengal,800,Jio,Bid,8,92.5,8,1
+1,West Bengal,800,Vodafone,No,0,0,0,0
+1,West Bengal,900,Bharti,Bid,14,24.8,14,1
+1,West Bengal,900,Jio,No,0,0,0,0
+1,West Bengal,900,Vodafone,No,0,0,0,0
+1,West Bengal,1800,Bharti,No,0,0,0,0
+1,West Bengal,1800,Jio,No,0,0,0,0
+1,West Bengal,1800,Vodafone,No,0,0,0,0
+1,West Bengal,2100,Bharti,Bid,1,175,1,1
+1,West Bengal,2100,Jio,No,0,0,0,0
+1,West Bengal,2100,Vodafone,No,0,0,0,0
+1,West Bengal,2300,Bharti,Bid,1,60,1,2
+1,West Bengal,2300,Jio,Bid,1,60,1,1
+1,West Bengal,2300,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,700,Bharti,No,0,0,0,0
+2,Andhra Pradesh,700,Jio,No,0,0,0,0
+2,Andhra Pradesh,700,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,800,Bharti,No,0,0,0,0
+2,Andhra Pradesh,800,Jio,No,0,487.5,5,1
+2,Andhra Pradesh,800,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,900,Bharti,No,0,0,0,0
+2,Andhra Pradesh,900,Jio,No,0,0,0,0
+2,Andhra Pradesh,900,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,1800,Bharti,No,0,0,0,0
+2,Andhra Pradesh,1800,Jio,No,0,55.8,21,1
+2,Andhra Pradesh,1800,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,2100,Bharti,No,0,0,0,0
+2,Andhra Pradesh,2100,Jio,No,0,0,0,0
+2,Andhra Pradesh,2100,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,2300,Bharti,No,0,0,0,0
+2,Andhra Pradesh,2300,Jio,No,0,780,1,1
+2,Andhra Pradesh,2300,Vodafone,No,0,0,0,0
+2,Andhra Pradesh,2500,Bharti,No,0,0,0,0
+2,Andhra Pradesh,2500,Jio,No,0,0,0,0
+2,Andhra Pradesh,2500,Vodafone,No,0,0,0,0
+2,Assam,700,Bharti,No,0,0,0,0
+2,Assam,700,Jio,No,0,0,0,0
+2,Assam,700,Vodafone,No,0,0,0,0
+2,Assam,800,Bharti,No,0,0,0,0
+1,Assam,1800,Vodafone,No,0,0,0,0
+1,Assam,2100,Bharti,Bid,1,150,1,1
+1,Assam,2100,Jio,No,0,0,0,0
+1,Assam,2100,Vodafone,No,0,0,0,0
+1,Assam,2300,Bharti,Bid,1,20,1,2
+1,Assam,2300,Jio,Bid,1,20,1,1
+1,Assam,2300,Vodafone,No,0,0,0,0
+1,Bihar,700,Bharti,No,0,0,0,0
+1,Bihar,700,Jio,No,0,0,0,0
+1,Bihar,700,Vodafone,No,0,0,0,0
+1,Bihar,800,Bharti,No,0,0,0,0
+1,Bihar,800,Jio,Bid,4,170,4,1
+1,Bihar,800,Vodafone,No,0,0,0,0
+1,Bihar,900,Bharti,Bid,17,40.2,17,1
+1,Bihar,900,Jio,No,0,0,0,0
+1,Bihar,900,Vodafone,No,0,0,0,0
+1,Bihar,1800,Bharti,Bid,14,17.6,14,2
+2,Assam,800,Jio,No,0,0,0,0
+2,Assam,800,Vodafone,No,0,0,0,0
+2,Assam,900,Bharti,No,0,0,0,0
+2,Assam,900,Jio,No,0,0,0,0
+2,Assam,900,Vodafone,No,0,0,0,0
+2,Assam,1800,Bharti,No,0,0,0,0
+2,Assam,1800,Jio,No,0,9.2,23,1
+2,Assam,1800,Vodafone,No,0,0,0,0
+2,Assam,2100,Bharti,No,0,150,1,1
+2,Assam,2100,Jio,No,0,0,0,0
+2,Assam,2100,Vodafone,No,0,0,0,0
+2,Assam,2300,Bharti,No,0,20,1,2
+2,Assam,2300,Jio,No,0,20,1,1
+2,Assam,2300,Vodafone,No,0,0,0,0
+2,Bihar,700,Bharti,No,0,0,0,0
+2,Bihar,700,Jio,No,0,0,0,0
+2,Bihar,700,Vodafone,No,0,0,0,0
+2,Bihar,800,Bharti,No,0,0,0,0
+2,Bihar,800,Jio,No,0,170,4,1
+2,Bihar,800,Vodafone,No,0,0,0,0
+2,Bihar,900,Bharti,No,0,40.2,17,1
+2,Bihar,900,Jio,No,0,0,0,0
+2,Bihar,900,Vodafone,No,0,0,0,0
+2,Bihar,1800,Bharti,No,0,17.6,14,2
+2,Bihar,1800,Jio,No,0,17.6,25,1
+2,Bihar,1800,Vodafone,No,0,0,0,0
+2,Bihar,2100,Bharti,No,0,0,0,0
+2,Bihar,2100,Jio,No,0,0,0,0
+2,Bihar,2100,Vodafone,No,0,0,0,0
+2,Bihar,2300,Bharti,No,0,70,1,2
+2,Bihar,2300,Jio,No,0,70,1,1
+2,Bihar,2300,Vodafone,No,0,0,0,0
+2,Bihar,2500,Bharti,No,0,0,0,0
+2,Bihar,2500,Jio,No,0,0,0,0
+2,Bihar,2500,Vodafone,No,0,0,0,0
+2,Delhi,700,Bharti,No,0,0,0,0
+2,Delhi,700,Jio,No,0,0,0,0
+2,Delhi,700,Vodafone,No,0,0,0,0
+2,Delhi,800,Bharti,No,0,0,0,0
+2,Delhi,800,Jio,No,0,800,7,1
+2,Delhi,800,Vodafone,No,0,0,0,0
+2,Delhi,900,Bharti,No,0,0,0,0
+2,Delhi,900,Jio,No,0,0,0,0
+2,Delhi,900,Vodafone,No,0,0,0,0
+2,Delhi,1800,Bharti,No,0,0,0,0
+2,Delhi,1800,Jio,No,0,91.4,23,1
+2,Delhi,1800,Vodafone,No,0,0,0,0
+2,Delhi,2100,Bharti,No,0,0,0,0
+2,Delhi,2100,Jio,No,0,0,0,0
+2,Delhi,2100,Vodafone,No,0,0,0,0
+2,Delhi,2300,Bharti,No,0,0,0,0
+2,Delhi,2300,Jio,No,0,1640,1,1
+2,Delhi,2300,Vodafone,No,0,0,0,0
+2,Delhi,2500,Bharti,No,0,0,0,0
+2,Delhi,2500,Jio,No,0,0,0,0
+2,Delhi,2500,Vodafone,No,0,0,0,0
+2,Gujarat,700,Bharti,No,0,0,0,0
+2,Gujarat,700,Jio,No,0,0,0,0
+2,Gujarat,700,Vodafone,No,0,0,0,0
+2,Gujarat,800,Bharti,No,0,0,0,0
+2,Gujarat,800,Jio,No,0,481.25,4,1
+2,Gujarat,800,Vodafone,No,0,0,0,0
+2,Gujarat,900,Bharti,No,0,0,0,0
+2,Gujarat,900,Jio,No,0,0,0,0
+2,Gujarat,900,Vodafone,No,0,0,0,0
+2,Gujarat,1800,Bharti,No,0,0,0,0
+2,Gujarat,1800,Jio,No,0,54.6,20,1
+2,Gujarat,1800,Vodafone,No,0,0,0,0
+2,Gujarat,2100,Bharti,No,0,0,0,0
+2,Gujarat,2100,Jio,No,0,0,0,0
+2,Gujarat,2100,Vodafone,No,0,0,0,0
+2,Gujarat,2300,Bharti,No,0,700,1,2
+2,Gujarat,2300,Jio,No,0,700,1,1
+2,Gujarat,2300,Vodafone,No,0,0,0,0
+2,Gujarat,2500,Bharti,No,0,0,0,0
+2,Gujarat,2500,Jio,No,0,0,0,0
+2,Gujarat,2500,Vodafone,No,0,0,0,0
+2,Haryana,700,Bharti,No,0,0,0,0
+2,Haryana,700,Jio,No,0,0,0,0
+2,Haryana,700,Vodafone,No,0,0,0,0
+2,Haryana,800,Bharti,No,0,71.25,3,2
+2,Haryana,800,Jio,No,0,71.25,4,1
+2,Haryana,800,Vodafone,No,0,0,0,0
+2,Haryana,900,Bharti,No,0,0,0,0
+2,Haryana,900,Jio,No,0,0,0,0
+2,Haryana,900,Vodafone,No,0,0,0,0
+2,Haryana,1800,Bharti,No,0,0,0,0
+2,Haryana,1800,Jio,No,0,11.4,25,1
+2,Haryana,1800,Vodafone,No,0,0,0,0
+2,Haryana,2100,Bharti,No,0,0,0,0
+2,Haryana,2100,Jio,No,0,0,0,0
+2,Haryana,2100,Vodafone,No,0,0,0,0
+2,Haryana,2300,Bharti,No,0,80,2,2
+2,Haryana,2300,Jio,No,0,80,2,1
+2,Haryana,2300,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,700,Bharti,No,0,0,0,0
+2,Himachal Pradesh,700,Jio,No,0,0,0,0
+2,Himachal Pradesh,700,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,800,Bharti,No,0,0,0,0
+2,Himachal Pradesh,800,Jio,No,0,30,4,1
+2,Himachal Pradesh,800,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,900,Bharti,No,0,7.4,13,1
+2,Himachal Pradesh,900,Jio,No,0,0,0,0
+2,Himachal Pradesh,900,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,1800,Bharti,No,0,3.6,24,1
+2,Himachal Pradesh,1800,Jio,No,0,0,0,0
+2,Himachal Pradesh,1800,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,2100,Bharti,No,0,0,0,0
+2,Himachal Pradesh,2100,Jio,No,0,0,0,0
+2,Himachal Pradesh,2100,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,2300,Bharti,No,0,10,1,2
+2,Himachal Pradesh,2300,Jio,No,0,10,1,1
+2,Himachal Pradesh,2300,Vodafone,No,0,0,0,0
+2,Himachal Pradesh,2500,Bharti,No,0,0,0,0
+2,Himachal Pradesh,2500,Jio,No,0,0,0,0
+2,Himachal Pradesh,2500,Vodafone,No,0,0,0,0
+2,Jammu & Kashmir,700,Bharti,No,0,0,0,0
+2,Jammu & Kashmir,700,Jio,No,0,0,0,0
+2,Jammu & Kashmir,700,Vodafone,No,0,0,0,0
+2,Jammu & Kashmir,800,Bharti,No,0,0,0,0
+2,Jammu & Kashmir,800,Jio,No,0,0,0,0
+2,Jammu & Kashmir,800,Vodafone,No,0,0,0,0
+2,Jammu & Kashmir,1800,Bharti,No,0,3.4,50,1
+2,Jammu & Kashmir,1800,Jio,No,0,0,0,0
+2,Jammu & Kashmir,1800,Vodafone,No,0,0,0,0
+2,Jammu & Kashmir,2100,Bharti,No,0,0,0,0
+2,Jammu & Kashmir,2100,Jio,No,0,0,0,0
+2,Jammu & Kashmir,2100,Vodafone,No,0,0,0,0
+2,Jammu & Kashmir,2300,Bharti,No,0,10,2,2
+2,Jammu & Kashmir,2300,Jio,No,0,10,2,1
+2,Jammu & Kashmir,2300,Vodafone,No,0,0,0,0
+2,Jammu & Kashmir,2500,Bharti,No,0,0,0,0
+2,Jammu & Kashmir,2500,Jio,No,0,0,0,0
+2,Jammu & Kashmir,2500,Vodafone,No,0,0,0,0
+2,Karnataka,700,Bharti,No,0,0,0,0
+2,Karnataka,700,Jio,No,0,0,0,0
+2,Karnataka,700,Vodafone,No,0,0,0,0
+2,Karnataka,800,Bharti,No,0,0,0,0
+2,Karnataka,800,Jio,No,0,240,8,1
+2,Karnataka,800,Vodafone,No,0,0,0,0
+2,Karnataka,900,Bharti,No,0,0,0,0
+2,Karnataka,900,Jio,No,0,0,0,0
+2,Karnataka,900,Vodafone,No,0,0,0,0
+2,Karnataka,1800,Bharti,No,0,21.8,56,1
+2,Karnataka,1800,Jio,No,0,21.8,25,2
+2,Karnataka,1800,Vodafone,No,0,21.8,20,3
+2,Karnataka,2100,Bharti,No,0,0,0,0
+2,Karnataka,2100,Jio,No,0,0,0,0
+1,Bihar,1800,Jio,Bid,25,17.6,25,1
+1,Bihar,1800,Vodafone,No,0,0,0,0
+1,Bihar,2100,Bharti,No,0,0,0,0
+1,Bihar,2100,Jio,No,0,0,0,0
+1,Bihar,2100,Vodafone,No,0,0,0,0
+1,Bihar,2300,Bharti,Bid,1,70,1,2
+1,Bihar,2300,Jio,Bid,1,70,1,1
+1,Bihar,2300,Vodafone,No,0,0,0,0
+1,Bihar,2500,Bharti,No,0,0,0,0
+1,Bihar,2500,Jio,No,0,0,0,0
+1,Bihar,2500,Vodafone,No,0,0,0,0
+1,Delhi,700,Bharti,No,0,0,0,0
+1,Delhi,700,Jio,No,0,0,0,0
+1,Delhi,700,Vodafone,No,0,0,0,0
+1,Delhi,800,Bharti,No,0,0,0,0
+1,Delhi,800,Jio,Bid,7,800,7,1
+1,Delhi,800,Vodafone,No,0,0,0,0
+2,Karnataka,2100,Vodafone,No,0,0,0,0
+2,Karnataka,2300,Bharti,No,0,0,0,0
+2,Karnataka,2300,Jio,No,0,1120,1,1
+2,Karnataka,2300,Vodafone,No,0,0,0,0
+2,Karnataka,2500,Bharti,No,0,0,0,0
+2,Karnataka,2500,Jio,No,0,0,0,0
+2,Karnataka,2500,Vodafone,No,0,0,0,0
+2,Kerala,700,Bharti,No,0,0,0,0
+2,Kerala,700,Jio,No,0,0,0,0
+2,Kerala,700,Vodafone,No,0,0,0,0
+2,Kerala,800,Bharti,No,0,0,0,0
+2,Kerala,800,Jio,No,0,196.25,8,1
+2,Kerala,800,Vodafone,No,0,0,0,0
+2,Kerala,900,Bharti,No,0,0,0,0
+2,Kerala,900,Jio,No,0,0,0,0
+2,Kerala,900,Vodafone,No,0,0,0,0
+2,Kerala,1800,Bharti,No,0,19,25,2
+2,Kerala,1800,Jio,No,0,19,25,1
+2,Kerala,1800,Vodafone,No,0,0,0,0
+2,Kerala,2100,Bharti,No,0,0,0,0
+2,Kerala,2100,Jio,No,0,0,0,0
+2,Kerala,2100,Vodafone,No,0,0,0,0
+2,Kerala,2300,Bharti,No,0,200,1,2
+2,Kerala,2300,Jio,No,0,200,1,1
+2,Kerala,2300,Vodafone,No,0,0,0,0
+2,Kolkata,700,Bharti,No,0,0,0,0
+2,Kolkata,700,Jio,No,0,0,0,0
+2,Kolkata,700,Vodafone,No,0,0,0,0
+2,Kolkata,800,Bharti,No,0,0,0,0
+2,Kolkata,800,Jio,No,0,200,8,1
+2,Kolkata,800,Vodafone,No,0,0,0,0
+2,Kolkata,900,Bharti,No,0,0,0,0
+2,Kolkata,900,Jio,No,0,0,0,0
+2,Kolkata,900,Vodafone,No,0,0,0,0
+2,Kolkata,1800,Bharti,No,0,34.6,5,1
+2,Kolkata,1800,Jio,No,0,0,0,0
+2,Kolkata,1800,Vodafone,No,0,0,0,0
+2,Kolkata,2100,Bharti,No,0,0,0,0
+2,Kolkata,2100,Jio,No,0,0,0,0
+2,Kolkata,2100,Vodafone,No,0,0,0,0
+2,Kolkata,2300,Bharti,No,0,0,0,0
+2,Kolkata,2300,Jio,No,0,380,1,1
+2,Kolkata,2300,Vodafone,No,0,0,0,0
+2,Kolkata,2500,Bharti,No,0,0,0,0
+2,Kolkata,2500,Jio,No,0,0,0,0
+2,Kolkata,2500,Vodafone,No,0,0,0,0
+2,Madhya Pradesh,700,Bharti,No,0,0,0,0
+2,Madhya Pradesh,700,Jio,No,0,0,0,0
+2,Madhya Pradesh,700,Vodafone,No,0,0,0,0
+2,Madhya Pradesh,800,Bharti,No,0,178.75,4,2
+2,Madhya Pradesh,800,Jio,No,0,178.75,4,1
+2,Madhya Pradesh,800,Vodafone,No,0,0,0,0
+2,Madhya Pradesh,900,Bharti,No,0,0,0,0
+2,Madhya Pradesh,900,Jio,No,0,0,0,0
+2,Madhya Pradesh,900,Vodafone,No,0,0,0,0
+2,Madhya Pradesh,1800,Bharti,No,0,19,21,1
+2,Madhya Pradesh,1800,Jio,No,0,19,18,2
+2,Madhya Pradesh,1800,Vodafone,No,0,0,0,0
+2,Madhya Pradesh,2100,Bharti,No,0,0,0,0
+2,Madhya Pradesh,2100,Jio,No,0,0,0,0
+2,Madhya Pradesh,2100,Vodafone,No,0,0,0,0
+2,Madhya Pradesh,2300,Bharti,No,0,90,1,2
+2,Madhya Pradesh,2300,Jio,No,0,90,1,1
+2,Madhya Pradesh,2300,Vodafone,No,0,0,0,0
+2,Maharashtra,700,Bharti,No,0,0,0,0
+2,Maharashtra,700,Jio,No,0,0,0,0
+2,Maharashtra,700,Vodafone,No,0,0,0,0
+2,Maharashtra,800,Bharti,No,0,637.5,2,2
+2,Maharashtra,800,Jio,No,0,637.5,8,1
+2,Maharashtra,800,Vodafone,No,0,0,0,0
+2,Maharashtra,900,Bharti,No,0,0,0,0
+2,Maharashtra,900,Jio,No,0,0,0,0
+2,Maharashtra,900,Vodafone,No,0,0,0,0
+2,Maharashtra,1800,Bharti,No,0,0,0,0
+2,Maharashtra,1800,Jio,No,0,73,25,1
+2,Maharashtra,1800,Vodafone,No,0,0,0,0
+2,Maharashtra,2100,Bharti,No,0,0,0,0
+2,Maharashtra,2100,Jio,No,0,0,0,0
+2,Maharashtra,2100,Vodafone,No,0,0,0,0
+2,Maharashtra,2300,Bharti,No,0,720,1,2
+2,Maharashtra,2300,Jio,No,0,720,1,1
+2,Maharashtra,2300,Vodafone,No,0,0,0,0
+2,Maharashtra,2500,Bharti,No,0,0,0,0
+2,Maharashtra,2500,Jio,No,0,0,0,0
+2,Maharashtra,2500,Vodafone,No,0,0,0,0
+2,Mumbai,700,Bharti,No,0,0,0,0
+2,Mumbai,700,Jio,No,0,0,0,0
+2,Mumbai,700,Vodafone,No,0,0,0,0
+2,Mumbai,800,Bharti,No,0,0,0,0
+2,Mumbai,800,Jio,No,0,908.75,6,1
+2,Mumbai,800,Vodafone,No,0,0,0,0
+2,Mumbai,900,Bharti,No,0,0,0,0
+2,Mumbai,900,Jio,No,0,0,0,0
+2,Mumbai,900,Vodafone,No,0,0,0,0
+2,Mumbai,1800,Bharti,No,0,0,0,0
+2,Mumbai,1800,Jio,No,0,112.2,17,1
+2,Mumbai,1800,Vodafone,No,0,0,0,0
+2,Mumbai,2100,Bharti,No,0,0,0,0
+2,Mumbai,2100,Jio,No,0,0,0,0
+2,Mumbai,2100,Vodafone,No,0,0,0,0
+2,Mumbai,2300,Bharti,No,0,0,0,0
+2,Mumbai,2300,Jio,No,0,1670,1,1
+2,Mumbai,2300,Vodafone,No,0,0,0,0
+2,Mumbai,2500,Bharti,No,0,0,0,0
+2,Mumbai,2500,Jio,No,0,0,0,0
+2,Mumbai,2500,Vodafone,No,0,0,0,0
+2,North East,700,Bharti,No,0,0,0,0
+2,North East,700,Jio,No,0,0,0,0
+2,North East,700,Vodafone,No,0,0,0,0
+2,North East,800,Bharti,No,0,0,0,0
+2,North East,800,Jio,No,0,0,0,0
+2,North East,800,Vodafone,No,0,0,0,0
+2,North East,900,Bharti,No,0,4.6,6,1
+2,North East,900,Jio,No,0,0,0,0
+2,North East,900,Vodafone,No,0,0,0,0
+2,North East,1800,Bharti,No,0,0,0,0
+2,North East,1800,Jio,No,0,3.4,18,1
+2,North East,1800,Vodafone,No,0,0,0,0
+2,North East,2100,Bharti,No,0,30,1,1
+2,North East,2100,Jio,No,0,0,0,0
+2,North East,2100,Vodafone,No,0,0,0,0
+2,North East,2300,Bharti,No,0,10,1,2
+2,North East,2300,Jio,No,0,10,1,1
+2,North East,2300,Vodafone,No,0,0,0,0
+2,Odisha,700,Bharti,No,0,0,0,0
+2,Odisha,700,Jio,No,0,0,0,0
+2,Odisha,700,Vodafone,No,0,0,0,0
+2,Odisha,800,Bharti,No,0,0,0,0
+2,Odisha,800,Jio,No,0,58.75,4,1
+2,Odisha,800,Vodafone,No,0,0,0,0
+2,Odisha,900,Bharti,No,0,17.2,19,1
+2,Odisha,900,Jio,No,0,0,0,0
+2,Odisha,900,Vodafone,No,0,0,0,0
+2,Odisha,1800,Bharti,No,0,0,0,0
+2,Odisha,1800,Jio,No,0,5.4,25,1
+2,Odisha,1800,Vodafone,No,0,0,0,0
+2,Odisha,2100,Bharti,No,0,0,0,0
+2,Odisha,2100,Jio,No,0,0,0,0
+2,Odisha,2100,Vodafone,No,0,0,0,0
+2,Odisha,2300,Bharti,No,0,50,1,2
+2,Odisha,2300,Jio,No,0,50,1,1
+2,Odisha,2300,Vodafone,No,0,0,0,0
+2,Punjab,700,Bharti,No,0,0,0,0
+2,Punjab,700,Jio,No,0,0,0,0
+2,Punjab,700,Vodafone,No,0,0,0,0
+2,Punjab,800,Bharti,No,0,0,0,0
+2,Punjab,800,Jio,No,0,196.25,5,1
+2,Punjab,800,Vodafone,No,0,0,0,0
+2,Punjab,1800,Bharti,No,0,17.6,25,1
+2,Punjab,1800,Jio,No,0,17.6,24,2
+2,Punjab,1800,Vodafone,No,0,0,0,0
+2,Punjab,2100,Bharti,No,0,0,0,0
+2,Punjab,2100,Jio,No,0,0,0,0
+2,Punjab,2100,Vodafone,No,0,0,0,0
+2,Punjab,2300,Bharti,No,0,210,2,2
+2,Punjab,2300,Jio,No,0,210,2,1
+2,Punjab,2300,Vodafone,No,0,0,0,0
+2,Punjab,2500,Bharti,No,0,0,0,0
+2,Punjab,2500,Jio,No,0,0,0,0
+2,Punjab,2500,Vodafone,No,0,0,0,0
+1,Delhi,900,Bharti,No,0,0,0,0
+1,Delhi,900,Jio,No,0,0,0,0
+1,Delhi,900,Vodafone,No,0,0,0,0
+1,Delhi,1800,Bharti,No,0,0,0,0
+1,Delhi,1800,Jio,Bid,23,91.4,23,1
+1,Delhi,1800,Vodafone,No,0,0,0,0
+1,Delhi,2100,Bharti,No,0,0,0,0
+1,Delhi,2100,Jio,No,0,0,0,0
+1,Delhi,2100,Vodafone,No,0,0,0,0
+1,Delhi,2300,Bharti,No,0,0,0,0
+1,Delhi,2300,Jio,Bid,1,1640,1,1
+1,Delhi,2300,Vodafone,No,0,0,0,0
+1,Delhi,2500,Bharti,No,0,0,0,0
+1,Delhi,2500,Jio,No,0,0,0,0
+1,Delhi,2500,Vodafone,No,0,0,0,0
+1,Gujarat,700,Bharti,No,0,0,0,0
+1,Gujarat,700,Jio,No,0,0,0,0
+2,Rajasthan,700,Bharti,No,0,0,0,0
+2,Rajasthan,700,Jio,No,0,0,0,0
+2,Rajasthan,700,Vodafone,No,0,0,0,0
+2,Rajasthan,800,Bharti,No,0,0,0,0
+2,Rajasthan,800,Jio,No,0,332.5,4,1
+2,Rajasthan,800,Vodafone,No,0,0,0,0
+2,Rajasthan,1800,Bharti,No,0,0,0,0
+2,Rajasthan,1800,Jio,No,0,0,0,0
+2,Rajasthan,1800,Vodafone,No,0,0,0,0
+2,Rajasthan,2300,Bharti,No,0,60,2,2
+2,Rajasthan,2300,Jio,No,0,60,2,1
+2,Rajasthan,2300,Vodafone,No,0,0,0,0
+2,Tamil Nadu,700,Bharti,No,0,0,0,0
+2,Tamil Nadu,700,Jio,No,0,0,0,0
+2,Tamil Nadu,700,Vodafone,No,0,0,0,0
+2,Tamil Nadu,800,Bharti,No,0,0,0,0
+2,Tamil Nadu,800,Jio,No,0,217.5,8,1
+2,Tamil Nadu,800,Vodafone,No,0,0,0,0
+2,Tamil Nadu,900,Bharti,No,0,47,25,1
+2,Tamil Nadu,900,Jio,No,0,0,0,0
+2,Tamil Nadu,900,Vodafone,No,0,47,25,2
+2,Tamil Nadu,1800,Bharti,No,0,20,50,1
+2,Tamil Nadu,1800,Jio,No,0,20,16,2
+2,Tamil Nadu,1800,Vodafone,No,0,0,0,0
+2,Tamil Nadu,2300,Bharti,No,0,0,0,0
+2,Tamil Nadu,2300,Jio,No,0,1510,1,1
+2,Tamil Nadu,2300,Vodafone,No,0,0,0,0
+2,Tamil Nadu,2500,Bharti,No,0,0,0,0
+2,Tamil Nadu,2500,Jio,No,0,0,0,0
+2,Tamil Nadu,2500,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (East),700,Bharti,No,0,0,0,0
+2,Uttar Pradesh (East),700,Jio,No,0,0,0,0
+2,Uttar Pradesh (East),700,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (East),800,Bharti,No,0,0,0,0
+2,Uttar Pradesh (East),800,Jio,No,0,313.75,4,1
+2,Uttar Pradesh (East),800,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (East),900,Bharti,No,0,52.4,25,1
+2,Uttar Pradesh (East),900,Jio,No,0,0,0,0
+2,Uttar Pradesh (East),900,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (East),1800,Bharti,No,0,30.6,16,2
+2,Uttar Pradesh (East),1800,Jio,No,0,30.6,18,1
+2,Uttar Pradesh (East),1800,Vodafone,No,0,30.6,7,3
+2,Uttar Pradesh (East),2300,Bharti,No,0,90,2,2
+2,Uttar Pradesh (East),2300,Jio,No,0,90,2,1
+2,Uttar Pradesh (East),2300,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (West),700,Bharti,No,0,0,0,0
+2,Uttar Pradesh (West),700,Jio,No,0,0,0,0
+2,Uttar Pradesh (West),700,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (West),800,Bharti,No,0,201.25,4,2
+2,Uttar Pradesh (West),800,Jio,No,0,201.25,4,1
+2,Uttar Pradesh (West),800,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (West),900,Bharti,No,0,0,0,0
+2,Uttar Pradesh (West),900,Jio,No,0,0,0,0
+2,Uttar Pradesh (West),900,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (West),1800,Bharti,No,0,23,15,2
+2,Uttar Pradesh (West),1800,Jio,No,0,23,25,1
+2,Uttar Pradesh (West),1800,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (West),2100,Bharti,No,0,0,0,0
+2,Uttar Pradesh (West),2100,Jio,No,0,0,0,0
+2,Uttar Pradesh (West),2100,Vodafone,No,0,0,0,0
+2,Uttar Pradesh (West),2300,Bharti,No,0,120,2,2
+2,Uttar Pradesh (West),2300,Jio,No,0,120,2,1
+2,Uttar Pradesh (West),2300,Vodafone,No,0,0,0,0
+2,West Bengal,700,Bharti,No,0,0,0,0
+2,West Bengal,700,Jio,No,0,0,0,0
+2,West Bengal,700,Vodafone,No,0,0,0,0
+2,West Bengal,800,Bharti,No,0,0,0,0
+2,West Bengal,800,Jio,No,0,92.5,8,1
+2,West Bengal,800,Vodafone,No,0,0,0,0
+2,West Bengal,900,Bharti,No,0,24.8,14,1
+2,West Bengal,900,Jio,No,0,0,0,0
+2,West Bengal,900,Vodafone,No,0,0,0,0
+2,West Bengal,1800,Bharti,No,0,0,0,0
+2,West Bengal,1800,Jio,No,0,0,0,0
+2,West Bengal,1800,Vodafone,No,0,0,0,0
+2,West Bengal,2100,Bharti,No,0,175,1,1
+2,West Bengal,2100,Jio,No,0,0,0,0
+2,West Bengal,2100,Vodafone,No,0,0,0,0
+2,West Bengal,2300,Bharti,No,0,60,1,2
+2,West Bengal,2300,Jio,No,0,60,1,1
+2,West Bengal,2300,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,700,Bharti,No,0,0,0,0
+3,Andhra Pradesh,700,Jio,No,0,0,0,0
+3,Andhra Pradesh,700,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,800,Bharti,No,0,0,0,0
+3,Andhra Pradesh,800,Jio,No,0,487.5,5,1
+3,Andhra Pradesh,800,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,900,Bharti,No,0,0,0,0
+3,Andhra Pradesh,900,Jio,No,0,0,0,0
+3,Andhra Pradesh,900,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,1800,Bharti,No,0,0,0,0
+3,Andhra Pradesh,1800,Jio,No,0,55.8,21,1
+3,Andhra Pradesh,1800,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,2100,Bharti,No,0,0,0,0
+3,Andhra Pradesh,2100,Jio,No,0,0,0,0
+3,Andhra Pradesh,2100,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,2300,Bharti,No,0,0,0,0
+3,Andhra Pradesh,2300,Jio,No,0,780,1,1
+3,Andhra Pradesh,2300,Vodafone,No,0,0,0,0
+3,Andhra Pradesh,2500,Bharti,No,0,0,0,0
+3,Andhra Pradesh,2500,Jio,No,0,0,0,0
+3,Andhra Pradesh,2500,Vodafone,No,0,0,0,0
+3,Assam,700,Bharti,No,0,0,0,0
+3,Assam,700,Jio,No,0,0,0,0
+3,Assam,700,Vodafone,No,0,0,0,0
+3,Assam,800,Bharti,No,0,0,0,0
+3,Assam,800,Jio,No,0,0,0,0
+3,Assam,800,Vodafone,No,0,0,0,0
+3,Assam,900,Bharti,No,0,0,0,0
+3,Assam,900,Jio,No,0,0,0,0
+3,Assam,900,Vodafone,No,0,0,0,0
+3,Assam,1800,Bharti,No,0,0,0,0
+3,Assam,1800,Jio,No,0,9.2,23,1
+3,Assam,1800,Vodafone,No,0,0,0,0
+3,Assam,2100,Bharti,No,0,150,1,1
+3,Assam,2100,Jio,No,0,0,0,0
+3,Assam,2100,Vodafone,No,0,0,0,0
+3,Assam,2300,Bharti,No,0,20,1,2
+3,Assam,2300,Jio,No,0,20,1,1
+3,Assam,2300,Vodafone,No,0,0,0,0
+3,Bihar,700,Bharti,No,0,0,0,0
+3,Bihar,700,Jio,No,0,0,0,0
+3,Bihar,700,Vodafone,No,0,0,0,0
+3,Bihar,800,Bharti,No,0,0,0,0
+3,Bihar,800,Jio,No,0,170,4,1
+3,Bihar,800,Vodafone,No,0,0,0,0
+3,Bihar,900,Bharti,No,0,40.2,17,1
+3,Bihar,900,Jio,No,0,0,0,0
+3,Bihar,900,Vodafone,No,0,0,0,0
+3,Bihar,1800,Bharti,No,0,17.6,14,2
+3,Bihar,1800,Jio,No,0,17.6,25,1
+3,Bihar,1800,Vodafone,No,0,0,0,0
+3,Bihar,2100,Bharti,No,0,0,0,0
+3,Bihar,2100,Jio,No,0,0,0,0
+3,Bihar,2100,Vodafone,No,0,0,0,0
+3,Bihar,2300,Bharti,No,0,70,1,2
+3,Bihar,2300,Jio,No,0,70,1,1
+3,Bihar,2300,Vodafone,No,0,0,0,0
+3,Bihar,2500,Bharti,No,0,0,0,0
+3,Bihar,2500,Jio,No,0,0,0,0
+3,Bihar,2500,Vodafone,No,0,0,0,0
+3,Delhi,700,Bharti,No,0,0,0,0
+3,Delhi,700,Jio,No,0,0,0,0
+3,Delhi,700,Vodafone,No,0,0,0,0
+3,Delhi,800,Bharti,No,0,0,0,0
+3,Delhi,800,Jio,No,0,800,7,1
+3,Delhi,800,Vodafone,No,0,0,0,0
+3,Delhi,900,Bharti,No,0,0,0,0
+3,Delhi,900,Jio,No,0,0,0,0
+3,Delhi,900,Vodafone,No,0,0,0,0
+3,Delhi,1800,Bharti,No,0,0,0,0
+1,Gujarat,700,Vodafone,No,0,0,0,0
+1,Gujarat,800,Bharti,No,0,0,0,0
+1,Gujarat,800,Jio,Bid,4,481.25,4,1
+1,Gujarat,800,Vodafone,No,0,0,0,0
+1,Gujarat,900,Bharti,No,0,0,0,0
+1,Gujarat,900,Jio,No,0,0,0,0
+1,Gujarat,900,Vodafone,No,0,0,0,0
+1,Gujarat,1800,Bharti,No,0,0,0,0
+1,Gujarat,1800,Jio,Bid,20,54.6,20,1
+1,Gujarat,1800,Vodafone,No,0,0,0,0
+1,Gujarat,2100,Bharti,No,0,0,0,0
+1,Gujarat,2100,Jio,No,0,0,0,0
+1,Gujarat,2100,Vodafone,No,0,0,0,0
+1,Gujarat,2300,Bharti,Bid,1,700,1,2
+1,Gujarat,2300,Jio,Bid,1,700,1,1
+1,Gujarat,2300,Vodafone,No,0,0,0,0
+1,Gujarat,2500,Bharti,No,0,0,0,0
+3,Delhi,1800,Jio,No,0,91.4,23,1
+3,Delhi,1800,Vodafone,No,0,0,0,0
+3,Delhi,2100,Bharti,No,0,0,0,0
+3,Delhi,2100,Jio,No,0,0,0,0
+3,Delhi,2100,Vodafone,No,0,0,0,0
+3,Delhi,2300,Bharti,No,0,0,0,0
+3,Delhi,2300,Jio,No,0,1640,1,1
+3,Delhi,2300,Vodafone,No,0,0,0,0
+3,Delhi,2500,Bharti,No,0,0,0,0
+3,Delhi,2500,Jio,No,0,0,0,0
+3,Delhi,2500,Vodafone,No,0,0,0,0
+3,Gujarat,700,Bharti,No,0,0,0,0
+3,Gujarat,700,Jio,No,0,0,0,0
+3,Gujarat,700,Vodafone,No,0,0,0,0
+3,Gujarat,800,Bharti,No,0,0,0,0
+3,Gujarat,800,Jio,No,0,481.25,4,1
+3,Gujarat,800,Vodafone,No,0,0,0,0
+3,Gujarat,900,Bharti,Bid,21,74.6,21,1
+3,Gujarat,900,Jio,No,0,0,0,0
+3,Gujarat,900,Vodafone,No,0,0,0,0
+3,Gujarat,1800,Bharti,No,0,0,0,0
+3,Gujarat,1800,Jio,No,0,54.6,20,1
+3,Gujarat,1800,Vodafone,No,0,0,0,0
+3,Gujarat,2100,Bharti,No,0,0,0,0
+3,Gujarat,2100,Jio,No,0,0,0,0
+3,Gujarat,2100,Vodafone,No,0,0,0,0
+3,Gujarat,2300,Bharti,No,0,700,1,2
+3,Gujarat,2300,Jio,No,0,700,1,1
+3,Gujarat,2300,Vodafone,No,0,0,0,0
+3,Gujarat,2500,Bharti,No,0,0,0,0
+3,Gujarat,2500,Jio,No,0,0,0,0
+3,Gujarat,2500,Vodafone,No,0,0,0,0
+3,Haryana,700,Bharti,No,0,0,0,0
+3,Haryana,700,Jio,No,0,0,0,0
+3,Haryana,700,Vodafone,No,0,0,0,0
+3,Haryana,800,Bharti,No,0,71.25,3,2
+3,Haryana,800,Jio,No,0,71.25,4,1
+3,Haryana,800,Vodafone,No,0,0,0,0
+3,Haryana,900,Bharti,No,0,0,0,0
+3,Haryana,900,Jio,No,0,0,0,0
+3,Haryana,900,Vodafone,No,0,0,0,0
+3,Haryana,1800,Bharti,No,0,0,0,0
+3,Haryana,1800,Jio,No,0,11.4,25,1
+3,Haryana,1800,Vodafone,No,0,0,0,0
+3,Haryana,2100,Bharti,No,0,0,0,0
+3,Haryana,2100,Jio,No,0,0,0,0
+3,Haryana,2100,Vodafone,No,0,0,0,0
+3,Haryana,2300,Bharti,No,0,80,2,2
+3,Haryana,2300,Jio,No,0,80,2,1
+3,Haryana,2300,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,700,Bharti,No,0,0,0,0
+3,Himachal Pradesh,700,Jio,No,0,0,0,0
+3,Himachal Pradesh,700,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,800,Bharti,No,0,0,0,0
+3,Himachal Pradesh,800,Jio,No,0,30,4,1
+3,Himachal Pradesh,800,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,900,Bharti,No,0,7.4,13,1
+3,Himachal Pradesh,900,Jio,No,0,0,0,0
+3,Himachal Pradesh,900,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,1800,Bharti,No,0,3.6,24,1
+3,Himachal Pradesh,1800,Jio,No,0,0,0,0
+3,Himachal Pradesh,1800,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,2100,Bharti,No,0,0,0,0
+3,Himachal Pradesh,2100,Jio,No,0,0,0,0
+3,Himachal Pradesh,2100,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,2300,Bharti,No,0,10,1,2
+3,Himachal Pradesh,2300,Jio,No,0,10,1,1
+3,Himachal Pradesh,2300,Vodafone,No,0,0,0,0
+3,Himachal Pradesh,2500,Bharti,No,0,0,0,0
+3,Himachal Pradesh,2500,Jio,No,0,0,0,0
+3,Himachal Pradesh,2500,Vodafone,No,0,0,0,0
+3,Jammu & Kashmir,700,Bharti,No,0,0,0,0
+3,Jammu & Kashmir,700,Jio,No,0,0,0,0
+3,Jammu & Kashmir,700,Vodafone,No,0,0,0,0
+3,Jammu & Kashmir,800,Bharti,No,0,0,0,0
+3,Jammu & Kashmir,800,Jio,No,0,0,0,0
+3,Jammu & Kashmir,800,Vodafone,No,0,0,0,0
+3,Jammu & Kashmir,1800,Bharti,No,0,3.4,50,1
+3,Jammu & Kashmir,1800,Jio,No,0,0,0,0
+3,Jammu & Kashmir,1800,Vodafone,No,0,0,0,0
+3,Jammu & Kashmir,2100,Bharti,No,0,0,0,0
+3,Jammu & Kashmir,2100,Jio,No,0,0,0,0
+3,Jammu & Kashmir,2100,Vodafone,No,0,0,0,0
+3,Jammu & Kashmir,2300,Bharti,No,0,10,2,2
+3,Jammu & Kashmir,2300,Jio,No,0,10,2,1
+3,Jammu & Kashmir,2300,Vodafone,No,0,0,0,0
+3,Jammu & Kashmir,2500,Bharti,No,0,0,0,0
+3,Jammu & Kashmir,2500,Jio,No,0,0,0,0
+3,Jammu & Kashmir,2500,Vodafone,No,0,0,0,0
+3,Karnataka,700,Bharti,No,0,0,0,0
+3,Karnataka,700,Jio,No,0,0,0,0
+3,Karnataka,700,Vodafone,No,0,0,0,0
+3,Karnataka,800,Bharti,No,0,0,0,0
+3,Karnataka,800,Jio,No,0,240,8,1
+3,Karnataka,800,Vodafone,No,0,0,0,0
+3,Karnataka,900,Bharti,No,0,0,0,0
+3,Karnataka,900,Jio,No,0,0,0,0
+3,Karnataka,900,Vodafone,No,0,0,0,0
+3,Karnataka,1800,Bharti,No,0,21.8,56,1
+3,Karnataka,1800,Jio,No,0,21.8,25,2
+3,Karnataka,1800,Vodafone,No,0,21.8,20,3
+3,Karnataka,2100,Bharti,No,0,0,0,0
+3,Karnataka,2100,Jio,No,0,0,0,0
+3,Karnataka,2100,Vodafone,No,0,0,0,0
+3,Karnataka,2300,Bharti,No,0,0,0,0
+3,Karnataka,2300,Jio,No,0,1120,1,1
+3,Karnataka,2300,Vodafone,No,0,0,0,0
+3,Karnataka,2500,Bharti,No,0,0,0,0
+3,Karnataka,2500,Jio,No,0,0,0,0
+3,Karnataka,2500,Vodafone,No,0,0,0,0
+3,Kerala,700,Bharti,No,0,0,0,0
+3,Kerala,700,Jio,No,0,0,0,0
+3,Kerala,700,Vodafone,No,0,0,0,0
+3,Kerala,800,Bharti,No,0,0,0,0
+3,Kerala,800,Jio,No,0,196.25,8,1
+3,Kerala,800,Vodafone,No,0,0,0,0
+3,Kerala,900,Bharti,Bid,23,39.8,23,1
+3,Kerala,900,Jio,No,0,0,0,0
+3,Kerala,900,Vodafone,No,0,0,0,0
+3,Kerala,1800,Bharti,No,0,19,25,2
+3,Kerala,1800,Jio,No,0,19,25,1
+3,Kerala,1800,Vodafone,No,0,0,0,0
+3,Kerala,2100,Bharti,No,0,0,0,0
+3,Kerala,2100,Jio,No,0,0,0,0
+3,Kerala,2100,Vodafone,No,0,0,0,0
+3,Kerala,2300,Bharti,No,0,200,1,2
+3,Kerala,2300,Jio,No,0,200,1,1
+3,Kerala,2300,Vodafone,No,0,0,0,0
+3,Kolkata,700,Bharti,No,0,0,0,0
+3,Kolkata,700,Jio,No,0,0,0,0
+3,Kolkata,700,Vodafone,No,0,0,0,0
+3,Kolkata,800,Bharti,No,0,0,0,0
+3,Kolkata,800,Jio,No,0,200,8,1
+3,Kolkata,800,Vodafone,No,0,0,0,0
+3,Kolkata,900,Bharti,No,0,0,0,0
+3,Kolkata,900,Jio,No,0,0,0,0
+3,Kolkata,900,Vodafone,No,0,0,0,0
+3,Kolkata,1800,Bharti,No,0,34.6,5,1
+3,Kolkata,1800,Jio,No,0,0,0,0
+3,Kolkata,1800,Vodafone,No,0,0,0,0
+3,Kolkata,2100,Bharti,No,0,0,0,0
+3,Kolkata,2100,Jio,No,0,0,0,0
+3,Kolkata,2100,Vodafone,No,0,0,0,0
+3,Kolkata,2300,Bharti,No,0,0,0,0
+3,Kolkata,2300,Jio,No,0,380,1,1
+3,Kolkata,2300,Vodafone,No,0,0,0,0
+3,Kolkata,2500,Bharti,No,0,0,0,0
+3,Kolkata,2500,Jio,No,0,0,0,0
+1,Gujarat,2500,Jio,No,0,0,0,0
+1,Gujarat,2500,Vodafone,No,0,0,0,0
+1,Haryana,700,Bharti,No,0,0,0,0
+1,Haryana,700,Jio,No,0,0,0,0
+1,Haryana,700,Vodafone,No,0,0,0,0
+1,Haryana,800,Bharti,Bid,3,71.25,3,2
+1,Haryana,800,Jio,Bid,4,71.25,4,1
+1,Haryana,800,Vodafone,No,0,0,0,0
+1,Haryana,900,Bharti,No,0,0,0,0
+1,Haryana,900,Jio,No,0,0,0,0
+1,Haryana,900,Vodafone,No,0,0,0,0
+1,Haryana,1800,Bharti,No,0,0,0,0
+1,Haryana,1800,Jio,Bid,25,11.4,25,1
+1,Haryana,1800,Vodafone,No,0,0,0,0
+1,Haryana,2100,Bharti,No,0,0,0,0
+1,Haryana,2100,Jio,No,0,0,0,0
+1,Haryana,2100,Vodafone,No,0,0,0,0
+3,Kolkata,2500,Vodafone,No,0,0,0,0
+3,Madhya Pradesh,700,Bharti,No,0,0,0,0
+3,Madhya Pradesh,700,Jio,No,0,0,0,0
+3,Madhya Pradesh,700,Vodafone,No,0,0,0,0
+3,Madhya Pradesh,800,Bharti,No,0,178.75,4,2
+3,Madhya Pradesh,800,Jio,No,0,178.75,4,1
+3,Madhya Pradesh,800,Vodafone,No,0,0,0,0
+3,Madhya Pradesh,900,Bharti,No,0,0,0,0
+3,Madhya Pradesh,900,Jio,No,0,0,0,0
+3,Madhya Pradesh,900,Vodafone,No,0,0,0,0
+3,Madhya Pradesh,1800,Bharti,No,0,19,21,1
+3,Madhya Pradesh,1800,Jio,No,0,19,18,2
+3,Madhya Pradesh,1800,Vodafone,No,0,0,0,0
+3,Madhya Pradesh,2100,Bharti,No,0,0,0,0
+3,Madhya Pradesh,2100,Jio,No,0,0,0,0
+3,Madhya Pradesh,2100,Vodafone,No,0,0,0,0
+3,Madhya Pradesh,2300,Bharti,No,0,90,1,2
+3,Madhya Pradesh,2300,Jio,No,0,90,1,1
+3,Madhya Pradesh,2300,Vodafone,No,0,0,0,0
+3,Maharashtra,700,Bharti,No,0,0,0,0
+3,Maharashtra,700,Jio,No,0,0,0,0
+3,Maharashtra,700,Vodafone,No,0,0,0,0
+3,Maharashtra,800,Bharti,No,0,637.5,2,2
+3,Maharashtra,800,Jio,No,0,637.5,8,1
+3,Maharashtra,800,Vodafone,No,0,0,0,0
+3,Maharashtra,900,Bharti,No,0,0,0,0
+3,Maharashtra,900,Jio,No,0,0,0,0
+3,Maharashtra,900,Vodafone,No,0,0,0,0
+3,Maharashtra,1800,Bharti,No,0,0,0,0
+3,Maharashtra,1800,Jio,No,0,73,25,1
+3,Maharashtra,1800,Vodafone,No,0,0,0,0
+3,Maharashtra,2100,Bharti,No,0,0,0,0
+3,Maharashtra,2100,Jio,No,0,0,0,0
+3,Maharashtra,2100,Vodafone,No,0,0,0,0
+3,Maharashtra,2300,Bharti,No,0,720,1,2
+3,Maharashtra,2300,Jio,No,0,720,1,1
+3,Maharashtra,2300,Vodafone,No,0,0,0,0
+3,Maharashtra,2500,Bharti,No,0,0,0,0
+3,Maharashtra,2500,Jio,No,0,0,0,0
+3,Maharashtra,2500,Vodafone,No,0,0,0,0
+3,Mumbai,700,Bharti,No,0,0,0,0
+3,Mumbai,700,Jio,No,0,0,0,0
+3,Mumbai,700,Vodafone,No,0,0,0,0
+3,Mumbai,800,Bharti,No,0,0,0,0
+3,Mumbai,800,Jio,No,0,908.75,6,1
+3,Mumbai,800,Vodafone,No,0,0,0,0
+3,Mumbai,900,Bharti,No,0,0,0,0
+3,Mumbai,900,Jio,No,0,0,0,0
+3,Mumbai,900,Vodafone,No,0,0,0,0
+3,Mumbai,1800,Bharti,No,0,0,0,0
+3,Mumbai,1800,Jio,No,0,112.2,17,1
+3,Mumbai,1800,Vodafone,No,0,0,0,0
+3,Mumbai,2100,Bharti,No,0,0,0,0
+3,Mumbai,2100,Jio,No,0,0,0,0
+3,Mumbai,2100,Vodafone,No,0,0,0,0
+3,Mumbai,2300,Bharti,No,0,0,0,0
+3,Mumbai,2300,Jio,No,0,1670,1,1
+3,Mumbai,2300,Vodafone,No,0,0,0,0
+3,Mumbai,2500,Bharti,No,0,0,0,0
+3,Mumbai,2500,Jio,No,0,0,0,0
+3,Mumbai,2500,Vodafone,No,0,0,0,0
+3,North East,700,Bharti,No,0,0,0,0
+3,North East,700,Jio,No,0,0,0,0
+3,North East,700,Vodafone,No,0,0,0,0
+3,North East,800,Bharti,No,0,0,0,0
+3,North East,800,Jio,No,0,0,0,0
+3,North East,800,Vodafone,No,0,0,0,0
+3,North East,900,Bharti,No,0,4.6,6,1
+3,North East,900,Jio,No,0,0,0,0
+3,North East,900,Vodafone,No,0,0,0,0
+3,North East,1800,Bharti,No,0,0,0,0
+3,North East,1800,Jio,No,0,3.4,18,1
+3,North East,1800,Vodafone,No,0,0,0,0
+3,North East,2100,Bharti,No,0,30,1,1
+3,North East,2100,Jio,No,0,0,0,0
+3,North East,2100,Vodafone,No,0,0,0,0
+3,North East,2300,Bharti,No,0,10,1,2
+3,North East,2300,Jio,No,0,10,1,1
+3,North East,2300,Vodafone,No,0,0,0,0
+3,Odisha,700,Bharti,No,0,0,0,0
+3,Odisha,700,Jio,No,0,0,0,0
+3,Odisha,700,Vodafone,No,0,0,0,0
+3,Odisha,800,Bharti,No,0,0,0,0
+3,Odisha,800,Jio,No,0,58.75,4,1
+3,Odisha,800,Vodafone,No,0,0,0,0
+3,Odisha,900,Bharti,No,0,17.2,19,1
+3,Odisha,900,Jio,No,0,0,0,0
+3,Odisha,900,Vodafone,No,0,0,0,0
+3,Odisha,1800,Bharti,Bid,13,5.4,13,2
+3,Odisha,1800,Jio,No,0,5.4,25,1
+3,Odisha,1800,Vodafone,No,0,0,0,0
+3,Odisha,2100,Bharti,No,0,0,0,0
+3,Odisha,2100,Jio,No,0,0,0,0
+3,Odisha,2100,Vodafone,No,0,0,0,0
+3,Odisha,2300,Bharti,No,0,50,1,2
+3,Odisha,2300,Jio,No,0,50,1,1
+3,Odisha,2300,Vodafone,No,0,0,0,0
+3,Punjab,700,Bharti,No,0,0,0,0
+3,Punjab,700,Jio,No,0,0,0,0
+3,Punjab,700,Vodafone,No,0,0,0,0
+3,Punjab,800,Bharti,No,0,0,0,0
+3,Punjab,800,Jio,No,0,196.25,5,1
+3,Punjab,800,Vodafone,No,0,0,0,0
+3,Punjab,1800,Bharti,No,0,17.6,25,1
+3,Punjab,1800,Jio,No,0,17.6,24,2
+3,Punjab,1800,Vodafone,No,0,0,0,0
+3,Punjab,2100,Bharti,No,0,0,0,0
+3,Punjab,2100,Jio,No,0,0,0,0
+3,Punjab,2100,Vodafone,No,0,0,0,0
+3,Punjab,2300,Bharti,No,0,210,2,2
+3,Punjab,2300,Jio,No,0,210,2,1
+3,Punjab,2300,Vodafone,No,0,0,0,0
+3,Punjab,2500,Bharti,No,0,0,0,0
+3,Punjab,2500,Jio,No,0,0,0,0
+3,Punjab,2500,Vodafone,No,0,0,0,0
+3,Rajasthan,700,Bharti,No,0,0,0,0
+3,Rajasthan,700,Jio,No,0,0,0,0
+3,Rajasthan,700,Vodafone,No,0,0,0,0
+3,Rajasthan,800,Bharti,No,0,0,0,0
+3,Rajasthan,800,Jio,No,0,332.5,4,1
+3,Rajasthan,800,Vodafone,No,0,0,0,0
+3,Rajasthan,1800,Bharti,No,0,0,0,0
+3,Rajasthan,1800,Jio,No,0,0,0,0
+3,Rajasthan,1800,Vodafone,No,0,0,0,0
+3,Rajasthan,2300,Bharti,No,0,60,2,2
+3,Rajasthan,2300,Jio,No,0,60,2,1
+3,Rajasthan,2300,Vodafone,No,0,0,0,0
+3,Tamil Nadu,700,Bharti,No,0,0,0,0
+3,Tamil Nadu,700,Jio,No,0,0,0,0
+3,Tamil Nadu,700,Vodafone,No,0,0,0,0
+3,Tamil Nadu,800,Bharti,No,0,0,0,0
+3,Tamil Nadu,800,Jio,No,0,217.5,8,1
+3,Tamil Nadu,800,Vodafone,No,0,0,0,0
+3,Tamil Nadu,900,Bharti,No,0,47,25,1
+3,Tamil Nadu,900,Jio,No,0,0,0,0
+3,Tamil Nadu,900,Vodafone,No,0,47,25,2
+3,Tamil Nadu,1800,Bharti,No,0,20,50,1
+3,Tamil Nadu,1800,Jio,No,0,20,16,2
+3,Tamil Nadu,1800,Vodafone,No,0,0,0,0
+3,Tamil Nadu,2300,Bharti,No,0,0,0,0
+3,Tamil Nadu,2300,Jio,No,0,1510,1,1
+3,Tamil Nadu,2300,Vodafone,No,0,0,0,0
+3,Tamil Nadu,2500,Bharti,No,0,0,0,0
+3,Tamil Nadu,2500,Jio,No,0,0,0,0
+3,Tamil Nadu,2500,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (East),700,Bharti,No,0,0,0,0
+3,Uttar Pradesh (East),700,Jio,No,0,0,0,0
+3,Uttar Pradesh (East),700,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (East),800,Bharti,No,0,0,0,0
+3,Uttar Pradesh (East),800,Jio,No,0,313.75,4,1
+3,Uttar Pradesh (East),800,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (East),900,Bharti,No,0,52.4,25,1
+3,Uttar Pradesh (East),900,Jio,No,0,0,0,0
+3,Uttar Pradesh (East),900,Vodafone,No,0,0,0,0
+1,Haryana,2300,Bharti,Bid,2,80,2,2
+1,Haryana,2300,Jio,Bid,2,80,2,1
+1,Haryana,2300,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,700,Bharti,No,0,0,0,0
+1,Himachal Pradesh,700,Jio,No,0,0,0,0
+1,Himachal Pradesh,700,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,800,Bharti,No,0,0,0,0
+1,Himachal Pradesh,800,Jio,Bid,4,30,4,1
+1,Himachal Pradesh,800,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,900,Bharti,Bid,13,7.4,13,1
+1,Himachal Pradesh,900,Jio,No,0,0,0,0
+1,Himachal Pradesh,900,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (East),1800,Bharti,No,0,30.6,16,2
+3,Uttar Pradesh (East),1800,Jio,No,0,30.6,18,1
+3,Uttar Pradesh (East),1800,Vodafone,No,0,30.6,7,3
+3,Uttar Pradesh (East),2300,Bharti,No,0,90,2,2
+3,Uttar Pradesh (East),2300,Jio,No,0,90,2,1
+3,Uttar Pradesh (East),2300,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (West),700,Bharti,No,0,0,0,0
+3,Uttar Pradesh (West),700,Jio,No,0,0,0,0
+3,Uttar Pradesh (West),700,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (West),800,Bharti,No,0,201.25,4,2
+3,Uttar Pradesh (West),800,Jio,No,0,201.25,4,1
+3,Uttar Pradesh (West),800,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (West),900,Bharti,No,0,0,0,0
+3,Uttar Pradesh (West),900,Jio,No,0,0,0,0
+3,Uttar Pradesh (West),900,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (West),1800,Bharti,No,0,23,15,2
+3,Uttar Pradesh (West),1800,Jio,No,0,23,25,1
+3,Uttar Pradesh (West),1800,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (West),2100,Bharti,No,0,0,0,0
+3,Uttar Pradesh (West),2100,Jio,No,0,0,0,0
+3,Uttar Pradesh (West),2100,Vodafone,No,0,0,0,0
+3,Uttar Pradesh (West),2300,Bharti,No,0,120,2,2
+3,Uttar Pradesh (West),2300,Jio,No,0,120,2,1
+3,Uttar Pradesh (West),2300,Vodafone,No,0,0,0,0
+3,West Bengal,700,Bharti,No,0,0,0,0
+3,West Bengal,700,Jio,No,0,0,0,0
+3,West Bengal,700,Vodafone,No,0,0,0,0
+3,West Bengal,800,Bharti,No,0,0,0,0
+3,West Bengal,800,Jio,No,0,92.5,8,1
+3,West Bengal,800,Vodafone,No,0,0,0,0
+3,West Bengal,900,Bharti,No,0,24.8,14,1
+3,West Bengal,900,Jio,No,0,0,0,0
+3,West Bengal,900,Vodafone,No,0,0,0,0
+3,West Bengal,1800,Bharti,Bid,19,10.6,19,1
+3,West Bengal,1800,Jio,No,0,0,0,0
+3,West Bengal,1800,Vodafone,No,0,0,0,0
+3,West Bengal,2100,Bharti,No,0,175,1,1
+3,West Bengal,2100,Jio,No,0,0,0,0
+3,West Bengal,2100,Vodafone,No,0,0,0,0
+3,West Bengal,2300,Bharti,No,0,60,1,2
+3,West Bengal,2300,Jio,No,0,60,1,1
+3,West Bengal,2300,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,700,Bharti,No,0,0,0,0
+4,Andhra Pradesh,700,Jio,No,0,0,0,0
+4,Andhra Pradesh,700,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,800,Bharti,No,0,0,0,0
+4,Andhra Pradesh,800,Jio,No,0,487.5,5,1
+4,Andhra Pradesh,800,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,900,Bharti,No,0,0,0,0
+4,Andhra Pradesh,900,Jio,No,0,0,0,0
+4,Andhra Pradesh,900,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,1800,Bharti,No,0,0,0,0
+4,Andhra Pradesh,1800,Jio,No,0,55.8,21,1
+4,Andhra Pradesh,1800,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,2100,Bharti,No,0,0,0,0
+4,Andhra Pradesh,2100,Jio,No,0,0,0,0
+4,Andhra Pradesh,2100,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,2300,Bharti,No,0,0,0,0
+4,Andhra Pradesh,2300,Jio,No,0,780,1,1
+4,Andhra Pradesh,2300,Vodafone,No,0,0,0,0
+4,Andhra Pradesh,2500,Bharti,No,0,0,0,0
+4,Andhra Pradesh,2500,Jio,No,0,0,0,0
+4,Andhra Pradesh,2500,Vodafone,No,0,0,0,0
+4,Assam,700,Bharti,No,0,0,0,0
+4,Assam,700,Jio,No,0,0,0,0
+4,Assam,700,Vodafone,No,0,0,0,0
+4,Assam,800,Bharti,No,0,0,0,0
+4,Assam,800,Jio,No,0,0,0,0
+4,Assam,800,Vodafone,No,0,0,0,0
+4,Assam,900,Bharti,No,0,0,0,0
+4,Assam,900,Jio,No,0,0,0,0
+4,Assam,900,Vodafone,No,0,0,0,0
+4,Assam,1800,Bharti,No,0,0,0,0
+4,Assam,1800,Jio,No,0,9.2,23,1
+4,Assam,1800,Vodafone,No,0,0,0,0
+4,Assam,2100,Bharti,No,0,150,1,1
+4,Assam,2100,Jio,No,0,0,0,0
+4,Assam,2100,Vodafone,No,0,0,0,0
+4,Assam,2300,Bharti,No,0,20,1,2
+4,Assam,2300,Jio,No,0,20,1,1
+4,Assam,2300,Vodafone,No,0,0,0,0
+4,Bihar,700,Bharti,No,0,0,0,0
+4,Bihar,700,Jio,No,0,0,0,0
+4,Bihar,700,Vodafone,No,0,0,0,0
+4,Bihar,800,Bharti,No,0,0,0,0
+4,Bihar,800,Jio,No,0,170,4,1
+4,Bihar,800,Vodafone,No,0,0,0,0
+4,Bihar,900,Bharti,No,0,40.2,17,1
+4,Bihar,900,Jio,No,0,0,0,0
+4,Bihar,900,Vodafone,No,0,0,0,0
+4,Bihar,1800,Bharti,No,0,17.6,14,2
+4,Bihar,1800,Jio,No,0,17.6,25,1
+4,Bihar,1800,Vodafone,No,0,0,0,0
+4,Bihar,2100,Bharti,No,0,0,0,0
+4,Bihar,2100,Jio,No,0,0,0,0
+4,Bihar,2100,Vodafone,No,0,0,0,0
+4,Bihar,2300,Bharti,No,0,70,1,2
+4,Bihar,2300,Jio,No,0,70,1,1
+4,Bihar,2300,Vodafone,No,0,0,0,0
+4,Bihar,2500,Bharti,No,0,0,0,0
+4,Bihar,2500,Jio,No,0,0,0,0
+4,Bihar,2500,Vodafone,No,0,0,0,0
+4,Delhi,700,Bharti,No,0,0,0,0
+4,Delhi,700,Jio,No,0,0,0,0
+4,Delhi,700,Vodafone,No,0,0,0,0
+4,Delhi,800,Bharti,No,0,0,0,0
+4,Delhi,800,Jio,No,0,800,7,1
+4,Delhi,800,Vodafone,No,0,0,0,0
+4,Delhi,900,Bharti,No,0,0,0,0
+4,Delhi,900,Jio,No,0,0,0,0
+4,Delhi,900,Vodafone,No,0,0,0,0
+4,Delhi,1800,Bharti,No,0,0,0,0
+4,Delhi,1800,Jio,No,0,91.4,23,1
+4,Delhi,1800,Vodafone,No,0,0,0,0
+4,Delhi,2100,Bharti,No,0,0,0,0
+4,Delhi,2100,Jio,No,0,0,0,0
+4,Delhi,2100,Vodafone,No,0,0,0,0
+4,Delhi,2300,Bharti,No,0,0,0,0
+4,Delhi,2300,Jio,No,0,1640,1,1
+4,Delhi,2300,Vodafone,No,0,0,0,0
+4,Delhi,2500,Bharti,No,0,0,0,0
+4,Delhi,2500,Jio,No,0,0,0,0
+4,Delhi,2500,Vodafone,No,0,0,0,0
+4,Gujarat,700,Bharti,No,0,0,0,0
+4,Gujarat,700,Jio,No,0,0,0,0
+4,Gujarat,700,Vodafone,No,0,0,0,0
+4,Gujarat,800,Bharti,No,0,0,0,0
+4,Gujarat,800,Jio,No,0,481.25,4,1
+4,Gujarat,800,Vodafone,No,0,0,0,0
+4,Gujarat,900,Bharti,No,0,74.6,21,1
+4,Gujarat,900,Jio,No,0,0,0,0
+4,Gujarat,900,Vodafone,No,0,0,0,0
+4,Gujarat,1800,Bharti,No,0,0,0,0
+4,Gujarat,1800,Jio,No,0,54.6,20,1
+4,Gujarat,1800,Vodafone,No,0,0,0,0
+4,Gujarat,2100,Bharti,No,0,0,0,0
+4,Gujarat,2100,Jio,No,0,0,0,0
+4,Gujarat,2100,Vodafone,No,0,0,0,0
+4,Gujarat,2300,Bharti,No,0,700,1,2
+4,Gujarat,2300,Jio,No,0,700,1,1
+4,Gujarat,2300,Vodafone,No,0,0,0,0
+4,Gujarat,2500,Bharti,No,0,0,0,0
+4,Gujarat,2500,Jio,No,0,0,0,0
+4,Gujarat,2500,Vodafone,No,0,0,0,0
+4,Haryana,700,Bharti,No,0,0,0,0
+4,Haryana,700,Jio,No,0,0,0,0
+4,Haryana,700,Vodafone,No,0,0,0,0
+4,Haryana,800,Bharti,No,0,71.25,3,2
+4,Haryana,800,Jio,No,0,71.25,4,1
+4,Haryana,800,Vodafone,No,0,0,0,0
+4,Haryana,900,Bharti,No,0,0,0,0
+4,Haryana,900,Jio,No,0,0,0,0
+4,Haryana,900,Vodafone,No,0,0,0,0
+4,Haryana,1800,Bharti,No,0,0,0,0
+4,Haryana,1800,Jio,No,0,11.4,25,1
+4,Haryana,1800,Vodafone,No,0,0,0,0
+4,Haryana,2100,Bharti,No,0,0,0,0
+1,Himachal Pradesh,1800,Bharti,Bid,24,3.6,24,1
+1,Himachal Pradesh,1800,Jio,No,0,0,0,0
+1,Himachal Pradesh,1800,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,2100,Bharti,No,0,0,0,0
+1,Himachal Pradesh,2100,Jio,No,0,0,0,0
+1,Himachal Pradesh,2100,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,2300,Bharti,Bid,1,10,1,2
+1,Himachal Pradesh,2300,Jio,Bid,1,10,1,1
+1,Himachal Pradesh,2300,Vodafone,No,0,0,0,0
+1,Himachal Pradesh,2500,Bharti,No,0,0,0,0
+1,Himachal Pradesh,2500,Jio,No,0,0,0,0
+4,Haryana,2100,Jio,No,0,0,0,0
+4,Haryana,2100,Vodafone,No,0,0,0,0
+4,Haryana,2300,Bharti,No,0,80,2,2
+4,Haryana,2300,Jio,No,0,80,2,1
+4,Haryana,2300,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,700,Bharti,No,0,0,0,0
+4,Himachal Pradesh,700,Jio,No,0,0,0,0
+4,Himachal Pradesh,700,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,800,Bharti,No,0,0,0,0
+4,Himachal Pradesh,800,Jio,No,0,30,4,1
+4,Himachal Pradesh,800,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,900,Bharti,No,0,7.4,13,1
+4,Himachal Pradesh,900,Jio,No,0,0,0,0
+4,Himachal Pradesh,900,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,1800,Bharti,No,0,3.6,24,1
+4,Himachal Pradesh,1800,Jio,No,0,0,0,0
+4,Himachal Pradesh,1800,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,2100,Bharti,No,0,0,0,0
+4,Himachal Pradesh,2100,Jio,No,0,0,0,0
+4,Himachal Pradesh,2100,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,2300,Bharti,No,0,10,1,2
+4,Himachal Pradesh,2300,Jio,No,0,10,1,1
+4,Himachal Pradesh,2300,Vodafone,No,0,0,0,0
+4,Himachal Pradesh,2500,Bharti,No,0,0,0,0
+4,Himachal Pradesh,2500,Jio,No,0,0,0,0
+4,Himachal Pradesh,2500,Vodafone,No,0,0,0,0
+4,Jammu & Kashmir,700,Bharti,No,0,0,0,0
+4,Jammu & Kashmir,700,Jio,No,0,0,0,0
+4,Jammu & Kashmir,700,Vodafone,No,0,0,0,0
+4,Jammu & Kashmir,800,Bharti,No,0,0,0,0
+4,Jammu & Kashmir,800,Jio,No,0,0,0,0
+4,Jammu & Kashmir,800,Vodafone,No,0,0,0,0
+4,Jammu & Kashmir,1800,Bharti,No,0,3.4,50,1
+4,Jammu & Kashmir,1800,Jio,No,0,0,0,0
+4,Jammu & Kashmir,1800,Vodafone,No,0,0,0,0
+4,Jammu & Kashmir,2100,Bharti,No,0,0,0,0
+4,Jammu & Kashmir,2100,Jio,No,0,0,0,0
+4,Jammu & Kashmir,2100,Vodafone,No,0,0,0,0
+4,Jammu & Kashmir,2300,Bharti,No,0,10,2,2
+4,Jammu & Kashmir,2300,Jio,No,0,10,2,1
+4,Jammu & Kashmir,2300,Vodafone,No,0,0,0,0
+4,Jammu & Kashmir,2500,Bharti,No,0,0,0,0
+4,Jammu & Kashmir,2500,Jio,No,0,0,0,0
+4,Jammu & Kashmir,2500,Vodafone,No,0,0,0,0
+4,Karnataka,700,Bharti,No,0,0,0,0
+4,Karnataka,700,Jio,No,0,0,0,0
+4,Karnataka,700,Vodafone,No,0,0,0,0
+4,Karnataka,800,Bharti,No,0,0,0,0
+4,Karnataka,800,Jio,No,0,240,8,1
+4,Karnataka,800,Vodafone,No,0,0,0,0
+4,Karnataka,900,Bharti,No,0,0,0,0
+4,Karnataka,900,Jio,No,0,0,0,0
+4,Karnataka,900,Vodafone,No,0,0,0,0
+4,Karnataka,1800,Bharti,No,0,21.8,56,1
+4,Karnataka,1800,Jio,No,0,21.8,25,2
+4,Karnataka,1800,Vodafone,No,0,21.8,20,3
+4,Karnataka,2100,Bharti,No,0,0,0,0
+4,Karnataka,2100,Jio,No,0,0,0,0
+4,Karnataka,2100,Vodafone,No,0,0,0,0
+4,Karnataka,2300,Bharti,No,0,0,0,0
+4,Karnataka,2300,Jio,No,0,1120,1,1
+4,Karnataka,2300,Vodafone,No,0,0,0,0
+4,Karnataka,2500,Bharti,No,0,0,0,0
+4,Karnataka,2500,Jio,No,0,0,0,0
+4,Karnataka,2500,Vodafone,No,0,0,0,0
+4,Kerala,700,Bharti,No,0,0,0,0
+4,Kerala,700,Jio,No,0,0,0,0
+4,Kerala,700,Vodafone,No,0,0,0,0
+4,Kerala,800,Bharti,No,0,0,0,0
+4,Kerala,800,Jio,No,0,196.25,8,1
+4,Kerala,800,Vodafone,No,0,0,0,0
+4,Kerala,900,Bharti,No,0,39.8,23,1
+4,Kerala,900,Jio,No,0,0,0,0
+4,Kerala,900,Vodafone,No,0,0,0,0
+4,Kerala,1800,Bharti,No,0,19,25,2
+4,Kerala,1800,Jio,No,0,19,25,1
+4,Kerala,1800,Vodafone,No,0,0,0,0
+4,Kerala,2100,Bharti,No,0,0,0,0
+4,Kerala,2100,Jio,No,0,0,0,0
+4,Kerala,2100,Vodafone,No,0,0,0,0
+4,Kerala,2300,Bharti,No,0,200,1,2
+4,Kerala,2300,Jio,No,0,200,1,1
+4,Kerala,2300,Vodafone,No,0,0,0,0
+4,Kolkata,700,Bharti,No,0,0,0,0
+4,Kolkata,700,Jio,No,0,0,0,0
+4,Kolkata,700,Vodafone,No,0,0,0,0
+4,Kolkata,800,Bharti,No,0,0,0,0
+4,Kolkata,800,Jio,No,0,200,8,1
+4,Kolkata,800,Vodafone,No,0,0,0,0
+4,Kolkata,900,Bharti,No,0,0,0,0
+4,Kolkata,900,Jio,No,0,0,0,0
+4,Kolkata,900,Vodafone,No,0,0,0,0
+4,Kolkata,1800,Bharti,No,0,34.6,5,1
+4,Kolkata,1800,Jio,No,0,0,0,0
+4,Kolkata,1800,Vodafone,No,0,0,0,0
+4,Kolkata,2100,Bharti,No,0,0,0,0
+4,Kolkata,2100,Jio,No,0,0,0,0
+4,Kolkata,2100,Vodafone,No,0,0,0,0
+4,Kolkata,2300,Bharti,No,0,0,0,0
+4,Kolkata,2300,Jio,No,0,380,1,1
+4,Kolkata,2300,Vodafone,No,0,0,0,0
+4,Kolkata,2500,Bharti,No,0,0,0,0
+4,Kolkata,2500,Jio,No,0,0,0,0
+4,Kolkata,2500,Vodafone,No,0,0,0,0
+4,Madhya Pradesh,700,Bharti,No,0,0,0,0
+4,Madhya Pradesh,700,Jio,No,0,0,0,0
+4,Madhya Pradesh,700,Vodafone,No,0,0,0,0
+4,Madhya Pradesh,800,Bharti,No,0,178.75,4,2
+4,Madhya Pradesh,800,Jio,No,0,178.75,4,1
+4,Madhya Pradesh,800,Vodafone,No,0,0,0,0
+4,Madhya Pradesh,900,Bharti,No,0,0,0,0
+4,Madhya Pradesh,900,Jio,No,0,0,0,0
+4,Madhya Pradesh,900,Vodafone,No,0,0,0,0
+4,Madhya Pradesh,1800,Bharti,No,0,19,21,1
+4,Madhya Pradesh,1800,Jio,No,0,19,18,2
+4,Madhya Pradesh,1800,Vodafone,No,0,0,0,0
+4,Madhya Pradesh,2100,Bharti,No,0,0,0,0
+4,Madhya Pradesh,2100,Jio,No,0,0,0,0
+4,Madhya Pradesh,2100,Vodafone,No,0,0,0,0
+4,Madhya Pradesh,2300,Bharti,No,0,90,1,2
+4,Madhya Pradesh,2300,Jio,No,0,90,1,1
+4,Madhya Pradesh,2300,Vodafone,No,0,0,0,0
+4,Maharashtra,700,Bharti,No,0,0,0,0
+4,Maharashtra,700,Jio,No,0,0,0,0
+4,Maharashtra,700,Vodafone,No,0,0,0,0
+4,Maharashtra,800,Bharti,No,0,637.5,2,2
+4,Maharashtra,800,Jio,No,0,637.5,8,1
+4,Maharashtra,800,Vodafone,No,0,0,0,0
+4,Maharashtra,900,Bharti,No,0,0,0,0
+4,Maharashtra,900,Jio,No,0,0,0,0
+4,Maharashtra,900,Vodafone,No,0,0,0,0
+4,Maharashtra,1800,Bharti,No,0,0,0,0
+4,Maharashtra,1800,Jio,No,0,73,25,1
+4,Maharashtra,1800,Vodafone,No,0,0,0,0
+4,Maharashtra,2100,Bharti,No,0,0,0,0
+4,Maharashtra,2100,Jio,No,0,0,0,0
+4,Maharashtra,2100,Vodafone,No,0,0,0,0
