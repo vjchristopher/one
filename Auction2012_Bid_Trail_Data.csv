@@ -1,0 +1,1541 @@
+Clock_Round,Service_Area,Bidder,bid_decision,No. of Blocks Selected,prov_win_bid,Provisionally Allocated Blocks at end of Clock Round,prov_rank
+1,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+1,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+1,Andhra Pradesh,Telewings,Bid,4,286.91,4,1
+1,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+1,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+1,Assam,Bharti,Bid,1,8.67,1,1
+1,Assam,Idea,Bid,4,8.67,4,2
+1,Assam,Telewings,Not Bid,0,-,-,-
+1,Assam,Videocon,Not Bid,0,-,-,-
+1,Assam,Vodafone,Bid,2,8.67,2,3
+1,Bihar,Bharti,Not Bid,0,-,-,-
+1,Bihar,Idea,Bid,1,42.51,1,1
+1,Bihar,Telewings,Not Bid,0,-,-,-
+1,Bihar,Videocon,Bid,4,42.51,4,3
+1,Bihar,Vodafone,Bid,2,42.51,2,2
+1,Delhi,Bharti,Not Bid,0,-,-,-
+1,Delhi,Idea,Not Bid,0,-,-,-
+1,Delhi,Telewings,Not Bid,0,-,-,-
+1,Delhi,Videocon,Not Bid,0,-,-,-
+1,Delhi,Vodafone,Not Bid,0,-,-,-
+1,Gujarat,Bharti,Not Bid,0,-,-,-
+1,Gujarat,Idea,Not Bid,0,-,-,-
+1,Gujarat,Telewings,Bid,4,224.84,4,1
+1,Gujarat,Videocon,Bid,4,224.84,4,2
+1,Gujarat,Vodafone,Not Bid,0,-,-,-
+1,Haryana,Bharti,Not Bid,0,-,-,-
+1,Haryana,Idea,Not Bid,0,-,-,-
+1,Haryana,Telewings,Not Bid,0,-,-,-
+1,Haryana,Videocon,Bid,4,46.52,4,1
+1,Haryana,Vodafone,Bid,2,46.52,2,2
+1,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+1,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+1,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+1,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+1,Himachal Pradesh,Vodafone,Bid,1,7.78,1,1
+1,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+1,Jammu & Kashmir,Idea,Bid,4,6.33,4,2
+1,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+1,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+1,Jammu & Kashmir,Vodafone,Bid,2,6.33,2,1
+1,Karnataka,Bharti,Not Bid,0,-,-,-
+1,Karnataka,Idea,Not Bid,0,-,-,-
+1,Karnataka,Telewings,Not Bid,0,-,-,-
+1,Karnataka,Videocon,Not Bid,0,-,-,-
+1,Karnataka,Vodafone,Not Bid,0,-,-,-
+1,Kerala,Bharti,Not Bid,0,-,-,-
+1,Kerala,Idea,Not Bid,0,-,-,-
+1,Kerala,Telewings,Not Bid,0,-,-,-
+1,Kerala,Videocon,Not Bid,0,-,-,-
+1,Kerala,Vodafone,Bid,1,65.3,1,1
+1,Kolkata,Bharti,Not Bid,0,-,-,-
+1,Kolkata,Idea,Bid,4,113.72,4,1
+1,Kolkata,Telewings,Not Bid,0,-,-,-
+1,Kolkata,Videocon,Not Bid,0,-,-,-
+1,Kolkata,Vodafone,Not Bid,0,-,-,-
+1,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+1,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+1,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+1,Madhya Pradesh,Videocon,Bid,4,53.99,4,1
+1,Madhya Pradesh,Vodafone,Bid,2,53.99,2,2
+1,Maharashtra,Bharti,Not Bid,0,-,-,-
+1,Maharashtra,Idea,Not Bid,0,-,-,-
+1,Maharashtra,Telewings,Bid,4,262.81,4,1
+1,Maharashtra,Videocon,Not Bid,0,-,-,-
+1,Maharashtra,Vodafone,Not Bid,0,-,-,-
+1,Mumbai,Bharti,Not Bid,0,-,-,-
+1,Mumbai,Idea,Not Bid,0,-,-,-
+1,Mumbai,Telewings,Not Bid,0,-,-,-
+1,Mumbai,Videocon,Not Bid,0,-,-,-
+1,Mumbai,Vodafone,Not Bid,0,-,-,-
+1,North East,Bharti,Not Bid,0,-,-,-
+1,North East,Idea,Bid,4,8.84,4,1
+1,North East,Telewings,Not Bid,0,-,-,-
+1,North East,Videocon,Not Bid,0,-,-,-
+1,North East,Vodafone,Bid,2,8.84,2,2
+1,Orissa,Bharti,Not Bid,0,-,-,-
+1,Orissa,Idea,Bid,4,20.27,4,1
+1,Orissa,Telewings,Not Bid,0,-,-,-
+1,Orissa,Videocon,Not Bid,0,-,-,-
+1,Orissa,Vodafone,Bid,2,20.27,2,2
+1,Punjab,Bharti,Not Bid,0,-,-,-
+1,Punjab,Idea,Not Bid,0,-,-,-
+1,Punjab,Telewings,Not Bid,0,-,-,-
+1,Punjab,Videocon,Not Bid,0,-,-,-
+1,Punjab,Vodafone,Bid,1,67.28,1,1
+1,Rajasthan,Bharti,Not Bid,0,-,-,-
+1,Rajasthan,Idea,Not Bid,0,-,-,-
+1,Rajasthan,Telewings,Not Bid,0,-,-,-
+1,Rajasthan,Videocon,Not Bid,0,-,-,-
+1,Rajasthan,Vodafone,Not Bid,0,-,-,-
+1,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+1,Tamil Nadu,Idea,Bid,4,306.09,4,1
+1,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+1,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+1,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+1,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+1,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+1,Uttar Pradesh (East),Telewings,Bid,4,76.17,4,1
+1,Uttar Pradesh (East),Videocon,Bid,4,76.17,4,2
+1,Uttar Pradesh (East),Vodafone,Bid,1,76.17,0,3
+1,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+1,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+1,Uttar Pradesh (West),Telewings,Not Bid,0,-,-,-
+1,Uttar Pradesh (West),Videocon,Bid,4,107.41,4,2
+1,Uttar Pradesh (West),Vodafone,Bid,2,107.41,2,1
+1,West Bengal,Bharti,Not Bid,0,-,-,-
+1,West Bengal,Idea,Bid,4,25.84,4,1
+1,West Bengal,Telewings,Not Bid,0,-,-,-
+1,West Bengal,Videocon,Not Bid,0,-,-,-
+1,West Bengal,Vodafone,Bid,2,25.84,2,2
+2,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+2,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+2,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+2,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+2,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+2,Assam,Bharti,Not Bid,0,8.67,1,1
+2,Assam,Idea,Not Bid,0,8.67,4,2
+2,Assam,Telewings,Not Bid,0,-,-,-
+2,Assam,Videocon,Not Bid,0,-,-,-
+2,Assam,Vodafone,Not Bid,0,8.67,2,3
+2,Bihar,Bharti,Not Bid,0,-,-,-
+2,Bihar,Idea,Not Bid,0,42.51,1,1
+2,Bihar,Telewings,Not Bid,0,-,-,-
+2,Bihar,Videocon,Not Bid,0,42.51,4,3
+2,Bihar,Vodafone,Not Bid,0,42.51,2,2
+2,Delhi,Bharti,Not Bid,0,-,-,-
+2,Delhi,Idea,Not Bid,0,-,-,-
+2,Delhi,Telewings,Not Bid,0,-,-,-
+2,Delhi,Videocon,Not Bid,0,-,-,-
+2,Delhi,Vodafone,Not Bid,0,-,-,-
+2,Gujarat,Bharti,Not Bid,0,-,-,-
+2,Gujarat,Idea,Not Bid,0,-,-,-
+2,Gujarat,Telewings,Not Bid,0,224.84,4,1
+2,Gujarat,Videocon,Not Bid,0,224.84,4,2
+2,Gujarat,Vodafone,Not Bid,0,-,-,-
+2,Haryana,Bharti,Not Bid,0,-,-,-
+2,Haryana,Idea,Not Bid,0,-,-,-
+2,Haryana,Telewings,Not Bid,0,-,-,-
+2,Haryana,Videocon,Not Bid,0,46.52,4,1
+2,Haryana,Vodafone,Not Bid,0,46.52,2,2
+2,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+2,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+2,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+2,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+2,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+2,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+2,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+2,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+2,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+2,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+2,Karnataka,Bharti,Not Bid,0,-,-,-
+2,Karnataka,Idea,Not Bid,0,-,-,-
+2,Karnataka,Telewings,Not Bid,0,-,-,-
+2,Karnataka,Videocon,Not Bid,0,-,-,-
+2,Karnataka,Vodafone,Not Bid,0,-,-,-
+2,Kerala,Bharti,Not Bid,0,-,-,-
+2,Kerala,Idea,Not Bid,0,-,-,-
+2,Kerala,Telewings,Not Bid,0,-,-,-
+2,Kerala,Videocon,Not Bid,0,-,-,-
+2,Kerala,Vodafone,Not Bid,0,65.3,1,1
+2,Kolkata,Bharti,Not Bid,0,-,-,-
+2,Kolkata,Idea,Not Bid,0,113.72,4,1
+2,Kolkata,Telewings,Not Bid,0,-,-,-
+2,Kolkata,Videocon,Not Bid,0,-,-,-
+2,Kolkata,Vodafone,Not Bid,0,-,-,-
+2,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+2,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+2,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+2,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+2,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+2,Maharashtra,Bharti,Not Bid,0,-,-,-
+2,Maharashtra,Idea,Not Bid,0,-,-,-
+2,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+2,Maharashtra,Videocon,Not Bid,0,-,-,-
+2,Maharashtra,Vodafone,Not Bid,0,-,-,-
+2,Mumbai,Bharti,Not Bid,0,-,-,-
+2,Mumbai,Idea,Not Bid,0,-,-,-
+2,Mumbai,Telewings,Not Bid,0,-,-,-
+2,Mumbai,Videocon,Not Bid,0,-,-,-
+2,Mumbai,Vodafone,Not Bid,0,-,-,-
+2,North East,Bharti,Not Bid,0,-,-,-
+2,North East,Idea,Not Bid,0,8.84,4,1
+2,North East,Telewings,Not Bid,0,-,-,-
+2,North East,Videocon,Not Bid,0,-,-,-
+2,North East,Vodafone,Not Bid,0,8.84,2,2
+2,Orissa,Bharti,Not Bid,0,-,-,-
+2,Orissa,Idea,Not Bid,0,20.27,4,1
+2,Orissa,Telewings,Not Bid,0,-,-,-
+2,Orissa,Videocon,Not Bid,0,-,-,-
+2,Orissa,Vodafone,Not Bid,0,20.27,2,2
+2,Punjab,Bharti,Not Bid,0,-,-,-
+2,Punjab,Idea,Not Bid,0,-,-,-
+2,Punjab,Telewings,Not Bid,0,-,-,-
+2,Punjab,Videocon,Not Bid,0,-,-,-
+2,Punjab,Vodafone,Not Bid,0,67.28,1,1
+2,Rajasthan,Bharti,Not Bid,0,-,-,-
+2,Rajasthan,Idea,Not Bid,0,-,-,-
+2,Rajasthan,Telewings,Not Bid,0,-,-,-
+2,Rajasthan,Videocon,Not Bid,0,-,-,-
+2,Rajasthan,Vodafone,Not Bid,0,-,-,-
+2,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+2,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+2,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+2,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+2,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+2,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+2,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+2,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+2,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+2,Uttar Pradesh (East),Vodafone,Bid,1,76.93,1,1
+2,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+2,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+2,Uttar Pradesh (West),Telewings,Not Bid,0,-,-,-
+2,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+2,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+2,West Bengal,Bharti,Not Bid,0,-,-,-
+2,West Bengal,Idea,Not Bid,0,25.84,4,1
+2,West Bengal,Telewings,Not Bid,0,-,-,-
+2,West Bengal,Videocon,Not Bid,0,-,-,-
+2,West Bengal,Vodafone,Not Bid,0,25.84,2,2
+3,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+3,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+3,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+3,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+3,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+3,Assam,Bharti,Not Bid,0,8.67,1,1
+3,Assam,Idea,Not Bid,0,8.67,4,2
+3,Assam,Telewings,Not Bid,0,-,-,-
+3,Assam,Videocon,Not Bid,0,-,-,-
+3,Assam,Vodafone,Not Bid,0,8.67,2,3
+3,Bihar,Bharti,Not Bid,0,-,-,-
+3,Bihar,Idea,Not Bid,0,42.51,1,1
+3,Bihar,Telewings,Not Bid,0,-,-,-
+3,Bihar,Videocon,Not Bid,0,42.51,4,3
+3,Bihar,Vodafone,Not Bid,0,42.51,2,2
+3,Delhi,Bharti,Not Bid,0,-,-,-
+3,Delhi,Idea,Not Bid,0,-,-,-
+3,Delhi,Telewings,Not Bid,0,-,-,-
+3,Delhi,Videocon,Not Bid,0,-,-,-
+3,Delhi,Vodafone,Not Bid,0,-,-,-
+3,Gujarat,Bharti,Not Bid,0,-,-,-
+3,Gujarat,Idea,Not Bid,0,-,-,-
+3,Gujarat,Telewings,Not Bid,0,224.84,4,1
+3,Gujarat,Videocon,Not Bid,0,224.84,4,2
+3,Gujarat,Vodafone,Not Bid,0,-,-,-
+3,Haryana,Bharti,Not Bid,0,-,-,-
+3,Haryana,Idea,Not Bid,0,-,-,-
+3,Haryana,Telewings,Not Bid,0,-,-,-
+3,Haryana,Videocon,Not Bid,0,46.52,4,1
+3,Haryana,Vodafone,Not Bid,0,46.52,2,2
+3,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+3,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+3,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+3,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+3,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+3,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+3,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+3,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+3,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+3,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+3,Karnataka,Bharti,Not Bid,0,-,-,-
+3,Karnataka,Idea,Not Bid,0,-,-,-
+3,Karnataka,Telewings,Not Bid,0,-,-,-
+3,Karnataka,Videocon,Not Bid,0,-,-,-
+3,Karnataka,Vodafone,Not Bid,0,-,-,-
+3,Kerala,Bharti,Not Bid,0,-,-,-
+3,Kerala,Idea,Not Bid,0,-,-,-
+3,Kerala,Telewings,Not Bid,0,-,-,-
+3,Kerala,Videocon,Not Bid,0,-,-,-
+3,Kerala,Vodafone,Not Bid,0,65.3,1,1
+3,Kolkata,Bharti,Not Bid,0,-,-,-
+3,Kolkata,Idea,Not Bid,0,113.72,4,1
+3,Kolkata,Telewings,Not Bid,0,-,-,-
+3,Kolkata,Videocon,Not Bid,0,-,-,-
+3,Kolkata,Vodafone,Not Bid,0,-,-,-
+3,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+3,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+3,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+3,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+3,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+3,Maharashtra,Bharti,Not Bid,0,-,-,-
+3,Maharashtra,Idea,Not Bid,0,-,-,-
+3,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+3,Maharashtra,Videocon,Not Bid,0,-,-,-
+3,Maharashtra,Vodafone,Not Bid,0,-,-,-
+3,Mumbai,Bharti,Not Bid,0,-,-,-
+3,Mumbai,Idea,Not Bid,0,-,-,-
+3,Mumbai,Telewings,Not Bid,0,-,-,-
+3,Mumbai,Videocon,Not Bid,0,-,-,-
+3,Mumbai,Vodafone,Not Bid,0,-,-,-
+3,North East,Bharti,Not Bid,0,-,-,-
+3,North East,Idea,Not Bid,0,8.84,4,1
+3,North East,Telewings,Not Bid,0,-,-,-
+3,North East,Videocon,Not Bid,0,-,-,-
+3,North East,Vodafone,Not Bid,0,8.84,2,2
+3,Orissa,Bharti,Not Bid,0,-,-,-
+3,Orissa,Idea,Not Bid,0,20.27,4,1
+3,Orissa,Telewings,Not Bid,0,-,-,-
+3,Orissa,Videocon,Not Bid,0,-,-,-
+3,Orissa,Vodafone,Not Bid,0,20.27,2,2
+3,Punjab,Bharti,Not Bid,0,-,-,-
+3,Punjab,Idea,Not Bid,0,-,-,-
+3,Punjab,Telewings,Not Bid,0,-,-,-
+3,Punjab,Videocon,Not Bid,0,-,-,-
+3,Punjab,Vodafone,Not Bid,0,67.28,1,1
+3,Rajasthan,Bharti,Not Bid,0,-,-,-
+3,Rajasthan,Idea,Not Bid,0,-,-,-
+3,Rajasthan,Telewings,Not Bid,0,-,-,-
+3,Rajasthan,Videocon,Not Bid,0,-,-,-
+3,Rajasthan,Vodafone,Not Bid,0,-,-,-
+3,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+3,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+3,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+3,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+3,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+3,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+3,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+3,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+3,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+3,Uttar Pradesh (East),Vodafone,Not Bid,0,76.93,1,1
+3,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+3,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+3,Uttar Pradesh (West),Telewings,Not Bid,0,-,-,-
+3,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+3,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+3,West Bengal,Bharti,Not Bid,0,-,-,-
+3,West Bengal,Idea,Not Bid,0,25.84,4,1
+3,West Bengal,Telewings,Not Bid,0,-,-,-
+3,West Bengal,Videocon,Not Bid,0,-,-,-
+3,West Bengal,Vodafone,Not Bid,0,25.84,2,2
+4,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+4,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+4,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+4,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+4,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+4,Assam,Bharti,Not Bid,0,8.67,1,1
+4,Assam,Idea,Not Bid,0,8.67,4,2
+4,Assam,Telewings,Not Bid,0,-,-,-
+4,Assam,Videocon,Not Bid,0,-,-,-
+4,Assam,Vodafone,Not Bid,0,8.67,2,3
+4,Bihar,Bharti,Not Bid,0,-,-,-
+4,Bihar,Idea,Not Bid,0,42.51,1,1
+4,Bihar,Telewings,Not Bid,0,-,-,-
+4,Bihar,Videocon,Not Bid,0,42.51,4,3
+4,Bihar,Vodafone,Not Bid,0,42.51,2,2
+4,Delhi,Bharti,Not Bid,0,-,-,-
+4,Delhi,Idea,Not Bid,0,-,-,-
+4,Delhi,Telewings,Not Bid,0,-,-,-
+4,Delhi,Videocon,Not Bid,0,-,-,-
+4,Delhi,Vodafone,Not Bid,0,-,-,-
+4,Gujarat,Bharti,Not Bid,0,-,-,-
+4,Gujarat,Idea,Not Bid,0,-,-,-
+4,Gujarat,Telewings,Not Bid,0,224.84,4,1
+4,Gujarat,Videocon,Not Bid,0,224.84,4,2
+4,Gujarat,Vodafone,Not Bid,0,-,-,-
+4,Haryana,Bharti,Not Bid,0,-,-,-
+4,Haryana,Idea,Not Bid,0,-,-,-
+4,Haryana,Telewings,Not Bid,0,-,-,-
+4,Haryana,Videocon,Not Bid,0,46.52,4,1
+4,Haryana,Vodafone,Not Bid,0,46.52,2,2
+4,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+4,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+4,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+4,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+4,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+4,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+4,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+4,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+4,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+4,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+4,Karnataka,Bharti,Not Bid,0,-,-,-
+4,Karnataka,Idea,Not Bid,0,-,-,-
+4,Karnataka,Telewings,Not Bid,0,-,-,-
+4,Karnataka,Videocon,Not Bid,0,-,-,-
+4,Karnataka,Vodafone,Not Bid,0,-,-,-
+4,Kerala,Bharti,Not Bid,0,-,-,-
+4,Kerala,Idea,Not Bid,0,-,-,-
+4,Kerala,Telewings,Not Bid,0,-,-,-
+4,Kerala,Videocon,Not Bid,0,-,-,-
+4,Kerala,Vodafone,Not Bid,0,65.3,1,1
+4,Kolkata,Bharti,Not Bid,0,-,-,-
+4,Kolkata,Idea,Not Bid,0,113.72,4,1
+4,Kolkata,Telewings,Not Bid,0,-,-,-
+4,Kolkata,Videocon,Not Bid,0,-,-,-
+4,Kolkata,Vodafone,Not Bid,0,-,-,-
+4,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+4,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+4,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+4,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+4,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+4,Maharashtra,Bharti,Not Bid,0,-,-,-
+4,Maharashtra,Idea,Not Bid,0,-,-,-
+4,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+4,Maharashtra,Videocon,Not Bid,0,-,-,-
+4,Maharashtra,Vodafone,Bid,1,262.81,1,2
+4,Mumbai,Bharti,Not Bid,0,-,-,-
+4,Mumbai,Idea,Not Bid,0,-,-,-
+4,Mumbai,Telewings,Not Bid,0,-,-,-
+4,Mumbai,Videocon,Not Bid,0,-,-,-
+4,Mumbai,Vodafone,Not Bid,0,-,-,-
+4,North East,Bharti,Not Bid,0,-,-,-
+4,North East,Idea,Not Bid,0,8.84,4,1
+4,North East,Telewings,Not Bid,0,-,-,-
+4,North East,Videocon,Not Bid,0,-,-,-
+4,North East,Vodafone,Not Bid,0,8.84,2,2
+4,Orissa,Bharti,Not Bid,0,-,-,-
+4,Orissa,Idea,Not Bid,0,20.27,4,1
+4,Orissa,Telewings,Not Bid,0,-,-,-
+4,Orissa,Videocon,Not Bid,0,-,-,-
+4,Orissa,Vodafone,Not Bid,0,20.27,2,2
+4,Punjab,Bharti,Not Bid,0,-,-,-
+4,Punjab,Idea,Not Bid,0,-,-,-
+4,Punjab,Telewings,Not Bid,0,-,-,-
+4,Punjab,Videocon,Not Bid,0,-,-,-
+4,Punjab,Vodafone,Not Bid,0,67.28,1,1
+4,Rajasthan,Bharti,Not Bid,0,-,-,-
+4,Rajasthan,Idea,Not Bid,0,-,-,-
+4,Rajasthan,Telewings,Not Bid,0,-,-,-
+4,Rajasthan,Videocon,Not Bid,0,-,-,-
+4,Rajasthan,Vodafone,Not Bid,0,-,-,-
+4,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+4,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+4,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+4,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+4,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+4,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+4,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+4,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+4,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+4,Uttar Pradesh (East),Vodafone,Not Bid,0,76.93,1,1
+4,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+4,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+4,Uttar Pradesh (West),Telewings,Bid,4,107.41,4,3
+4,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+4,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+4,West Bengal,Bharti,Not Bid,0,-,-,-
+4,West Bengal,Idea,Not Bid,0,25.84,4,1
+4,West Bengal,Telewings,Not Bid,0,-,-,-
+4,West Bengal,Videocon,Not Bid,0,-,-,-
+4,West Bengal,Vodafone,Not Bid,0,25.84,2,2
+5,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+5,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+5,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+5,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+5,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+5,Assam,Bharti,Not Bid,0,8.67,1,1
+5,Assam,Idea,Not Bid,0,8.67,4,2
+5,Assam,Telewings,Not Bid,0,-,-,-
+5,Assam,Videocon,Not Bid,0,-,-,-
+5,Assam,Vodafone,Not Bid,0,8.67,2,3
+5,Bihar,Bharti,Not Bid,0,-,-,-
+5,Bihar,Idea,Bid,2,42.51,2,1
+5,Bihar,Telewings,Bid,4,42.51,0,4
+5,Bihar,Videocon,Not Bid,0,42.51,4,3
+5,Bihar,Vodafone,Not Bid,0,42.51,2,2
+5,Delhi,Bharti,Not Bid,0,-,-,-
+5,Delhi,Idea,Not Bid,0,-,-,-
+5,Delhi,Telewings,Not Bid,0,-,-,-
+5,Delhi,Videocon,Not Bid,0,-,-,-
+5,Delhi,Vodafone,Not Bid,0,-,-,-
+5,Gujarat,Bharti,Not Bid,0,-,-,-
+5,Gujarat,Idea,Not Bid,0,-,-,-
+5,Gujarat,Telewings,Not Bid,0,224.84,4,1
+5,Gujarat,Videocon,Not Bid,0,224.84,4,2
+5,Gujarat,Vodafone,Not Bid,0,-,-,-
+5,Haryana,Bharti,Not Bid,0,-,-,-
+5,Haryana,Idea,Not Bid,0,-,-,-
+5,Haryana,Telewings,Not Bid,0,-,-,-
+5,Haryana,Videocon,Not Bid,0,46.52,4,1
+5,Haryana,Vodafone,Not Bid,0,46.52,2,2
+5,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+5,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+5,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+5,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+5,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+5,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+5,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+5,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+5,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+5,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+5,Karnataka,Bharti,Not Bid,0,-,-,-
+5,Karnataka,Idea,Not Bid,0,-,-,-
+5,Karnataka,Telewings,Not Bid,0,-,-,-
+5,Karnataka,Videocon,Not Bid,0,-,-,-
+5,Karnataka,Vodafone,Not Bid,0,-,-,-
+5,Kerala,Bharti,Not Bid,0,-,-,-
+5,Kerala,Idea,Not Bid,0,-,-,-
+5,Kerala,Telewings,Not Bid,0,-,-,-
+5,Kerala,Videocon,Not Bid,0,-,-,-
+5,Kerala,Vodafone,Not Bid,0,65.3,1,1
+5,Kolkata,Bharti,Not Bid,0,-,-,-
+5,Kolkata,Idea,Not Bid,0,113.72,4,1
+5,Kolkata,Telewings,Not Bid,0,-,-,-
+5,Kolkata,Videocon,Not Bid,0,-,-,-
+5,Kolkata,Vodafone,Not Bid,0,-,-,-
+5,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+5,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+5,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+5,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+5,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+5,Maharashtra,Bharti,Not Bid,0,-,-,-
+5,Maharashtra,Idea,Not Bid,0,-,-,-
+5,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+5,Maharashtra,Videocon,Not Bid,0,-,-,-
+5,Maharashtra,Vodafone,Not Bid,0,262.81,1,2
+5,Mumbai,Bharti,Not Bid,0,-,-,-
+5,Mumbai,Idea,Not Bid,0,-,-,-
+5,Mumbai,Telewings,Not Bid,0,-,-,-
+5,Mumbai,Videocon,Not Bid,0,-,-,-
+5,Mumbai,Vodafone,Not Bid,0,-,-,-
+5,North East,Bharti,Not Bid,0,-,-,-
+5,North East,Idea,Not Bid,0,8.84,4,1
+5,North East,Telewings,Not Bid,0,-,-,-
+5,North East,Videocon,Not Bid,0,-,-,-
+5,North East,Vodafone,Not Bid,0,8.84,2,2
+5,Orissa,Bharti,Not Bid,0,-,-,-
+5,Orissa,Idea,Not Bid,0,20.27,4,1
+5,Orissa,Telewings,Not Bid,0,-,-,-
+5,Orissa,Videocon,Not Bid,0,-,-,-
+5,Orissa,Vodafone,Not Bid,0,20.27,2,2
+5,Punjab,Bharti,Not Bid,0,-,-,-
+5,Punjab,Idea,Not Bid,0,-,-,-
+5,Punjab,Telewings,Not Bid,0,-,-,-
+5,Punjab,Videocon,Not Bid,0,-,-,-
+5,Punjab,Vodafone,Not Bid,0,67.28,1,1
+5,Rajasthan,Bharti,Not Bid,0,-,-,-
+5,Rajasthan,Idea,Not Bid,0,-,-,-
+5,Rajasthan,Telewings,Not Bid,0,-,-,-
+5,Rajasthan,Videocon,Not Bid,0,-,-,-
+5,Rajasthan,Vodafone,Not Bid,0,-,-,-
+5,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+5,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+5,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+5,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+5,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+5,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+5,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+5,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+5,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+5,Uttar Pradesh (East),Vodafone,Not Bid,0,76.93,1,1
+5,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+5,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+5,Uttar Pradesh (West),Telewings,Not Bid,0,107.41,4,3
+5,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+5,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+5,West Bengal,Bharti,Not Bid,0,-,-,-
+5,West Bengal,Idea,Not Bid,0,25.84,4,1
+5,West Bengal,Telewings,Not Bid,0,-,-,-
+5,West Bengal,Videocon,Not Bid,0,-,-,-
+5,West Bengal,Vodafone,Not Bid,0,25.84,2,2
+6,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+6,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+6,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+6,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+6,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+6,Assam,Bharti,Not Bid,0,8.67,1,1
+6,Assam,Idea,Not Bid,0,8.67,4,2
+6,Assam,Telewings,Not Bid,0,-,-,-
+6,Assam,Videocon,Not Bid,0,-,-,-
+6,Assam,Vodafone,Not Bid,0,8.67,2,3
+6,Bihar,Bharti,Not Bid,0,-,-,-
+6,Bihar,Idea,Not Bid,0,42.51,2,2
+6,Bihar,Telewings,Bid,4,44.21,4,1
+6,Bihar,Videocon,Not Bid,0,42.51,0,4
+6,Bihar,Vodafone,Not Bid,0,42.51,2,3
+6,Delhi,Bharti,Not Bid,0,-,-,-
+6,Delhi,Idea,Not Bid,0,-,-,-
+6,Delhi,Telewings,Not Bid,0,-,-,-
+6,Delhi,Videocon,Not Bid,0,-,-,-
+6,Delhi,Vodafone,Not Bid,0,-,-,-
+6,Gujarat,Bharti,Not Bid,0,-,-,-
+6,Gujarat,Idea,Not Bid,0,-,-,-
+6,Gujarat,Telewings,Not Bid,0,224.84,4,1
+6,Gujarat,Videocon,Not Bid,0,224.84,4,2
+6,Gujarat,Vodafone,Not Bid,0,-,-,-
+6,Haryana,Bharti,Not Bid,0,-,-,-
+6,Haryana,Idea,Not Bid,0,-,-,-
+6,Haryana,Telewings,Not Bid,0,-,-,-
+6,Haryana,Videocon,Not Bid,0,46.52,4,1
+6,Haryana,Vodafone,Not Bid,0,46.52,2,2
+6,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+6,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+6,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+6,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+6,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+6,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+6,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+6,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+6,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+6,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+6,Karnataka,Bharti,Not Bid,0,-,-,-
+6,Karnataka,Idea,Not Bid,0,-,-,-
+6,Karnataka,Telewings,Not Bid,0,-,-,-
+6,Karnataka,Videocon,Not Bid,0,-,-,-
+6,Karnataka,Vodafone,Not Bid,0,-,-,-
+6,Kerala,Bharti,Not Bid,0,-,-,-
+6,Kerala,Idea,Not Bid,0,-,-,-
+6,Kerala,Telewings,Not Bid,0,-,-,-
+6,Kerala,Videocon,Not Bid,0,-,-,-
+6,Kerala,Vodafone,Not Bid,0,65.3,1,1
+6,Kolkata,Bharti,Not Bid,0,-,-,-
+6,Kolkata,Idea,Not Bid,0,113.72,4,1
+6,Kolkata,Telewings,Not Bid,0,-,-,-
+6,Kolkata,Videocon,Not Bid,0,-,-,-
+6,Kolkata,Vodafone,Not Bid,0,-,-,-
+6,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+6,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+6,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+6,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+6,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+6,Maharashtra,Bharti,Not Bid,0,-,-,-
+6,Maharashtra,Idea,Not Bid,0,-,-,-
+6,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+6,Maharashtra,Videocon,Not Bid,0,-,-,-
+6,Maharashtra,Vodafone,Not Bid,0,262.81,1,2
+6,Mumbai,Bharti,Not Bid,0,-,-,-
+6,Mumbai,Idea,Not Bid,0,-,-,-
+6,Mumbai,Telewings,Not Bid,0,-,-,-
+6,Mumbai,Videocon,Not Bid,0,-,-,-
+6,Mumbai,Vodafone,Not Bid,0,-,-,-
+6,North East,Bharti,Not Bid,0,-,-,-
+6,North East,Idea,Not Bid,0,8.84,4,1
+6,North East,Telewings,Not Bid,0,-,-,-
+6,North East,Videocon,Not Bid,0,-,-,-
+6,North East,Vodafone,Not Bid,0,8.84,2,2
+6,Orissa,Bharti,Not Bid,0,-,-,-
+6,Orissa,Idea,Not Bid,0,20.27,4,1
+6,Orissa,Telewings,Not Bid,0,-,-,-
+6,Orissa,Videocon,Not Bid,0,-,-,-
+6,Orissa,Vodafone,Not Bid,0,20.27,2,2
+6,Punjab,Bharti,Not Bid,0,-,-,-
+6,Punjab,Idea,Not Bid,0,-,-,-
+6,Punjab,Telewings,Not Bid,0,-,-,-
+6,Punjab,Videocon,Not Bid,0,-,-,-
+6,Punjab,Vodafone,Not Bid,0,67.28,1,1
+6,Rajasthan,Bharti,Not Bid,0,-,-,-
+6,Rajasthan,Idea,Not Bid,0,-,-,-
+6,Rajasthan,Telewings,Not Bid,0,-,-,-
+6,Rajasthan,Videocon,Not Bid,0,-,-,-
+6,Rajasthan,Vodafone,Not Bid,0,-,-,-
+6,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+6,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+6,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+6,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+6,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+6,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+6,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+6,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+6,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+6,Uttar Pradesh (East),Vodafone,Not Bid,0,76.93,1,1
+6,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+6,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+6,Uttar Pradesh (West),Telewings,Not Bid,0,107.41,4,3
+6,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+6,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+6,West Bengal,Bharti,Not Bid,0,-,-,-
+6,West Bengal,Idea,Not Bid,0,25.84,4,1
+6,West Bengal,Telewings,Not Bid,0,-,-,-
+6,West Bengal,Videocon,Not Bid,0,-,-,-
+6,West Bengal,Vodafone,Not Bid,0,25.84,2,2
+7,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+7,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+7,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+7,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+7,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+7,Assam,Bharti,Not Bid,0,8.67,1,1
+7,Assam,Idea,Not Bid,0,8.67,4,2
+7,Assam,Telewings,Not Bid,0,-,-,-
+7,Assam,Videocon,Not Bid,0,-,-,-
+7,Assam,Vodafone,Not Bid,0,8.67,2,3
+7,Bihar,Bharti,Not Bid,0,-,-,-
+7,Bihar,Idea,Not Bid,0,42.51,-,-
+7,Bihar,Telewings,Not Bid,0,44.21,4,2
+7,Bihar,Videocon,Bid,4,44.21,4,1
+7,Bihar,Vodafone,Not Bid,0,42.51,-,-
+7,Delhi,Bharti,Not Bid,0,-,-,-
+7,Delhi,Idea,Not Bid,0,-,-,-
+7,Delhi,Telewings,Not Bid,0,-,-,-
+7,Delhi,Videocon,Not Bid,0,-,-,-
+7,Delhi,Vodafone,Not Bid,0,-,-,-
+7,Gujarat,Bharti,Not Bid,0,-,-,-
+7,Gujarat,Idea,Not Bid,0,-,-,-
+7,Gujarat,Telewings,Not Bid,0,224.84,4,1
+7,Gujarat,Videocon,Not Bid,0,224.84,4,2
+7,Gujarat,Vodafone,Not Bid,0,-,-,-
+7,Haryana,Bharti,Not Bid,0,-,-,-
+7,Haryana,Idea,Not Bid,0,-,-,-
+7,Haryana,Telewings,Not Bid,0,-,-,-
+7,Haryana,Videocon,Not Bid,0,46.52,4,1
+7,Haryana,Vodafone,Not Bid,0,46.52,2,2
+7,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+7,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+7,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+7,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+7,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+7,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+7,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+7,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+7,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+7,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+7,Karnataka,Bharti,Not Bid,0,-,-,-
+7,Karnataka,Idea,Not Bid,0,-,-,-
+7,Karnataka,Telewings,Not Bid,0,-,-,-
+7,Karnataka,Videocon,Not Bid,0,-,-,-
+7,Karnataka,Vodafone,Not Bid,0,-,-,-
+7,Kerala,Bharti,Not Bid,0,-,-,-
+7,Kerala,Idea,Not Bid,0,-,-,-
+7,Kerala,Telewings,Not Bid,0,-,-,-
+7,Kerala,Videocon,Not Bid,0,-,-,-
+7,Kerala,Vodafone,Not Bid,0,65.3,1,1
+7,Kolkata,Bharti,Not Bid,0,-,-,-
+7,Kolkata,Idea,Not Bid,0,113.72,4,1
+7,Kolkata,Telewings,Not Bid,0,-,-,-
+7,Kolkata,Videocon,Not Bid,0,-,-,-
+7,Kolkata,Vodafone,Not Bid,0,-,-,-
+7,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+7,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+7,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+7,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+7,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+7,Maharashtra,Bharti,Not Bid,0,-,-,-
+7,Maharashtra,Idea,Not Bid,0,-,-,-
+7,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+7,Maharashtra,Videocon,Not Bid,0,-,-,-
+7,Maharashtra,Vodafone,Not Bid,0,262.81,1,2
+7,Mumbai,Bharti,Not Bid,0,-,-,-
+7,Mumbai,Idea,Not Bid,0,-,-,-
+7,Mumbai,Telewings,Not Bid,0,-,-,-
+7,Mumbai,Videocon,Not Bid,0,-,-,-
+7,Mumbai,Vodafone,Not Bid,0,-,-,-
+7,North East,Bharti,Not Bid,0,-,-,-
+7,North East,Idea,Not Bid,0,8.84,4,1
+7,North East,Telewings,Not Bid,0,-,-,-
+7,North East,Videocon,Not Bid,0,-,-,-
+7,North East,Vodafone,Not Bid,0,8.84,2,2
+7,Orissa,Bharti,Not Bid,0,-,-,-
+7,Orissa,Idea,Not Bid,0,20.27,4,1
+7,Orissa,Telewings,Not Bid,0,-,-,-
+7,Orissa,Videocon,Not Bid,0,-,-,-
+7,Orissa,Vodafone,Not Bid,0,20.27,2,2
+7,Punjab,Bharti,Not Bid,0,-,-,-
+7,Punjab,Idea,Not Bid,0,-,-,-
+7,Punjab,Telewings,Not Bid,0,-,-,-
+7,Punjab,Videocon,Not Bid,0,-,-,-
+7,Punjab,Vodafone,Not Bid,0,67.28,1,1
+7,Rajasthan,Bharti,Not Bid,0,-,-,-
+7,Rajasthan,Idea,Not Bid,0,-,-,-
+7,Rajasthan,Telewings,Not Bid,0,-,-,-
+7,Rajasthan,Videocon,Not Bid,0,-,-,-
+7,Rajasthan,Vodafone,Not Bid,0,-,-,-
+7,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+7,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+7,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+7,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+7,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+7,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+7,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+7,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+7,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+7,Uttar Pradesh (East),Vodafone,Not Bid,0,76.93,1,1
+7,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+7,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+7,Uttar Pradesh (West),Telewings,Not Bid,0,107.41,4,3
+7,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+7,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+7,West Bengal,Bharti,Not Bid,0,-,-,-
+7,West Bengal,Idea,Not Bid,0,25.84,4,1
+7,West Bengal,Telewings,Not Bid,0,-,-,-
+7,West Bengal,Videocon,Not Bid,0,-,-,-
+7,West Bengal,Vodafone,Not Bid,0,25.84,2,2
+8,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+8,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+8,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+8,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+8,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+8,Assam,Bharti,Not Bid,0,8.67,1,1
+8,Assam,Idea,Not Bid,0,8.67,4,2
+8,Assam,Telewings,Not Bid,0,-,-,-
+8,Assam,Videocon,Not Bid,0,-,-,-
+8,Assam,Vodafone,Not Bid,0,8.67,2,3
+8,Bihar,Bharti,Not Bid,0,-,-,-
+8,Bihar,Idea,Bid,2,44.65,2,1
+8,Bihar,Telewings,Not Bid,0,44.21,0,4
+8,Bihar,Videocon,Not Bid,0,44.21,4,3
+8,Bihar,Vodafone,Bid,2,44.65,2,2
+8,Delhi,Bharti,Not Bid,0,-,-,-
+8,Delhi,Idea,Not Bid,0,-,-,-
+8,Delhi,Telewings,Not Bid,0,-,-,-
+8,Delhi,Videocon,Not Bid,0,-,-,-
+8,Delhi,Vodafone,Not Bid,0,-,-,-
+8,Gujarat,Bharti,Not Bid,0,-,-,-
+8,Gujarat,Idea,Not Bid,0,-,-,-
+8,Gujarat,Telewings,Not Bid,0,224.84,4,1
+8,Gujarat,Videocon,Not Bid,0,224.84,4,2
+8,Gujarat,Vodafone,Not Bid,0,-,-,-
+8,Haryana,Bharti,Not Bid,0,-,-,-
+8,Haryana,Idea,Not Bid,0,-,-,-
+8,Haryana,Telewings,Not Bid,0,-,-,-
+8,Haryana,Videocon,Not Bid,0,46.52,4,1
+8,Haryana,Vodafone,Not Bid,0,46.52,2,2
+8,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+8,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+8,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+8,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+8,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+8,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+8,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+8,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+8,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+8,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+8,Karnataka,Bharti,Not Bid,0,-,-,-
+8,Karnataka,Idea,Not Bid,0,-,-,-
+8,Karnataka,Telewings,Not Bid,0,-,-,-
+8,Karnataka,Videocon,Not Bid,0,-,-,-
+8,Karnataka,Vodafone,Not Bid,0,-,-,-
+8,Kerala,Bharti,Not Bid,0,-,-,-
+8,Kerala,Idea,Not Bid,0,-,-,-
+8,Kerala,Telewings,Not Bid,0,-,-,-
+8,Kerala,Videocon,Not Bid,0,-,-,-
+8,Kerala,Vodafone,Not Bid,0,65.3,1,1
+8,Kolkata,Bharti,Not Bid,0,-,-,-
+8,Kolkata,Idea,Not Bid,0,113.72,4,1
+8,Kolkata,Telewings,Not Bid,0,-,-,-
+8,Kolkata,Videocon,Not Bid,0,-,-,-
+8,Kolkata,Vodafone,Not Bid,0,-,-,-
+8,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+8,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+8,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+8,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+8,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+8,Maharashtra,Bharti,Not Bid,0,-,-,-
+8,Maharashtra,Idea,Not Bid,0,-,-,-
+8,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+8,Maharashtra,Videocon,Not Bid,0,-,-,-
+8,Maharashtra,Vodafone,Not Bid,0,262.81,1,2
+8,Mumbai,Bharti,Not Bid,0,-,-,-
+8,Mumbai,Idea,Not Bid,0,-,-,-
+8,Mumbai,Telewings,Not Bid,0,-,-,-
+8,Mumbai,Videocon,Not Bid,0,-,-,-
+8,Mumbai,Vodafone,Not Bid,0,-,-,-
+8,North East,Bharti,Not Bid,0,-,-,-
+8,North East,Idea,Not Bid,0,8.84,4,1
+8,North East,Telewings,Not Bid,0,-,-,-
+8,North East,Videocon,Not Bid,0,-,-,-
+8,North East,Vodafone,Not Bid,0,8.84,2,2
+8,Orissa,Bharti,Not Bid,0,-,-,-
+8,Orissa,Idea,Not Bid,0,20.27,4,1
+8,Orissa,Telewings,Not Bid,0,-,-,-
+8,Orissa,Videocon,Not Bid,0,-,-,-
+8,Orissa,Vodafone,Not Bid,0,20.27,2,2
+8,Punjab,Bharti,Not Bid,0,-,-,-
+8,Punjab,Idea,Not Bid,0,-,-,-
+8,Punjab,Telewings,Not Bid,0,-,-,-
+8,Punjab,Videocon,Not Bid,0,-,-,-
+8,Punjab,Vodafone,Not Bid,0,67.28,1,1
+8,Rajasthan,Bharti,Not Bid,0,-,-,-
+8,Rajasthan,Idea,Not Bid,0,-,-,-
+8,Rajasthan,Telewings,Not Bid,0,-,-,-
+8,Rajasthan,Videocon,Not Bid,0,-,-,-
+8,Rajasthan,Vodafone,Not Bid,0,-,-,-
+8,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+8,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+8,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+8,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+8,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+8,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+8,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+8,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+8,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+8,Uttar Pradesh (East),Vodafone,Not Bid,0,76.93,1,1
+8,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+8,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+8,Uttar Pradesh (West),Telewings,Not Bid,0,107.41,4,3
+8,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+8,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+8,West Bengal,Bharti,Not Bid,0,-,-,-
+8,West Bengal,Idea,Not Bid,0,25.84,4,1
+8,West Bengal,Telewings,Not Bid,0,-,-,-
+8,West Bengal,Videocon,Not Bid,0,-,-,-
+8,West Bengal,Vodafone,Not Bid,0,25.84,2,2
+9,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+9,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+9,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+9,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+9,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+9,Assam,Bharti,Not Bid,0,8.67,1,1
+9,Assam,Idea,Not Bid,0,8.67,4,2
+9,Assam,Telewings,Not Bid,0,-,-,-
+9,Assam,Videocon,Not Bid,0,-,-,-
+9,Assam,Vodafone,Not Bid,0,8.67,2,3
+9,Bihar,Bharti,Not Bid,0,-,-,-
+9,Bihar,Idea,Not Bid,0,44.65,2,1
+9,Bihar,Telewings,Bid,4,44.65,0,4
+9,Bihar,Videocon,Bid,4,44.65,4,2
+9,Bihar,Vodafone,Not Bid,0,44.65,2,3
+9,Delhi,Bharti,Not Bid,0,-,-,-
+9,Delhi,Idea,Not Bid,0,-,-,-
+9,Delhi,Telewings,Not Bid,0,-,-,-
+9,Delhi,Videocon,Not Bid,0,-,-,-
+9,Delhi,Vodafone,Not Bid,0,-,-,-
+9,Gujarat,Bharti,Not Bid,0,-,-,-
+9,Gujarat,Idea,Not Bid,0,-,-,-
+9,Gujarat,Telewings,Not Bid,0,224.84,4,1
+9,Gujarat,Videocon,Not Bid,0,224.84,4,2
+9,Gujarat,Vodafone,Not Bid,0,-,-,-
+9,Haryana,Bharti,Not Bid,0,-,-,-
+9,Haryana,Idea,Not Bid,0,-,-,-
+9,Haryana,Telewings,Not Bid,0,-,-,-
+9,Haryana,Videocon,Not Bid,0,46.52,4,1
+9,Haryana,Vodafone,Not Bid,0,46.52,2,2
+9,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+9,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+9,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+9,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+9,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+9,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+9,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+9,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+9,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+9,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+9,Karnataka,Bharti,Not Bid,0,-,-,-
+9,Karnataka,Idea,Not Bid,0,-,-,-
+9,Karnataka,Telewings,Not Bid,0,-,-,-
+9,Karnataka,Videocon,Not Bid,0,-,-,-
+9,Karnataka,Vodafone,Not Bid,0,-,-,-
+9,Kerala,Bharti,Not Bid,0,-,-,-
+9,Kerala,Idea,Not Bid,0,-,-,-
+9,Kerala,Telewings,Not Bid,0,-,-,-
+9,Kerala,Videocon,Not Bid,0,-,-,-
+9,Kerala,Vodafone,Not Bid,0,65.3,1,1
+9,Kolkata,Bharti,Not Bid,0,-,-,-
+9,Kolkata,Idea,Not Bid,0,113.72,4,1
+9,Kolkata,Telewings,Not Bid,0,-,-,-
+9,Kolkata,Videocon,Not Bid,0,-,-,-
+9,Kolkata,Vodafone,Not Bid,0,-,-,-
+9,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+9,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+9,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+9,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+9,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+9,Maharashtra,Bharti,Not Bid,0,-,-,-
+9,Maharashtra,Idea,Not Bid,0,-,-,-
+9,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+9,Maharashtra,Videocon,Not Bid,0,-,-,-
+9,Maharashtra,Vodafone,Not Bid,0,262.81,1,2
+9,Mumbai,Bharti,Not Bid,0,-,-,-
+9,Mumbai,Idea,Not Bid,0,-,-,-
+9,Mumbai,Telewings,Not Bid,0,-,-,-
+9,Mumbai,Videocon,Not Bid,0,-,-,-
+9,Mumbai,Vodafone,Not Bid,0,-,-,-
+9,North East,Bharti,Not Bid,0,-,-,-
+9,North East,Idea,Not Bid,0,8.84,4,1
+9,North East,Telewings,Not Bid,0,-,-,-
+9,North East,Videocon,Not Bid,0,-,-,-
+9,North East,Vodafone,Not Bid,0,8.84,2,2
+9,Orissa,Bharti,Not Bid,0,-,-,-
+9,Orissa,Idea,Not Bid,0,20.27,4,1
+9,Orissa,Telewings,Not Bid,0,-,-,-
+9,Orissa,Videocon,Not Bid,0,-,-,-
+9,Orissa,Vodafone,Not Bid,0,20.27,2,2
+9,Punjab,Bharti,Not Bid,0,-,-,-
+9,Punjab,Idea,Not Bid,0,-,-,-
+9,Punjab,Telewings,Not Bid,0,-,-,-
+9,Punjab,Videocon,Not Bid,0,-,-,-
+9,Punjab,Vodafone,Not Bid,0,67.28,1,1
+9,Rajasthan,Bharti,Not Bid,0,-,-,-
+9,Rajasthan,Idea,Not Bid,0,-,-,-
+9,Rajasthan,Telewings,Not Bid,0,-,-,-
+9,Rajasthan,Videocon,Not Bid,0,-,-,-
+9,Rajasthan,Vodafone,Not Bid,0,-,-,-
+9,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+9,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+9,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+9,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+9,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+9,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+9,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+9,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+9,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+9,Uttar Pradesh (East),Vodafone,Not Bid,0,76.93,1,1
+9,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+9,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+9,Uttar Pradesh (West),Telewings,Not Bid,0,107.41,4,3
+9,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+9,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+9,West Bengal,Bharti,Not Bid,0,-,-,-
+9,West Bengal,Idea,Not Bid,0,25.84,4,1
+9,West Bengal,Telewings,Not Bid,0,-,-,-
+9,West Bengal,Videocon,Not Bid,0,-,-,-
+9,West Bengal,Vodafone,Not Bid,0,25.84,2,2
+10,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+10,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+10,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+10,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+10,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+10,Assam,Bharti,Not Bid,0,8.67,1,1
+10,Assam,Idea,Not Bid,0,8.67,4,2
+10,Assam,Telewings,Not Bid,0,-,-,-
+10,Assam,Videocon,Not Bid,0,-,-,-
+10,Assam,Vodafone,Not Bid,0,8.67,2,3
+10,Bihar,Bharti,Not Bid,0,-,-,-
+10,Bihar,Idea,Not Bid,0,44.65,2,2
+10,Bihar,Telewings,Bid,4,46.43,4,1
+10,Bihar,Videocon,Not Bid,0,44.65,4,3
+10,Bihar,Vodafone,Not Bid,0,44.65,0,4
+10,Delhi,Bharti,Not Bid,0,-,-,-
+10,Delhi,Idea,Not Bid,0,-,-,-
+10,Delhi,Telewings,Not Bid,0,-,-,-
+10,Delhi,Videocon,Not Bid,0,-,-,-
+10,Delhi,Vodafone,Not Bid,0,-,-,-
+10,Gujarat,Bharti,Not Bid,0,-,-,-
+10,Gujarat,Idea,Not Bid,0,-,-,-
+10,Gujarat,Telewings,Not Bid,0,224.84,4,1
+10,Gujarat,Videocon,Not Bid,0,224.84,4,2
+10,Gujarat,Vodafone,Not Bid,0,-,-,-
+10,Haryana,Bharti,Not Bid,0,-,-,-
+10,Haryana,Idea,Not Bid,0,-,-,-
+10,Haryana,Telewings,Not Bid,0,-,-,-
+10,Haryana,Videocon,Not Bid,0,46.52,4,1
+10,Haryana,Vodafone,Not Bid,0,46.52,2,2
+10,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+10,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+10,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+10,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+10,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+10,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+10,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+10,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+10,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+10,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+10,Karnataka,Bharti,Not Bid,0,-,-,-
+10,Karnataka,Idea,Not Bid,0,-,-,-
+10,Karnataka,Telewings,Not Bid,0,-,-,-
+10,Karnataka,Videocon,Not Bid,0,-,-,-
+10,Karnataka,Vodafone,Not Bid,0,-,-,-
+10,Kerala,Bharti,Not Bid,0,-,-,-
+10,Kerala,Idea,Not Bid,0,-,-,-
+10,Kerala,Telewings,Not Bid,0,-,-,-
+10,Kerala,Videocon,Not Bid,0,-,-,-
+10,Kerala,Vodafone,Not Bid,0,65.3,1,1
+10,Kolkata,Bharti,Not Bid,0,-,-,-
+10,Kolkata,Idea,Not Bid,0,113.72,4,1
+10,Kolkata,Telewings,Not Bid,0,-,-,-
+10,Kolkata,Videocon,Not Bid,0,-,-,-
+10,Kolkata,Vodafone,Not Bid,0,-,-,-
+10,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+10,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+10,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+10,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+10,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+10,Maharashtra,Bharti,Not Bid,0,-,-,-
+10,Maharashtra,Idea,Not Bid,0,-,-,-
+10,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+10,Maharashtra,Videocon,Not Bid,0,-,-,-
+10,Maharashtra,Vodafone,Not Bid,0,262.81,1,2
+10,Mumbai,Bharti,Not Bid,0,-,-,-
+10,Mumbai,Idea,Not Bid,0,-,-,-
+10,Mumbai,Telewings,Not Bid,0,-,-,-
+10,Mumbai,Videocon,Not Bid,0,-,-,-
+10,Mumbai,Vodafone,Not Bid,0,-,-,-
+10,North East,Bharti,Not Bid,0,-,-,-
+10,North East,Idea,Not Bid,0,8.84,4,1
+10,North East,Telewings,Not Bid,0,-,-,-
+10,North East,Videocon,Not Bid,0,-,-,-
+10,North East,Vodafone,Not Bid,0,8.84,2,2
+10,Orissa,Bharti,Not Bid,0,-,-,-
+10,Orissa,Idea,Not Bid,0,20.27,4,1
+10,Orissa,Telewings,Not Bid,0,-,-,-
+10,Orissa,Videocon,Not Bid,0,-,-,-
+10,Orissa,Vodafone,Not Bid,0,20.27,2,2
+10,Punjab,Bharti,Not Bid,0,-,-,-
+10,Punjab,Idea,Not Bid,0,-,-,-
+10,Punjab,Telewings,Not Bid,0,-,-,-
+10,Punjab,Videocon,Not Bid,0,-,-,-
+10,Punjab,Vodafone,Not Bid,0,67.28,1,1
+10,Rajasthan,Bharti,Not Bid,0,-,-,-
+10,Rajasthan,Idea,Not Bid,0,-,-,-
+10,Rajasthan,Telewings,Not Bid,0,-,-,-
+10,Rajasthan,Videocon,Not Bid,0,-,-,-
+10,Rajasthan,Vodafone,Not Bid,0,-,-,-
+10,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+10,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+10,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+10,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+10,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+10,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+10,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+10,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+10,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+10,Uttar Pradesh (East),Vodafone,Not Bid,0,76.93,1,1
+10,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+10,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+10,Uttar Pradesh (West),Telewings,Not Bid,0,107.41,4,3
+10,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+10,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+10,West Bengal,Bharti,Not Bid,0,-,-,-
+10,West Bengal,Idea,Not Bid,0,25.84,4,1
+10,West Bengal,Telewings,Not Bid,0,-,-,-
+10,West Bengal,Videocon,Not Bid,0,-,-,-
+10,West Bengal,Vodafone,Not Bid,0,25.84,2,2
+11,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+11,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+11,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+11,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+11,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+11,Assam,Bharti,Not Bid,0,8.67,1,1
+11,Assam,Idea,Not Bid,0,8.67,4,2
+11,Assam,Telewings,Not Bid,0,-,-,-
+11,Assam,Videocon,Not Bid,0,-,-,-
+11,Assam,Vodafone,Not Bid,0,8.67,2,3
+11,Bihar,Bharti,Not Bid,0,-,-,-
+11,Bihar,Idea,Not Bid,0,44.65,2,3
+11,Bihar,Telewings,Not Bid,0,46.43,4,2
+11,Bihar,Videocon,Not Bid,0,44.65,0,4
+11,Bihar,Vodafone,Bid,2,46.43,2,1
+11,Delhi,Bharti,Not Bid,0,-,-,-
+11,Delhi,Idea,Not Bid,0,-,-,-
+11,Delhi,Telewings,Not Bid,0,-,-,-
+11,Delhi,Videocon,Not Bid,0,-,-,-
+11,Delhi,Vodafone,Not Bid,0,-,-,-
+11,Gujarat,Bharti,Not Bid,0,-,-,-
+11,Gujarat,Idea,Not Bid,0,-,-,-
+11,Gujarat,Telewings,Not Bid,0,224.84,4,1
+11,Gujarat,Videocon,Not Bid,0,224.84,4,2
+11,Gujarat,Vodafone,Not Bid,0,-,-,-
+11,Haryana,Bharti,Not Bid,0,-,-,-
+11,Haryana,Idea,Not Bid,0,-,-,-
+11,Haryana,Telewings,Not Bid,0,-,-,-
+11,Haryana,Videocon,Not Bid,0,46.52,4,1
+11,Haryana,Vodafone,Not Bid,0,46.52,2,2
+11,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+11,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+11,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+11,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+11,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+11,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+11,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+11,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+11,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+11,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+11,Karnataka,Bharti,Not Bid,0,-,-,-
+11,Karnataka,Idea,Not Bid,0,-,-,-
+11,Karnataka,Telewings,Not Bid,0,-,-,-
+11,Karnataka,Videocon,Not Bid,0,-,-,-
+11,Karnataka,Vodafone,Not Bid,0,-,-,-
+11,Kerala,Bharti,Not Bid,0,-,-,-
+11,Kerala,Idea,Not Bid,0,-,-,-
+11,Kerala,Telewings,Not Bid,0,-,-,-
+11,Kerala,Videocon,Not Bid,0,-,-,-
+11,Kerala,Vodafone,Not Bid,0,65.3,1,1
+11,Kolkata,Bharti,Not Bid,0,-,-,-
+11,Kolkata,Idea,Not Bid,0,113.72,4,1
+11,Kolkata,Telewings,Not Bid,0,-,-,-
+11,Kolkata,Videocon,Not Bid,0,-,-,-
+11,Kolkata,Vodafone,Not Bid,0,-,-,-
+11,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+11,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+11,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+11,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+11,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+11,Maharashtra,Bharti,Not Bid,0,-,-,-
+11,Maharashtra,Idea,Not Bid,0,-,-,-
+11,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+11,Maharashtra,Videocon,Not Bid,0,-,-,-
+11,Maharashtra,Vodafone,Not Bid,0,262.81,1,2
+11,Mumbai,Bharti,Not Bid,0,-,-,-
+11,Mumbai,Idea,Not Bid,0,-,-,-
+11,Mumbai,Telewings,Not Bid,0,-,-,-
+11,Mumbai,Videocon,Not Bid,0,-,-,-
+11,Mumbai,Vodafone,Not Bid,0,-,-,-
+11,North East,Bharti,Not Bid,0,-,-,-
+11,North East,Idea,Not Bid,0,8.84,4,1
+11,North East,Telewings,Not Bid,0,-,-,-
+11,North East,Videocon,Not Bid,0,-,-,-
+11,North East,Vodafone,Not Bid,0,8.84,2,2
+11,Orissa,Bharti,Not Bid,0,-,-,-
+11,Orissa,Idea,Not Bid,0,20.27,4,1
+11,Orissa,Telewings,Not Bid,0,-,-,-
+11,Orissa,Videocon,Not Bid,0,-,-,-
+11,Orissa,Vodafone,Not Bid,0,20.27,2,2
+11,Punjab,Bharti,Not Bid,0,-,-,-
+11,Punjab,Idea,Not Bid,0,-,-,-
+11,Punjab,Telewings,Not Bid,0,-,-,-
+11,Punjab,Videocon,Not Bid,0,-,-,-
+11,Punjab,Vodafone,Not Bid,0,67.28,1,1
+11,Rajasthan,Bharti,Not Bid,0,-,-,-
+11,Rajasthan,Idea,Not Bid,0,-,-,-
+11,Rajasthan,Telewings,Not Bid,0,-,-,-
+11,Rajasthan,Videocon,Not Bid,0,-,-,-
+11,Rajasthan,Vodafone,Not Bid,0,-,-,-
+11,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+11,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+11,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+11,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+11,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+11,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+11,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+11,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+11,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+11,Uttar Pradesh (East),Vodafone,Not Bid,0,76.93,1,1
+11,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+11,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+11,Uttar Pradesh (West),Telewings,Not Bid,0,107.41,4,3
+11,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+11,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+11,West Bengal,Bharti,Not Bid,0,-,-,-
+11,West Bengal,Idea,Not Bid,0,25.84,4,1
+11,West Bengal,Telewings,Not Bid,0,-,-,-
+11,West Bengal,Videocon,Not Bid,0,-,-,-
+11,West Bengal,Vodafone,Not Bid,0,25.84,2,2
+12,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+12,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+12,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+12,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+12,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+12,Assam,Bharti,Not Bid,0,8.67,1,1
+12,Assam,Idea,Not Bid,0,8.67,4,2
+12,Assam,Telewings,Not Bid,0,-,-,-
+12,Assam,Videocon,Not Bid,0,-,-,-
+12,Assam,Vodafone,Not Bid,0,8.67,2,3
+12,Bihar,Bharti,Not Bid,0,-,-,-
+12,Bihar,Idea,Not Bid,0,44.65,-,-
+12,Bihar,Telewings,Not Bid,0,46.43,4,3
+12,Bihar,Videocon,Bid,4,46.43,4,1
+12,Bihar,Vodafone,Not Bid,0,46.43,2,2
+12,Delhi,Bharti,Not Bid,0,-,-,-
+12,Delhi,Idea,Not Bid,0,-,-,-
+12,Delhi,Telewings,Not Bid,0,-,-,-
+12,Delhi,Videocon,Not Bid,0,-,-,-
+12,Delhi,Vodafone,Not Bid,0,-,-,-
+12,Gujarat,Bharti,Not Bid,0,-,-,-
+12,Gujarat,Idea,Not Bid,0,-,-,-
+12,Gujarat,Telewings,Not Bid,0,224.84,4,1
+12,Gujarat,Videocon,Not Bid,0,224.84,4,2
+12,Gujarat,Vodafone,Not Bid,0,-,-,-
+12,Haryana,Bharti,Not Bid,0,-,-,-
+12,Haryana,Idea,Not Bid,0,-,-,-
+12,Haryana,Telewings,Not Bid,0,-,-,-
+12,Haryana,Videocon,Not Bid,0,46.52,4,1
+12,Haryana,Vodafone,Not Bid,0,46.52,2,2
+12,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+12,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+12,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+12,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+12,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+12,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+12,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+12,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+12,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+12,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+12,Karnataka,Bharti,Not Bid,0,-,-,-
+12,Karnataka,Idea,Not Bid,0,-,-,-
+12,Karnataka,Telewings,Not Bid,0,-,-,-
+12,Karnataka,Videocon,Not Bid,0,-,-,-
+12,Karnataka,Vodafone,Not Bid,0,-,-,-
+12,Kerala,Bharti,Not Bid,0,-,-,-
+12,Kerala,Idea,Not Bid,0,-,-,-
+12,Kerala,Telewings,Not Bid,0,-,-,-
+12,Kerala,Videocon,Not Bid,0,-,-,-
+12,Kerala,Vodafone,Not Bid,0,65.3,1,1
+12,Kolkata,Bharti,Not Bid,0,-,-,-
+12,Kolkata,Idea,Not Bid,0,113.72,4,1
+12,Kolkata,Telewings,Not Bid,0,-,-,-
+12,Kolkata,Videocon,Not Bid,0,-,-,-
+12,Kolkata,Vodafone,Not Bid,0,-,-,-
+12,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+12,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+12,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+12,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+12,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+12,Maharashtra,Bharti,Not Bid,0,-,-,-
+12,Maharashtra,Idea,Not Bid,0,-,-,-
+12,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+12,Maharashtra,Videocon,Not Bid,0,-,-,-
+12,Maharashtra,Vodafone,Not Bid,0,262.81,1,2
+12,Mumbai,Bharti,Not Bid,0,-,-,-
+12,Mumbai,Idea,Not Bid,0,-,-,-
+12,Mumbai,Telewings,Not Bid,0,-,-,-
+12,Mumbai,Videocon,Not Bid,0,-,-,-
+12,Mumbai,Vodafone,Not Bid,0,-,-,-
+12,North East,Bharti,Not Bid,0,-,-,-
+12,North East,Idea,Not Bid,0,8.84,4,1
+12,North East,Telewings,Not Bid,0,-,-,-
+12,North East,Videocon,Not Bid,0,-,-,-
+12,North East,Vodafone,Not Bid,0,8.84,2,2
+12,Orissa,Bharti,Not Bid,0,-,-,-
+12,Orissa,Idea,Not Bid,0,20.27,4,1
+12,Orissa,Telewings,Not Bid,0,-,-,-
+12,Orissa,Videocon,Not Bid,0,-,-,-
+12,Orissa,Vodafone,Not Bid,0,20.27,2,2
+12,Punjab,Bharti,Not Bid,0,-,-,-
+12,Punjab,Idea,Not Bid,0,-,-,-
+12,Punjab,Telewings,Not Bid,0,-,-,-
+12,Punjab,Videocon,Not Bid,0,-,-,-
+12,Punjab,Vodafone,Not Bid,0,67.28,1,1
+12,Rajasthan,Bharti,Not Bid,0,-,-,-
+12,Rajasthan,Idea,Not Bid,0,-,-,-
+12,Rajasthan,Telewings,Not Bid,0,-,-,-
+12,Rajasthan,Videocon,Not Bid,0,-,-,-
+12,Rajasthan,Vodafone,Not Bid,0,-,-,-
+12,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+12,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+12,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+12,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+12,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+12,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+12,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+12,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+12,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+12,Uttar Pradesh (East),Vodafone,Not Bid,0,76.93,1,1
+12,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+12,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+12,Uttar Pradesh (West),Telewings,Not Bid,0,107.41,4,3
+12,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+12,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+12,West Bengal,Bharti,Not Bid,0,-,-,-
+12,West Bengal,Idea,Not Bid,0,25.84,4,1
+12,West Bengal,Telewings,Not Bid,0,-,-,-
+12,West Bengal,Videocon,Not Bid,0,-,-,-
+12,West Bengal,Vodafone,Not Bid,0,25.84,2,2
+13,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+13,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+13,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+13,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+13,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+13,Assam,Bharti,Not Bid,0,8.67,1,1
+13,Assam,Idea,Not Bid,0,8.67,4,2
+13,Assam,Telewings,Not Bid,0,-,-,-
+13,Assam,Videocon,Not Bid,0,-,-,-
+13,Assam,Vodafone,Not Bid,0,8.67,2,3
+13,Bihar,Bharti,Not Bid,0,-,-,-
+13,Bihar,Idea,Bid,1,47.35,1,1
+13,Bihar,Telewings,Not Bid,0,46.43,4,4
+13,Bihar,Videocon,Not Bid,0,46.43,4,2
+13,Bihar,Vodafone,Not Bid,0,46.43,2,3
+13,Delhi,Bharti,Not Bid,0,-,-,-
+13,Delhi,Idea,Not Bid,0,-,-,-
+13,Delhi,Telewings,Not Bid,0,-,-,-
+13,Delhi,Videocon,Not Bid,0,-,-,-
+13,Delhi,Vodafone,Not Bid,0,-,-,-
+13,Gujarat,Bharti,Not Bid,0,-,-,-
+13,Gujarat,Idea,Not Bid,0,-,-,-
+13,Gujarat,Telewings,Not Bid,0,224.84,4,1
+13,Gujarat,Videocon,Not Bid,0,224.84,4,2
+13,Gujarat,Vodafone,Not Bid,0,-,-,-
+13,Haryana,Bharti,Not Bid,0,-,-,-
+13,Haryana,Idea,Not Bid,0,-,-,-
+13,Haryana,Telewings,Not Bid,0,-,-,-
+13,Haryana,Videocon,Not Bid,0,46.52,4,1
+13,Haryana,Vodafone,Not Bid,0,46.52,2,2
+13,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+13,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+13,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+13,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+13,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+13,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+13,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+13,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+13,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+13,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+13,Karnataka,Bharti,Not Bid,0,-,-,-
+13,Karnataka,Idea,Not Bid,0,-,-,-
+13,Karnataka,Telewings,Not Bid,0,-,-,-
+13,Karnataka,Videocon,Not Bid,0,-,-,-
+13,Karnataka,Vodafone,Not Bid,0,-,-,-
+13,Kerala,Bharti,Not Bid,0,-,-,-
+13,Kerala,Idea,Not Bid,0,-,-,-
+13,Kerala,Telewings,Not Bid,0,-,-,-
+13,Kerala,Videocon,Not Bid,0,-,-,-
+13,Kerala,Vodafone,Not Bid,0,65.3,1,1
+13,Kolkata,Bharti,Not Bid,0,-,-,-
+13,Kolkata,Idea,Not Bid,0,113.72,4,1
+13,Kolkata,Telewings,Not Bid,0,-,-,-
+13,Kolkata,Videocon,Not Bid,0,-,-,-
+13,Kolkata,Vodafone,Not Bid,0,-,-,-
+13,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+13,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+13,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+13,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+13,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+13,Maharashtra,Bharti,Not Bid,0,-,-,-
+13,Maharashtra,Idea,Not Bid,0,-,-,-
+13,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+13,Maharashtra,Videocon,Not Bid,0,-,-,-
+13,Maharashtra,Vodafone,Not Bid,0,262.81,1,2
+13,Mumbai,Bharti,Not Bid,0,-,-,-
+13,Mumbai,Idea,Not Bid,0,-,-,-
+13,Mumbai,Telewings,Not Bid,0,-,-,-
+13,Mumbai,Videocon,Not Bid,0,-,-,-
+13,Mumbai,Vodafone,Not Bid,0,-,-,-
+13,North East,Bharti,Not Bid,0,-,-,-
+13,North East,Idea,Not Bid,0,8.84,4,1
+13,North East,Telewings,Not Bid,0,-,-,-
+13,North East,Videocon,Not Bid,0,-,-,-
+13,North East,Vodafone,Not Bid,0,8.84,2,2
+13,Orissa,Bharti,Not Bid,0,-,-,-
+13,Orissa,Idea,Not Bid,0,20.27,4,1
+13,Orissa,Telewings,Not Bid,0,-,-,-
+13,Orissa,Videocon,Not Bid,0,-,-,-
+13,Orissa,Vodafone,Not Bid,0,20.27,2,2
+13,Punjab,Bharti,Not Bid,0,-,-,-
+13,Punjab,Idea,Not Bid,0,-,-,-
+13,Punjab,Telewings,Not Bid,0,-,-,-
+13,Punjab,Videocon,Not Bid,0,-,-,-
+13,Punjab,Vodafone,Not Bid,0,67.28,1,1
+13,Rajasthan,Bharti,Not Bid,0,-,-,-
+13,Rajasthan,Idea,Not Bid,0,-,-,-
+13,Rajasthan,Telewings,Not Bid,0,-,-,-
+13,Rajasthan,Videocon,Not Bid,0,-,-,-
+13,Rajasthan,Vodafone,Not Bid,0,-,-,-
+13,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+13,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+13,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+13,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+13,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+13,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+13,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+13,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+13,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+13,Uttar Pradesh (East),Vodafone,Not Bid,0,76.93,1,1
+13,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+13,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+13,Uttar Pradesh (West),Telewings,Not Bid,0,107.41,4,3
+13,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+13,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+13,West Bengal,Bharti,Not Bid,0,-,-,-
+13,West Bengal,Idea,Bid,5,25.84,5,1
+13,West Bengal,Telewings,Not Bid,0,-,-,-
+13,West Bengal,Videocon,Not Bid,0,-,-,-
+13,West Bengal,Vodafone,Not Bid,0,25.84,2,2
+14,Andhra Pradesh,Bharti,Not Bid,0,-,-,-
+14,Andhra Pradesh,Idea,Not Bid,0,-,-,-
+14,Andhra Pradesh,Telewings,Not Bid,0,286.91,4,1
+14,Andhra Pradesh,Videocon,Not Bid,0,-,-,-
+14,Andhra Pradesh,Vodafone,Not Bid,0,-,-,-
+14,Assam,Bharti,Not Bid,0,8.67,1,1
+14,Assam,Idea,Not Bid,0,8.67,4,2
+14,Assam,Telewings,Not Bid,0,-,-,-
+14,Assam,Videocon,Not Bid,0,-,-,-
+14,Assam,Vodafone,Not Bid,0,8.67,2,3
+14,Bihar,Bharti,Not Bid,0,-,-,-
+14,Bihar,Idea,Not Bid,0,47.35,1,1
+14,Bihar,Telewings,Not Bid,0,46.43,4,4
+14,Bihar,Videocon,Not Bid,0,46.43,4,2
+14,Bihar,Vodafone,Not Bid,0,46.43,2,3
+14,Delhi,Bharti,Not Bid,0,-,-,-
+14,Delhi,Idea,Not Bid,0,-,-,-
+14,Delhi,Telewings,Not Bid,0,-,-,-
+14,Delhi,Videocon,Not Bid,0,-,-,-
+14,Delhi,Vodafone,Not Bid,0,-,-,-
+14,Gujarat,Bharti,Not Bid,0,-,-,-
+14,Gujarat,Idea,Not Bid,0,-,-,-
+14,Gujarat,Telewings,Not Bid,0,224.84,4,1
+14,Gujarat,Videocon,Not Bid,0,224.84,4,2
+14,Gujarat,Vodafone,Not Bid,0,-,-,-
+14,Haryana,Bharti,Not Bid,0,-,-,-
+14,Haryana,Idea,Not Bid,0,-,-,-
+14,Haryana,Telewings,Not Bid,0,-,-,-
+14,Haryana,Videocon,Not Bid,0,46.52,4,1
+14,Haryana,Vodafone,Not Bid,0,46.52,2,2
+14,Himachal Pradesh,Bharti,Not Bid,0,-,-,-
+14,Himachal Pradesh,Idea,Not Bid,0,-,-,-
+14,Himachal Pradesh,Telewings,Not Bid,0,-,-,-
+14,Himachal Pradesh,Videocon,Not Bid,0,-,-,-
+14,Himachal Pradesh,Vodafone,Not Bid,0,7.78,1,1
+14,Jammu & Kashmir,Bharti,Not Bid,0,-,-,-
+14,Jammu & Kashmir,Idea,Not Bid,0,6.33,4,2
+14,Jammu & Kashmir,Telewings,Not Bid,0,-,-,-
+14,Jammu & Kashmir,Videocon,Not Bid,0,-,-,-
+14,Jammu & Kashmir,Vodafone,Not Bid,0,6.33,2,1
+14,Karnataka,Bharti,Not Bid,0,-,-,-
+14,Karnataka,Idea,Not Bid,0,-,-,-
+14,Karnataka,Telewings,Not Bid,0,-,-,-
+14,Karnataka,Videocon,Not Bid,0,-,-,-
+14,Karnataka,Vodafone,Not Bid,0,-,-,-
+14,Kerala,Bharti,Not Bid,0,-,-,-
+14,Kerala,Idea,Not Bid,0,-,-,-
+14,Kerala,Telewings,Not Bid,0,-,-,-
+14,Kerala,Videocon,Not Bid,0,-,-,-
+14,Kerala,Vodafone,Not Bid,0,65.3,1,1
+14,Kolkata,Bharti,Not Bid,0,-,-,-
+14,Kolkata,Idea,Not Bid,0,113.72,4,1
+14,Kolkata,Telewings,Not Bid,0,-,-,-
+14,Kolkata,Videocon,Not Bid,0,-,-,-
+14,Kolkata,Vodafone,Not Bid,0,-,-,-
+14,Madhya Pradesh,Bharti,Not Bid,0,-,-,-
+14,Madhya Pradesh,Idea,Not Bid,0,-,-,-
+14,Madhya Pradesh,Telewings,Not Bid,0,-,-,-
+14,Madhya Pradesh,Videocon,Not Bid,0,53.99,4,1
+14,Madhya Pradesh,Vodafone,Not Bid,0,53.99,2,2
+14,Maharashtra,Bharti,Not Bid,0,-,-,-
+14,Maharashtra,Idea,Not Bid,0,-,-,-
+14,Maharashtra,Telewings,Not Bid,0,262.81,4,1
+14,Maharashtra,Videocon,Not Bid,0,-,-,-
+14,Maharashtra,Vodafone,Not Bid,0,262.81,1,2
+14,Mumbai,Bharti,Not Bid,0,-,-,-
+14,Mumbai,Idea,Not Bid,0,-,-,-
+14,Mumbai,Telewings,Not Bid,0,-,-,-
+14,Mumbai,Videocon,Not Bid,0,-,-,-
+14,Mumbai,Vodafone,Not Bid,0,-,-,-
+14,North East,Bharti,Not Bid,0,-,-,-
+14,North East,Idea,Not Bid,0,8.84,4,1
+14,North East,Telewings,Not Bid,0,-,-,-
+14,North East,Videocon,Not Bid,0,-,-,-
+14,North East,Vodafone,Not Bid,0,8.84,2,2
+14,Orissa,Bharti,Not Bid,0,-,-,-
+14,Orissa,Idea,Not Bid,0,20.27,4,1
+14,Orissa,Telewings,Not Bid,0,-,-,-
+14,Orissa,Videocon,Not Bid,0,-,-,-
+14,Orissa,Vodafone,Not Bid,0,20.27,2,2
+14,Punjab,Bharti,Not Bid,0,-,-,-
+14,Punjab,Idea,Not Bid,0,-,-,-
+14,Punjab,Telewings,Not Bid,0,-,-,-
+14,Punjab,Videocon,Not Bid,0,-,-,-
+14,Punjab,Vodafone,Not Bid,0,67.28,1,1
+14,Rajasthan,Bharti,Not Bid,0,-,-,-
+14,Rajasthan,Idea,Not Bid,0,-,-,-
+14,Rajasthan,Telewings,Not Bid,0,-,-,-
+14,Rajasthan,Videocon,Not Bid,0,-,-,-
+14,Rajasthan,Vodafone,Not Bid,0,-,-,-
+14,Tamil Nadu,Bharti,Not Bid,0,-,-,-
+14,Tamil Nadu,Idea,Not Bid,0,306.09,4,1
+14,Tamil Nadu,Telewings,Not Bid,0,-,-,-
+14,Tamil Nadu,Videocon,Not Bid,0,-,-,-
+14,Tamil Nadu,Vodafone,Not Bid,0,-,-,-
+14,Uttar Pradesh (East),Bharti,Not Bid,0,-,-,-
+14,Uttar Pradesh (East),Idea,Not Bid,0,-,-,-
+14,Uttar Pradesh (East),Telewings,Not Bid,0,76.17,4,2
+14,Uttar Pradesh (East),Videocon,Not Bid,0,76.17,4,3
+14,Uttar Pradesh (East),Vodafone,Not Bid,0,76.93,1,1
+14,Uttar Pradesh (West),Bharti,Not Bid,0,-,-,-
+14,Uttar Pradesh (West),Idea,Not Bid,0,-,-,-
+14,Uttar Pradesh (West),Telewings,Not Bid,0,107.41,4,3
+14,Uttar Pradesh (West),Videocon,Not Bid,0,107.41,4,2
+14,Uttar Pradesh (West),Vodafone,Not Bid,0,107.41,2,1
+14,West Bengal,Bharti,Not Bid,0,-,-,-
+14,West Bengal,Idea,Not Bid,0,25.84,5,1
+14,West Bengal,Telewings,Not Bid,0,-,-,-
+14,West Bengal,Videocon,Not Bid,0,-,-,-
+14,West Bengal,Vodafone,Not Bid,0,25.84,2,2
