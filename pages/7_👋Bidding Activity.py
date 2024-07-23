@@ -12,14 +12,7 @@ st.set_page_config(page_title="Charting It",
 st.markdown("***Best Viewed on Laptops and Desktops***.")
 st.header('🆚 Activity plots for the various auctions :', divider='grey')
 
-#@st.cache_data
 
-# def load_data():
-#     df=pd.read_csv(r'combined_file_RP_WP_cols_ordered.csv')
-#     #st.dataframe(df)
-#     return df
-# auction_year_list=[2010,2012,2013,2014,2015,2016,2021,2022,2024]
-# freq_bands_list=['600','700','800','900','1800','2100','2300','2500','3300','26']
 def preprocess(frame):
    #st.table(frame.head())
    frame=frame.query('prov_win_bid!="-" ')\
@@ -37,10 +30,20 @@ def pivot_data(frame):
    table.columns=['_'.join(col).strip() for col in table.columns.values]  
    return table
 
-#function to plot the line graph
-def plotly_plot(frame,lsa,type):
-    colums=frame.columns
+def read_blocks(auct_year,auct_band):
+    block_df=pd.read_csv('all_blocks.csv')
+    # from the column name find out the corresponding data   
+    col_name=str(auct_year)+'-'+str(auct_band)
+    if (col_name) in block_df.columns:
+        return block_df.loc[:,['LSA',col_name]]
+    
 
+#function to plot the line graph
+def plotly_plot(frame,lsa,type,blk):
+       
+    st.subheader(f' No of Blocks Auctioned in this service area= {blk}')
+
+    colums=frame.columns 
     #Define the title of the plots
     max_clocks=frame.Clock_Round.max()
     if type=='Bid Value':
@@ -49,33 +52,36 @@ def plotly_plot(frame,lsa,type):
     else:
         title=f'The progress of the Bids {max_clocks} clock rounds with the change in the Bid Ranks for LSA: {lsa}'
         #text_auto='auto'
-    #print(colums)
+    
     fig=(frame.plot(kind='scatter',x='Clock_Round',y=colums[2:],
                  title=title,
                  labels={'value':type}))
-    fig.update_yaxes(range=[-1,5])    
+    if type=='Bid Rank':
+        fig.update_yaxes(range=[-1,5])    
     fig.update_traces(marker=dict(size=20,
                               line=dict(width=1,
-                                        color='DarkSlateGrey')),
-                  selector=dict(mode='markers'))
+                              color='DarkSlateGrey')),
+                      selector=dict(mode='markers'))
     fig.update_traces(mode='lines+markers+text',
                   textposition='top center')
     fig.update_layout(
-    title=dict(text=title, font=dict(size=25), automargin=False, yref='paper'),
-    margin={'t':100},
-    yaxis={'title':''},
-    coloraxis_colorbar={'title':type},      
+    title=dict(text=title, font=dict(size=20), automargin=False, yref='paper'),
+    #margin={'t':100},
+    yaxis={'title':'Bid Prices'},
+    #coloraxis_colorbar={'title':type}, 
+    legend_title_text='Bidders',
     )
     fig.update_yaxes(tickfont_size=20, ticks="outside", ticklen=5, tickwidth=3)
-    fig.update_xaxes(tickfont_size=20,tickangle=0,side='bottom')
+    fig.update_xaxes(tickfont_size=20,tickangle=0,side='bottom')    
     st.plotly_chart(fig)    
     return #fig
 
 
 #function to plot the heatmap
-def plotly_imshow(frame,lsa,type):
-    colums=frame.columns
-    #print(colums)    
+def plotly_imshow(frame,lsa,type,blk):
+    colums=frame.columns    
+    st.subheader(f' No of Blocks Auctioned in this service area= {blk}')  
+    
     frame=frame.drop(columns='Service_Area')
     max_clocks=frame.Clock_Round.max()
     frame=frame.set_index('Clock_Round')
@@ -85,7 +91,7 @@ def plotly_imshow(frame,lsa,type):
         title=f'The progress of the Bids in {max_clocks} clock rounds with the change in the Bid Values for LSA: {lsa}'
         text_auto='0.02f'
     else:
-        title=f'The progress of the Bids {max_clocks} clock rounds with the change in the Bid Ranks for LSA: {lsa}'
+        title=f'The progress of the Bids in {max_clocks} clock rounds with the change in the Bid Ranks for LSA: {lsa} '
         text_auto='auto'
     fig=px.imshow(frame,width=1400,height=800,color_continuous_scale='RdBu_r',                                       
                   text_auto=text_auto,aspect='auto')
@@ -93,16 +99,14 @@ def plotly_imshow(frame,lsa,type):
     'paper_bgcolor':'white',
     'font_color':'black', 
     'font_size':20,
-   },
-    title=dict(text=title, font=dict(size=25), automargin=False, yref='paper'),
-    margin={'t':100},
+    
+    },
+    title=dict(text=title, font=dict(size=20), automargin=False, yref='paper'),
+    margin={'t':150},
     yaxis={'title':''},
     coloraxis_colorbar={'title':type},      
-    )
-  
-    # fig.update_layout(
-    # title=dict(text=f'Distribution for the available number of Blocks for LSA: {lsa}', font=dict(size=30), automargin=False, yref='paper')
-    # )
+    )  
+    
     fig.update_yaxes(tickfont_size=20, ticks="outside", ticklen=5, tickwidth=3)
     fig.update_xaxes(tickfont_size=20,tickangle=0,side='top')
     
@@ -126,16 +130,13 @@ my_dataframe={2010: ['Auction2010_3G_Bid_Trail_Data.csv','Auction2010_BWA_Bid_Tr
               2016:'Auction2016_Bid_Trail_Data.csv',
               2021:'Auction2021_Bid_Trail_Data.csv',
               2022:'Auction2022_Bid_Trail_Data.csv'}
+
 #First write the Spectrum Auction SMRA type
-
-
 
 col1, col3 = st.columns([2,2])
 with col1:
   auction_year = st.selectbox('Choose the auction year', options=(v for v in my_dict.keys()), 
                                key=1)
-# with col2:
-#   auction_bands = st.selectbox('Choose the frequency ', options=my_dict[auction_year], key=2)
 with col3:
   auction_band = st.selectbox('Choose the frequency band ', options=my_dict[auction_year], key=2)
 
@@ -150,22 +151,18 @@ else:
    csv=my_dataframe[auction_year]
 #st.write(csv)
 df=pd.read_csv(csv,index_col=0)
-#st.dataframe(df)
-# if there is a column==Band, we will filter it in
-#st.write(auction_band)
+
 if 'Band' in df.columns:
    df=df.query('Band==@auction_band')
 df=preprocess(df)
-#st.dataframe(df.head())
+
 table=pivot_data(df)
 
-#st.dataframe(table.head())
 
 # Select the LSA
 lsa_names=table['Service_Area_'].unique().tolist()
-#lsa_names[:0]=['All LSAs']
 
-#Creates two frames for two types of display
+#Creates two frames for two types of display. First create the columns required
 winrank_columns=['Clock_Round_','Service_Area_']+[col for col in table.columns if 'rank' in col]
 winbid_columns=['Clock_Round_','Service_Area_']+[col for col in table.columns if 'bid' in col]
 
@@ -191,30 +188,46 @@ with col5:
 
 st.divider()
 
+#states=winbid.Service_Area.unique()   
+    
+dframe=read_blocks(auction_year,auction_band)
+dframe=dframe.set_index('LSA')
+
 if plot_type == ":green[Line Graph]":
     #st.write("You selected Linegraph.")
-    #states=winbid.Service_Area.unique()
+    
     states=LSAS
-    for state in states:    
+    
+    for state in states:  
+        #first no of blocks in the LSA
+        blok=dframe.query('LSA==@state').values[0][0] 
+            
+        # now filter the plotting data
         winbid_play=winbid.query('Service_Area==@state')
+    
         if winbid_play.shape[0]>8: 
             winbid_play=winbid_play.iloc[-50:]   
         else: #only few LSA are less than 15
             winbid_play=winbid_play.iloc[0:]   
         kind='Bid Value'      
-        (winbid_play.pipe(plotly_plot,state,kind))
+        (winbid_play.pipe(plotly_plot,state,kind,blok))
 
     st.divider()
 
     #states=winrank.Service_Area.unique()
     for state in states:   
+        #first no of blocks in the LSA
+        blok=dframe.query('LSA==@state').values[0][0]   
+       
+        # now filter the plotting data
+       
         winrank_play=winrank.query('Service_Area==@state') 
         if winrank_play.shape[0]>8: 
             winrank_play=winrank_play.iloc[0:]   
         else: #only few LSA are less than 15
             winrank_play=winrank_play.iloc[0:] 
         kind='Bid Rank'            
-        (winrank_play.pipe(plotly_plot,state,kind))
+        (winrank_play.pipe(plotly_plot,state,kind,blok))
     
 
 
@@ -224,23 +237,31 @@ else:
     #states=winbid.Service_Area.unique()
     states=LSAS
     for state in states:
+        #first no of blocks in the LSA
+        blok=dframe.query('LSA==@state').values[0][0] 
+            
+        # now filter the plotting data
         winbid_play=winbid.query('Service_Area==@state')
         if winbid_play.shape[0]>8: 
             winbid_play=winbid_play.iloc[-50:]   
         else: #only few LSA are less than 15
             winbid_play=winbid_play.iloc[0:] 
         kind='Bid Value'      
-        (winbid_play.pipe(plotly_imshow,state,kind))
+        (winbid_play.pipe(plotly_imshow,state,kind,blok))
 
     st.divider()
 
     #For bid rank heatmap
     #states=winrank.Service_Area.unique()
     for state in states:  
+        #first no of blocks in the LSA
+        blok=dframe.query('LSA==@state').values[0][0] 
+            
+        # now filter the plotting data
         winrank_play=winrank.query('Service_Area==@state')
         if winrank_play.shape[0]>8: 
             winrank_play=winrank_play.iloc[0:]   
         else: #only few LSA are less than 15
             winrank_play=winrank_play.iloc[0:]  
         kind='Bid Rank'     
-        (winrank_play.pipe(plotly_imshow,state,kind))
+        (winrank_play.pipe(plotly_imshow,state,kind,blok))
