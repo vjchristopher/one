@@ -201,8 +201,8 @@ if plot_type == ":green[Line Graph]":
     for state in states:  
         #first no of blocks in the LSA
             
-        blok=dframe.query('LSA==@state').values[0][1]         
-        st.write(dframe.query('LSA==@state').values[0],blok)   
+        blok=dframe.query('LSA==@state').values[0]         
+        #st.write(dframe.query('LSA==@state').values[0],blok)   
         # now filter the plotting data
         winbid_play=winbid.query('Service_Area==@state')
     
@@ -211,7 +211,7 @@ if plot_type == ":green[Line Graph]":
         else: #only few LSA are less than 15
             winbid_play=winbid_play.iloc[0:]   
         kind='Bid Value'      
-        (winbid_play.pipe(plotly_plot,state,kind,blok))
+        (winbid_play.pipe(plotly_plot,state,kind,blok[1]))
 
     st.divider()
 
