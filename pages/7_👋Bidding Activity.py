@@ -240,7 +240,7 @@ else:
     for state in states:
         #first no of blocks in the LSA
         blok=dframe.query('LSA==@state').values[0][1] 
-        st.write(dframe.query('LSA==@state').values[0],blok)    
+        #st.write(dframe.query('LSA==@state').values[0],blok)    
         # now filter the plotting data
         winbid_play=winbid.query('Service_Area==@state')
         if winbid_play.shape[0]>8: 
