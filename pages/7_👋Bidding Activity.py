@@ -191,8 +191,8 @@ st.divider()
 #states=winbid.Service_Area.unique()   
     
 dframe=read_blocks(auction_year,auction_band)
-dframe=dframe.set_index('LSA')
-
+#dframe=dframe.set_index('LSA')
+#st.dataframe(dframe)
 if plot_type == ":green[Line Graph]":
     #st.write("You selected Linegraph.")
     
@@ -200,8 +200,9 @@ if plot_type == ":green[Line Graph]":
     
     for state in states:  
         #first no of blocks in the LSA
-        blok=dframe.query('LSA==@state').values[0][0] 
             
+        blok=dframe.query('LSA==@state').values[0][0] 
+        #st.write(state)
         # now filter the plotting data
         winbid_play=winbid.query('Service_Area==@state')
     
