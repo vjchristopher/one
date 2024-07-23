@@ -218,7 +218,7 @@ if plot_type == ":green[Line Graph]":
     #states=winrank.Service_Area.unique()
     for state in states:   
         #first no of blocks in the LSA
-        blok=dframe.query('LSA==@state').values[0][1]   
+        blok=dframe.query('LSA==@state').values[0]   
        
         # now filter the plotting data
        
@@ -228,7 +228,7 @@ if plot_type == ":green[Line Graph]":
         else: #only few LSA are less than 15
             winrank_play=winrank_play.iloc[0:] 
         kind='Bid Rank'            
-        (winrank_play.pipe(plotly_plot,state,kind,blok))
+        (winrank_play.pipe(plotly_plot,state,kind,blok[1]))
     
 
 
