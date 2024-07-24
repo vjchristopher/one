@@ -56,8 +56,7 @@ def plotly_plot(frame,lsa,type,blk):
     fig=(frame.plot(kind='scatter',x='Clock_Round',y=colums[2:],
                  title=title,
                  labels={'value':type}))
-    if type=='Bid Rank':
-        fig.update_yaxes(range=[-1,5])    
+      
     fig.update_traces(marker=dict(size=20,
                               line=dict(width=1,
                               color='DarkSlateGrey')),
@@ -65,13 +64,15 @@ def plotly_plot(frame,lsa,type,blk):
     fig.update_traces(mode='lines+markers+text',
                   textposition='top center')
     fig.update_layout(
-    title=dict(text=title, font=dict(size=20), automargin=False, yref='paper'),
+    title=dict(text=title, font=dict(size=20), yref='paper'),
     #margin={'t':100},
-    yaxis={'title':'Bid Prices'},
+    yaxis={'title':type},
     #coloraxis_colorbar={'title':type}, 
     legend_title_text='Bidders',
     )
     fig.update_yaxes(tickfont_size=20, ticks="outside", ticklen=5, tickwidth=3)
+    if type=='Bid Rank':
+        fig.update_yaxes(range=[-1,5]) 
     fig.update_xaxes(tickfont_size=20,tickangle=0,side='bottom')    
     st.plotly_chart(fig)    
     return #fig
@@ -101,7 +102,7 @@ def plotly_imshow(frame,lsa,type,blk):
     'font_size':20,
     
     },
-    title=dict(text=title, font=dict(size=20), automargin=False, yref='paper'),
+    title=dict(text=title, font=dict(size=20), yref='paper'),
     margin={'t':150},
     yaxis={'title':''},
     coloraxis_colorbar={'title':type},      
