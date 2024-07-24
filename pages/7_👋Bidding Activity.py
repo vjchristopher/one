@@ -187,6 +187,9 @@ with col4:
 with col5:
     LSAS= st.multiselect('Choose LSA:',options=lsa_names, default = lsa_names[0])
 
+#A choice given to select maximum clock rounds 
+
+max_rounds=st.checkbox("Select Max Clock Rounds for Plotting Graph")
 st.divider()
 
 #states=winbid.Service_Area.unique()   
@@ -200,13 +203,16 @@ if plot_type == ":green[Line Graph]":
     states=LSAS
     
     for state in states:  
-        #first no of blocks in the LSA          
+        #first no of blocks in the LSA
+        #st.dataframe(winbid)    
         blok=dframe.query('LSA==@state').values[0]         
         #st.write(dframe.query('LSA==@state').values[0],blok)   
         # now filter the plotting data
         winbid_play=winbid.query('Service_Area==@state')
-    
-        if winbid_play.shape[0]>8: 
+        #st.dataframe(winbid_play)
+        if max_rounds:  #Checkbox selected display maximum
+            winbid_play=winbid_play.iloc[0:]
+        elif winbid_play.shape[0]>15: #if the max is not selected
             winbid_play=winbid_play.iloc[-50:]   
         else: #only few LSA are less than 15
             winbid_play=winbid_play.iloc[0:]   
@@ -223,8 +229,11 @@ if plot_type == ":green[Line Graph]":
         # now filter the plotting data
        
         winrank_play=winrank.query('Service_Area==@state') 
-        if winrank_play.shape[0]>8: 
-            winrank_play=winrank_play.iloc[0:]   
+        
+        if max_rounds:  #Checkbox selected
+            winrank_play=winrank_play.iloc[0:]
+        elif winrank_play.shape[0]>15: 
+            winrank_play=winrank_play.iloc[-50:]   
         else: #only few LSA are less than 15
             winrank_play=winrank_play.iloc[0:] 
         kind='Bid Rank'            
@@ -243,7 +252,10 @@ else:
         #st.write(dframe.query('LSA==@state').values[0],blok)    
         # now filter the plotting data
         winbid_play=winbid.query('Service_Area==@state')
-        if winbid_play.shape[0]>8: 
+        
+        if max_rounds:  #Checkbox selected
+            winbid_play=winbid_play.iloc[0:]
+        elif winbid_play.shape[0]>15: 
             winbid_play=winbid_play.iloc[-50:]   
         else: #only few LSA are less than 15
             winbid_play=winbid_play.iloc[0:] 
@@ -260,8 +272,11 @@ else:
             
         # now filter the plotting data
         winrank_play=winrank.query('Service_Area==@state')
-        if winrank_play.shape[0]>8: 
-            winrank_play=winrank_play.iloc[0:]   
+
+        if max_rounds:  #Checkbox selected
+            winrank_play=winrank_play.iloc[0:]
+        elif winrank_play.shape[0]>15: 
+            winrank_play=winrank_play.iloc[-50:]   
         else: #only few LSA are less than 15
             winrank_play=winrank_play.iloc[0:]  
         kind='Bid Rank'     
