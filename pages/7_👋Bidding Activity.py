@@ -200,8 +200,7 @@ if plot_type == ":green[Line Graph]":
     states=LSAS
     
     for state in states:  
-        #first no of blocks in the LSA
-            
+        #first no of blocks in the LSA          
         blok=dframe.query('LSA==@state').values[0]         
         #st.write(dframe.query('LSA==@state').values[0],blok)   
         # now filter the plotting data
