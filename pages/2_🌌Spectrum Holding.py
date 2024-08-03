@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.io as pio
 
-st.title('🔊Spectrum Holding as Pie Chart and in Tabular form:')
+st.title('🔊Spectrum Holding Graphically Depicted:')
 
 #read in the file
 #@st.cache_data
@@ -73,8 +73,6 @@ with form_pie:
   
 # 2. Now the holding table part
 
-form_holding=st.form(key='Options2')
-form_holding.subheader('The holding of different spectrum bands among the TSP s and the value as per market price ')
 
 holding = load_data()
 
@@ -83,14 +81,16 @@ valuation=pd.read_csv('valuation.csv')
 holding.LSA=holding.LSA.fillna(method='ffill')
 holding.iloc[:,2:]=holding.iloc[:,2:].fillna(0)# filling value 0 in NAN
 
-valuation=valuation.set_index('service_area')
-
+valuation=valuation.set_index('LSA')
+#st.dataframe(valuation)
 lsa_list=holding['LSA'].unique().tolist()
 #Add 'ALL LSAs"
 lsa_list[:0]=['All LSAs']
 tsp_list=holding['TSP'].unique().tolist()
 band_list=holding.columns.unique().tolist()[2:]
 
+form_holding=st.form(key='Options2')
+form_holding.subheader('The official Spectrum Holding of the TSP s')
 with form_holding:
     LSAS= st.multiselect('Choose LSA:',options=lsa_list, default = ['All LSAs'])
     if 'All LSAs' in (LSAS):
@@ -106,30 +106,60 @@ if (submitted_holding):
     df=df.query('LSA in @LSAS & TSP in @TSPS').reset_index(drop=True)
     #st.dataframe(df)
     sum=0 # to store the prices in a row
-    new_row=['Current Market Price',TSPS] #to store the column wise Total
+    new_row=['Total Spectrum',TSPS] #to store the column wise Total
+    # for i in range(len(BANDS)):
+    #     for index, row in df.iterrows():
+    #         sum+=row[BANDS[i]] * valuation.loc[row['LSA'],BANDS[i]]
+    #         sum=round(sum,2)
+    #     new_row.append(sum)
+    #     sum=0        
+    # #To store the gross sum of all spectrum prices in the display 
+    # gross=0
+    # for fig in new_row[2:]:
+    #     gross+=fig
+    # gross=round(gross,2)
+    sum={}
+    col_names=[]
     for i in range(len(BANDS)):
-        for index, row in df.iterrows():
-            sum+=row[BANDS[i]] * valuation.loc[row['LSA'],BANDS[i]]
-            sum=round(sum,2)
-        new_row.append(sum)
-        sum=0        
-    #To store the gross sum of all spectrum prices in the display 
-    gross=0
-    for fig in new_row[2:]:
-        gross+=fig
-    gross=round(gross,2)
-    df.loc[len(df.index)]=new_row        
+        sum[i]=df.loc[:,BANDS[i]].sum()
+        col_names.append(BANDS[i])
+    #st.write(sum)
+    Frame=pd.DataFrame(sum,index=['Holding'])
+    Frame.columns=col_names
+    
+    df=pd.concat([df,Frame])
+    #st.dataframe(df)
+    #
+    df.loc['Holding','TSP']='Total Holding'       
     df.set_index('LSA',inplace=True) 
-    df.style.format(precision=2)  #rounding to two places   
-    st.header('Quantum of Spectrum in MHz ', divider='rainbow')
-    #st.subheader('The last row in the table shows the indicative value for each spectrum bands in Rs.Crores as per the current Reserve Price.',divider='green')
+    
+   
+    #st.dataframe(df)
+    #df.style.format(precision=2)  #rounding to two places   
     #st.subheader('bands in Rs.Crores as per the current Reserve Price.',divider='green')
     st.dataframe(df.style.format(precision=2))
     st.subheader('',divider='green')
-    # col1, col2 = st.columns((14,2))
-    # with col1:
-    #     st.subheader("Total Market Price of above spectrum in Rs.Cr: ")
-    # with col2:
-    #     st.subheader(gross)
-    # st.subheader('',divider='green')
+    #st.write(len(df.index))
+    total_spectrum=pd.Series(df.iloc[len(df.index)-1,1:])
+    
+    col_names2=df.columns.to_list()
+    col_names3=[]
+    for col in col_names2:
+        col_names3.append(col[:4])
+   
+   
+    spectrum_hold=total_spectrum.to_list()
+    col_names4=[]
+    for thing in spectrum_hold:
+        col_names4.append(round(thing,2))
+
+
+   
+    #st.write(total_spectrum.to_list())
+    st.markdown(f"""
+                ##### 1. Quantum of Spectrum : {col_names4} MHz 
+                ##### 2. In frequency bands : {col_names3[1:]} respectively
+                """)
+    st.subheader('',divider='green')
+       
        
