@@ -1,4 +1,4 @@
-service_area,600 MHz band (paired),700 MHz band (paired),800 MHz band (paired),900 MHz band (paired),1800 MHz band (paired),2100 MHz band (paired),2300 MHz band (unpaired),2500 MHz band (unpaired),3300 MHz band (unpaired),26 GHz band (unpaired)
+LSA,600 MHz band (paired),700 MHz band (paired),800 MHz band (paired),900 MHz band (paired),1800 MHz band (paired),2100 MHz band (paired),2300 MHz band (unpaired),2500 MHz band (unpaired),3300 MHz band (unpaired),26 GHz band (unpaired)
 Andhra Pradesh,318,318,292,288,193,142,59,51,29.12,0.64
 Assam,57,57,50,63,32,24,2,2,5.6,0.11
 Bihar,145,145,126,147,84.05,68,7,15,13.44,0.3
