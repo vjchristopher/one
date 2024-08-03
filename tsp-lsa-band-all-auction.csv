@@ -1,0 +1,741 @@
+,TSP,LSA,bw,acquired_year,band,years_left
+0,Bharti,Assam,1.25,2012,1800,8
+1,Idea,Assam,5,2012,1800,8
+2,Idea,Bihar,1.25,2012,1800,8
+3,Idea,Jammu & Kashmir,5,2012,1800,8
+4,Idea,Kolkata,5,2012,1800,8
+5,Idea,North East,5,2012,1800,8
+6,Idea,Orissa,5,2012,1800,8
+7,Idea,Tamil Nadu,5,2012,1800,8
+8,Idea,West Bengal,6.25,2012,1800,8
+9,Telewings,Andhra Pradesh,5,2012,1800,8
+10,Telewings,Bihar,5,2012,1800,8
+11,Telewings,Gujarat,5,2012,1800,8
+12,Telewings,Maharashtra,5,2012,1800,8
+13,Telewings,Uttar Pradesh (West),5,2012,1800,8
+14,Telewings,Uttar Pradesh (East),5,2012,1800,8
+15,Videocon,Bihar,5,2012,1800,8
+16,Videocon,Gujarat,5,2012,1800,8
+17,Videocon,Haryana,5,2012,1800,8
+18,Videocon,Madhya Pradesh,5,2012,1800,8
+19,Videocon,Uttar Pradesh (West),5,2012,1800,8
+20,Videocon,Uttar Pradesh (East),5,2012,1800,8
+21,Vodafone,Assam,2.5,2012,1800,8
+22,Vodafone,Bihar,2.5,2012,1800,8
+23,Vodafone,Haryana,2.5,2012,1800,8
+24,Vodafone,Himachal Pradesh,1.25,2012,1800,8
+25,Vodafone,Jammu & Kashmir,2.5,2012,1800,8
+26,Vodafone,Kerala,1.25,2012,1800,8
+27,Vodafone,Madhya Pradesh,2.5,2012,1800,8
+28,Vodafone,Maharashtra,1.25,2012,1800,8
+29,Vodafone,North East,2.5,2012,1800,8
+30,Vodafone,Orissa,2.5,2012,1800,8
+31,Vodafone,Punjab,1.25,2012,1800,8
+32,Vodafone,Uttar Pradesh (West),2.5,2012,1800,8
+33,Vodafone,Uttar Pradesh (East),1.25,2012,1800,8
+34,Vodafone,West Bengal,2.5,2012,1800,8
+35,SSTL,Delhi,3.69,2013,800,9
+36,SSTL,Gujarat,3.69,2013,800,9
+37,SSTL,Karnataka,3.69,2013,800,9
+38,SSTL,Kerala,3.69,2013,800,9
+39,SSTL,Kolkata,3.69,2013,800,9
+40,SSTL,Tamil Nadu,3.69,2013,800,9
+41,SSTL,Uttar Pradesh (West),3.69,2013,800,9
+42,SSTL,West Bengal,3.69,2013,800,9
+43,Aircel,Andhra Pradesh,5,2010,2100,6
+44,Aircel,Andhra Pradesh,20,2010,2300,6
+45,Aircel,Assam,5,2010,2100,6
+46,Aircel,Assam,20,2010,2300,6
+47,Aircel,Bihar,5,2010,2100,6
+48,Aircel,Bihar,20,2010,2300,6
+49,Aircel,Jammu & Kashmir,5,2010,2100,6
+50,Aircel,Jammu & Kashmir,20,2010,2300,6
+51,Aircel,Karnataka,5,2010,2100,6
+52,Aircel,Kerala,5,2010,2100,6
+53,Aircel,Kolkata,5,2010,2100,6
+54,Aircel,North East,5,2010,2100,6
+55,Aircel,North East,20,2010,2300,6
+56,Aircel,Orissa,5,2010,2100,6
+57,Aircel,Orissa,20,2010,2300,6
+58,Aircel,Punjab,5,2010,2100,6
+59,Aircel,Tamil Nadu,5,2010,2100,6
+60,Aircel,Tamil Nadu,20,2010,2300,6
+61,Aircel,Uttar Pradesh (East),5,2010,2100,6
+62,Aircel,West Bengal,5,2010,2100,6
+63,Aircel,West Bengal,20,2010,2300,6
+64,Augere,Madhya Pradesh,20,2010,2300,6
+65,Bharti,Andhra Pradesh,5,2010,2100,6
+66,Bharti,Bihar,5,2010,2100,6
+67,Bharti,Delhi,5,2010,2100,6
+68,Bharti,Himachal Pradesh,5,2010,2100,6
+69,Bharti,Jammu & Kashmir,5,2010,2100,6
+70,Bharti,Karnataka,5,2010,2100,6
+71,Bharti,Karnataka,20,2010,2300,6
+72,Bharti,Kolkata,20,2010,2300,6
+73,Bharti,Maharashtra,20,2010,2300,6
+74,Bharti,Mumbai,5,2010,2100,6
+75,Bharti,Punjab,20,2010,2300,6
+76,Bharti,Rajasthan,5,2010,2100,6
+77,Bharti,Tamil Nadu,5,2010,2100,6
+78,Bharti,Uttar Pradesh (West),5,2010,2100,6
+79,Bharti,West Bengal,5,2010,2100,6
+80,Bharti,Assam,5,2010,2100,6
+81,Bharti,North East,5,2010,2100,6
+82,Idea,Andhra Pradesh,5,2010,2100,6
+83,Idea,Gujarat,5,2010,2100,6
+84,Idea,Haryana,5,2010,2100,6
+85,Idea,Himachal Pradesh,5,2010,2100,6
+86,Idea,Jammu & Kashmir,5,2010,2100,6
+87,Idea,Kerala,5,2010,2100,6
+88,Idea,Madhya Pradesh,5,2010,2100,6
+89,Idea,Maharashtra,5,2010,2100,6
+90,Idea,Punjab,5,2010,2100,6
+91,Idea,Uttar Pradesh (East),5,2010,2100,6
+92,Idea,Uttar Pradesh (West),5,2010,2100,6
+93,Infotel,Andhra Pradesh,20,2010,2300,6
+94,Infotel,Assam,20,2010,2300,6
+95,Infotel,Bihar,20,2010,2300,6
+96,Infotel,Delhi,20,2010,2300,6
+97,Infotel,Gujarat,20,2010,2300,6
+98,Infotel,Haryana,20,2010,2300,6
+99,Infotel,Himachal Pradesh,20,2010,2300,6
+100,Infotel,Jammu & Kashmir,20,2010,2300,6
+101,Infotel,Karnataka,20,2010,2300,6
+102,Infotel,Kerala,20,2010,2300,6
+103,Infotel,Kolkata,20,2010,2300,6
+104,Infotel,Madhya Pradesh,20,2010,2300,6
+105,Infotel,Maharashtra,20,2010,2300,6
+106,Infotel,Mumbai,20,2010,2300,6
+107,Infotel,North East,20,2010,2300,6
+108,Infotel,Orissa,20,2010,2300,6
+109,Infotel,Punjab,20,2010,2300,6
+110,Infotel,Rajasthan,20,2010,2300,6
+111,Infotel,Tamil Nadu,20,2010,2300,6
+112,Infotel,Uttar Pradesh (East),20,2010,2300,6
+113,Infotel,Uttar Pradesh (West),20,2010,2300,6
+114,Infotel,West Bengal,20,2010,2300,6
+115,Qualcomm,Delhi,20,2010,2300,6
+116,Qualcomm,Haryana,20,2010,2300,6
+117,Qualcomm,Kerala,20,2010,2300,6
+118,Qualcomm,Mumbai,20,2010,2300,6
+119,Reliance Telecom,Assam,5,2010,2100,6
+120,Reliance Telecom,Bihar,5,2010,2100,6
+121,Reliance Telecom,Delhi,5,2010,2100,6
+122,Reliance Telecom,Himachal Pradesh,5,2010,2100,6
+123,Reliance Telecom,Jammu & Kashmir,5,2010,2100,6
+124,Reliance Telecom,Kolkata,5,2010,2100,6
+125,Reliance Telecom,Madhya Pradesh,5,2010,2100,6
+126,Reliance Telecom,Mumbai,5,2010,2100,6
+127,Reliance Telecom,North East,5,2010,2100,6
+128,Reliance Telecom,Orissa,5,2010,2100,6
+129,Reliance Telecom,Punjab,5,2010,2100,6
+130,Reliance Telecom,Rajasthan,5,2010,2100,6
+131,Reliance Telecom,West Bengal,5,2010,2100,6
+132,STel,Bihar,5,2010,2100,6
+133,STel,Himachal Pradesh,5,2010,2100,6
+134,STel,Orissa,5,2010,2100,6
+135,TTSL,Gujarat,5,2010,2100,6
+136,TTSL,Haryana,5,2010,2100,6
+137,TTSL,Karnataka,5,2010,2100,6
+138,TTSL,Kerala,5,2010,2100,6
+139,TTSL,Madhya Pradesh,5,2010,2100,6
+140,TTSL,Maharashtra,5,2010,2100,6
+141,TTSL,Punjab,5,2010,2100,6
+142,TTSL,Rajasthan,5,2010,2100,6
+143,TTSL,Uttar Pradesh (West),5,2010,2100,6
+144,Tikona,Gujarat,20,2010,2300,6
+145,Tikona,Himachal Pradesh,20,2010,2300,6
+146,Tikona,Rajasthan,20,2010,2300,6
+147,Tikona,Uttar Pradesh (East),20,2010,2300,6
+148,Tikona,Uttar Pradesh (West),20,2010,2300,6
+149,Vodafone,Delhi,5,2010,2100,6
+150,Vodafone,Gujarat,5,2010,2100,6
+151,Vodafone,Haryana,5,2010,2100,6
+152,Vodafone,Kolkata,5,2010,2100,6
+153,Vodafone,Maharashtra,5,2010,2100,6
+154,Vodafone,Mumbai,5,2010,2100,6
+155,Vodafone,Tamil Nadu,5,2010,2100,6
+156,Vodafone,Uttar Pradesh (East),5,2010,2100,6
+157,Vodafone,West Bengal,5,2010,2100,6
+158,Aircel,Jammu & Kashmir,1.8,2014,1800,10
+159,Aircel,North East,1.8,2014,1800,10
+160,Aircel,Rajasthan,1.6,2014,1800,10
+161,Aircel ,Uttar Pradesh (East),1.8,2014,1800,10
+162,Aircel ,West Bengal,1.2,2014,1800,10
+163,Bharti,Andhra Pradesh,8.8,2014,1800,10
+164,Bharti,Delhi,6,2014,900,10
+165,Bharti,Delhi,7,2014,1800,10
+166,Bharti,Himachal Pradesh,10.2,2014,1800,10
+167,Bharti,Jammu & Kashmir,2.6,2014,1800,10
+168,Bharti,Karnataka,8.8,2014,1800,10
+169,Bharti,Kerala,5,2014,1800,10
+170,Bharti,Kolkata,7,2014,900,10
+171,Bharti,Kolkata,5,2014,1800,10
+172,Bharti,Madhya Pradesh,5.8,2014,1800,10
+173,Bharti,Mumbai,5,2014,900,10
+174,Bharti,Mumbai,6,2014,1800,10
+175,Bharti,North East,7,2014,1800,10
+176,Bharti,Orissa,5,2014,1800,10
+177,Bharti,Punjab,8.2,2014,1800,10
+178,Bharti,Rajasthan,8.2,2014,1800,10
+179,Bharti,Tamil Nadu,5,2014,1800,10
+180,Bharti,West Bengal,4.4,2014,1800,10
+181,Idea,Andhra Pradesh,5.8,2014,1800,10
+182,Idea,Delhi,5,2014,900,10
+183,Idea,Delhi,0.6,2014,1800,10
+184,Idea,Gujarat,1.6,2014,1800,10
+185,Idea,Haryana,6,2014,1800,10
+186,Idea,Karnataka,5,2014,1800,10
+187,Idea,Kerala,10,2014,1800,10
+188,Idea,Madhya Pradesh,7,2014,1800,10
+189,Idea,Maharashtra,9,2014,1800,10
+190,Idea,Mumbai,2,2014,1800,10
+191,Idea,North East,5,2014,1800,10
+192,Idea,Punjab,8,2014,1800,10
+193,RCOM,Mumbai,0.6,2014,1800,10
+194,Reliance Jio,Andhra Pradesh,5.8,2014,1800,10
+195,Reliance Jio,Assam,5.4,2014,1800,10
+196,Reliance Jio,Delhi,5.4,2014,1800,10
+197,Reliance Jio,Gujarat,6,2014,1800,10
+198,Reliance Jio,Karnataka,5,2014,1800,10
+199,Reliance Jio,Kerala,5,2014,1800,10
+200,Reliance Jio,Kolkata,5,2014,1800,10
+201,Reliance Jio,Madhya Pradesh,6.4,2014,1800,10
+202,Reliance Jio,Maharashtra,5,2014,1800,10
+203,Reliance Jio,Mumbai,6.6,2014,1800,10
+204,Reliance Jio,North East,6.4,2014,1800,10
+205,Reliance Jio,Orissa,5,2014,1800,10
+206,Reliance Jio,Tamil Nadu,6.2,2014,1800,10
+207,Reliance Jio,West Bengal,5.6,2014,1800,10
+208,Telewings,Andhra Pradesh,1.4,2014,1800,10
+209,Telewings,Assam,6,2014,1800,10
+210,Telewings,Bihar,2.2,2014,1800,10
+211,Telewings,Uttar Pradesh (East),1.8,2014,1800,10
+212,Telewings,Uttar Pradesh (West),2,2014,1800,10
+213,Vodafone,Andhra Pradesh,0.6,2014,1800,10
+214,Vodafone,Delhi,5,2014,900,10
+215,Vodafone,Delhi,8,2014,1800,10
+216,Vodafone,Gujarat,4.4,2014,1800,10
+217,Vodafone,Haryana,2.4,2014,1800,10
+218,Vodafone,Karnataka,5,2014,1800,10
+219,Vodafone,Kerala,7,2014,1800,10
+220,Vodafone,Kolkata,7,2014,900,10
+221,Vodafone,Kolkata,8,2014,1800,10
+222,Vodafone,Mumbai,11,2014,900,10
+223,Vodafone,Mumbai,8.2,2014,1800,10
+224,Vodafone,Punjab,0.6,2014,1800,10
+225,Vodafone,Rajasthan,0.8,2014,1800,10
+226,Vodafone,Uttar Pradesh (East),4,2014,1800,10
+227,Aircel,Tamil Nadu,10,2015,1800,11
+228,Bharti,Andhra Pradesh,9,2015,900,11
+229,Bharti,Andhra Pradesh,1.2,2015,1800,11
+230,Bharti,Assam,6.2,2015,900,11
+231,Bharti,Bihar,1.6,2015,900,11
+232,Bharti,Gujarat,5,2015,2100,11
+233,Bharti,Haryana,3.4,2015,1800,11
+234,Bharti,Haryana,5,2015,2100,11
+235,Bharti,Himachal Pradesh,7.4,2015,900,11
+236,Bharti,Karnataka,8.8,2015,900,11
+237,Bharti,Kolkata,2,2015,1800,11
+238,Bharti,Madhya Pradesh,5,2015,2100,11
+239,Bharti,Maharashtra,5,2015,2100,11
+240,Bharti,North East,8.8,2015,900,11
+241,Bharti,North East,1.6,2015,1800,11
+242,Bharti,Orissa,1.2,2015,900,11
+243,Bharti,Orissa,6.2,2015,1800,11
+244,Bharti,Orissa,5,2015,2100,11
+245,Bharti,Punjab,10,2015,900,11
+246,Bharti,Punjab,1,2015,1800,11
+247,Bharti,Rajasthan,6,2015,900,11
+248,Bharti,Tamil Nadu,5,2015,2100,11
+249,Bharti,Uttar Pradesh (East),5,2015,2100,11
+250,Bharti,West Bengal,2.2,2015,900,11
+251,Idea,Andhra Pradesh,5,2015,900,11
+252,Idea,Gujarat,5,2015,900,11
+253,Idea,Haryana,6,2015,900,11
+254,Idea,Himachal Pradesh,4.8,2015,1800,11
+255,Idea,Karnataka,5,2015,900,11
+256,Idea,Karnataka,1,2015,1800,11
+257,Idea,Kerala,6,2015,900,11
+258,Idea,Kolkata,5,2015,2100,11
+259,Idea,Madhya Pradesh,7.4,2015,900,11
+260,Idea,Maharashtra,9,2015,900,11
+261,Idea,North East,1,2015,1800,11
+262,Idea,Orissa,5,2015,1800,11
+263,Idea,Punjab,5.6,2015,900,11
+264,Idea,Tamil Nadu,6.4,2015,1800,11
+265,Idea,Uttar Pradesh (West),5,2015,900,11
+266,Idea,Uttar Pradesh (West),2.2,2015,1800,11
+267,RCOM,Assam,4.92,2015,800,11
+268,RCOM,Gujarat,2.46,2015,800,11
+269,RCOM,Haryana,1.23,2015,800,11
+270,RCOM,Haryana,0.6,2015,1800,11
+271,RCOM,Himachal Pradesh,2.46,2015,800,11
+272,RCOM,Himachal Pradesh,5,2015,900,11
+273,RCOM,Jammu & Kashmir,3.46,2015,800,11
+274,RCOM,Karnataka,0.6,2015,1800,11
+275,RCOM,Kolkata,1.23,2015,800,11
+276,RCOM,Madhya Pradesh,5,2015,900,11
+277,RCOM,North East,4.92,2015,800,11
+278,RCOM,North East,5,2015,1800,11
+279,RCOM,Orissa,1.23,2015,800,11
+280,RCOM,Orissa,5,2015,1800,11
+281,RCOM,Punjab,2.46,2015,800,11
+282,RCOM,Punjab,0.6,2015,1800,11
+283,RCOM,Uttar Pradesh (West),1.23,2015,800,11
+284,RCOM,West Bengal,1.23,2015,800,11
+285,Reliance Jio,Assam,4.92,2015,800,11
+286,Reliance Jio,Bihar,4.92,2015,800,11
+287,Reliance Jio,Haryana,4.92,2015,800,11
+288,Reliance Jio,Haryana,4,2015,1800,11
+289,Reliance Jio,Himachal Pradesh,4.92,2015,800,11
+290,Reliance Jio,Himachal Pradesh,5.4,2015,1800,11
+291,Reliance Jio,Jammu & Kashmir,4.92,2015,800,11
+292,Reliance Jio,Kolkata,5,2015,1800,11
+293,Reliance Jio,Madhya Pradesh,4.92,2015,800,11
+294,Reliance Jio,Mumbai,4.92,2015,800,11
+295,Reliance Jio,North East,4.92,2015,800,11
+296,Reliance Jio,Orissa,4.92,2015,800,11
+297,Reliance Jio,Rajasthan,10,2015,1800,11
+298,Reliance Jio,Tamil Nadu,0.6,2015,1800,11
+299,Reliance Jio,Uttar Pradesh (East),3.69,2015,800,11
+300,Reliance Jio,Uttar Pradesh (East),3,2015,1800,11
+301,TTSL,Andhra Pradesh,3.69,2015,800,11
+302,TTSL,Andhra Pradesh,2.6,2015,1800,11
+303,TTSL,Delhi,1.23,2015,800,11
+304,TTSL,Haryana,1.23,2015,800,11
+305,TTSL,Maharashtra,2.46,2015,800,11
+306,TTSL,Mumbai,2.46,2015,800,11
+307,Vodafone,Assam,5,2015,2100,11
+308,Vodafone,Gujarat,6,2015,900,11
+309,Vodafone,Gujarat,3.4,2015,1800,11
+310,Vodafone,Haryana,6.2,2015,900,11
+311,Vodafone,Karnataka,5,2015,2100,11
+312,Vodafone,Kerala,6.4,2015,900,11
+313,Vodafone,Kerala,1,2015,1800,11
+314,Vodafone,Kerala,5,2015,2100,11
+315,Vodafone,Maharashtra,5,2015,900,11
+316,Vodafone,North East,5,2015,2100,11
+317,Vodafone,Orissa,5,2015,900,11
+318,Vodafone,Rajasthan,6.4,2015,900,11
+319,Vodafone,Rajasthan,5,2015,2100,11
+320,Vodafone,Uttar Pradesh (East),5.6,2015,900,11
+321,Vodafone,Uttar Pradesh (East),1.2,2015,1800,11
+322,Vodafone,Uttar Pradesh (West),5,2015,2100,11
+323,Vodafone,West Bengal,2.2,2015,900,11
+324,Aircel,Bihar,1.8,2016,1800,12
+325,Bharti,Andhra Pradesh,20,2016,2300,12
+326,Bharti,Assam,3.8,2016,1800,12
+327,Bharti,Assam,20,2016,2300,12
+328,Bharti,Bihar,5,2016,2100,12
+329,Bharti,Bihar,20,2016,2300,12
+330,Bharti,Delhi,5,2016,2100,12
+331,Bharti,Delhi,20,2016,2300,12
+332,Bharti,Gujarat,20,2016,2300,12
+333,Bharti,Haryana,1.6,2016,1800,12
+334,Bharti,Himachal Pradesh,20,2016,2300,12
+335,Bharti,Jammu & Kashmir,2.4,2016,1800,12
+336,Bharti,Jammu & Kashmir,5,2016,2100,12
+337,Bharti,Karnataka,20,2016,2300,12
+338,Bharti,Kerala,5,2016,2100,12
+339,Bharti,Kolkata,2,2016,1800,12
+340,Bharti,Kolkata,20,2016,2300,12
+341,Bharti,Maharashtra,5,2016,1800,12
+342,Bharti,Mumbai,20,2016,2300,12
+343,Bharti,North East,1.4,2016,1800,12
+344,Bharti,North East,20,2016,2300,12
+345,Bharti,Orissa,20,2016,2300,12
+346,Bharti,Punjab,0.8,2016,1800,12
+347,Bharti,Rajasthan,1.8,2016,1800,12
+348,Bharti,Rajasthan,5,2016,2100,12
+349,Bharti,Tamil Nadu,20,2016,2300,12
+350,Bharti,West Bengal,20,2016,2300,12
+351,Idea,Assam,5,2016,1800,12
+352,Idea,Bihar,5,2016,1800,12
+353,Idea,Bihar,5,2016,2100,12
+354,Idea,Gujarat,8.4,2016,1800,12
+355,Idea,Haryana,4.8,2016,1800,12
+356,Idea,Himachal Pradesh,0.6,2016,1800,12
+357,Idea,Jammu & Kashmir,5,2016,1800,12
+358,Idea,Kerala,20,2016,2300,12
+359,Idea,Madhya Pradesh,4.6,2016,1800,12
+360,Idea,Madhya Pradesh,20,2016,2300,12
+361,Idea,Maharashtra,2,2016,1800,12
+362,Idea,Maharashtra,20,2016,2300,12
+363,Idea,Mumbai,5,2016,2100,12
+364,Idea,Punjab,2,2016,1800,12
+365,Idea,Rajasthan,5,2016,1800,12
+366,Idea,Rajasthan,5,2016,2100,12
+367,Idea,Uttar Pradesh (East),5,2016,2100,12
+368,Idea,Uttar Pradesh (West),7.2,2016,1800,12
+369,Idea,West Bengal,5,2016,1800,12
+370,RCL,Jammu & Kashmir,5,2016,1800,12
+371,Reliance Jio,Andhra Pradesh,20,2016,2300,12
+372,Reliance Jio,Assam,20,2016,2300,12
+373,Reliance Jio,Bihar,5,2016,1800,12
+374,Reliance Jio,Bihar,20,2016,2300,12
+375,Reliance Jio,Delhi,20,2016,2300,12
+376,Reliance Jio,Gujarat,4.92,2016,800,12
+377,Reliance Jio,Gujarat,20,2016,2300,12
+378,Reliance Jio,Haryana,1,2016,1800,12
+379,Reliance Jio,Himachal Pradesh,5,2016,1800,12
+380,Reliance Jio,Himachal Pradesh,20,2016,2300,12
+381,Reliance Jio,Jammu & Kashmir,10,2016,1800,12
+382,Reliance Jio,Karnataka,20,2016,2300,12
+383,Reliance Jio,Kerala,20,2016,2300,12
+384,Reliance Jio,Kolkata,20,2016,2300,12
+385,Reliance Jio,Madhya Pradesh,20,2016,2300,12
+386,Reliance Jio,Maharashtra,20,2016,2300,12
+387,Reliance Jio,Mumbai,20,2016,2300,12
+388,Reliance Jio,North East,20,2016,2300,12
+389,Reliance Jio,Orissa,20,2016,2300,12
+390,Reliance Jio,Punjab,3.69,2016,800,12
+391,Reliance Jio,Punjab,5.2,2016,1800,12
+392,Reliance Jio,Rajasthan,4.92,2016,800,12
+393,Reliance Jio,Tamil Nadu,20,2016,2300,12
+394,Reliance Jio,Uttar Pradesh (East),1.23,2016,800,12
+395,Reliance Jio,Uttar Pradesh (East),3.4,2016,1800,12
+396,Reliance Jio,Uttar Pradesh (West),5,2016,1800,12
+397,Reliance Jio,West Bengal,5,2016,1800,12
+398,Reliance Jio,West Bengal,20,2016,2300,12
+399,TTSL,Andhra Pradesh,2.4,2016,1800,12
+400,TTSL,Maharashtra,5,2016,1800,12
+401,TTSL,Mumbai,5,2016,1800,12
+402,Vodafone,Assam,8,2016,1800,12
+403,Vodafone,Delhi,2,2016,1800,12
+404,Vodafone,Gujarat,3,2016,1800,12
+405,Vodafone,Haryana,5,2016,2100,12
+406,Vodafone,Kerala,0.6,2016,1800,12
+407,Vodafone,Kolkata,2,2016,1800,12
+408,Vodafone,Maharashtra,5,2016,2100,12
+409,Vodafone,North East,7.8,2016,1800,12
+410,Vodafone,Orissa,5,2016,2100,12
+411,Vodafone,Punjab,3,2016,1800,12
+412,Vodafone,Punjab,5,2016,2100,12
+413,Vodafone,Rajasthan,4.2,2016,1800,12
+414,Vodafone,Rajasthan,5,2016,2100,12
+415,Vodafone,Tamil Nadu,10,2016,2100,12
+416,Vodafone,Uttar Pradesh (East),2,2016,1800,12
+417,Vodafone,Uttar Pradesh (East),5,2016,2100,12
+418,Vodafone,Uttar Pradesh (West),2.4,2016,1800,12
+419,Vodafone,West Bengal,7.6,2016,1800,12
+420,Bharti,Assam,5,2021,2100,17
+421,Bharti,Assam,10,2021,2300,17
+422,Bharti,Bihar,3.4,2021,900,17
+423,Bharti,Bihar,2.8,2021,1800,17
+424,Bharti,Bihar,10,2021,2300,17
+425,Bharti,Gujarat,4.2,2021,900,17
+426,Bharti,Gujarat,10,2021,2300,17
+427,Bharti,Haryana,3.69,2021,800,17
+428,Bharti,Haryana,20,2021,2300,17
+429,Bharti,Himachal Pradesh,10,2021,2300,17
+430,Bharti,Himachal Pradesh,2.6,2021,900,17
+431,Bharti,Himachal Pradesh,4.8,2021,1800,17
+432,Bharti,Jammu & Kashmir,20,2021,2300,17
+433,Bharti,Jammu & Kashmir,10,2021,1800,17
+434,Bharti,Karnataka,11.2,2021,1800,17
+435,Bharti,Kerala,4.6,2021,900,17
+436,Bharti,Kerala,5,2021,1800,17
+437,Bharti,Kerala,10,2021,2300,17
+438,Bharti,Kolkata,1,2021,1800,17
+439,Bharti,Madhya Pradesh,10,2021,2300,17
+440,Bharti,Madhya Pradesh,4.2,2021,1800,17
+441,Bharti,Madhya Pradesh,4.92,2021,800,17
+442,Bharti,Maharashtra,2.46,2021,800,17
+443,Bharti,Maharashtra,10,2021,2300,17
+444,Bharti,North East,1.2,2021,900,17
+445,Bharti,North East,5,2021,2100,17
+446,Bharti,North East,10,2021,2300,17
+447,Bharti,Orissa,3.8,2021,900,17
+448,Bharti,Orissa,2.6,2021,1800,17
+449,Bharti,Orissa,10,2021,2300,17
+450,Bharti,Punjab,5,2021,1800,17
+451,Bharti,Punjab,20,2021,2300,17
+452,Bharti,Rajasthan,20,2021,2300,17
+453,Bharti,Tamil Nadu,5,2021,900,17
+454,Bharti,Tamil Nadu,15,2021,1800,17
+455,Bharti,Uttar Pradesh (East),20,2021,2300,17
+456,Bharti,Uttar Pradesh (West),20,2021,2300,17
+457,Bharti,Uttar Pradesh (East),5,2021,900,17
+458,Bharti,Uttar Pradesh (East),3.2,2021,1800,17
+459,Bharti,Uttar Pradesh (West),4.92,2021,800,17
+460,Bharti,Uttar Pradesh (West),3,2021,1800,17
+461,Bharti,West Bengal,2.8,2021,900,17
+462,Bharti,West Bengal,3.8,2021,1800,17
+463,Bharti,West Bengal,5,2021,2100,17
+464,Bharti,West Bengal,10,2021,2300,17
+465,Reliance Jio,Andhra Pradesh,6.15,2021,800,17
+466,Reliance Jio,Andhra Pradesh,4.2,2021,1800,17
+467,Reliance Jio,Andhra Pradesh,10,2021,2300,17
+468,Reliance Jio,Assam,4.6,2021,1800,17
+469,Reliance Jio,Assam,10,2021,2300,17
+470,Reliance Jio,Bihar,4.92,2021,800,17
+471,Reliance Jio,Bihar,5,2021,1800,17
+472,Reliance Jio,Bihar,10,2021,2300,17
+473,Reliance Jio,Delhi,8.61,2021,800,17
+474,Reliance Jio,Delhi,4.6,2021,1800,17
+475,Reliance Jio,Delhi,10,2021,2300,17
+476,Reliance Jio,Gujarat,4.92,2021,800,17
+477,Reliance Jio,Gujarat,4,2021,1800,17
+478,Reliance Jio,Gujarat,10,2021,2300,17
+479,Reliance Jio,Haryana,4.92,2021,800,17
+480,Reliance Jio,Haryana,5,2021,1800,17
+481,Reliance Jio,Haryana,20,2021,2300,17
+482,Reliance Jio,Himachal Pradesh,10,2021,2300,17
+483,Reliance Jio,Himachal Pradesh,4.92,2021,800,17
+484,Reliance Jio,Jammu & Kashmir,20,2021,2300,17
+485,Reliance Jio,Karnataka,9.84,2021,800,17
+486,Reliance Jio,Karnataka,5,2021,1800,17
+487,Reliance Jio,Karnataka,10,2021,2300,17
+488,Reliance Jio,Kerala,9.84,2021,800,17
+489,Reliance Jio,Kerala,5,2021,1800,17
+490,Reliance Jio,Kerala,10,2021,2300,17
+491,Reliance Jio,Kolkata,9.84,2021,800,17
+492,Reliance Jio,Kolkata,10,2021,2300,17
+493,Reliance Jio,Madhya Pradesh,10,2021,2300,17
+494,Reliance Jio,Madhya Pradesh,3.6,2021,1800,17
+495,Reliance Jio,Madhya Pradesh,4.92,2021,800,17
+496,Reliance Jio,Maharashtra,9.84,2021,800,17
+497,Reliance Jio,Maharashtra,5,2021,1800,17
+498,Reliance Jio,Maharashtra,10,2021,2300,17
+499,Reliance Jio,Mumbai,7.38,2021,800,17
+500,Reliance Jio,Mumbai,3.4,2021,1800,17
+501,Reliance Jio,Mumbai,10,2021,2300,17
+502,Reliance Jio,North East,3.6,2021,1800,17
+503,Reliance Jio,North East,10,2021,2300,17
+504,Reliance Jio,Orissa,4.92,2021,800,17
+505,Reliance Jio,Orissa,5,2021,1800,17
+506,Reliance Jio,Orissa,10,2021,2300,17
+507,Reliance Jio,Punjab,6.15,2021,800,17
+508,Reliance Jio,Punjab,4.8,2021,1800,17
+509,Reliance Jio,Punjab,20,2021,2300,17
+510,Reliance Jio,Rajasthan,4.92,2021,800,17
+511,Reliance Jio,Rajasthan,20,2021,2300,17
+512,Reliance Jio,Tamil Nadu,9.84,2021,800,17
+513,Reliance Jio,Tamil Nadu,3.2,2021,1800,17
+514,Reliance Jio,Tamil Nadu,10,2021,2300,17
+515,Reliance Jio,Uttar Pradesh (East),20,2021,2300,17
+516,Reliance Jio,Uttar Pradesh (West),20,2021,2300,17
+517,Reliance Jio,Uttar Pradesh (East),4.92,2021,800,17
+518,Reliance Jio,Uttar Pradesh (East),3.6,2021,1800,17
+519,Reliance Jio,Uttar Pradesh (West),4.92,2021,800,17
+520,Reliance Jio,Uttar Pradesh (West),5,2021,1800,17
+521,Reliance Jio,West Bengal,9.84,2021,800,17
+522,Reliance Jio,West Bengal,10,2021,2300,17
+523,Vodafone,Karnataka,4,2021,1800,17
+524,Vodafone,Tamil Nadu,5,2021,900,17
+525,Vodafone,Uttar Pradesh (East),1.4,2021,1800,17
+526,Vodafone,Uttar Pradesh (West),0.6,2021,1800,17
+527,Vodafone,West Bengal,0.8,2021,900,17
+528,Adani,Andhra Pradesh,50,2022,26,18
+529,Adani,Gujarat,100,2022,26,18
+530,Adani,Karnataka,50,2022,26,18
+531,Adani,Mumbai,100,2022,26,18
+532,Adani,Rajasthan,50,2022,26,18
+533,Adani,Tamil Nadu,50,2022,26,18
+534,Bharti,Andhra Pradesh,800,2022,26,18
+535,Bharti,Andhra Pradesh,100,2022,3300,18
+536,Bharti,Assam,800,2022,26,18
+537,Bharti,Assam,3.8,2022,900,18
+538,Bharti,Assam,100,2022,3300,18
+539,Bharti,Bihar,800,2022,26,18
+540,Bharti,Bihar,5,2022,2100,18
+541,Bharti,Bihar,100,2022,3300,18
+542,Bharti,Delhi,800,2022,26,18
+543,Bharti,Delhi,5,2022,2100,18
+544,Bharti,Delhi,100,2022,3300,18
+545,Bharti,Gujarat,800,2022,26,18
+546,Bharti,Gujarat,5,2022,2100,18
+547,Bharti,Gujarat,100,2022,3300,18
+548,Bharti,Himachal Pradesh,800,2022,26,18
+549,Bharti,Himachal Pradesh,5,2022,1800,18
+550,Bharti,Himachal Pradesh,100,2022,3300,18
+551,Bharti,Haryana,800,2022,26,18
+552,Bharti,Haryana,5,2022,2100,18
+553,Bharti,Haryana,100,2022,3300,18
+554,Bharti,Jammu & Kashmir,800,2022,26,18
+555,Bharti,Jammu & Kashmir,5,2022,900,18
+556,Bharti,Jammu & Kashmir,100,2022,3300,18
+557,Bharti,Karnataka,800,2022,26,18
+558,Bharti,Karnataka,100,2022,3300,18
+559,Bharti,Kerala,800,2022,26,18
+560,Bharti,Kerala,5,2022,2100,18
+561,Bharti,Kerala,100,2022,3300,18
+562,Bharti,Kolkata,800,2022,26,18
+563,Bharti,Kolkata,5,2022,1800,18
+564,Bharti,Kolkata,100,2022,3300,18
+565,Bharti,Madhya Pradesh,800,2022,26,18
+566,Bharti,Madhya Pradesh,100,2022,3300,18
+567,Bharti,Maharashtra,800,2022,26,18
+568,Bharti,Maharashtra,5,2022,1800,18
+569,Bharti,Maharashtra,100,2022,3300,18
+570,Bharti,Mumbai,800,2022,26,18
+571,Bharti,Mumbai,4,2022,1800,18
+572,Bharti,Mumbai,100,2022,3300,18
+573,Bharti,North East,800,2022,26,18
+574,Bharti,North East,4,2022,900,18
+575,Bharti,North East,100,2022,3300,18
+576,Bharti,Orissa,800,2022,26,18
+577,Bharti,Orissa,5.2,2022,1800,18
+578,Bharti,Orissa,100,2022,3300,18
+579,Bharti,Punjab,800,2022,26,18
+580,Bharti,Punjab,100,2022,3300,18
+581,Bharti,Rajasthan,800,2022,26,18
+582,Bharti,Rajasthan,100,2022,3300,18
+583,Bharti,Tamil Nadu,800,2022,26,18
+584,Bharti,Tamil Nadu,100,2022,3300,18
+585,Bharti,Uttar Pradesh (East),800,2022,26,18
+586,Bharti,Uttar Pradesh (East),0.8,2022,1800,18
+587,Bharti,Uttar Pradesh (East),100,2022,3300,18
+588,Bharti,Uttar Pradesh (West),800,2022,26,18
+589,Bharti,Uttar Pradesh (West),100,2022,3300,18
+590,Bharti,West Bengal,800,2022,26,18
+591,Bharti,West Bengal,5,2022,2100,18
+592,Bharti,West Bengal,100,2022,3300,18
+593,Reliance Jio,Andhra Pradesh,1000,2022,26,18
+594,Reliance Jio,Andhra Pradesh,10,2022,700,18
+595,Reliance Jio,Andhra Pradesh,100,2022,3300,18
+596,Reliance Jio,Assam,1000,2022,26,18
+597,Reliance Jio,Assam,10,2022,700,18
+598,Reliance Jio,Assam,5,2022,800,18
+599,Reliance Jio,Assam,100,2022,3300,18
+600,Reliance Jio,Bihar,1000,2022,26,18
+601,Reliance Jio,Bihar,10,2022,700,18
+602,Reliance Jio,Bihar,100,2022,3300,18
+603,Reliance Jio,Delhi,1000,2022,26,18
+604,Reliance Jio,Delhi,10,2022,700,18
+605,Reliance Jio,Delhi,100,2022,3300,18
+606,Reliance Jio,Gujarat,1000,2022,26,18
+607,Reliance Jio,Gujarat,10,2022,700,18
+608,Reliance Jio,Gujarat,10,2022,1800,18
+609,Reliance Jio,Gujarat,100,2022,3300,18
+610,Reliance Jio,Himachal Pradesh,1000,2022,26,18
+611,Reliance Jio,Himachal Pradesh,10,2022,700,18
+612,Reliance Jio,Himachal Pradesh,130,2022,3300,18
+613,Reliance Jio,Haryana,1000,2022,26,18
+614,Reliance Jio,Haryana,10,2022,700,18
+615,Reliance Jio,Haryana,100,2022,3300,18
+616,Reliance Jio,Jammu & Kashmir,1000,2022,26,18
+617,Reliance Jio,Jammu & Kashmir,10,2022,700,18
+618,Reliance Jio,Jammu & Kashmir,5,2022,800,18
+619,Reliance Jio,Jammu & Kashmir,130,2022,3300,18
+620,Reliance Jio,Karnataka,1000,2022,26,18
+621,Reliance Jio,Karnataka,10,2022,700,18
+622,Reliance Jio,Karnataka,130,2022,3300,18
+623,Reliance Jio,Kerala,1000,2022,26,18
+624,Reliance Jio,Kerala,10,2022,700,18
+625,Reliance Jio,Kerala,130,2022,3300,18
+626,Reliance Jio,Kolkata,1000,2022,26,18
+627,Reliance Jio,Kolkata,10,2022,700,18
+628,Reliance Jio,Kolkata,100,2022,3300,18
+629,Reliance Jio,Madhya Pradesh,1000,2022,26,18
+630,Reliance Jio,Madhya Pradesh,10,2022,700,18
+631,Reliance Jio,Madhya Pradesh,10,2022,1800,18
+632,Reliance Jio,Madhya Pradesh,130,2022,3300,18
+633,Reliance Jio,Maharashtra,1000,2022,26,18
+634,Reliance Jio,Maharashtra,10,2022,700,18
+635,Reliance Jio,Maharashtra,10,2022,1800,18
+636,Reliance Jio,Maharashtra,100,2022,3300,18
+637,Reliance Jio,Mumbai,1000,2022,26,18
+638,Reliance Jio,Mumbai,10,2022,700,18
+639,Reliance Jio,Mumbai,100,2022,3300,18
+640,Reliance Jio,North East,1000,2022,26,18
+641,Reliance Jio,North East,10,2022,700,18
+642,Reliance Jio,North East,5,2022,800,18
+643,Reliance Jio,North East,130,2022,3300,18
+644,Reliance Jio,Orissa,1000,2022,26,18
+645,Reliance Jio,Orissa,10,2022,700,18
+646,Reliance Jio,Orissa,10,2022,1800,18
+647,Reliance Jio,Orissa,100,2022,3300,18
+648,Reliance Jio,Punjab,1000,2022,26,18
+649,Reliance Jio,Punjab,10,2022,700,18
+650,Reliance Jio,Punjab,100,2022,3300,18
+651,Reliance Jio,Rajasthan,1000,2022,26,18
+652,Reliance Jio,Rajasthan,10,2022,700,18
+653,Reliance Jio,Rajasthan,10,2022,1800,18
+654,Reliance Jio,Rajasthan,130,2022,3300,18
+655,Reliance Jio,Tamil Nadu,1000,2022,26,18
+656,Reliance Jio,Tamil Nadu,10,2022,700,18
+657,Reliance Jio,Tamil Nadu,100,2022,3300,18
+658,Reliance Jio,Uttar Pradesh (East),1000,2022,26,18
+659,Reliance Jio,Uttar Pradesh (East),10,2022,700,18
+660,Reliance Jio,Uttar Pradesh (East),10,2022,1800,18
+661,Reliance Jio,Uttar Pradesh (East),100,2022,3300,18
+662,Reliance Jio,Uttar Pradesh (West),1000,2022,26,18
+663,Reliance Jio,Uttar Pradesh (West),10,2022,700,18
+664,Reliance Jio,Uttar Pradesh (West),5,2022,800,18
+665,Reliance Jio,Uttar Pradesh (West),130,2022,3300,18
+666,Reliance Jio,West Bengal,1000,2022,26,18
+667,Reliance Jio,West Bengal,10,2022,700,18
+668,Reliance Jio,West Bengal,100,2022,3300,18
+669,Vodafone,Andhra Pradesh,200,2022,26,18
+670,Vodafone,Andhra Pradesh,3.4,2022,1800,18
+671,Vodafone,Andhra Pradesh,10,2022,2500,18
+672,Vodafone,Andhra Pradesh,50,2022,3300,18
+673,Vodafone,Bihar,50,2022,3300,18
+674,Vodafone,Delhi,200,2022,26,18
+675,Vodafone,Delhi,50,2022,3300,18
+676,Vodafone,Gujarat,450,2022,26,18
+677,Vodafone,Gujarat,50,2022,3300,18
+678,Vodafone,Haryana,400,2022,26,18
+679,Vodafone,Haryana,50,2022,3300,18
+680,Vodafone,Karnataka,200,2022,26,18
+681,Vodafone,Karnataka,5,2022,2100,18
+682,Vodafone,Karnataka,50,2022,3300,18
+683,Vodafone,Kerala,800,2022,26,18
+684,Vodafone,Kerala,50,2022,3300,18
+685,Vodafone,Kolkata,200,2022,26,18
+686,Vodafone,Kolkata,50,2022,3300,18
+687,Vodafone,Madhya Pradesh,400,2022,26,18
+688,Vodafone,Madhya Pradesh,50,2022,3300,18
+689,Vodafone,Maharashtra,400,2022,26,18
+690,Vodafone,Maharashtra,50,2022,3300,18
+691,Vodafone,Mumbai,200,2022,26,18
+692,Vodafone,Mumbai,50,2022,3300,18
+693,Vodafone,Punjab,300,2022,26,18
+694,Vodafone,Punjab,10,2022,2500,18
+695,Vodafone,Punjab,50,2022,3300,18
+696,Vodafone,Rajasthan,300,2022,26,18
+697,Vodafone,Rajasthan,50,2022,3300,18
+698,Vodafone,Tamil Nadu,300,2022,26,18
+699,Vodafone,Tamil Nadu,50,2022,3300,18
+700,Vodafone,Uttar Pradesh (East),250,2022,26,18
+701,Vodafone,Uttar Pradesh (East),50,2022,3300,18
+702,Vodafone,Uttar Pradesh (West),350,2022,26,18
+703,Vodafone,Uttar Pradesh (West),50,2022,3300,18
+704,Vodafone,West Bengal,400,2022,26,18
+705,Vodafone,West Bengal,50,2022,3300,18
+706,Bharti,Assam,5,2024,900,20
+707,Bharti,Assam,4,2024,1800,20
+708,Bharti,Assam,5,2024,2100,20
+709,Bharti,Bihar,7,2024,900,20
+710,Bharti,Bihar,5.2,2024,1800,20
+711,Bharti,Haryana,5,2024,1800,20
+712,Bharti,Jammu & Kashmir,10,2024,900,20
+713,Bharti,Jammu & Kashmir,5,2024,2100,20
+714,Bharti,Kolkata,5,2024,1800,20
+715,Bharti,North East,1,2024,900,20
+716,Bharti,North East,5,2024,2100,20
+717,Bharti,Orissa,5,2024,900,20
+718,Bharti,Orissa,1,2024,1800,20
+719,Bharti,Punjab,5,2024,1800,20
+720,Bharti,Rajasthan,4,2024,900,20
+721,Bharti,Rajasthan,5,2024,1800,20
+722,Bharti,Uttar Pradesh (East),5,2024,900,20
+723,Bharti,Uttar Pradesh (East),1,2024,1800,20
+724,Bharti,Uttar Pradesh (West),5,2024,2100,20
+725,Bharti,West Bengal,5,2024,900,20
+726,Bharti,West Bengal,3.8,2024,1800,20
+727,Reliance Jio,Bihar,5,2024,1800,20
+728,Reliance Jio,West Bengal,9.4,2024,1800,20
+729,Vodafone,Andhra Pradesh,2.4,2024,900,20
+730,Vodafone,Bihar,10,2024,2500,20
+731,Vodafone,Karnataka,2.2,2024,900,20
+732,Vodafone,Kolkata,0.2,2024,900,20
+733,Vodafone,Madhya Pradesh,1.2,2024,1800,20
+734,Vodafone,Punjab,1.2,2024,900,20
+735,Vodafone,Rajasthan,0.4,2024,900,20
+736,Vodafone,Tamil Nadu,2.4,2024,900,20
+737,Vodafone,Uttar Pradesh (East),1.2,2024,900,20
+738,Vodafone,Uttar Pradesh (West),5,2024,900,20
+739,Vodafone,West Bengal,3.8,2024,900,20
