@@ -122,14 +122,14 @@ if (submitted_holding):
     df.set_index('LSA',inplace=True) 
     df.style.format(precision=2)  #rounding to two places   
     st.header('Quantum of Spectrum in MHz ', divider='rainbow')
-    st.subheader('The last row in the table shows the indicative value for each spectrum bands in Rs.Crores as per the current Reserve Price.',divider='green')
+    #st.subheader('The last row in the table shows the indicative value for each spectrum bands in Rs.Crores as per the current Reserve Price.',divider='green')
     #st.subheader('bands in Rs.Crores as per the current Reserve Price.',divider='green')
     st.dataframe(df.style.format(precision=2))
     st.subheader('',divider='green')
-    col1, col2 = st.columns((14,2))
-    with col1:
-        st.subheader("Total Market Price of above spectrum in Rs.Cr: ")
-    with col2:
-        st.subheader(gross)
-    st.subheader('',divider='green')
+    # col1, col2 = st.columns((14,2))
+    # with col1:
+    #     st.subheader("Total Market Price of above spectrum in Rs.Cr: ")
+    # with col2:
+    #     st.subheader(gross)
+    # st.subheader('',divider='green')
        
