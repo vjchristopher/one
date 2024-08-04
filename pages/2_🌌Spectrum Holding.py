@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.io as pio
 
+st.set_page_config(layout="wide",page_title = "This is a Multipage WebApp") 
 st.title('🔊Spectrum Holding Graphically Depicted:')
 
 #read in the file
