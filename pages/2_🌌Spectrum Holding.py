@@ -148,7 +148,7 @@ if (submitted_holding):
     col_names3=[]
     for col in col_names2:
         col_names3.append(col[:4])
-    col_names3=f"[{', '.join(col_names3)}]"
+    #col_names3=f"{', '.join(col_names3)}"
    
     spectrum_hold=total_spectrum.values
     #st.write(spectrum_hold)
