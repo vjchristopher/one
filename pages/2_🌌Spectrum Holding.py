@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.io as pio
-
+np.set_printoptions(legacy='1.25')
 st.set_page_config(layout="wide",page_title = "This is a Multipage WebApp") 
 st.title('🔊Spectrum Holding Graphically Depicted:')
 
