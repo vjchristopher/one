@@ -118,19 +118,19 @@
 116,Qualcomm,Haryana,20,2010,2300,6
 117,Qualcomm,Kerala,20,2010,2300,6
 118,Qualcomm,Mumbai,20,2010,2300,6
-119,Reliance Telecom,Assam,5,2010,2100,6
-120,Reliance Telecom,Bihar,5,2010,2100,6
-121,Reliance Telecom,Delhi,5,2010,2100,6
-122,Reliance Telecom,Himachal Pradesh,5,2010,2100,6
-123,Reliance Telecom,Jammu & Kashmir,5,2010,2100,6
-124,Reliance Telecom,Kolkata,5,2010,2100,6
-125,Reliance Telecom,Madhya Pradesh,5,2010,2100,6
-126,Reliance Telecom,Mumbai,5,2010,2100,6
-127,Reliance Telecom,North East,5,2010,2100,6
-128,Reliance Telecom,Orissa,5,2010,2100,6
-129,Reliance Telecom,Punjab,5,2010,2100,6
-130,Reliance Telecom,Rajasthan,5,2010,2100,6
-131,Reliance Telecom,West Bengal,5,2010,2100,6
+119,RTL,Assam,5,2010,2100,6
+120,RTL,Bihar,5,2010,2100,6
+121,RTL,Delhi,5,2010,2100,6
+122,RTL,Himachal Pradesh,5,2010,2100,6
+123,RTL,Jammu & Kashmir,5,2010,2100,6
+124,RTL,Kolkata,5,2010,2100,6
+125,RTL,Madhya Pradesh,5,2010,2100,6
+126,RTL,Mumbai,5,2010,2100,6
+127,RTL,North East,5,2010,2100,6
+128,RTL,Orissa,5,2010,2100,6
+129,RTL,Punjab,5,2010,2100,6
+130,RTL,Rajasthan,5,2010,2100,6
+131,RTL,West Bengal,5,2010,2100,6
 132,STel,Bihar,5,2010,2100,6
 133,STel,Himachal Pradesh,5,2010,2100,6
 134,STel,Orissa,5,2010,2100,6
@@ -193,20 +193,20 @@
 191,Idea,North East,5,2014,1800,10
 192,Idea,Punjab,8,2014,1800,10
 193,RCL,Mumbai,0.6,2014,1800,10
-194,Reliance Jio,Andhra Pradesh,5.8,2014,1800,10
-195,Reliance Jio,Assam,5.4,2014,1800,10
-196,Reliance Jio,Delhi,5.4,2014,1800,10
-197,Reliance Jio,Gujarat,6,2014,1800,10
-198,Reliance Jio,Karnataka,5,2014,1800,10
-199,Reliance Jio,Kerala,5,2014,1800,10
-200,Reliance Jio,Kolkata,5,2014,1800,10
-201,Reliance Jio,Madhya Pradesh,6.4,2014,1800,10
-202,Reliance Jio,Maharashtra,5,2014,1800,10
-203,Reliance Jio,Mumbai,6.6,2014,1800,10
-204,Reliance Jio,North East,6.4,2014,1800,10
-205,Reliance Jio,Orissa,5,2014,1800,10
-206,Reliance Jio,Tamil Nadu,6.2,2014,1800,10
-207,Reliance Jio,West Bengal,5.6,2014,1800,10
+194,Jio,Andhra Pradesh,5.8,2014,1800,10
+195,Jio,Assam,5.4,2014,1800,10
+196,Jio,Delhi,5.4,2014,1800,10
+197,Jio,Gujarat,6,2014,1800,10
+198,Jio,Karnataka,5,2014,1800,10
+199,Jio,Kerala,5,2014,1800,10
+200,Jio,Kolkata,5,2014,1800,10
+201,Jio,Madhya Pradesh,6.4,2014,1800,10
+202,Jio,Maharashtra,5,2014,1800,10
+203,Jio,Mumbai,6.6,2014,1800,10
+204,Jio,North East,6.4,2014,1800,10
+205,Jio,Orissa,5,2014,1800,10
+206,Jio,Tamil Nadu,6.2,2014,1800,10
+207,Jio,West Bengal,5.6,2014,1800,10
 208,Telewings,Andhra Pradesh,1.4,2014,1800,10
 209,Telewings,Assam,6,2014,1800,10
 210,Telewings,Bihar,2.2,2014,1800,10
@@ -284,22 +284,22 @@
 282,RCL,Punjab,0.6,2015,1800,11
 283,RCL,Uttar Pradesh (West),1.23,2015,800,11
 284,RCL,West Bengal,1.23,2015,800,11
-285,Reliance Jio,Assam,4.92,2015,800,11
-286,Reliance Jio,Bihar,4.92,2015,800,11
-287,Reliance Jio,Haryana,4.92,2015,800,11
-288,Reliance Jio,Haryana,4,2015,1800,11
-289,Reliance Jio,Himachal Pradesh,4.92,2015,800,11
-290,Reliance Jio,Himachal Pradesh,5.4,2015,1800,11
-291,Reliance Jio,Jammu & Kashmir,4.92,2015,800,11
-292,Reliance Jio,Kolkata,5,2015,1800,11
-293,Reliance Jio,Madhya Pradesh,4.92,2015,800,11
-294,Reliance Jio,Mumbai,4.92,2015,800,11
-295,Reliance Jio,North East,4.92,2015,800,11
-296,Reliance Jio,Orissa,4.92,2015,800,11
-297,Reliance Jio,Rajasthan,10,2015,1800,11
-298,Reliance Jio,Tamil Nadu,0.6,2015,1800,11
-299,Reliance Jio,Uttar Pradesh (East),3.69,2015,800,11
-300,Reliance Jio,Uttar Pradesh (East),3,2015,1800,11
+285,Jio,Assam,4.92,2015,800,11
+286,Jio,Bihar,4.92,2015,800,11
+287,Jio,Haryana,4.92,2015,800,11
+288,Jio,Haryana,4,2015,1800,11
+289,Jio,Himachal Pradesh,4.92,2015,800,11
+290,Jio,Himachal Pradesh,5.4,2015,1800,11
+291,Jio,Jammu & Kashmir,4.92,2015,800,11
+292,Jio,Kolkata,5,2015,1800,11
+293,Jio,Madhya Pradesh,4.92,2015,800,11
+294,Jio,Mumbai,4.92,2015,800,11
+295,Jio,North East,4.92,2015,800,11
+296,Jio,Orissa,4.92,2015,800,11
+297,Jio,Rajasthan,10,2015,1800,11
+298,Jio,Tamil Nadu,0.6,2015,1800,11
+299,Jio,Uttar Pradesh (East),3.69,2015,800,11
+300,Jio,Uttar Pradesh (East),3,2015,1800,11
 301,TTSL,Andhra Pradesh,3.69,2015,800,11
 302,TTSL,Andhra Pradesh,2.6,2015,1800,11
 303,TTSL,Delhi,1.23,2015,800,11
@@ -370,34 +370,34 @@
 368,Idea,Uttar Pradesh (West),7.2,2016,1800,12
 369,Idea,West Bengal,5,2016,1800,12
 370,RCL,Jammu & Kashmir,5,2016,1800,12
-371,Reliance Jio,Andhra Pradesh,20,2016,2300,12
-372,Reliance Jio,Assam,20,2016,2300,12
-373,Reliance Jio,Bihar,5,2016,1800,12
-374,Reliance Jio,Bihar,20,2016,2300,12
-375,Reliance Jio,Delhi,20,2016,2300,12
-376,Reliance Jio,Gujarat,4.92,2016,800,12
-377,Reliance Jio,Gujarat,20,2016,2300,12
-378,Reliance Jio,Haryana,1,2016,1800,12
-379,Reliance Jio,Himachal Pradesh,5,2016,1800,12
-380,Reliance Jio,Himachal Pradesh,20,2016,2300,12
-381,Reliance Jio,Jammu & Kashmir,10,2016,1800,12
-382,Reliance Jio,Karnataka,20,2016,2300,12
-383,Reliance Jio,Kerala,20,2016,2300,12
-384,Reliance Jio,Kolkata,20,2016,2300,12
-385,Reliance Jio,Madhya Pradesh,20,2016,2300,12
-386,Reliance Jio,Maharashtra,20,2016,2300,12
-387,Reliance Jio,Mumbai,20,2016,2300,12
-388,Reliance Jio,North East,20,2016,2300,12
-389,Reliance Jio,Orissa,20,2016,2300,12
-390,Reliance Jio,Punjab,3.69,2016,800,12
-391,Reliance Jio,Punjab,5.2,2016,1800,12
-392,Reliance Jio,Rajasthan,4.92,2016,800,12
-393,Reliance Jio,Tamil Nadu,20,2016,2300,12
-394,Reliance Jio,Uttar Pradesh (East),1.23,2016,800,12
-395,Reliance Jio,Uttar Pradesh (East),3.4,2016,1800,12
-396,Reliance Jio,Uttar Pradesh (West),5,2016,1800,12
-397,Reliance Jio,West Bengal,5,2016,1800,12
-398,Reliance Jio,West Bengal,20,2016,2300,12
+371,Jio,Andhra Pradesh,20,2016,2300,12
+372,Jio,Assam,20,2016,2300,12
+373,Jio,Bihar,5,2016,1800,12
+374,Jio,Bihar,20,2016,2300,12
+375,Jio,Delhi,20,2016,2300,12
+376,Jio,Gujarat,4.92,2016,800,12
+377,Jio,Gujarat,20,2016,2300,12
+378,Jio,Haryana,1,2016,1800,12
+379,Jio,Himachal Pradesh,5,2016,1800,12
+380,Jio,Himachal Pradesh,20,2016,2300,12
+381,Jio,Jammu & Kashmir,10,2016,1800,12
+382,Jio,Karnataka,20,2016,2300,12
+383,Jio,Kerala,20,2016,2300,12
+384,Jio,Kolkata,20,2016,2300,12
+385,Jio,Madhya Pradesh,20,2016,2300,12
+386,Jio,Maharashtra,20,2016,2300,12
+387,Jio,Mumbai,20,2016,2300,12
+388,Jio,North East,20,2016,2300,12
+389,Jio,Orissa,20,2016,2300,12
+390,Jio,Punjab,3.69,2016,800,12
+391,Jio,Punjab,5.2,2016,1800,12
+392,Jio,Rajasthan,4.92,2016,800,12
+393,Jio,Tamil Nadu,20,2016,2300,12
+394,Jio,Uttar Pradesh (East),1.23,2016,800,12
+395,Jio,Uttar Pradesh (East),3.4,2016,1800,12
+396,Jio,Uttar Pradesh (West),5,2016,1800,12
+397,Jio,West Bengal,5,2016,1800,12
+398,Jio,West Bengal,20,2016,2300,12
 399,TTSL,Andhra Pradesh,2.4,2016,1800,12
 400,TTSL,Maharashtra,5,2016,1800,12
 401,TTSL,Mumbai,5,2016,1800,12
@@ -464,64 +464,64 @@
 462,Bharti,West Bengal,3.8,2021,1800,17
 463,Bharti,West Bengal,5,2021,2100,17
 464,Bharti,West Bengal,10,2021,2300,17
-465,Reliance Jio,Andhra Pradesh,6.15,2021,800,17
-466,Reliance Jio,Andhra Pradesh,4.2,2021,1800,17
-467,Reliance Jio,Andhra Pradesh,10,2021,2300,17
-468,Reliance Jio,Assam,4.6,2021,1800,17
-469,Reliance Jio,Assam,10,2021,2300,17
-470,Reliance Jio,Bihar,4.92,2021,800,17
-471,Reliance Jio,Bihar,5,2021,1800,17
-472,Reliance Jio,Bihar,10,2021,2300,17
-473,Reliance Jio,Delhi,8.61,2021,800,17
-474,Reliance Jio,Delhi,4.6,2021,1800,17
-475,Reliance Jio,Delhi,10,2021,2300,17
-476,Reliance Jio,Gujarat,4.92,2021,800,17
-477,Reliance Jio,Gujarat,4,2021,1800,17
-478,Reliance Jio,Gujarat,10,2021,2300,17
-479,Reliance Jio,Haryana,4.92,2021,800,17
-480,Reliance Jio,Haryana,5,2021,1800,17
-481,Reliance Jio,Haryana,20,2021,2300,17
-482,Reliance Jio,Himachal Pradesh,10,2021,2300,17
-483,Reliance Jio,Himachal Pradesh,4.92,2021,800,17
-484,Reliance Jio,Jammu & Kashmir,20,2021,2300,17
-485,Reliance Jio,Karnataka,9.84,2021,800,17
-486,Reliance Jio,Karnataka,5,2021,1800,17
-487,Reliance Jio,Karnataka,10,2021,2300,17
-488,Reliance Jio,Kerala,9.84,2021,800,17
-489,Reliance Jio,Kerala,5,2021,1800,17
-490,Reliance Jio,Kerala,10,2021,2300,17
-491,Reliance Jio,Kolkata,9.84,2021,800,17
-492,Reliance Jio,Kolkata,10,2021,2300,17
-493,Reliance Jio,Madhya Pradesh,10,2021,2300,17
-494,Reliance Jio,Madhya Pradesh,3.6,2021,1800,17
-495,Reliance Jio,Madhya Pradesh,4.92,2021,800,17
-496,Reliance Jio,Maharashtra,9.84,2021,800,17
-497,Reliance Jio,Maharashtra,5,2021,1800,17
-498,Reliance Jio,Maharashtra,10,2021,2300,17
-499,Reliance Jio,Mumbai,7.38,2021,800,17
-500,Reliance Jio,Mumbai,3.4,2021,1800,17
-501,Reliance Jio,Mumbai,10,2021,2300,17
-502,Reliance Jio,North East,3.6,2021,1800,17
-503,Reliance Jio,North East,10,2021,2300,17
-504,Reliance Jio,Orissa,4.92,2021,800,17
-505,Reliance Jio,Orissa,5,2021,1800,17
-506,Reliance Jio,Orissa,10,2021,2300,17
-507,Reliance Jio,Punjab,6.15,2021,800,17
-508,Reliance Jio,Punjab,4.8,2021,1800,17
-509,Reliance Jio,Punjab,20,2021,2300,17
-510,Reliance Jio,Rajasthan,4.92,2021,800,17
-511,Reliance Jio,Rajasthan,20,2021,2300,17
-512,Reliance Jio,Tamil Nadu,9.84,2021,800,17
-513,Reliance Jio,Tamil Nadu,3.2,2021,1800,17
-514,Reliance Jio,Tamil Nadu,10,2021,2300,17
-515,Reliance Jio,Uttar Pradesh (East),20,2021,2300,17
-516,Reliance Jio,Uttar Pradesh (West),20,2021,2300,17
-517,Reliance Jio,Uttar Pradesh (East),4.92,2021,800,17
-518,Reliance Jio,Uttar Pradesh (East),3.6,2021,1800,17
-519,Reliance Jio,Uttar Pradesh (West),4.92,2021,800,17
-520,Reliance Jio,Uttar Pradesh (West),5,2021,1800,17
-521,Reliance Jio,West Bengal,9.84,2021,800,17
-522,Reliance Jio,West Bengal,10,2021,2300,17
+465,Jio,Andhra Pradesh,6.15,2021,800,17
+466,Jio,Andhra Pradesh,4.2,2021,1800,17
+467,Jio,Andhra Pradesh,10,2021,2300,17
+468,Jio,Assam,4.6,2021,1800,17
+469,Jio,Assam,10,2021,2300,17
+470,Jio,Bihar,4.92,2021,800,17
+471,Jio,Bihar,5,2021,1800,17
+472,Jio,Bihar,10,2021,2300,17
+473,Jio,Delhi,8.61,2021,800,17
+474,Jio,Delhi,4.6,2021,1800,17
+475,Jio,Delhi,10,2021,2300,17
+476,Jio,Gujarat,4.92,2021,800,17
+477,Jio,Gujarat,4,2021,1800,17
+478,Jio,Gujarat,10,2021,2300,17
+479,Jio,Haryana,4.92,2021,800,17
+480,Jio,Haryana,5,2021,1800,17
+481,Jio,Haryana,20,2021,2300,17
+482,Jio,Himachal Pradesh,10,2021,2300,17
+483,Jio,Himachal Pradesh,4.92,2021,800,17
+484,Jio,Jammu & Kashmir,20,2021,2300,17
+485,Jio,Karnataka,9.84,2021,800,17
+486,Jio,Karnataka,5,2021,1800,17
+487,Jio,Karnataka,10,2021,2300,17
+488,Jio,Kerala,9.84,2021,800,17
+489,Jio,Kerala,5,2021,1800,17
+490,Jio,Kerala,10,2021,2300,17
+491,Jio,Kolkata,9.84,2021,800,17
+492,Jio,Kolkata,10,2021,2300,17
+493,Jio,Madhya Pradesh,10,2021,2300,17
+494,Jio,Madhya Pradesh,3.6,2021,1800,17
+495,Jio,Madhya Pradesh,4.92,2021,800,17
+496,Jio,Maharashtra,9.84,2021,800,17
+497,Jio,Maharashtra,5,2021,1800,17
+498,Jio,Maharashtra,10,2021,2300,17
+499,Jio,Mumbai,7.38,2021,800,17
+500,Jio,Mumbai,3.4,2021,1800,17
+501,Jio,Mumbai,10,2021,2300,17
+502,Jio,North East,3.6,2021,1800,17
+503,Jio,North East,10,2021,2300,17
+504,Jio,Orissa,4.92,2021,800,17
+505,Jio,Orissa,5,2021,1800,17
+506,Jio,Orissa,10,2021,2300,17
+507,Jio,Punjab,6.15,2021,800,17
+508,Jio,Punjab,4.8,2021,1800,17
+509,Jio,Punjab,20,2021,2300,17
+510,Jio,Rajasthan,4.92,2021,800,17
+511,Jio,Rajasthan,20,2021,2300,17
+512,Jio,Tamil Nadu,9.84,2021,800,17
+513,Jio,Tamil Nadu,3.2,2021,1800,17
+514,Jio,Tamil Nadu,10,2021,2300,17
+515,Jio,Uttar Pradesh (East),20,2021,2300,17
+516,Jio,Uttar Pradesh (West),20,2021,2300,17
+517,Jio,Uttar Pradesh (East),4.92,2021,800,17
+518,Jio,Uttar Pradesh (East),3.6,2021,1800,17
+519,Jio,Uttar Pradesh (West),4.92,2021,800,17
+520,Jio,Uttar Pradesh (West),5,2021,1800,17
+521,Jio,West Bengal,9.84,2021,800,17
+522,Jio,West Bengal,10,2021,2300,17
 523,Vodafone,Karnataka,4,2021,1800,17
 524,Vodafone,Tamil Nadu,5,2021,900,17
 525,Vodafone,Uttar Pradesh (East),1.4,2021,1800,17
@@ -592,82 +592,82 @@
 590,Bharti,West Bengal,800,2022,26,18
 591,Bharti,West Bengal,5,2022,2100,18
 592,Bharti,West Bengal,100,2022,3300,18
-593,Reliance Jio,Andhra Pradesh,1000,2022,26,18
-594,Reliance Jio,Andhra Pradesh,10,2022,700,18
-595,Reliance Jio,Andhra Pradesh,100,2022,3300,18
-596,Reliance Jio,Assam,1000,2022,26,18
-597,Reliance Jio,Assam,10,2022,700,18
-598,Reliance Jio,Assam,5,2022,800,18
-599,Reliance Jio,Assam,100,2022,3300,18
-600,Reliance Jio,Bihar,1000,2022,26,18
-601,Reliance Jio,Bihar,10,2022,700,18
-602,Reliance Jio,Bihar,100,2022,3300,18
-603,Reliance Jio,Delhi,1000,2022,26,18
-604,Reliance Jio,Delhi,10,2022,700,18
-605,Reliance Jio,Delhi,100,2022,3300,18
-606,Reliance Jio,Gujarat,1000,2022,26,18
-607,Reliance Jio,Gujarat,10,2022,700,18
-608,Reliance Jio,Gujarat,10,2022,1800,18
-609,Reliance Jio,Gujarat,100,2022,3300,18
-610,Reliance Jio,Himachal Pradesh,1000,2022,26,18
-611,Reliance Jio,Himachal Pradesh,10,2022,700,18
-612,Reliance Jio,Himachal Pradesh,130,2022,3300,18
-613,Reliance Jio,Haryana,1000,2022,26,18
-614,Reliance Jio,Haryana,10,2022,700,18
-615,Reliance Jio,Haryana,100,2022,3300,18
-616,Reliance Jio,Jammu & Kashmir,1000,2022,26,18
-617,Reliance Jio,Jammu & Kashmir,10,2022,700,18
-618,Reliance Jio,Jammu & Kashmir,5,2022,800,18
-619,Reliance Jio,Jammu & Kashmir,130,2022,3300,18
-620,Reliance Jio,Karnataka,1000,2022,26,18
-621,Reliance Jio,Karnataka,10,2022,700,18
-622,Reliance Jio,Karnataka,130,2022,3300,18
-623,Reliance Jio,Kerala,1000,2022,26,18
-624,Reliance Jio,Kerala,10,2022,700,18
-625,Reliance Jio,Kerala,130,2022,3300,18
-626,Reliance Jio,Kolkata,1000,2022,26,18
-627,Reliance Jio,Kolkata,10,2022,700,18
-628,Reliance Jio,Kolkata,100,2022,3300,18
-629,Reliance Jio,Madhya Pradesh,1000,2022,26,18
-630,Reliance Jio,Madhya Pradesh,10,2022,700,18
-631,Reliance Jio,Madhya Pradesh,10,2022,1800,18
-632,Reliance Jio,Madhya Pradesh,130,2022,3300,18
-633,Reliance Jio,Maharashtra,1000,2022,26,18
-634,Reliance Jio,Maharashtra,10,2022,700,18
-635,Reliance Jio,Maharashtra,10,2022,1800,18
-636,Reliance Jio,Maharashtra,100,2022,3300,18
-637,Reliance Jio,Mumbai,1000,2022,26,18
-638,Reliance Jio,Mumbai,10,2022,700,18
-639,Reliance Jio,Mumbai,100,2022,3300,18
-640,Reliance Jio,North East,1000,2022,26,18
-641,Reliance Jio,North East,10,2022,700,18
-642,Reliance Jio,North East,5,2022,800,18
-643,Reliance Jio,North East,130,2022,3300,18
-644,Reliance Jio,Orissa,1000,2022,26,18
-645,Reliance Jio,Orissa,10,2022,700,18
-646,Reliance Jio,Orissa,10,2022,1800,18
-647,Reliance Jio,Orissa,100,2022,3300,18
-648,Reliance Jio,Punjab,1000,2022,26,18
-649,Reliance Jio,Punjab,10,2022,700,18
-650,Reliance Jio,Punjab,100,2022,3300,18
-651,Reliance Jio,Rajasthan,1000,2022,26,18
-652,Reliance Jio,Rajasthan,10,2022,700,18
-653,Reliance Jio,Rajasthan,10,2022,1800,18
-654,Reliance Jio,Rajasthan,130,2022,3300,18
-655,Reliance Jio,Tamil Nadu,1000,2022,26,18
-656,Reliance Jio,Tamil Nadu,10,2022,700,18
-657,Reliance Jio,Tamil Nadu,100,2022,3300,18
-658,Reliance Jio,Uttar Pradesh (East),1000,2022,26,18
-659,Reliance Jio,Uttar Pradesh (East),10,2022,700,18
-660,Reliance Jio,Uttar Pradesh (East),10,2022,1800,18
-661,Reliance Jio,Uttar Pradesh (East),100,2022,3300,18
-662,Reliance Jio,Uttar Pradesh (West),1000,2022,26,18
-663,Reliance Jio,Uttar Pradesh (West),10,2022,700,18
-664,Reliance Jio,Uttar Pradesh (West),5,2022,800,18
-665,Reliance Jio,Uttar Pradesh (West),130,2022,3300,18
-666,Reliance Jio,West Bengal,1000,2022,26,18
-667,Reliance Jio,West Bengal,10,2022,700,18
-668,Reliance Jio,West Bengal,100,2022,3300,18
+593,Jio,Andhra Pradesh,1000,2022,26,18
+594,Jio,Andhra Pradesh,10,2022,700,18
+595,Jio,Andhra Pradesh,100,2022,3300,18
+596,Jio,Assam,1000,2022,26,18
+597,Jio,Assam,10,2022,700,18
+598,Jio,Assam,5,2022,800,18
+599,Jio,Assam,100,2022,3300,18
+600,Jio,Bihar,1000,2022,26,18
+601,Jio,Bihar,10,2022,700,18
+602,Jio,Bihar,100,2022,3300,18
+603,Jio,Delhi,1000,2022,26,18
+604,Jio,Delhi,10,2022,700,18
+605,Jio,Delhi,100,2022,3300,18
+606,Jio,Gujarat,1000,2022,26,18
+607,Jio,Gujarat,10,2022,700,18
+608,Jio,Gujarat,10,2022,1800,18
+609,Jio,Gujarat,100,2022,3300,18
+610,Jio,Himachal Pradesh,1000,2022,26,18
+611,Jio,Himachal Pradesh,10,2022,700,18
+612,Jio,Himachal Pradesh,130,2022,3300,18
+613,Jio,Haryana,1000,2022,26,18
+614,Jio,Haryana,10,2022,700,18
+615,Jio,Haryana,100,2022,3300,18
+616,Jio,Jammu & Kashmir,1000,2022,26,18
+617,Jio,Jammu & Kashmir,10,2022,700,18
+618,Jio,Jammu & Kashmir,5,2022,800,18
+619,Jio,Jammu & Kashmir,130,2022,3300,18
+620,Jio,Karnataka,1000,2022,26,18
+621,Jio,Karnataka,10,2022,700,18
+622,Jio,Karnataka,130,2022,3300,18
+623,Jio,Kerala,1000,2022,26,18
+624,Jio,Kerala,10,2022,700,18
+625,Jio,Kerala,130,2022,3300,18
+626,Jio,Kolkata,1000,2022,26,18
+627,Jio,Kolkata,10,2022,700,18
+628,Jio,Kolkata,100,2022,3300,18
+629,Jio,Madhya Pradesh,1000,2022,26,18
+630,Jio,Madhya Pradesh,10,2022,700,18
+631,Jio,Madhya Pradesh,10,2022,1800,18
+632,Jio,Madhya Pradesh,130,2022,3300,18
+633,Jio,Maharashtra,1000,2022,26,18
+634,Jio,Maharashtra,10,2022,700,18
+635,Jio,Maharashtra,10,2022,1800,18
+636,Jio,Maharashtra,100,2022,3300,18
+637,Jio,Mumbai,1000,2022,26,18
+638,Jio,Mumbai,10,2022,700,18
+639,Jio,Mumbai,100,2022,3300,18
+640,Jio,North East,1000,2022,26,18
+641,Jio,North East,10,2022,700,18
+642,Jio,North East,5,2022,800,18
+643,Jio,North East,130,2022,3300,18
+644,Jio,Orissa,1000,2022,26,18
+645,Jio,Orissa,10,2022,700,18
+646,Jio,Orissa,10,2022,1800,18
+647,Jio,Orissa,100,2022,3300,18
+648,Jio,Punjab,1000,2022,26,18
+649,Jio,Punjab,10,2022,700,18
+650,Jio,Punjab,100,2022,3300,18
+651,Jio,Rajasthan,1000,2022,26,18
+652,Jio,Rajasthan,10,2022,700,18
+653,Jio,Rajasthan,10,2022,1800,18
+654,Jio,Rajasthan,130,2022,3300,18
+655,Jio,Tamil Nadu,1000,2022,26,18
+656,Jio,Tamil Nadu,10,2022,700,18
+657,Jio,Tamil Nadu,100,2022,3300,18
+658,Jio,Uttar Pradesh (East),1000,2022,26,18
+659,Jio,Uttar Pradesh (East),10,2022,700,18
+660,Jio,Uttar Pradesh (East),10,2022,1800,18
+661,Jio,Uttar Pradesh (East),100,2022,3300,18
+662,Jio,Uttar Pradesh (West),1000,2022,26,18
+663,Jio,Uttar Pradesh (West),10,2022,700,18
+664,Jio,Uttar Pradesh (West),5,2022,800,18
+665,Jio,Uttar Pradesh (West),130,2022,3300,18
+666,Jio,West Bengal,1000,2022,26,18
+667,Jio,West Bengal,10,2022,700,18
+668,Jio,West Bengal,100,2022,3300,18
 669,Vodafone,Andhra Pradesh,200,2022,26,18
 670,Vodafone,Andhra Pradesh,3.4,2022,1800,18
 671,Vodafone,Andhra Pradesh,10,2022,2500,18
@@ -726,8 +726,8 @@
 724,Bharti,Uttar Pradesh (West),5,2024,2100,20
 725,Bharti,West Bengal,5,2024,900,20
 726,Bharti,West Bengal,3.8,2024,1800,20
-727,Reliance Jio,Bihar,5,2024,1800,20
-728,Reliance Jio,West Bengal,9.4,2024,1800,20
+727,Jio,Bihar,5,2024,1800,20
+728,Jio,West Bengal,9.4,2024,1800,20
 729,Vodafone,Andhra Pradesh,2.4,2024,900,20
 730,Vodafone,Bihar,10,2024,2500,20
 731,Vodafone,Karnataka,2.2,2024,900,20
