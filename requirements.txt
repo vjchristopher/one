@@ -4,4 +4,3 @@ pandas
 plotly
 matplotlib
 numpy
-np.set_printoptions(legacy='1.25')
