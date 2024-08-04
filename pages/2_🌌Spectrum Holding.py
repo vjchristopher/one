@@ -142,14 +142,15 @@ if (submitted_holding):
     st.subheader('',divider='green')
     #st.write(len(df.index))
     total_spectrum=pd.Series(df.iloc[len(df.index)-1,1:])
-    
+    #st.write(total_spectrum)
     col_names2=df.columns.to_list()
     col_names3=[]
     for col in col_names2:
         col_names3.append(col[:4])
    
    
-    spectrum_hold=total_spectrum.to_list()
+    spectrum_hold=total_spectrum.values
+    #st.write(spectrum_hold)
     col_names4=[]
     for thing in spectrum_hold:
         col_names4.append(round(thing,2))
