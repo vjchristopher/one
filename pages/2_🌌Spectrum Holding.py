@@ -155,12 +155,11 @@ if (submitted_holding):
     col_names4=[]
     for thing in spectrum_hold:
         col_names4.append(round(thing,2))
-
-
+    str_array=[f"{x:.2f}"  for x in col_names4]
    
     #st.write(total_spectrum.to_list())
     st.markdown(f"""
-                ##### 1. Quantum of Spectrum : {col_names4} MHz 
+                ##### 1. Quantum of Spectrum : {str_array} MHz 
                 ##### 2. In frequency bands : {col_names3[1:]} respectively
                 """)
     st.subheader('',divider='green')
