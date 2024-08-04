@@ -148,7 +148,7 @@ if (submitted_holding):
     col_names3=[]
     for col in col_names2:
         col_names3.append(col[:4])
-   
+    col_names3=f"[{', '.join(str_array)}]"
    
     spectrum_hold=total_spectrum.values
     #st.write(spectrum_hold)
@@ -156,7 +156,7 @@ if (submitted_holding):
     for thing in spectrum_hold:
         col_names4.append(round(thing,2))
     str_array=[f"{x:.2f}"  for x in col_names4]
-   
+    str_array=f"[{', '.join(str_array)}]"
     #st.write(total_spectrum.to_list())
     st.markdown(f"""
                 ##### 1. Quantum of Spectrum : {str_array} MHz 
