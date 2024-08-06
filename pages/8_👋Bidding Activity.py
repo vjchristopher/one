@@ -212,11 +212,11 @@ if plot_type == ":green[Line Graph]":
         #st.dataframe(winbid_play)
         if max_rounds:  #Checkbox selected display maximum
             winbid_play=winbid_play.iloc[0:]
-        elif winbid_play.shape[0]>15: #if the max is not selected
-            winbid_play=winbid_play.iloc[-50:]   
-        else: #only few LSA are less than 15
+        elif winbid_play.shape[0] < 40: #if the max is not selected and less than 20         
             winbid_play=winbid_play.iloc[0:]   
-        kind='Bid Value'      
+        else: #more than/== 40            
+            winbid_play=winbid_play.iloc[-40:]   
+        kind='Bid Value'             
         (winbid_play.pipe(plotly_plot,state,kind,blok[1]))
 
     st.divider()
@@ -232,11 +232,11 @@ if plot_type == ":green[Line Graph]":
         
         if max_rounds:  #Checkbox selected
             winrank_play=winrank_play.iloc[0:]
-        elif winrank_play.shape[0]>15: 
-            winrank_play=winrank_play.iloc[-50:]   
+        elif winrank_play.shape[0] < 40:      
+            winrank_play=winrank_play.iloc[0:]   
         else: #only few LSA are less than 15
-            winrank_play=winrank_play.iloc[0:] 
-        kind='Bid Rank'            
+            winrank_play=winrank_play.iloc[-40:] 
+        kind='Bid Rank'                  
         (winrank_play.pipe(plotly_plot,state,kind,blok[1]))
     
 
@@ -255,10 +255,10 @@ else:
         
         if max_rounds:  #Checkbox selected
             winbid_play=winbid_play.iloc[0:]
-        elif winbid_play.shape[0]>15: 
-            winbid_play=winbid_play.iloc[-50:]   
+        elif winbid_play.shape[0] < 40: 
+            winbid_play=winbid_play.iloc[0:]   
         else: #only few LSA are less than 15
-            winbid_play=winbid_play.iloc[0:] 
+            winbid_play=winbid_play.iloc[-40:] 
         kind='Bid Value'      
         (winbid_play.pipe(plotly_imshow,state,kind,blok))
 
@@ -275,9 +275,9 @@ else:
 
         if max_rounds:  #Checkbox selected
             winrank_play=winrank_play.iloc[0:]
-        elif winrank_play.shape[0]>15: 
-            winrank_play=winrank_play.iloc[-50:]   
+        elif winrank_play.shape[0] <40: 
+            winrank_play=winrank_play.iloc[0:]   
         else: #only few LSA are less than 15
-            winrank_play=winrank_play.iloc[0:]  
+            winrank_play=winrank_play.iloc[-40:]  
         kind='Bid Rank'     
         (winrank_play.pipe(plotly_imshow,state,kind,blok))
