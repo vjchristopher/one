@@ -32,8 +32,8 @@ st.header('💲Reserve Price and Winning Price in various auctions :')
 
 
 #initialise
-service_area_list=['All LSAs','AP','Assam','Bihar','Delhi','Gujarat','Haryana','HP','J & K','Karnataka','Kerala','Kolkata',
-                   'MP','Maharashtra','Mumbai','NE','Odisha','Punjab','Rajasthan','TN','UP(E)','UP(W)','WB'] 
+# service_area_list=['All LSAs','AP','Assam','Bihar','Delhi','Gujarat','Haryana','HP','J & K','Karnataka','Kerala','Kolkata',
+#                    'MP','Maharashtra','Mumbai','NE','Odisha','Punjab','Rajasthan','TN','UP(E)','UP(W)','WB'] 
 auction_year_list=['All Auctions',2010,2012,2013,2014,2015,2016,2021,2022,2024]
 freq_bands_list=['All Bands','600','700','800','900','1800','2100','2300','2500','3300 MHz','26 GHz']
 
@@ -42,15 +42,7 @@ freq_bands_list=['All Bands','600','700','800','900','1800','2100','2300','2500'
 # Sidebar + Main panel
 form1=st.form(key='Options')
 form1.header('Selection Panel')
-#image = Image.open('auction.jpg')
-#form1.image(image, width = 120) 
-#form1.form_submit_button(label='Submit')
-with form1:
-    service_area= form1.selectbox('Select the service area',service_area_list,key='key1')
-    auction_year = form1.selectbox('Select auction year',auction_year_list,key='key2')
-    freq_bands=form1.selectbox('Select frequency bands',freq_bands_list,key='key3')
-    submitted = st.form_submit_button(label='Submit')
-#-----------------------------------#
+
 #plotly template fixing#
 pio.templates.default = "plotly"
 pd.options.plotting.backend = "plotly"
@@ -59,14 +51,15 @@ pd.options.plotting.backend = "plotly"
 
 @st.cache_data
 
+def load_holding_data():
+    data_holding=pd.read_csv("spectrum_holding.csv")
+    #st.dataframe(data)
+    return data_holding
+
 def load_data():
     df=pd.read_csv(r'combined_file_RP_WP_cols_ordered.csv')
     #st.dataframe(df)
     return df
-  
-def read_lsa():
-    lsa= service_area
-    return lsa
 
 def read_auction_year():
     year=auction_year
@@ -108,9 +101,24 @@ def plot_df(data):
 
 df=load_data()
 df=process_df(df)
+#Just to get the LSA names
+holding = load_holding_data()
+#fill the NANS
+holding.LSA=holding.LSA.fillna(method='ffill')
+service_area_list=holding['LSA'].unique().tolist() 
+#Add 'ALL LSAs" to LSA List
+service_area_list[:0]=['All LSAs']
+
+with form1:
+    service_area= form1.selectbox('Select the service area',service_area_list,key='key1')
+    auction_year = form1.selectbox('Select auction year',auction_year_list,key='key2')
+    freq_bands=form1.selectbox('Select frequency bands',freq_bands_list,key='key3')
+    submitted = st.form_submit_button(label='Submit')
+
+
 
 if submitted: #The submit button has been pressed.  
-    lsa=read_lsa()
+    lsa=service_area
     year=read_auction_year()
     band=read_bands()
     
@@ -145,9 +153,7 @@ if submitted: #The submit button has been pressed.
     #st.write(new_columns_list)
     df3=df2.loc[:,new_columns_list]
     
-    # st.subheader('"0" indicates no spectrum available in that LSA',divider='blue') 
-    # st.subheader('"-1" indicates none was taken though spectrum was available',divider='blue')
-
+    
     st.dataframe(df3)
 
     st.markdown(f"""
@@ -160,16 +166,7 @@ if submitted: #The submit button has been pressed.
                 ###### (7) SThe Charts are plotted after the Block sizes are normalised for same freq bands from different auctions.
                 """)
     
-    # #write the footnotes of explanantion
-    # txt_out2='1.Spectrum Prices are all in Rs. Crores and it is per Block.'
-    # txt_out3='2.The Block Size differs from auction to auction.'
-    # txt_out4='3.The nomenclature-1: RP_2100_2010: Reserve Price for 2100 MHz in the 2010 Auction'
-    # txt_out5='4.The nomenclature-2: WP_26_2022: Winning Price for 26 GHz in the 2022 Auction'
-    # txt_out6='1.The Charts are plotted after the Block sizes are normalised for same freq bands from different auctions'
-    # write_text(txt_out2)
-    # write_text(txt_out3)
-    # write_text(txt_out4)
-    # write_text(txt_out5) 
+   
     st.subheader('',divider='orange')
     #plot the charts
     st.subheader(' Consolidated Plots for the selected params:')
