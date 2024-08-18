@@ -6,7 +6,7 @@ import plotly.io as pio
 np.set_printoptions(legacy='1.25')
 st.set_page_config(layout="wide",page_title = "This is a Multipage WebApp") 
 st.title('🔊Spectrum Holding Graphically Depicted:')
-st.subtitle('Updated Post Auction 24')
+st.subheader('Updated Post Auction 24')
 
 #read in the file
 #@st.cache_data
