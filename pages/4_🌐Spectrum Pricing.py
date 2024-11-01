@@ -163,8 +163,8 @@ if submitted: #The submit button has been pressed.
                 ###### (3) Spectrum Prices are all in Rs. Crores and it is per Block.
                 ###### (4) The Block Size differs from auction to auction.
                 ###### (5) The nomenclature-1: RP_2100_2010: Reserve Price for 2100 MHz in the 2010 Auction.
-                ###### (6) She nomenclature-2: WP_26_2022: Winning Price for 26 GHz in the 2022 Auction.
-                ###### (7) SThe Charts are plotted after the Block sizes are normalised for same freq bands from different auctions.
+                ###### (6) The nomenclature-2: WP_26_2022: Winning Price for 26 GHz in the 2022 Auction.
+                ###### (7) The Charts are plotted after the Block sizes are normalised for same freq bands from different auctions.
                 """)
     
    
