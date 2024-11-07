@@ -150,7 +150,7 @@ if submitted: #The submit button has been pressed.
     for fband in fbands:
         if fband in df2.columns:
             new_columns_list.append(fband)
-    st.write(new_columns_list)
+    #st.write(new_columns_list)
     df3=df2.loc[:,new_columns_list]
     #st.dataframe(df3)
     df3.loc['Total']= df3.sum()
