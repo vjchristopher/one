@@ -35,7 +35,7 @@ st.header('💲Reserve Price and Winning Price in various auctions :')
 # service_area_list=['All LSAs','AP','Assam','Bihar','Delhi','Gujarat','Haryana','HP','J & K','Karnataka','Kerala','Kolkata',
 #                    'MP','Maharashtra','Mumbai','NE','Odisha','Punjab','Rajasthan','TN','UP(E)','UP(W)','WB'] 
 auction_year_list=['All Auctions',2010,2012,2013,2014,2015,2016,2021,2022,2024]
-freq_bands_list=['All Bands','600','700','800','900','1800','2100','2300','2500','3300 MHz','26 GHz']
+freq_bands_list=['All Bands','600','700','800','900','1800','2100','2300','2500','3300','26']
 
 
 #---------------------------------#
@@ -150,9 +150,9 @@ if submitted: #The submit button has been pressed.
     for fband in fbands:
         if fband in df2.columns:
             new_columns_list.append(fband)
-    #st.write(new_columns_list)
+    st.write(new_columns_list)
     df3=df2.loc[:,new_columns_list]
-    
+    #st.dataframe(df3)
     df3.loc['Total']= df3.sum()
     df3.loc['Total',:]=df3.loc['Total',:].clip(lower=0)
     st.dataframe(df3)
