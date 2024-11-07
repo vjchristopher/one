@@ -153,8 +153,9 @@ if submitted: #The submit button has been pressed.
     #st.write(new_columns_list)
     df3=df2.loc[:,new_columns_list]
     #st.dataframe(df3)
-    df3.loc['Total']= df3.sum()
-    df3.loc['Total',:]=df3.loc['Total',:].clip(lower=0)
+    if not(df3.empty):
+        df3.loc['Total']= df3.sum()
+        df3.loc['Total',:]=df3.loc['Total',:].clip(lower=0)
     st.dataframe(df3)
 
     st.markdown(f"""
