@@ -1,0 +1,2773 @@
+Clock_Round,Service_Area,Band,Bidder,bid_decision,No. of Block(s) Selected,prov_win_bid,Provisionally Allocated Block(s) at end of Clock Round,prov_rank
+1,"AndhraPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,"AndhraPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"AndhraPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"AndhraPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"AndhraPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"AndhraPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"AndhraPradesh",900(MHz),Bharti Airtel Limited,No,0,57.6,0,0
+1,"AndhraPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,57.6,0,0
+1,"AndhraPradesh",900(MHz),"Vodafone IdeaLimited",Yes,11,57.6,11,1
+1,"AndhraPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"AndhraPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"AndhraPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"AndhraPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"AndhraPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"AndhraPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"AndhraPradesh",2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"AndhraPradesh",2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"AndhraPradesh",2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"AndhraPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"AndhraPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"AndhraPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Assam,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Assam,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Assam,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Assam,900(MHz),Bharti Airtel Limited,Yes,25,12.6,25,1
+1,Assam,900(MHz),"Reliance JioInfocomm Limited",No,0,12.6,0,0
+1,Assam,900(MHz),"Vodafone IdeaLimited",No,0,12.6,0,0
+1,Assam,1800(MHz),Bharti Airtel Limited,Yes,20,6.4,20,1
+1,Assam,1800(MHz),"Reliance JioInfocomm Limited",No,0,6.4,0,0
+1,Assam,1800(MHz),"Vodafone IdeaLimited",No,0,6.4,0,0
+1,Assam,2100(MHz),Bharti Airtel Limited,Yes,1,120,1,1
+1,Assam,2100(MHz),"Reliance JioInfocomm Limited",No,0,120,0,0
+1,Assam,2100(MHz),"Vodafone IdeaLimited",No,0,120,0,0
+1,Assam,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Assam,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Assam,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Bihar,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Bihar,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Bihar,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Bihar,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Bihar,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Bihar,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Bihar,900(MHz),Bharti Airtel Limited,Yes,25,29.4,25,1
+1,Bihar,900(MHz),"Reliance JioInfocomm Limited",No,0,29.4,0,0
+1,Bihar,900(MHz),"Vodafone IdeaLimited",No,0,29.4,0,0
+1,Bihar,1800(MHz),Bharti Airtel Limited,Yes,25,16.4,1,2
+1,Bihar,1800(MHz),"Reliance JioInfocomm Limited",Yes,50,16.4,50,1
+1,Bihar,1800(MHz),"Vodafone IdeaLimited",No,0,16.4,0,0
+1,Bihar,2500(MHz),Bharti Airtel Limited,No,0,150,0,0
+1,Bihar,2500(MHz),"Reliance JioInfocomm Limited",No,0,150,0,0
+1,Bihar,2500(MHz),"Vodafone IdeaLimited",Yes,1,150,1,1
+1,Bihar,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Bihar,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Bihar,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Delhi,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Delhi,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Delhi,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Delhi,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Delhi,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Delhi,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Delhi,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Delhi,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Delhi,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Delhi,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Delhi,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Delhi,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Delhi,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Delhi,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Delhi,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Delhi,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Delhi,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Delhi,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Delhi,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Delhi,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Delhi,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Gujarat,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Gujarat,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Gujarat,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Gujarat,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Gujarat,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Gujarat,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Gujarat,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Gujarat,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Gujarat,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Gujarat,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Gujarat,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Gujarat,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Gujarat,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Gujarat,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Gujarat,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Gujarat,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Gujarat,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Gujarat,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Haryana,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Haryana,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Haryana,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Haryana,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Haryana,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Haryana,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Haryana,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Haryana,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Haryana,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Haryana,1800(MHz),Bharti Airtel Limited,Yes,25,8.2,25,1
+1,Haryana,1800(MHz),"Reliance JioInfocomm Limited",No,0,8.2,0,0
+1,Haryana,1800(MHz),"Vodafone IdeaLimited",No,0,8.2,0,0
+1,Haryana,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Haryana,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Haryana,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"HimachalPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,"HimachalPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"HimachalPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"HimachalPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"HimachalPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"HimachalPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"HimachalPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"HimachalPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"HimachalPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"HimachalPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"HimachalPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"HimachalPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"HimachalPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"HimachalPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"HimachalPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"HimachalPradesh",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"HimachalPradesh",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"HimachalPradesh",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"HimachalPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"HimachalPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"HimachalPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"Jammu &Kashmir",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,"Jammu &Kashmir",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"Jammu &Kashmir",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"Jammu &Kashmir",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"Jammu &Kashmir",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"Jammu &Kashmir",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"Jammu &Kashmir",900(MHz),Bharti Airtel Limited,Yes,50,3.6,50,1
+1,"Jammu &Kashmir",900(MHz),"Reliance JioInfocomm Limited",No,0,3.6,0,0
+1,"Jammu &Kashmir",900(MHz),"Vodafone IdeaLimited",No,0,3.6,0,0
+1,"Jammu &Kashmir",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"Jammu &Kashmir",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"Jammu &Kashmir",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"Jammu &Kashmir",2100(MHz),Bharti Airtel Limited,Yes,1,40,1,1
+1,"Jammu &Kashmir",2100(MHz),"Reliance JioInfocomm Limited",No,0,40,0,0
+1,"Jammu &Kashmir",2100(MHz),"Vodafone IdeaLimited",No,0,40,0,0
+1,"Jammu &Kashmir",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"Jammu &Kashmir",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"Jammu &Kashmir",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"Jammu &Kashmir",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"Jammu &Kashmir",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"Jammu &Kashmir",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Karnataka,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Karnataka,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Karnataka,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Karnataka,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Karnataka,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Karnataka,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Karnataka,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Karnataka,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Karnataka,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Karnataka,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Karnataka,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Karnataka,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Karnataka,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Karnataka,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Karnataka,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Karnataka,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Karnataka,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Karnataka,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Karnataka,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Karnataka,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Karnataka,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Karnataka,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Karnataka,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Karnataka,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Kerala,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Kerala,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Kerala,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Kerala,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Kerala,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Kerala,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Kerala,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Kerala,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Kerala,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Kerala,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Kerala,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Kerala,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Kolkata,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Kolkata,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Kolkata,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Kolkata,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Kolkata,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Kolkata,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Kolkata,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Kolkata,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Kolkata,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Kolkata,1800(MHz),Bharti Airtel Limited,Yes,25,21.8,25,1
+1,Kolkata,1800(MHz),"Reliance JioInfocomm Limited",No,0,21.8,0,0
+1,Kolkata,1800(MHz),"Vodafone IdeaLimited",No,0,21.8,0,0
+1,Kolkata,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Kolkata,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Kolkata,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Kolkata,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Kolkata,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Kolkata,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Kolkata,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Kolkata,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Kolkata,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"MadhyaPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,"MadhyaPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"MadhyaPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"MadhyaPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"MadhyaPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"MadhyaPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"MadhyaPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"MadhyaPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"MadhyaPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"MadhyaPradesh",1800(MHz),Bharti Airtel Limited,No,0,19.8,0,0
+1,"MadhyaPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+1,"MadhyaPradesh",1800(MHz),"Vodafone IdeaLimited",Yes,6,19.8,6,1
+1,"MadhyaPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"MadhyaPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"MadhyaPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"MadhyaPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"MadhyaPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"MadhyaPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Maharashtra,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Maharashtra,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Maharashtra,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Maharashtra,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Maharashtra,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Maharashtra,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Maharashtra,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Maharashtra,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Maharashtra,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Maharashtra,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Maharashtra,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Maharashtra,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Maharashtra,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Maharashtra,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Maharashtra,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Maharashtra,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Maharashtra,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Maharashtra,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Mumbai,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Mumbai,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Mumbai,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Mumbai,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Mumbai,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Mumbai,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Mumbai,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Mumbai,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Mumbai,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Mumbai,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Mumbai,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Mumbai,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Mumbai,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Mumbai,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Mumbai,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Mumbai,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Mumbai,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Mumbai,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Mumbai,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Mumbai,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Mumbai,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,North East,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,North East,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,North East,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,North East,900(MHz),Bharti Airtel Limited,Yes,5,3.2,5,1
+1,North East,900(MHz),"Reliance JioInfocomm Limited",No,0,3.2,0,0
+1,North East,900(MHz),"Vodafone IdeaLimited",No,0,3.2,0,0
+1,North East,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,North East,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,North East,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,North East,2100(MHz),Bharti Airtel Limited,Yes,1,25,1,1
+1,North East,2100(MHz),"Reliance JioInfocomm Limited",No,0,25,0,0
+1,North East,2100(MHz),"Vodafone IdeaLimited",No,0,25,0,0
+1,North East,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,North East,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,North East,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Odisha,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Odisha,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Odisha,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Odisha,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Odisha,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Odisha,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Odisha,900(MHz),Bharti Airtel Limited,Yes,25,12.8,25,1
+1,Odisha,900(MHz),"Reliance JioInfocomm Limited",No,0,12.8,0,0
+1,Odisha,900(MHz),"Vodafone IdeaLimited",No,0,12.8,0,0
+1,Odisha,1800(MHz),Bharti Airtel Limited,Yes,5,7.8,5,1
+1,Odisha,1800(MHz),"Reliance JioInfocomm Limited",No,0,7.8,0,0
+1,Odisha,1800(MHz),"Vodafone IdeaLimited",No,0,7.8,0,0
+1,Odisha,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Odisha,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Odisha,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Odisha,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Odisha,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Odisha,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Punjab,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Punjab,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Punjab,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Punjab,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Punjab,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Punjab,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Punjab,900(MHz),Bharti Airtel Limited,No,0,20.8,0,0
+1,Punjab,900(MHz),"Reliance JioInfocomm Limited",No,0,20.8,0,0
+1,Punjab,900(MHz),"Vodafone IdeaLimited",Yes,6,20.8,6,1
+1,Punjab,1800(MHz),Bharti Airtel Limited,Yes,25,12.2,25,1
+1,Punjab,1800(MHz),"Reliance JioInfocomm Limited",No,0,12.2,0,0
+1,Punjab,1800(MHz),"Vodafone IdeaLimited",No,0,12.2,0,0
+1,Punjab,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Punjab,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Punjab,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Punjab,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Punjab,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Punjab,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Rajasthan,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Rajasthan,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Rajasthan,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Rajasthan,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Rajasthan,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Rajasthan,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Rajasthan,900(MHz),Bharti Airtel Limited,Yes,20,27,20,1
+1,Rajasthan,900(MHz),"Reliance JioInfocomm Limited",No,0,27,0,0
+1,Rajasthan,900(MHz),"Vodafone IdeaLimited",Yes,5,27,2,2
+1,Rajasthan,1800(MHz),Bharti Airtel Limited,Yes,25,16.8,25,1
+1,Rajasthan,1800(MHz),"Reliance JioInfocomm Limited",No,0,16.8,0,0
+1,Rajasthan,1800(MHz),"Vodafone IdeaLimited",No,0,16.8,0,0
+1,Rajasthan,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Rajasthan,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Rajasthan,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Tamil Nadu,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,Tamil Nadu,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Tamil Nadu,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Tamil Nadu,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Tamil Nadu,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Tamil Nadu,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Tamil Nadu,900(MHz),Bharti Airtel Limited,No,0,44.4,0,0
+1,Tamil Nadu,900(MHz),"Reliance JioInfocomm Limited",No,0,44.4,0,0
+1,Tamil Nadu,900(MHz),"Vodafone IdeaLimited",Yes,12,44.4,12,1
+1,Tamil Nadu,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Tamil Nadu,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Tamil Nadu,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Tamil Nadu,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Tamil Nadu,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Tamil Nadu,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Tamil Nadu,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Tamil Nadu,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Tamil Nadu,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,Tamil Nadu,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,Tamil Nadu,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Tamil Nadu,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"Uttar Pradesh(East)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,"Uttar Pradesh(East)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"Uttar Pradesh(East)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"Uttar Pradesh(East)",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"Uttar Pradesh(East)",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"Uttar Pradesh(East)",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"Uttar Pradesh(East)",900(MHz),Bharti Airtel Limited,Yes,31,37.2,31,1
+1,"Uttar Pradesh(East)",900(MHz),"Reliance JioInfocomm Limited",No,0,37.2,0,0
+1,"Uttar Pradesh(East)",900(MHz),"Vodafone IdeaLimited",Yes,6,37.2,0,0
+1,"Uttar Pradesh(East)",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"Uttar Pradesh(East)",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"Uttar Pradesh(East)",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"Uttar Pradesh(East)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"Uttar Pradesh(East)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"Uttar Pradesh(East)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"Uttar Pradesh(West)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,"Uttar Pradesh(West)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"Uttar Pradesh(West)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"Uttar Pradesh(West)",900(MHz),Bharti Airtel Limited,No,0,30.4,0,0
+1,"Uttar Pradesh(West)",900(MHz),"Reliance JioInfocomm Limited",No,0,30.4,0,0
+1,"Uttar Pradesh(West)",900(MHz),"Vodafone IdeaLimited",Yes,25,30.4,25,1
+1,"Uttar Pradesh(West)",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"Uttar Pradesh(West)",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"Uttar Pradesh(West)",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,"Uttar Pradesh(West)",2100(MHz),Bharti Airtel Limited,Yes,1,360,1,1
+1,"Uttar Pradesh(West)",2100(MHz),"Reliance JioInfocomm Limited",No,0,360,0,0
+1,"Uttar Pradesh(West)",2100(MHz),"Vodafone IdeaLimited",No,0,360,0,0
+1,"Uttar Pradesh(West)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,"Uttar Pradesh(West)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,"Uttar Pradesh(West)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,West Bengal,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+1,West Bengal,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,West Bengal,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,West Bengal,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,West Bengal,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,West Bengal,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+1,West Bengal,900(MHz),Bharti Airtel Limited,Yes,25,19.8,25,1
+1,West Bengal,900(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+1,West Bengal,900(MHz),"Vodafone IdeaLimited",Yes,19,19.8,19,2
+1,West Bengal,1800(MHz),Bharti Airtel Limited,Yes,34,11.6,19,2
+1,West Bengal,1800(MHz),"Reliance JioInfocomm Limited",Yes,47,11.6,47,1
+1,West Bengal,1800(MHz),"Vodafone IdeaLimited",No,0,11.6,0,0
+1,West Bengal,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+1,West Bengal,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+1,West Bengal,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"AndhraPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,"AndhraPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"AndhraPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"AndhraPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"AndhraPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"AndhraPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"AndhraPradesh",900(MHz),Bharti Airtel Limited,No,0,57.6,0,0
+2,"AndhraPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,57.6,0,0
+2,"AndhraPradesh",900(MHz),"Vodafone IdeaLimited",No,0,57.6,11,1
+2,"AndhraPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"AndhraPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"AndhraPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"AndhraPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"AndhraPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"AndhraPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"AndhraPradesh",2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"AndhraPradesh",2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"AndhraPradesh",2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"AndhraPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"AndhraPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"AndhraPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Assam,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Assam,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Assam,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Assam,900(MHz),Bharti Airtel Limited,No,0,12.6,25,1
+2,Assam,900(MHz),"Reliance JioInfocomm Limited",No,0,12.6,0,0
+2,Assam,900(MHz),"Vodafone IdeaLimited",No,0,12.6,0,0
+2,Assam,1800(MHz),Bharti Airtel Limited,No,0,6.4,20,1
+2,Assam,1800(MHz),"Reliance JioInfocomm Limited",No,0,6.4,0,0
+2,Assam,1800(MHz),"Vodafone IdeaLimited",No,0,6.4,0,0
+2,Assam,2100(MHz),Bharti Airtel Limited,No,0,120,1,1
+2,Assam,2100(MHz),"Reliance JioInfocomm Limited",No,0,120,0,0
+2,Assam,2100(MHz),"Vodafone IdeaLimited",No,0,120,0,0
+2,Assam,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Assam,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Assam,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Bihar,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Bihar,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Bihar,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Bihar,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Bihar,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Bihar,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Bihar,900(MHz),Bharti Airtel Limited,Yes,10,29.4,35,1
+2,Bihar,900(MHz),"Reliance JioInfocomm Limited",No,0,29.4,0,0
+2,Bihar,900(MHz),"Vodafone IdeaLimited",No,0,29.4,0,0
+2,Bihar,1800(MHz),Bharti Airtel Limited,Yes,25,16.4,25,1
+2,Bihar,1800(MHz),"Reliance JioInfocomm Limited",No,0,16.4,26,2
+2,Bihar,1800(MHz),"Vodafone IdeaLimited",No,0,16.4,0,0
+2,Bihar,2500(MHz),Bharti Airtel Limited,No,0,150,0,0
+2,Bihar,2500(MHz),"Reliance JioInfocomm Limited",No,0,150,0,0
+2,Bihar,2500(MHz),"Vodafone IdeaLimited",No,0,150,1,1
+2,Bihar,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Bihar,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Bihar,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Delhi,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Delhi,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Delhi,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Delhi,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Delhi,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Delhi,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Delhi,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Delhi,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Delhi,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Delhi,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Delhi,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Delhi,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Delhi,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Delhi,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Delhi,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Delhi,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Delhi,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Delhi,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Delhi,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Delhi,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Delhi,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Gujarat,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Gujarat,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Gujarat,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Gujarat,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Gujarat,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Gujarat,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Gujarat,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Gujarat,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Gujarat,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Gujarat,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Gujarat,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Gujarat,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Gujarat,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Gujarat,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Gujarat,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Gujarat,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Gujarat,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Gujarat,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Haryana,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Haryana,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Haryana,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Haryana,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Haryana,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Haryana,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Haryana,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Haryana,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Haryana,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Haryana,1800(MHz),Bharti Airtel Limited,No,0,8.2,25,1
+2,Haryana,1800(MHz),"Reliance JioInfocomm Limited",No,0,8.2,0,0
+2,Haryana,1800(MHz),"Vodafone IdeaLimited",No,0,8.2,0,0
+2,Haryana,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Haryana,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Haryana,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"HimachalPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,"HimachalPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"HimachalPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"HimachalPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"HimachalPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"HimachalPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"HimachalPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"HimachalPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"HimachalPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"HimachalPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"HimachalPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"HimachalPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"HimachalPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"HimachalPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"HimachalPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"HimachalPradesh",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"HimachalPradesh",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"HimachalPradesh",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"HimachalPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"HimachalPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"HimachalPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"Jammu &Kashmir",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,"Jammu &Kashmir",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"Jammu &Kashmir",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"Jammu &Kashmir",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"Jammu &Kashmir",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"Jammu &Kashmir",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"Jammu &Kashmir",900(MHz),Bharti Airtel Limited,No,0,3.6,50,1
+2,"Jammu &Kashmir",900(MHz),"Reliance JioInfocomm Limited",No,0,3.6,0,0
+2,"Jammu &Kashmir",900(MHz),"Vodafone IdeaLimited",No,0,3.6,0,0
+2,"Jammu &Kashmir",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"Jammu &Kashmir",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"Jammu &Kashmir",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"Jammu &Kashmir",2100(MHz),Bharti Airtel Limited,No,0,40,1,1
+2,"Jammu &Kashmir",2100(MHz),"Reliance JioInfocomm Limited",No,0,40,0,0
+2,"Jammu &Kashmir",2100(MHz),"Vodafone IdeaLimited",No,0,40,0,0
+2,"Jammu &Kashmir",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"Jammu &Kashmir",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"Jammu &Kashmir",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"Jammu &Kashmir",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"Jammu &Kashmir",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"Jammu &Kashmir",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Karnataka,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Karnataka,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Karnataka,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Karnataka,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Karnataka,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Karnataka,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Karnataka,900(MHz),Bharti Airtel Limited,No,0,40.8,0,0
+2,Karnataka,900(MHz),"Reliance JioInfocomm Limited",No,0,40.8,0,0
+2,Karnataka,900(MHz),"Vodafone IdeaLimited",Yes,3,40.8,3,1
+2,Karnataka,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Karnataka,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Karnataka,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Karnataka,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Karnataka,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Karnataka,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Karnataka,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Karnataka,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Karnataka,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Karnataka,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Karnataka,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Karnataka,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Karnataka,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Karnataka,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Karnataka,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Kerala,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Kerala,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Kerala,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Kerala,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Kerala,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Kerala,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Kerala,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Kerala,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Kerala,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Kerala,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Kerala,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Kerala,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Kolkata,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Kolkata,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Kolkata,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Kolkata,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Kolkata,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Kolkata,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Kolkata,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Kolkata,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Kolkata,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Kolkata,1800(MHz),Bharti Airtel Limited,No,0,21.8,25,1
+2,Kolkata,1800(MHz),"Reliance JioInfocomm Limited",No,0,21.8,0,0
+2,Kolkata,1800(MHz),"Vodafone IdeaLimited",No,0,21.8,0,0
+2,Kolkata,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Kolkata,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Kolkata,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Kolkata,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Kolkata,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Kolkata,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Kolkata,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Kolkata,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Kolkata,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"MadhyaPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,"MadhyaPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"MadhyaPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"MadhyaPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"MadhyaPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"MadhyaPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"MadhyaPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"MadhyaPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"MadhyaPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"MadhyaPradesh",1800(MHz),Bharti Airtel Limited,No,0,19.8,0,0
+2,"MadhyaPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+2,"MadhyaPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,19.8,6,1
+2,"MadhyaPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"MadhyaPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"MadhyaPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"MadhyaPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"MadhyaPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"MadhyaPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Maharashtra,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Maharashtra,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Maharashtra,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Maharashtra,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Maharashtra,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Maharashtra,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Maharashtra,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Maharashtra,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Maharashtra,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Maharashtra,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Maharashtra,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Maharashtra,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Maharashtra,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Maharashtra,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Maharashtra,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Maharashtra,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Maharashtra,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Maharashtra,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Mumbai,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Mumbai,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Mumbai,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Mumbai,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Mumbai,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Mumbai,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Mumbai,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Mumbai,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Mumbai,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Mumbai,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Mumbai,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Mumbai,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Mumbai,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Mumbai,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Mumbai,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Mumbai,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Mumbai,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Mumbai,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Mumbai,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Mumbai,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Mumbai,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,North East,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,North East,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,North East,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,North East,900(MHz),Bharti Airtel Limited,No,0,3.2,5,1
+2,North East,900(MHz),"Reliance JioInfocomm Limited",No,0,3.2,0,0
+2,North East,900(MHz),"Vodafone IdeaLimited",No,0,3.2,0,0
+2,North East,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,North East,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,North East,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,North East,2100(MHz),Bharti Airtel Limited,No,0,25,1,1
+2,North East,2100(MHz),"Reliance JioInfocomm Limited",No,0,25,0,0
+2,North East,2100(MHz),"Vodafone IdeaLimited",No,0,25,0,0
+2,North East,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,North East,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,North East,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Odisha,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Odisha,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Odisha,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Odisha,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Odisha,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Odisha,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Odisha,900(MHz),Bharti Airtel Limited,No,0,12.8,25,1
+2,Odisha,900(MHz),"Reliance JioInfocomm Limited",No,0,12.8,0,0
+2,Odisha,900(MHz),"Vodafone IdeaLimited",No,0,12.8,0,0
+2,Odisha,1800(MHz),Bharti Airtel Limited,No,0,7.8,5,1
+2,Odisha,1800(MHz),"Reliance JioInfocomm Limited",No,0,7.8,0,0
+2,Odisha,1800(MHz),"Vodafone IdeaLimited",No,0,7.8,0,0
+2,Odisha,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Odisha,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Odisha,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Odisha,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Odisha,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Odisha,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Punjab,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Punjab,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Punjab,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Punjab,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Punjab,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Punjab,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Punjab,900(MHz),Bharti Airtel Limited,No,0,20.8,0,0
+2,Punjab,900(MHz),"Reliance JioInfocomm Limited",No,0,20.8,0,0
+2,Punjab,900(MHz),"Vodafone IdeaLimited",No,0,20.8,6,1
+2,Punjab,1800(MHz),Bharti Airtel Limited,No,0,12.2,25,1
+2,Punjab,1800(MHz),"Reliance JioInfocomm Limited",No,0,12.2,0,0
+2,Punjab,1800(MHz),"Vodafone IdeaLimited",No,0,12.2,0,0
+2,Punjab,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Punjab,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Punjab,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Punjab,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Punjab,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Punjab,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Rajasthan,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Rajasthan,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Rajasthan,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Rajasthan,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Rajasthan,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Rajasthan,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Rajasthan,900(MHz),Bharti Airtel Limited,No,0,27,20,1
+2,Rajasthan,900(MHz),"Reliance JioInfocomm Limited",No,0,27,0,0
+2,Rajasthan,900(MHz),"Vodafone IdeaLimited",No,0,27,2,2
+2,Rajasthan,1800(MHz),Bharti Airtel Limited,No,0,16.8,25,1
+2,Rajasthan,1800(MHz),"Reliance JioInfocomm Limited",No,0,16.8,0,0
+2,Rajasthan,1800(MHz),"Vodafone IdeaLimited",No,0,16.8,0,0
+2,Rajasthan,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Rajasthan,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Rajasthan,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Tamil Nadu,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,Tamil Nadu,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Tamil Nadu,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Tamil Nadu,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Tamil Nadu,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Tamil Nadu,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Tamil Nadu,900(MHz),Bharti Airtel Limited,No,0,44.4,0,0
+2,Tamil Nadu,900(MHz),"Reliance JioInfocomm Limited",No,0,44.4,0,0
+2,Tamil Nadu,900(MHz),"Vodafone IdeaLimited",No,0,44.4,12,1
+2,Tamil Nadu,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Tamil Nadu,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Tamil Nadu,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Tamil Nadu,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Tamil Nadu,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Tamil Nadu,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Tamil Nadu,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Tamil Nadu,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Tamil Nadu,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,Tamil Nadu,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,Tamil Nadu,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Tamil Nadu,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"Uttar Pradesh(East)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,"Uttar Pradesh(East)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"Uttar Pradesh(East)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"Uttar Pradesh(East)",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"Uttar Pradesh(East)",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"Uttar Pradesh(East)",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"Uttar Pradesh(East)",900(MHz),Bharti Airtel Limited,No,0,37.2,25,2
+2,"Uttar Pradesh(East)",900(MHz),"Reliance JioInfocomm Limited",No,0,37.2,0,0
+2,"Uttar Pradesh(East)",900(MHz),"Vodafone IdeaLimited",Yes,6,37.2,6,1
+2,"Uttar Pradesh(East)",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"Uttar Pradesh(East)",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"Uttar Pradesh(East)",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"Uttar Pradesh(East)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"Uttar Pradesh(East)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"Uttar Pradesh(East)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"Uttar Pradesh(West)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,"Uttar Pradesh(West)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"Uttar Pradesh(West)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"Uttar Pradesh(West)",900(MHz),Bharti Airtel Limited,No,0,30.4,0,0
+2,"Uttar Pradesh(West)",900(MHz),"Reliance JioInfocomm Limited",No,0,30.4,0,0
+2,"Uttar Pradesh(West)",900(MHz),"Vodafone IdeaLimited",No,0,30.4,25,1
+2,"Uttar Pradesh(West)",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"Uttar Pradesh(West)",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"Uttar Pradesh(West)",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,"Uttar Pradesh(West)",2100(MHz),Bharti Airtel Limited,No,0,360,1,1
+2,"Uttar Pradesh(West)",2100(MHz),"Reliance JioInfocomm Limited",No,0,360,0,0
+2,"Uttar Pradesh(West)",2100(MHz),"Vodafone IdeaLimited",No,0,360,0,0
+2,"Uttar Pradesh(West)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,"Uttar Pradesh(West)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,"Uttar Pradesh(West)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,West Bengal,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+2,West Bengal,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,West Bengal,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,West Bengal,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,West Bengal,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,West Bengal,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+2,West Bengal,900(MHz),Bharti Airtel Limited,No,0,19.8,25,1
+2,West Bengal,900(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+2,West Bengal,900(MHz),"Vodafone IdeaLimited",No,0,19.8,19,2
+2,West Bengal,1800(MHz),Bharti Airtel Limited,Yes,34,11.6,34,1
+2,West Bengal,1800(MHz),"Reliance JioInfocomm Limited",No,0,11.6,32,2
+2,West Bengal,1800(MHz),"Vodafone IdeaLimited",No,0,11.6,0,0
+2,West Bengal,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+2,West Bengal,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+2,West Bengal,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"AndhraPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,"AndhraPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"AndhraPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"AndhraPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"AndhraPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"AndhraPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"AndhraPradesh",900(MHz),Bharti Airtel Limited,No,0,57.6,0,0
+3,"AndhraPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,57.6,0,0
+3,"AndhraPradesh",900(MHz),"Vodafone IdeaLimited",No,0,57.6,11,1
+3,"AndhraPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"AndhraPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"AndhraPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"AndhraPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"AndhraPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"AndhraPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"AndhraPradesh",2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"AndhraPradesh",2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"AndhraPradesh",2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"AndhraPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"AndhraPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"AndhraPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Assam,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Assam,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Assam,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Assam,900(MHz),Bharti Airtel Limited,No,0,12.6,25,1
+3,Assam,900(MHz),"Reliance JioInfocomm Limited",No,0,12.6,0,0
+3,Assam,900(MHz),"Vodafone IdeaLimited",No,0,12.6,0,0
+3,Assam,1800(MHz),Bharti Airtel Limited,No,0,6.4,20,1
+3,Assam,1800(MHz),"Reliance JioInfocomm Limited",No,0,6.4,0,0
+3,Assam,1800(MHz),"Vodafone IdeaLimited",No,0,6.4,0,0
+3,Assam,2100(MHz),Bharti Airtel Limited,No,0,120,1,1
+3,Assam,2100(MHz),"Reliance JioInfocomm Limited",No,0,120,0,0
+3,Assam,2100(MHz),"Vodafone IdeaLimited",No,0,120,0,0
+3,Assam,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Assam,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Assam,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Bihar,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Bihar,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Bihar,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Bihar,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Bihar,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Bihar,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Bihar,900(MHz),Bharti Airtel Limited,No,0,29.4,35,1
+3,Bihar,900(MHz),"Reliance JioInfocomm Limited",No,0,29.4,0,0
+3,Bihar,900(MHz),"Vodafone IdeaLimited",No,0,29.4,0,0
+3,Bihar,1800(MHz),Bharti Airtel Limited,No,0,16.81,25,1
+3,Bihar,1800(MHz),"Reliance JioInfocomm Limited",Yes,50,16.81,26,2
+3,Bihar,1800(MHz),"Vodafone IdeaLimited",No,0,16.81,0,0
+3,Bihar,2500(MHz),Bharti Airtel Limited,No,0,150,0,0
+3,Bihar,2500(MHz),"Reliance JioInfocomm Limited",No,0,150,0,0
+3,Bihar,2500(MHz),"Vodafone IdeaLimited",No,0,150,1,1
+3,Bihar,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Bihar,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Bihar,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Delhi,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Delhi,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Delhi,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Delhi,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Delhi,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Delhi,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Delhi,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Delhi,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Delhi,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Delhi,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Delhi,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Delhi,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Delhi,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Delhi,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Delhi,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Delhi,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Delhi,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Delhi,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Delhi,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Delhi,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Delhi,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Gujarat,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Gujarat,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Gujarat,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Gujarat,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Gujarat,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Gujarat,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Gujarat,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Gujarat,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Gujarat,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Gujarat,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Gujarat,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Gujarat,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Gujarat,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Gujarat,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Gujarat,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Gujarat,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Gujarat,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Gujarat,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Haryana,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Haryana,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Haryana,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Haryana,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Haryana,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Haryana,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Haryana,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Haryana,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Haryana,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Haryana,1800(MHz),Bharti Airtel Limited,No,0,8.2,25,1
+3,Haryana,1800(MHz),"Reliance JioInfocomm Limited",No,0,8.2,0,0
+3,Haryana,1800(MHz),"Vodafone IdeaLimited",No,0,8.2,0,0
+3,Haryana,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Haryana,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Haryana,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"HimachalPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,"HimachalPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"HimachalPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"HimachalPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"HimachalPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"HimachalPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"HimachalPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"HimachalPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"HimachalPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"HimachalPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"HimachalPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"HimachalPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"HimachalPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"HimachalPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"HimachalPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"HimachalPradesh",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"HimachalPradesh",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"HimachalPradesh",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"HimachalPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"HimachalPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"HimachalPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"Jammu &Kashmir",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,"Jammu &Kashmir",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"Jammu &Kashmir",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"Jammu &Kashmir",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"Jammu &Kashmir",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"Jammu &Kashmir",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"Jammu &Kashmir",900(MHz),Bharti Airtel Limited,No,0,3.6,50,1
+3,"Jammu &Kashmir",900(MHz),"Reliance JioInfocomm Limited",No,0,3.6,0,0
+3,"Jammu &Kashmir",900(MHz),"Vodafone IdeaLimited",No,0,3.6,0,0
+3,"Jammu &Kashmir",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"Jammu &Kashmir",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"Jammu &Kashmir",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"Jammu &Kashmir",2100(MHz),Bharti Airtel Limited,No,0,40,1,1
+3,"Jammu &Kashmir",2100(MHz),"Reliance JioInfocomm Limited",No,0,40,0,0
+3,"Jammu &Kashmir",2100(MHz),"Vodafone IdeaLimited",No,0,40,0,0
+3,"Jammu &Kashmir",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"Jammu &Kashmir",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"Jammu &Kashmir",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"Jammu &Kashmir",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"Jammu &Kashmir",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"Jammu &Kashmir",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Karnataka,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Karnataka,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Karnataka,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Karnataka,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Karnataka,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Karnataka,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Karnataka,900(MHz),Bharti Airtel Limited,No,0,40.8,0,0
+3,Karnataka,900(MHz),"Reliance JioInfocomm Limited",No,0,40.8,0,0
+3,Karnataka,900(MHz),"Vodafone IdeaLimited",No,0,40.8,3,1
+3,Karnataka,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Karnataka,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Karnataka,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Karnataka,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Karnataka,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Karnataka,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Karnataka,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Karnataka,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Karnataka,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Karnataka,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Karnataka,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Karnataka,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Karnataka,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Karnataka,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Karnataka,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Kerala,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Kerala,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Kerala,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Kerala,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Kerala,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Kerala,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Kerala,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Kerala,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Kerala,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Kerala,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Kerala,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Kerala,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Kolkata,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Kolkata,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Kolkata,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Kolkata,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Kolkata,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Kolkata,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Kolkata,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Kolkata,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Kolkata,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Kolkata,1800(MHz),Bharti Airtel Limited,No,0,21.8,25,1
+3,Kolkata,1800(MHz),"Reliance JioInfocomm Limited",No,0,21.8,0,0
+3,Kolkata,1800(MHz),"Vodafone IdeaLimited",No,0,21.8,0,0
+3,Kolkata,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Kolkata,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Kolkata,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Kolkata,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Kolkata,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Kolkata,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Kolkata,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Kolkata,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Kolkata,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"MadhyaPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,"MadhyaPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"MadhyaPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"MadhyaPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"MadhyaPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"MadhyaPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"MadhyaPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"MadhyaPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"MadhyaPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"MadhyaPradesh",1800(MHz),Bharti Airtel Limited,No,0,19.8,0,0
+3,"MadhyaPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+3,"MadhyaPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,19.8,6,1
+3,"MadhyaPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"MadhyaPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"MadhyaPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"MadhyaPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"MadhyaPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"MadhyaPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Maharashtra,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Maharashtra,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Maharashtra,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Maharashtra,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Maharashtra,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Maharashtra,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Maharashtra,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Maharashtra,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Maharashtra,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Maharashtra,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Maharashtra,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Maharashtra,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Maharashtra,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Maharashtra,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Maharashtra,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Maharashtra,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Maharashtra,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Maharashtra,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Mumbai,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Mumbai,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Mumbai,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Mumbai,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Mumbai,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Mumbai,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Mumbai,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Mumbai,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Mumbai,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Mumbai,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Mumbai,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Mumbai,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Mumbai,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Mumbai,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Mumbai,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Mumbai,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Mumbai,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Mumbai,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Mumbai,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Mumbai,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Mumbai,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,North East,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,North East,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,North East,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,North East,900(MHz),Bharti Airtel Limited,No,0,3.2,5,1
+3,North East,900(MHz),"Reliance JioInfocomm Limited",No,0,3.2,0,0
+3,North East,900(MHz),"Vodafone IdeaLimited",No,0,3.2,0,0
+3,North East,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,North East,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,North East,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,North East,2100(MHz),Bharti Airtel Limited,No,0,25,1,1
+3,North East,2100(MHz),"Reliance JioInfocomm Limited",No,0,25,0,0
+3,North East,2100(MHz),"Vodafone IdeaLimited",No,0,25,0,0
+3,North East,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,North East,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,North East,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Odisha,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Odisha,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Odisha,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Odisha,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Odisha,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Odisha,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Odisha,900(MHz),Bharti Airtel Limited,No,0,12.8,25,1
+3,Odisha,900(MHz),"Reliance JioInfocomm Limited",No,0,12.8,0,0
+3,Odisha,900(MHz),"Vodafone IdeaLimited",No,0,12.8,0,0
+3,Odisha,1800(MHz),Bharti Airtel Limited,No,0,7.8,5,1
+3,Odisha,1800(MHz),"Reliance JioInfocomm Limited",No,0,7.8,0,0
+3,Odisha,1800(MHz),"Vodafone IdeaLimited",No,0,7.8,0,0
+3,Odisha,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Odisha,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Odisha,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Odisha,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Odisha,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Odisha,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Punjab,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Punjab,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Punjab,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Punjab,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Punjab,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Punjab,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Punjab,900(MHz),Bharti Airtel Limited,No,0,20.8,0,0
+3,Punjab,900(MHz),"Reliance JioInfocomm Limited",No,0,20.8,0,0
+3,Punjab,900(MHz),"Vodafone IdeaLimited",No,0,20.8,6,1
+3,Punjab,1800(MHz),Bharti Airtel Limited,No,0,12.2,25,1
+3,Punjab,1800(MHz),"Reliance JioInfocomm Limited",No,0,12.2,0,0
+3,Punjab,1800(MHz),"Vodafone IdeaLimited",No,0,12.2,0,0
+3,Punjab,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Punjab,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Punjab,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Punjab,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Punjab,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Punjab,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Rajasthan,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Rajasthan,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Rajasthan,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Rajasthan,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Rajasthan,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Rajasthan,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Rajasthan,900(MHz),Bharti Airtel Limited,No,0,27,20,1
+3,Rajasthan,900(MHz),"Reliance JioInfocomm Limited",No,0,27,0,0
+3,Rajasthan,900(MHz),"Vodafone IdeaLimited",No,0,27,2,2
+3,Rajasthan,1800(MHz),Bharti Airtel Limited,No,0,16.8,25,1
+3,Rajasthan,1800(MHz),"Reliance JioInfocomm Limited",No,0,16.8,0,0
+3,Rajasthan,1800(MHz),"Vodafone IdeaLimited",No,0,16.8,0,0
+3,Rajasthan,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Rajasthan,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Rajasthan,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Tamil Nadu,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,Tamil Nadu,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Tamil Nadu,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Tamil Nadu,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Tamil Nadu,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Tamil Nadu,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Tamil Nadu,900(MHz),Bharti Airtel Limited,No,0,44.4,0,0
+3,Tamil Nadu,900(MHz),"Reliance JioInfocomm Limited",No,0,44.4,0,0
+3,Tamil Nadu,900(MHz),"Vodafone IdeaLimited",No,0,44.4,12,1
+3,Tamil Nadu,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Tamil Nadu,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Tamil Nadu,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Tamil Nadu,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Tamil Nadu,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Tamil Nadu,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Tamil Nadu,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Tamil Nadu,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Tamil Nadu,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,Tamil Nadu,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,Tamil Nadu,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Tamil Nadu,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"Uttar Pradesh(East)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,"Uttar Pradesh(East)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"Uttar Pradesh(East)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"Uttar Pradesh(East)",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"Uttar Pradesh(East)",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"Uttar Pradesh(East)",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"Uttar Pradesh(East)",900(MHz),Bharti Airtel Limited,No,0,37.2,25,2
+3,"Uttar Pradesh(East)",900(MHz),"Reliance JioInfocomm Limited",No,0,37.2,0,0
+3,"Uttar Pradesh(East)",900(MHz),"Vodafone IdeaLimited",No,0,37.2,6,1
+3,"Uttar Pradesh(East)",1800(MHz),Bharti Airtel Limited,Yes,5,36.8,5,1
+3,"Uttar Pradesh(East)",1800(MHz),"Reliance JioInfocomm Limited",No,0,36.8,0,0
+3,"Uttar Pradesh(East)",1800(MHz),"Vodafone IdeaLimited",No,0,36.8,0,0
+3,"Uttar Pradesh(East)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"Uttar Pradesh(East)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"Uttar Pradesh(East)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"Uttar Pradesh(West)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,"Uttar Pradesh(West)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"Uttar Pradesh(West)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"Uttar Pradesh(West)",900(MHz),Bharti Airtel Limited,No,0,30.4,0,0
+3,"Uttar Pradesh(West)",900(MHz),"Reliance JioInfocomm Limited",No,0,30.4,0,0
+3,"Uttar Pradesh(West)",900(MHz),"Vodafone IdeaLimited",No,0,30.4,25,1
+3,"Uttar Pradesh(West)",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"Uttar Pradesh(West)",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"Uttar Pradesh(West)",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,"Uttar Pradesh(West)",2100(MHz),Bharti Airtel Limited,No,0,360,1,1
+3,"Uttar Pradesh(West)",2100(MHz),"Reliance JioInfocomm Limited",No,0,360,0,0
+3,"Uttar Pradesh(West)",2100(MHz),"Vodafone IdeaLimited",No,0,360,0,0
+3,"Uttar Pradesh(West)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,"Uttar Pradesh(West)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,"Uttar Pradesh(West)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,West Bengal,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+3,West Bengal,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,West Bengal,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,West Bengal,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,West Bengal,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,West Bengal,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+3,West Bengal,900(MHz),Bharti Airtel Limited,No,0,19.8,25,1
+3,West Bengal,900(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+3,West Bengal,900(MHz),"Vodafone IdeaLimited",No,0,19.8,19,2
+3,West Bengal,1800(MHz),Bharti Airtel Limited,No,0,11.774,34,1
+3,West Bengal,1800(MHz),"Reliance JioInfocomm Limited",Yes,47,11.774,32,2
+3,West Bengal,1800(MHz),"Vodafone IdeaLimited",No,0,11.774,0,0
+3,West Bengal,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+3,West Bengal,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+3,West Bengal,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"AndhraPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,"AndhraPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"AndhraPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"AndhraPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"AndhraPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"AndhraPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"AndhraPradesh",900(MHz),Bharti Airtel Limited,No,0,57.6,0,0
+4,"AndhraPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,57.6,0,0
+4,"AndhraPradesh",900(MHz),"Vodafone IdeaLimited",Yes,1,57.6,12,1
+4,"AndhraPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"AndhraPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"AndhraPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"AndhraPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"AndhraPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"AndhraPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"AndhraPradesh",2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"AndhraPradesh",2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"AndhraPradesh",2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"AndhraPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"AndhraPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"AndhraPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Assam,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Assam,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Assam,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Assam,900(MHz),Bharti Airtel Limited,No,0,12.6,25,1
+4,Assam,900(MHz),"Reliance JioInfocomm Limited",No,0,12.6,0,0
+4,Assam,900(MHz),"Vodafone IdeaLimited",No,0,12.6,0,0
+4,Assam,1800(MHz),Bharti Airtel Limited,No,0,6.4,20,1
+4,Assam,1800(MHz),"Reliance JioInfocomm Limited",No,0,6.4,0,0
+4,Assam,1800(MHz),"Vodafone IdeaLimited",No,0,6.4,0,0
+4,Assam,2100(MHz),Bharti Airtel Limited,No,0,120,1,1
+4,Assam,2100(MHz),"Reliance JioInfocomm Limited",No,0,120,0,0
+4,Assam,2100(MHz),"Vodafone IdeaLimited",No,0,120,0,0
+4,Assam,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Assam,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Assam,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Bihar,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Bihar,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Bihar,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Bihar,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Bihar,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Bihar,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Bihar,900(MHz),Bharti Airtel Limited,No,0,29.4,35,1
+4,Bihar,900(MHz),"Reliance JioInfocomm Limited",No,0,29.4,0,0
+4,Bihar,900(MHz),"Vodafone IdeaLimited",No,0,29.4,0,0
+4,Bihar,1800(MHz),Bharti Airtel Limited,Yes,26,16.81,26,1
+4,Bihar,1800(MHz),"Reliance JioInfocomm Limited",No,0,16.81,25,2
+4,Bihar,1800(MHz),"Vodafone IdeaLimited",No,0,16.81,0,0
+4,Bihar,2500(MHz),Bharti Airtel Limited,No,0,150,0,0
+4,Bihar,2500(MHz),"Reliance JioInfocomm Limited",No,0,150,0,0
+4,Bihar,2500(MHz),"Vodafone IdeaLimited",No,0,150,1,1
+4,Bihar,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Bihar,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Bihar,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Delhi,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Delhi,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Delhi,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Delhi,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Delhi,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Delhi,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Delhi,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Delhi,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Delhi,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Delhi,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Delhi,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Delhi,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Delhi,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Delhi,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Delhi,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Delhi,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Delhi,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Delhi,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Delhi,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Delhi,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Delhi,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Gujarat,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Gujarat,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Gujarat,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Gujarat,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Gujarat,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Gujarat,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Gujarat,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Gujarat,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Gujarat,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Gujarat,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Gujarat,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Gujarat,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Gujarat,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Gujarat,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Gujarat,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Gujarat,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Gujarat,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Gujarat,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Haryana,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Haryana,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Haryana,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Haryana,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Haryana,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Haryana,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Haryana,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Haryana,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Haryana,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Haryana,1800(MHz),Bharti Airtel Limited,No,0,8.2,25,1
+4,Haryana,1800(MHz),"Reliance JioInfocomm Limited",No,0,8.2,0,0
+4,Haryana,1800(MHz),"Vodafone IdeaLimited",No,0,8.2,0,0
+4,Haryana,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Haryana,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Haryana,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"HimachalPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,"HimachalPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"HimachalPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"HimachalPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"HimachalPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"HimachalPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"HimachalPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"HimachalPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"HimachalPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"HimachalPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"HimachalPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"HimachalPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"HimachalPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"HimachalPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"HimachalPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"HimachalPradesh",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"HimachalPradesh",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"HimachalPradesh",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"HimachalPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"HimachalPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"HimachalPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"Jammu &Kashmir",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,"Jammu &Kashmir",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"Jammu &Kashmir",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"Jammu &Kashmir",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"Jammu &Kashmir",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"Jammu &Kashmir",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"Jammu &Kashmir",900(MHz),Bharti Airtel Limited,No,0,3.6,50,1
+4,"Jammu &Kashmir",900(MHz),"Reliance JioInfocomm Limited",No,0,3.6,0,0
+4,"Jammu &Kashmir",900(MHz),"Vodafone IdeaLimited",No,0,3.6,0,0
+4,"Jammu &Kashmir",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"Jammu &Kashmir",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"Jammu &Kashmir",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"Jammu &Kashmir",2100(MHz),Bharti Airtel Limited,No,0,40,1,1
+4,"Jammu &Kashmir",2100(MHz),"Reliance JioInfocomm Limited",No,0,40,0,0
+4,"Jammu &Kashmir",2100(MHz),"Vodafone IdeaLimited",No,0,40,0,0
+4,"Jammu &Kashmir",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"Jammu &Kashmir",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"Jammu &Kashmir",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"Jammu &Kashmir",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"Jammu &Kashmir",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"Jammu &Kashmir",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Karnataka,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Karnataka,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Karnataka,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Karnataka,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Karnataka,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Karnataka,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Karnataka,900(MHz),Bharti Airtel Limited,No,0,40.8,0,0
+4,Karnataka,900(MHz),"Reliance JioInfocomm Limited",No,0,40.8,0,0
+4,Karnataka,900(MHz),"Vodafone IdeaLimited",Yes,6,40.8,9,1
+4,Karnataka,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Karnataka,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Karnataka,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Karnataka,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Karnataka,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Karnataka,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Karnataka,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Karnataka,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Karnataka,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Karnataka,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Karnataka,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Karnataka,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Karnataka,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Karnataka,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Karnataka,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Kerala,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Kerala,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Kerala,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Kerala,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Kerala,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Kerala,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Kerala,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Kerala,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Kerala,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Kerala,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Kerala,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Kerala,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Kolkata,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Kolkata,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Kolkata,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Kolkata,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Kolkata,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Kolkata,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Kolkata,900(MHz),Bharti Airtel Limited,No,0,30.6,0,0
+4,Kolkata,900(MHz),"Reliance JioInfocomm Limited",No,0,30.6,0,0
+4,Kolkata,900(MHz),"Vodafone IdeaLimited",Yes,1,30.6,1,1
+4,Kolkata,1800(MHz),Bharti Airtel Limited,No,0,21.8,25,1
+4,Kolkata,1800(MHz),"Reliance JioInfocomm Limited",No,0,21.8,0,0
+4,Kolkata,1800(MHz),"Vodafone IdeaLimited",No,0,21.8,0,0
+4,Kolkata,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Kolkata,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Kolkata,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Kolkata,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Kolkata,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Kolkata,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Kolkata,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Kolkata,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Kolkata,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"MadhyaPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,"MadhyaPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"MadhyaPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"MadhyaPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"MadhyaPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"MadhyaPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"MadhyaPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"MadhyaPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"MadhyaPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"MadhyaPradesh",1800(MHz),Bharti Airtel Limited,No,0,19.8,0,0
+4,"MadhyaPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+4,"MadhyaPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,19.8,6,1
+4,"MadhyaPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"MadhyaPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"MadhyaPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"MadhyaPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"MadhyaPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"MadhyaPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Maharashtra,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Maharashtra,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Maharashtra,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Maharashtra,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Maharashtra,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Maharashtra,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Maharashtra,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Maharashtra,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Maharashtra,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Maharashtra,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Maharashtra,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Maharashtra,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Maharashtra,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Maharashtra,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Maharashtra,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Maharashtra,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Maharashtra,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Maharashtra,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Mumbai,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Mumbai,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Mumbai,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Mumbai,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Mumbai,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Mumbai,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Mumbai,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Mumbai,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Mumbai,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Mumbai,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Mumbai,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Mumbai,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Mumbai,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Mumbai,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Mumbai,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Mumbai,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Mumbai,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Mumbai,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Mumbai,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Mumbai,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Mumbai,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,North East,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,North East,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,North East,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,North East,900(MHz),Bharti Airtel Limited,No,0,3.2,5,1
+4,North East,900(MHz),"Reliance JioInfocomm Limited",No,0,3.2,0,0
+4,North East,900(MHz),"Vodafone IdeaLimited",No,0,3.2,0,0
+4,North East,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,North East,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,North East,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,North East,2100(MHz),Bharti Airtel Limited,No,0,25,1,1
+4,North East,2100(MHz),"Reliance JioInfocomm Limited",No,0,25,0,0
+4,North East,2100(MHz),"Vodafone IdeaLimited",No,0,25,0,0
+4,North East,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,North East,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,North East,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Odisha,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Odisha,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Odisha,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Odisha,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Odisha,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Odisha,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Odisha,900(MHz),Bharti Airtel Limited,No,0,12.8,25,1
+4,Odisha,900(MHz),"Reliance JioInfocomm Limited",No,0,12.8,0,0
+4,Odisha,900(MHz),"Vodafone IdeaLimited",No,0,12.8,0,0
+4,Odisha,1800(MHz),Bharti Airtel Limited,No,0,7.8,5,1
+4,Odisha,1800(MHz),"Reliance JioInfocomm Limited",No,0,7.8,0,0
+4,Odisha,1800(MHz),"Vodafone IdeaLimited",No,0,7.8,0,0
+4,Odisha,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Odisha,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Odisha,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Odisha,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Odisha,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Odisha,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Punjab,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Punjab,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Punjab,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Punjab,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Punjab,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Punjab,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Punjab,900(MHz),Bharti Airtel Limited,No,0,20.8,0,0
+4,Punjab,900(MHz),"Reliance JioInfocomm Limited",No,0,20.8,0,0
+4,Punjab,900(MHz),"Vodafone IdeaLimited",No,0,20.8,6,1
+4,Punjab,1800(MHz),Bharti Airtel Limited,No,0,12.2,25,1
+4,Punjab,1800(MHz),"Reliance JioInfocomm Limited",No,0,12.2,0,0
+4,Punjab,1800(MHz),"Vodafone IdeaLimited",No,0,12.2,0,0
+4,Punjab,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Punjab,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Punjab,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Punjab,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Punjab,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Punjab,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Rajasthan,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Rajasthan,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Rajasthan,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Rajasthan,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Rajasthan,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Rajasthan,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Rajasthan,900(MHz),Bharti Airtel Limited,No,0,27,20,1
+4,Rajasthan,900(MHz),"Reliance JioInfocomm Limited",No,0,27,0,0
+4,Rajasthan,900(MHz),"Vodafone IdeaLimited",No,0,27,2,2
+4,Rajasthan,1800(MHz),Bharti Airtel Limited,No,0,16.8,25,1
+4,Rajasthan,1800(MHz),"Reliance JioInfocomm Limited",No,0,16.8,0,0
+4,Rajasthan,1800(MHz),"Vodafone IdeaLimited",No,0,16.8,0,0
+4,Rajasthan,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Rajasthan,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Rajasthan,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Tamil Nadu,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,Tamil Nadu,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Tamil Nadu,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Tamil Nadu,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Tamil Nadu,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Tamil Nadu,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Tamil Nadu,900(MHz),Bharti Airtel Limited,No,0,44.4,0,0
+4,Tamil Nadu,900(MHz),"Reliance JioInfocomm Limited",No,0,44.4,0,0
+4,Tamil Nadu,900(MHz),"Vodafone IdeaLimited",No,0,44.4,12,1
+4,Tamil Nadu,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Tamil Nadu,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Tamil Nadu,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Tamil Nadu,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Tamil Nadu,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Tamil Nadu,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Tamil Nadu,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Tamil Nadu,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Tamil Nadu,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,Tamil Nadu,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,Tamil Nadu,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Tamil Nadu,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"Uttar Pradesh(East)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,"Uttar Pradesh(East)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"Uttar Pradesh(East)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"Uttar Pradesh(East)",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"Uttar Pradesh(East)",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"Uttar Pradesh(East)",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"Uttar Pradesh(East)",900(MHz),Bharti Airtel Limited,No,0,37.2,25,2
+4,"Uttar Pradesh(East)",900(MHz),"Reliance JioInfocomm Limited",No,0,37.2,0,0
+4,"Uttar Pradesh(East)",900(MHz),"Vodafone IdeaLimited",No,0,37.2,6,1
+4,"Uttar Pradesh(East)",1800(MHz),Bharti Airtel Limited,No,0,36.8,5,1
+4,"Uttar Pradesh(East)",1800(MHz),"Reliance JioInfocomm Limited",No,0,36.8,0,0
+4,"Uttar Pradesh(East)",1800(MHz),"Vodafone IdeaLimited",No,0,36.8,0,0
+4,"Uttar Pradesh(East)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"Uttar Pradesh(East)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"Uttar Pradesh(East)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"Uttar Pradesh(West)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,"Uttar Pradesh(West)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"Uttar Pradesh(West)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"Uttar Pradesh(West)",900(MHz),Bharti Airtel Limited,No,0,30.4,0,0
+4,"Uttar Pradesh(West)",900(MHz),"Reliance JioInfocomm Limited",No,0,30.4,0,0
+4,"Uttar Pradesh(West)",900(MHz),"Vodafone IdeaLimited",No,0,30.4,25,1
+4,"Uttar Pradesh(West)",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"Uttar Pradesh(West)",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"Uttar Pradesh(West)",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,"Uttar Pradesh(West)",2100(MHz),Bharti Airtel Limited,No,0,360,1,1
+4,"Uttar Pradesh(West)",2100(MHz),"Reliance JioInfocomm Limited",No,0,360,0,0
+4,"Uttar Pradesh(West)",2100(MHz),"Vodafone IdeaLimited",No,0,360,0,0
+4,"Uttar Pradesh(West)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,"Uttar Pradesh(West)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,"Uttar Pradesh(West)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,West Bengal,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+4,West Bengal,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,West Bengal,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,West Bengal,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,West Bengal,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,West Bengal,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+4,West Bengal,900(MHz),Bharti Airtel Limited,No,0,19.8,25,1
+4,West Bengal,900(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+4,West Bengal,900(MHz),"Vodafone IdeaLimited",No,0,19.8,19,2
+4,West Bengal,1800(MHz),Bharti Airtel Limited,No,0,11.774,19,2
+4,West Bengal,1800(MHz),"Reliance JioInfocomm Limited",Yes,47,11.774,47,1
+4,West Bengal,1800(MHz),"Vodafone IdeaLimited",No,0,11.774,0,0
+4,West Bengal,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+4,West Bengal,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+4,West Bengal,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"AndhraPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,"AndhraPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"AndhraPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"AndhraPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"AndhraPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"AndhraPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"AndhraPradesh",900(MHz),Bharti Airtel Limited,No,0,57.6,0,0
+5,"AndhraPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,57.6,0,0
+5,"AndhraPradesh",900(MHz),"Vodafone IdeaLimited",No,0,57.6,12,1
+5,"AndhraPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"AndhraPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"AndhraPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"AndhraPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"AndhraPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"AndhraPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"AndhraPradesh",2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"AndhraPradesh",2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"AndhraPradesh",2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"AndhraPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"AndhraPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"AndhraPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Assam,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Assam,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Assam,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Assam,900(MHz),Bharti Airtel Limited,No,0,12.6,25,1
+5,Assam,900(MHz),"Reliance JioInfocomm Limited",No,0,12.6,0,0
+5,Assam,900(MHz),"Vodafone IdeaLimited",No,0,12.6,0,0
+5,Assam,1800(MHz),Bharti Airtel Limited,No,0,6.4,20,1
+5,Assam,1800(MHz),"Reliance JioInfocomm Limited",No,0,6.4,0,0
+5,Assam,1800(MHz),"Vodafone IdeaLimited",No,0,6.4,0,0
+5,Assam,2100(MHz),Bharti Airtel Limited,No,0,120,1,1
+5,Assam,2100(MHz),"Reliance JioInfocomm Limited",No,0,120,0,0
+5,Assam,2100(MHz),"Vodafone IdeaLimited",No,0,120,0,0
+5,Assam,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Assam,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Assam,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Bihar,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Bihar,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Bihar,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Bihar,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Bihar,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Bihar,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Bihar,900(MHz),Bharti Airtel Limited,No,0,29.4,35,1
+5,Bihar,900(MHz),"Reliance JioInfocomm Limited",No,0,29.4,0,0
+5,Bihar,900(MHz),"Vodafone IdeaLimited",No,0,29.4,0,0
+5,Bihar,1800(MHz),Bharti Airtel Limited,No,0,16.81,26,1
+5,Bihar,1800(MHz),"Reliance JioInfocomm Limited",No,0,16.81,25,2
+5,Bihar,1800(MHz),"Vodafone IdeaLimited",No,0,16.81,0,0
+5,Bihar,2500(MHz),Bharti Airtel Limited,No,0,150,0,0
+5,Bihar,2500(MHz),"Reliance JioInfocomm Limited",No,0,150,0,0
+5,Bihar,2500(MHz),"Vodafone IdeaLimited",No,0,150,1,1
+5,Bihar,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Bihar,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Bihar,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Delhi,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Delhi,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Delhi,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Delhi,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Delhi,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Delhi,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Delhi,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Delhi,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Delhi,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Delhi,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Delhi,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Delhi,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Delhi,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Delhi,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Delhi,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Delhi,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Delhi,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Delhi,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Delhi,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Delhi,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Delhi,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Gujarat,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Gujarat,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Gujarat,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Gujarat,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Gujarat,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Gujarat,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Gujarat,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Gujarat,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Gujarat,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Gujarat,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Gujarat,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Gujarat,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Gujarat,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Gujarat,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Gujarat,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Gujarat,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Gujarat,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Gujarat,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Haryana,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Haryana,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Haryana,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Haryana,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Haryana,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Haryana,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Haryana,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Haryana,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Haryana,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Haryana,1800(MHz),Bharti Airtel Limited,No,0,8.2,25,1
+5,Haryana,1800(MHz),"Reliance JioInfocomm Limited",No,0,8.2,0,0
+5,Haryana,1800(MHz),"Vodafone IdeaLimited",No,0,8.2,0,0
+5,Haryana,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Haryana,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Haryana,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"HimachalPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,"HimachalPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"HimachalPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"HimachalPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"HimachalPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"HimachalPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"HimachalPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"HimachalPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"HimachalPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"HimachalPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"HimachalPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"HimachalPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"HimachalPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"HimachalPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"HimachalPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"HimachalPradesh",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"HimachalPradesh",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"HimachalPradesh",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"HimachalPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"HimachalPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"HimachalPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"Jammu &Kashmir",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,"Jammu &Kashmir",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"Jammu &Kashmir",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"Jammu &Kashmir",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"Jammu &Kashmir",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"Jammu &Kashmir",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"Jammu &Kashmir",900(MHz),Bharti Airtel Limited,No,0,3.6,50,1
+5,"Jammu &Kashmir",900(MHz),"Reliance JioInfocomm Limited",No,0,3.6,0,0
+5,"Jammu &Kashmir",900(MHz),"Vodafone IdeaLimited",No,0,3.6,0,0
+5,"Jammu &Kashmir",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"Jammu &Kashmir",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"Jammu &Kashmir",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"Jammu &Kashmir",2100(MHz),Bharti Airtel Limited,No,0,40,1,1
+5,"Jammu &Kashmir",2100(MHz),"Reliance JioInfocomm Limited",No,0,40,0,0
+5,"Jammu &Kashmir",2100(MHz),"Vodafone IdeaLimited",No,0,40,0,0
+5,"Jammu &Kashmir",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"Jammu &Kashmir",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"Jammu &Kashmir",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"Jammu &Kashmir",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"Jammu &Kashmir",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"Jammu &Kashmir",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Karnataka,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Karnataka,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Karnataka,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Karnataka,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Karnataka,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Karnataka,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Karnataka,900(MHz),Bharti Airtel Limited,No,0,40.8,0,0
+5,Karnataka,900(MHz),"Reliance JioInfocomm Limited",No,0,40.8,0,0
+5,Karnataka,900(MHz),"Vodafone IdeaLimited",No,0,40.8,9,1
+5,Karnataka,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Karnataka,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Karnataka,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Karnataka,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Karnataka,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Karnataka,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Karnataka,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Karnataka,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Karnataka,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Karnataka,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Karnataka,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Karnataka,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Karnataka,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Karnataka,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Karnataka,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Kerala,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Kerala,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Kerala,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Kerala,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Kerala,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Kerala,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Kerala,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Kerala,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Kerala,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Kerala,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Kerala,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Kerala,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Kolkata,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Kolkata,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Kolkata,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Kolkata,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Kolkata,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Kolkata,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Kolkata,900(MHz),Bharti Airtel Limited,No,0,30.6,0,0
+5,Kolkata,900(MHz),"Reliance JioInfocomm Limited",No,0,30.6,0,0
+5,Kolkata,900(MHz),"Vodafone IdeaLimited",No,0,30.6,1,1
+5,Kolkata,1800(MHz),Bharti Airtel Limited,No,0,21.8,25,1
+5,Kolkata,1800(MHz),"Reliance JioInfocomm Limited",No,0,21.8,0,0
+5,Kolkata,1800(MHz),"Vodafone IdeaLimited",No,0,21.8,0,0
+5,Kolkata,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Kolkata,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Kolkata,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Kolkata,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Kolkata,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Kolkata,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Kolkata,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Kolkata,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Kolkata,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"MadhyaPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,"MadhyaPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"MadhyaPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"MadhyaPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"MadhyaPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"MadhyaPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"MadhyaPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"MadhyaPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"MadhyaPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"MadhyaPradesh",1800(MHz),Bharti Airtel Limited,No,0,19.8,0,0
+5,"MadhyaPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+5,"MadhyaPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,19.8,6,1
+5,"MadhyaPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"MadhyaPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"MadhyaPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"MadhyaPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"MadhyaPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"MadhyaPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Maharashtra,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Maharashtra,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Maharashtra,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Maharashtra,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Maharashtra,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Maharashtra,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Maharashtra,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Maharashtra,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Maharashtra,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Maharashtra,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Maharashtra,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Maharashtra,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Maharashtra,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Maharashtra,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Maharashtra,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Maharashtra,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Maharashtra,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Maharashtra,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Mumbai,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Mumbai,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Mumbai,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Mumbai,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Mumbai,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Mumbai,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Mumbai,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Mumbai,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Mumbai,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Mumbai,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Mumbai,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Mumbai,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Mumbai,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Mumbai,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Mumbai,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Mumbai,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Mumbai,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Mumbai,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Mumbai,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Mumbai,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Mumbai,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,North East,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,North East,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,North East,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,North East,900(MHz),Bharti Airtel Limited,No,0,3.2,5,1
+5,North East,900(MHz),"Reliance JioInfocomm Limited",No,0,3.2,0,0
+5,North East,900(MHz),"Vodafone IdeaLimited",No,0,3.2,0,0
+5,North East,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,North East,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,North East,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,North East,2100(MHz),Bharti Airtel Limited,No,0,25,1,1
+5,North East,2100(MHz),"Reliance JioInfocomm Limited",No,0,25,0,0
+5,North East,2100(MHz),"Vodafone IdeaLimited",No,0,25,0,0
+5,North East,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,North East,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,North East,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Odisha,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Odisha,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Odisha,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Odisha,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Odisha,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Odisha,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Odisha,900(MHz),Bharti Airtel Limited,No,0,12.8,25,1
+5,Odisha,900(MHz),"Reliance JioInfocomm Limited",No,0,12.8,0,0
+5,Odisha,900(MHz),"Vodafone IdeaLimited",No,0,12.8,0,0
+5,Odisha,1800(MHz),Bharti Airtel Limited,No,0,7.8,5,1
+5,Odisha,1800(MHz),"Reliance JioInfocomm Limited",No,0,7.8,0,0
+5,Odisha,1800(MHz),"Vodafone IdeaLimited",No,0,7.8,0,0
+5,Odisha,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Odisha,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Odisha,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Odisha,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Odisha,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Odisha,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Punjab,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Punjab,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Punjab,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Punjab,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Punjab,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Punjab,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Punjab,900(MHz),Bharti Airtel Limited,No,0,20.8,0,0
+5,Punjab,900(MHz),"Reliance JioInfocomm Limited",No,0,20.8,0,0
+5,Punjab,900(MHz),"Vodafone IdeaLimited",No,0,20.8,6,1
+5,Punjab,1800(MHz),Bharti Airtel Limited,No,0,12.2,25,1
+5,Punjab,1800(MHz),"Reliance JioInfocomm Limited",No,0,12.2,0,0
+5,Punjab,1800(MHz),"Vodafone IdeaLimited",No,0,12.2,0,0
+5,Punjab,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Punjab,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Punjab,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Punjab,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Punjab,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Punjab,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Rajasthan,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Rajasthan,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Rajasthan,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Rajasthan,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Rajasthan,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Rajasthan,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Rajasthan,900(MHz),Bharti Airtel Limited,No,0,27,20,1
+5,Rajasthan,900(MHz),"Reliance JioInfocomm Limited",No,0,27,0,0
+5,Rajasthan,900(MHz),"Vodafone IdeaLimited",No,0,27,2,2
+5,Rajasthan,1800(MHz),Bharti Airtel Limited,No,0,16.8,25,1
+5,Rajasthan,1800(MHz),"Reliance JioInfocomm Limited",No,0,16.8,0,0
+5,Rajasthan,1800(MHz),"Vodafone IdeaLimited",No,0,16.8,0,0
+5,Rajasthan,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Rajasthan,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Rajasthan,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Tamil Nadu,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,Tamil Nadu,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Tamil Nadu,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Tamil Nadu,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Tamil Nadu,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Tamil Nadu,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Tamil Nadu,900(MHz),Bharti Airtel Limited,No,0,44.4,0,0
+5,Tamil Nadu,900(MHz),"Reliance JioInfocomm Limited",No,0,44.4,0,0
+5,Tamil Nadu,900(MHz),"Vodafone IdeaLimited",No,0,44.4,12,1
+5,Tamil Nadu,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Tamil Nadu,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Tamil Nadu,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Tamil Nadu,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Tamil Nadu,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Tamil Nadu,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Tamil Nadu,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Tamil Nadu,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Tamil Nadu,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,Tamil Nadu,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,Tamil Nadu,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Tamil Nadu,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"Uttar Pradesh(East)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,"Uttar Pradesh(East)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"Uttar Pradesh(East)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"Uttar Pradesh(East)",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"Uttar Pradesh(East)",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"Uttar Pradesh(East)",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"Uttar Pradesh(East)",900(MHz),Bharti Airtel Limited,No,0,37.2,25,2
+5,"Uttar Pradesh(East)",900(MHz),"Reliance JioInfocomm Limited",No,0,37.2,0,0
+5,"Uttar Pradesh(East)",900(MHz),"Vodafone IdeaLimited",No,0,37.2,6,1
+5,"Uttar Pradesh(East)",1800(MHz),Bharti Airtel Limited,No,0,36.8,5,1
+5,"Uttar Pradesh(East)",1800(MHz),"Reliance JioInfocomm Limited",No,0,36.8,0,0
+5,"Uttar Pradesh(East)",1800(MHz),"Vodafone IdeaLimited",No,0,36.8,0,0
+5,"Uttar Pradesh(East)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"Uttar Pradesh(East)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"Uttar Pradesh(East)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"Uttar Pradesh(West)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,"Uttar Pradesh(West)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"Uttar Pradesh(West)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"Uttar Pradesh(West)",900(MHz),Bharti Airtel Limited,No,0,30.4,0,0
+5,"Uttar Pradesh(West)",900(MHz),"Reliance JioInfocomm Limited",No,0,30.4,0,0
+5,"Uttar Pradesh(West)",900(MHz),"Vodafone IdeaLimited",No,0,30.4,25,1
+5,"Uttar Pradesh(West)",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"Uttar Pradesh(West)",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"Uttar Pradesh(West)",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,"Uttar Pradesh(West)",2100(MHz),Bharti Airtel Limited,No,0,360,1,1
+5,"Uttar Pradesh(West)",2100(MHz),"Reliance JioInfocomm Limited",No,0,360,0,0
+5,"Uttar Pradesh(West)",2100(MHz),"Vodafone IdeaLimited",No,0,360,0,0
+5,"Uttar Pradesh(West)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,"Uttar Pradesh(West)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,"Uttar Pradesh(West)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,West Bengal,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+5,West Bengal,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,West Bengal,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,West Bengal,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,West Bengal,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,West Bengal,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+5,West Bengal,900(MHz),Bharti Airtel Limited,No,0,19.8,25,1
+5,West Bengal,900(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+5,West Bengal,900(MHz),"Vodafone IdeaLimited",No,0,19.8,19,2
+5,West Bengal,1800(MHz),Bharti Airtel Limited,No,0,11.774,19,2
+5,West Bengal,1800(MHz),"Reliance JioInfocomm Limited",No,0,11.774,47,1
+5,West Bengal,1800(MHz),"Vodafone IdeaLimited",No,0,11.774,0,0
+5,West Bengal,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+5,West Bengal,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+5,West Bengal,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"AndhraPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,"AndhraPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"AndhraPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"AndhraPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"AndhraPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"AndhraPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"AndhraPradesh",900(MHz),Bharti Airtel Limited,No,0,57.6,0,0
+6,"AndhraPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,57.6,0,0
+6,"AndhraPradesh",900(MHz),"Vodafone IdeaLimited",No,0,57.6,12,1
+6,"AndhraPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"AndhraPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"AndhraPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"AndhraPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"AndhraPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"AndhraPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"AndhraPradesh",2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"AndhraPradesh",2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"AndhraPradesh",2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"AndhraPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"AndhraPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"AndhraPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Assam,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Assam,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Assam,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Assam,900(MHz),Bharti Airtel Limited,No,0,12.6,25,1
+6,Assam,900(MHz),"Reliance JioInfocomm Limited",No,0,12.6,0,0
+6,Assam,900(MHz),"Vodafone IdeaLimited",No,0,12.6,0,0
+6,Assam,1800(MHz),Bharti Airtel Limited,No,0,6.4,20,1
+6,Assam,1800(MHz),"Reliance JioInfocomm Limited",No,0,6.4,0,0
+6,Assam,1800(MHz),"Vodafone IdeaLimited",No,0,6.4,0,0
+6,Assam,2100(MHz),Bharti Airtel Limited,No,0,120,1,1
+6,Assam,2100(MHz),"Reliance JioInfocomm Limited",No,0,120,0,0
+6,Assam,2100(MHz),"Vodafone IdeaLimited",No,0,120,0,0
+6,Assam,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Assam,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Assam,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Bihar,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Bihar,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Bihar,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Bihar,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Bihar,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Bihar,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Bihar,900(MHz),Bharti Airtel Limited,No,0,29.4,35,1
+6,Bihar,900(MHz),"Reliance JioInfocomm Limited",No,0,29.4,0,0
+6,Bihar,900(MHz),"Vodafone IdeaLimited",No,0,29.4,0,0
+6,Bihar,1800(MHz),Bharti Airtel Limited,No,0,16.81,26,1
+6,Bihar,1800(MHz),"Reliance JioInfocomm Limited",No,0,16.81,25,2
+6,Bihar,1800(MHz),"Vodafone IdeaLimited",No,0,16.81,0,0
+6,Bihar,2500(MHz),Bharti Airtel Limited,No,0,150,0,0
+6,Bihar,2500(MHz),"Reliance JioInfocomm Limited",No,0,150,0,0
+6,Bihar,2500(MHz),"Vodafone IdeaLimited",No,0,150,1,1
+6,Bihar,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Bihar,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Bihar,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Delhi,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Delhi,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Delhi,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Delhi,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Delhi,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Delhi,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Delhi,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Delhi,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Delhi,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Delhi,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Delhi,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Delhi,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Delhi,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Delhi,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Delhi,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Delhi,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Delhi,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Delhi,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Delhi,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Delhi,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Delhi,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Gujarat,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Gujarat,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Gujarat,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Gujarat,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Gujarat,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Gujarat,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Gujarat,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Gujarat,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Gujarat,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Gujarat,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Gujarat,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Gujarat,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Gujarat,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Gujarat,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Gujarat,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Gujarat,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Gujarat,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Gujarat,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Haryana,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Haryana,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Haryana,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Haryana,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Haryana,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Haryana,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Haryana,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Haryana,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Haryana,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Haryana,1800(MHz),Bharti Airtel Limited,No,0,8.2,25,1
+6,Haryana,1800(MHz),"Reliance JioInfocomm Limited",No,0,8.2,0,0
+6,Haryana,1800(MHz),"Vodafone IdeaLimited",No,0,8.2,0,0
+6,Haryana,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Haryana,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Haryana,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"HimachalPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,"HimachalPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"HimachalPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"HimachalPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"HimachalPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"HimachalPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"HimachalPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"HimachalPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"HimachalPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"HimachalPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"HimachalPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"HimachalPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"HimachalPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"HimachalPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"HimachalPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"HimachalPradesh",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"HimachalPradesh",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"HimachalPradesh",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"HimachalPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"HimachalPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"HimachalPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"Jammu &Kashmir",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,"Jammu &Kashmir",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"Jammu &Kashmir",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"Jammu &Kashmir",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"Jammu &Kashmir",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"Jammu &Kashmir",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"Jammu &Kashmir",900(MHz),Bharti Airtel Limited,No,0,3.6,50,1
+6,"Jammu &Kashmir",900(MHz),"Reliance JioInfocomm Limited",No,0,3.6,0,0
+6,"Jammu &Kashmir",900(MHz),"Vodafone IdeaLimited",No,0,3.6,0,0
+6,"Jammu &Kashmir",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"Jammu &Kashmir",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"Jammu &Kashmir",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"Jammu &Kashmir",2100(MHz),Bharti Airtel Limited,No,0,40,1,1
+6,"Jammu &Kashmir",2100(MHz),"Reliance JioInfocomm Limited",No,0,40,0,0
+6,"Jammu &Kashmir",2100(MHz),"Vodafone IdeaLimited",No,0,40,0,0
+6,"Jammu &Kashmir",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"Jammu &Kashmir",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"Jammu &Kashmir",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"Jammu &Kashmir",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"Jammu &Kashmir",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"Jammu &Kashmir",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Karnataka,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Karnataka,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Karnataka,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Karnataka,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Karnataka,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Karnataka,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Karnataka,900(MHz),Bharti Airtel Limited,No,0,40.8,0,0
+6,Karnataka,900(MHz),"Reliance JioInfocomm Limited",No,0,40.8,0,0
+6,Karnataka,900(MHz),"Vodafone IdeaLimited",Yes,2,40.8,11,1
+6,Karnataka,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Karnataka,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Karnataka,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Karnataka,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Karnataka,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Karnataka,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Karnataka,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Karnataka,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Karnataka,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Karnataka,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Karnataka,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Karnataka,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Karnataka,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Karnataka,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Karnataka,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Kerala,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Kerala,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Kerala,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Kerala,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Kerala,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Kerala,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Kerala,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Kerala,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Kerala,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Kerala,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Kerala,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Kerala,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Kolkata,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Kolkata,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Kolkata,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Kolkata,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Kolkata,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Kolkata,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Kolkata,900(MHz),Bharti Airtel Limited,No,0,30.6,0,0
+6,Kolkata,900(MHz),"Reliance JioInfocomm Limited",No,0,30.6,0,0
+6,Kolkata,900(MHz),"Vodafone IdeaLimited",No,0,30.6,1,1
+6,Kolkata,1800(MHz),Bharti Airtel Limited,No,0,21.8,25,1
+6,Kolkata,1800(MHz),"Reliance JioInfocomm Limited",No,0,21.8,0,0
+6,Kolkata,1800(MHz),"Vodafone IdeaLimited",No,0,21.8,0,0
+6,Kolkata,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Kolkata,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Kolkata,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Kolkata,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Kolkata,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Kolkata,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Kolkata,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Kolkata,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Kolkata,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"MadhyaPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,"MadhyaPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"MadhyaPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"MadhyaPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"MadhyaPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"MadhyaPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"MadhyaPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"MadhyaPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"MadhyaPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"MadhyaPradesh",1800(MHz),Bharti Airtel Limited,No,0,19.8,0,0
+6,"MadhyaPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+6,"MadhyaPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,19.8,6,1
+6,"MadhyaPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"MadhyaPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"MadhyaPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"MadhyaPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"MadhyaPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"MadhyaPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Maharashtra,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Maharashtra,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Maharashtra,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Maharashtra,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Maharashtra,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Maharashtra,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Maharashtra,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Maharashtra,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Maharashtra,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Maharashtra,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Maharashtra,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Maharashtra,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Maharashtra,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Maharashtra,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Maharashtra,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Maharashtra,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Maharashtra,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Maharashtra,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Mumbai,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Mumbai,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Mumbai,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Mumbai,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Mumbai,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Mumbai,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Mumbai,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Mumbai,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Mumbai,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Mumbai,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Mumbai,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Mumbai,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Mumbai,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Mumbai,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Mumbai,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Mumbai,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Mumbai,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Mumbai,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Mumbai,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Mumbai,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Mumbai,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,North East,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,North East,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,North East,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,North East,900(MHz),Bharti Airtel Limited,No,0,3.2,5,1
+6,North East,900(MHz),"Reliance JioInfocomm Limited",No,0,3.2,0,0
+6,North East,900(MHz),"Vodafone IdeaLimited",No,0,3.2,0,0
+6,North East,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,North East,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,North East,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,North East,2100(MHz),Bharti Airtel Limited,No,0,25,1,1
+6,North East,2100(MHz),"Reliance JioInfocomm Limited",No,0,25,0,0
+6,North East,2100(MHz),"Vodafone IdeaLimited",No,0,25,0,0
+6,North East,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,North East,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,North East,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Odisha,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Odisha,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Odisha,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Odisha,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Odisha,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Odisha,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Odisha,900(MHz),Bharti Airtel Limited,No,0,12.8,25,1
+6,Odisha,900(MHz),"Reliance JioInfocomm Limited",No,0,12.8,0,0
+6,Odisha,900(MHz),"Vodafone IdeaLimited",No,0,12.8,0,0
+6,Odisha,1800(MHz),Bharti Airtel Limited,No,0,7.8,5,1
+6,Odisha,1800(MHz),"Reliance JioInfocomm Limited",No,0,7.8,0,0
+6,Odisha,1800(MHz),"Vodafone IdeaLimited",No,0,7.8,0,0
+6,Odisha,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Odisha,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Odisha,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Odisha,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Odisha,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Odisha,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Punjab,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Punjab,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Punjab,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Punjab,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Punjab,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Punjab,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Punjab,900(MHz),Bharti Airtel Limited,No,0,20.8,0,0
+6,Punjab,900(MHz),"Reliance JioInfocomm Limited",No,0,20.8,0,0
+6,Punjab,900(MHz),"Vodafone IdeaLimited",No,0,20.8,6,1
+6,Punjab,1800(MHz),Bharti Airtel Limited,No,0,12.2,25,1
+6,Punjab,1800(MHz),"Reliance JioInfocomm Limited",No,0,12.2,0,0
+6,Punjab,1800(MHz),"Vodafone IdeaLimited",No,0,12.2,0,0
+6,Punjab,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Punjab,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Punjab,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Punjab,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Punjab,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Punjab,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Rajasthan,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Rajasthan,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Rajasthan,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Rajasthan,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Rajasthan,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Rajasthan,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Rajasthan,900(MHz),Bharti Airtel Limited,No,0,27,20,1
+6,Rajasthan,900(MHz),"Reliance JioInfocomm Limited",No,0,27,0,0
+6,Rajasthan,900(MHz),"Vodafone IdeaLimited",No,0,27,2,2
+6,Rajasthan,1800(MHz),Bharti Airtel Limited,No,0,16.8,25,1
+6,Rajasthan,1800(MHz),"Reliance JioInfocomm Limited",No,0,16.8,0,0
+6,Rajasthan,1800(MHz),"Vodafone IdeaLimited",No,0,16.8,0,0
+6,Rajasthan,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Rajasthan,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Rajasthan,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Tamil Nadu,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,Tamil Nadu,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Tamil Nadu,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Tamil Nadu,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Tamil Nadu,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Tamil Nadu,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Tamil Nadu,900(MHz),Bharti Airtel Limited,No,0,44.4,0,0
+6,Tamil Nadu,900(MHz),"Reliance JioInfocomm Limited",No,0,44.4,0,0
+6,Tamil Nadu,900(MHz),"Vodafone IdeaLimited",No,0,44.4,12,1
+6,Tamil Nadu,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Tamil Nadu,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Tamil Nadu,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Tamil Nadu,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Tamil Nadu,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Tamil Nadu,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Tamil Nadu,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Tamil Nadu,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Tamil Nadu,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,Tamil Nadu,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,Tamil Nadu,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Tamil Nadu,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"Uttar Pradesh(East)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,"Uttar Pradesh(East)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"Uttar Pradesh(East)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"Uttar Pradesh(East)",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"Uttar Pradesh(East)",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"Uttar Pradesh(East)",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"Uttar Pradesh(East)",900(MHz),Bharti Airtel Limited,No,0,37.2,25,2
+6,"Uttar Pradesh(East)",900(MHz),"Reliance JioInfocomm Limited",No,0,37.2,0,0
+6,"Uttar Pradesh(East)",900(MHz),"Vodafone IdeaLimited",No,0,37.2,6,1
+6,"Uttar Pradesh(East)",1800(MHz),Bharti Airtel Limited,No,0,36.8,5,1
+6,"Uttar Pradesh(East)",1800(MHz),"Reliance JioInfocomm Limited",No,0,36.8,0,0
+6,"Uttar Pradesh(East)",1800(MHz),"Vodafone IdeaLimited",No,0,36.8,0,0
+6,"Uttar Pradesh(East)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"Uttar Pradesh(East)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"Uttar Pradesh(East)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"Uttar Pradesh(West)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,"Uttar Pradesh(West)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"Uttar Pradesh(West)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"Uttar Pradesh(West)",900(MHz),Bharti Airtel Limited,No,0,30.4,0,0
+6,"Uttar Pradesh(West)",900(MHz),"Reliance JioInfocomm Limited",No,0,30.4,0,0
+6,"Uttar Pradesh(West)",900(MHz),"Vodafone IdeaLimited",No,0,30.4,25,1
+6,"Uttar Pradesh(West)",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"Uttar Pradesh(West)",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"Uttar Pradesh(West)",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,"Uttar Pradesh(West)",2100(MHz),Bharti Airtel Limited,No,0,360,1,1
+6,"Uttar Pradesh(West)",2100(MHz),"Reliance JioInfocomm Limited",No,0,360,0,0
+6,"Uttar Pradesh(West)",2100(MHz),"Vodafone IdeaLimited",No,0,360,0,0
+6,"Uttar Pradesh(West)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,"Uttar Pradesh(West)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,"Uttar Pradesh(West)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,West Bengal,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+6,West Bengal,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,West Bengal,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,West Bengal,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,West Bengal,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,West Bengal,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+6,West Bengal,900(MHz),Bharti Airtel Limited,No,0,19.8,25,1
+6,West Bengal,900(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+6,West Bengal,900(MHz),"Vodafone IdeaLimited",No,0,19.8,19,2
+6,West Bengal,1800(MHz),Bharti Airtel Limited,No,0,11.774,19,2
+6,West Bengal,1800(MHz),"Reliance JioInfocomm Limited",No,0,11.774,47,1
+6,West Bengal,1800(MHz),"Vodafone IdeaLimited",No,0,11.774,0,0
+6,West Bengal,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+6,West Bengal,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+6,West Bengal,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"AndhraPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,"AndhraPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"AndhraPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"AndhraPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"AndhraPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"AndhraPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"AndhraPradesh",900(MHz),Bharti Airtel Limited,No,0,57.6,0,0
+7,"AndhraPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,57.6,0,0
+7,"AndhraPradesh",900(MHz),"Vodafone IdeaLimited",No,0,57.6,12,1
+7,"AndhraPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"AndhraPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"AndhraPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"AndhraPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"AndhraPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"AndhraPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"AndhraPradesh",2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"AndhraPradesh",2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"AndhraPradesh",2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"AndhraPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"AndhraPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"AndhraPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Assam,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Assam,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Assam,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Assam,900(MHz),Bharti Airtel Limited,No,0,12.6,25,1
+7,Assam,900(MHz),"Reliance JioInfocomm Limited",No,0,12.6,0,0
+7,Assam,900(MHz),"Vodafone IdeaLimited",No,0,12.6,0,0
+7,Assam,1800(MHz),Bharti Airtel Limited,No,0,6.4,20,1
+7,Assam,1800(MHz),"Reliance JioInfocomm Limited",No,0,6.4,0,0
+7,Assam,1800(MHz),"Vodafone IdeaLimited",No,0,6.4,0,0
+7,Assam,2100(MHz),Bharti Airtel Limited,No,0,120,1,1
+7,Assam,2100(MHz),"Reliance JioInfocomm Limited",No,0,120,0,0
+7,Assam,2100(MHz),"Vodafone IdeaLimited",No,0,120,0,0
+7,Assam,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Assam,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Assam,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Bihar,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Bihar,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Bihar,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Bihar,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Bihar,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Bihar,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Bihar,900(MHz),Bharti Airtel Limited,No,0,29.4,35,1
+7,Bihar,900(MHz),"Reliance JioInfocomm Limited",No,0,29.4,0,0
+7,Bihar,900(MHz),"Vodafone IdeaLimited",No,0,29.4,0,0
+7,Bihar,1800(MHz),Bharti Airtel Limited,No,0,16.81,26,1
+7,Bihar,1800(MHz),"Reliance JioInfocomm Limited",No,0,16.81,25,2
+7,Bihar,1800(MHz),"Vodafone IdeaLimited",No,0,16.81,0,0
+7,Bihar,2500(MHz),Bharti Airtel Limited,No,0,150,0,0
+7,Bihar,2500(MHz),"Reliance JioInfocomm Limited",No,0,150,0,0
+7,Bihar,2500(MHz),"Vodafone IdeaLimited",No,0,150,1,1
+7,Bihar,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Bihar,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Bihar,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Delhi,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Delhi,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Delhi,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Delhi,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Delhi,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Delhi,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Delhi,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Delhi,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Delhi,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Delhi,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Delhi,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Delhi,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Delhi,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Delhi,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Delhi,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Delhi,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Delhi,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Delhi,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Delhi,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Delhi,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Delhi,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Gujarat,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Gujarat,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Gujarat,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Gujarat,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Gujarat,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Gujarat,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Gujarat,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Gujarat,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Gujarat,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Gujarat,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Gujarat,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Gujarat,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Gujarat,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Gujarat,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Gujarat,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Gujarat,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Gujarat,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Gujarat,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Haryana,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Haryana,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Haryana,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Haryana,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Haryana,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Haryana,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Haryana,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Haryana,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Haryana,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Haryana,1800(MHz),Bharti Airtel Limited,No,0,8.2,25,1
+7,Haryana,1800(MHz),"Reliance JioInfocomm Limited",No,0,8.2,0,0
+7,Haryana,1800(MHz),"Vodafone IdeaLimited",No,0,8.2,0,0
+7,Haryana,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Haryana,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Haryana,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"HimachalPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,"HimachalPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"HimachalPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"HimachalPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"HimachalPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"HimachalPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"HimachalPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"HimachalPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"HimachalPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"HimachalPradesh",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"HimachalPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"HimachalPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"HimachalPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"HimachalPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"HimachalPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"HimachalPradesh",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"HimachalPradesh",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"HimachalPradesh",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"HimachalPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"HimachalPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"HimachalPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"Jammu &Kashmir",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,"Jammu &Kashmir",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"Jammu &Kashmir",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"Jammu &Kashmir",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"Jammu &Kashmir",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"Jammu &Kashmir",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"Jammu &Kashmir",900(MHz),Bharti Airtel Limited,No,0,3.6,50,1
+7,"Jammu &Kashmir",900(MHz),"Reliance JioInfocomm Limited",No,0,3.6,0,0
+7,"Jammu &Kashmir",900(MHz),"Vodafone IdeaLimited",No,0,3.6,0,0
+7,"Jammu &Kashmir",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"Jammu &Kashmir",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"Jammu &Kashmir",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"Jammu &Kashmir",2100(MHz),Bharti Airtel Limited,No,0,40,1,1
+7,"Jammu &Kashmir",2100(MHz),"Reliance JioInfocomm Limited",No,0,40,0,0
+7,"Jammu &Kashmir",2100(MHz),"Vodafone IdeaLimited",No,0,40,0,0
+7,"Jammu &Kashmir",2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"Jammu &Kashmir",2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"Jammu &Kashmir",2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"Jammu &Kashmir",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"Jammu &Kashmir",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"Jammu &Kashmir",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Karnataka,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Karnataka,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Karnataka,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Karnataka,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Karnataka,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Karnataka,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Karnataka,900(MHz),Bharti Airtel Limited,No,0,40.8,0,0
+7,Karnataka,900(MHz),"Reliance JioInfocomm Limited",No,0,40.8,0,0
+7,Karnataka,900(MHz),"Vodafone IdeaLimited",No,0,40.8,11,1
+7,Karnataka,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Karnataka,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Karnataka,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Karnataka,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Karnataka,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Karnataka,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Karnataka,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Karnataka,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Karnataka,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Karnataka,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Karnataka,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Karnataka,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Karnataka,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Karnataka,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Karnataka,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Kerala,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Kerala,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Kerala,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Kerala,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Kerala,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Kerala,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Kerala,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Kerala,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Kerala,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Kerala,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Kerala,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Kerala,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Kolkata,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Kolkata,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Kolkata,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Kolkata,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Kolkata,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Kolkata,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Kolkata,900(MHz),Bharti Airtel Limited,No,0,30.6,0,0
+7,Kolkata,900(MHz),"Reliance JioInfocomm Limited",No,0,30.6,0,0
+7,Kolkata,900(MHz),"Vodafone IdeaLimited",No,0,30.6,1,1
+7,Kolkata,1800(MHz),Bharti Airtel Limited,No,0,21.8,25,1
+7,Kolkata,1800(MHz),"Reliance JioInfocomm Limited",No,0,21.8,0,0
+7,Kolkata,1800(MHz),"Vodafone IdeaLimited",No,0,21.8,0,0
+7,Kolkata,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Kolkata,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Kolkata,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Kolkata,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Kolkata,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Kolkata,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Kolkata,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Kolkata,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Kolkata,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"MadhyaPradesh",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,"MadhyaPradesh",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"MadhyaPradesh",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"MadhyaPradesh",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"MadhyaPradesh",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"MadhyaPradesh",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"MadhyaPradesh",900(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"MadhyaPradesh",900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"MadhyaPradesh",900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"MadhyaPradesh",1800(MHz),Bharti Airtel Limited,No,0,19.8,0,0
+7,"MadhyaPradesh",1800(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+7,"MadhyaPradesh",1800(MHz),"Vodafone IdeaLimited",No,0,19.8,6,1
+7,"MadhyaPradesh",2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"MadhyaPradesh",2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"MadhyaPradesh",2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"MadhyaPradesh",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"MadhyaPradesh",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"MadhyaPradesh",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Maharashtra,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Maharashtra,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Maharashtra,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Maharashtra,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Maharashtra,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Maharashtra,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Maharashtra,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Maharashtra,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Maharashtra,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Maharashtra,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Maharashtra,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Maharashtra,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Maharashtra,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Maharashtra,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Maharashtra,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Maharashtra,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Maharashtra,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Maharashtra,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Mumbai,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Mumbai,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Mumbai,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Mumbai,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Mumbai,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Mumbai,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Mumbai,900(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Mumbai,900(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Mumbai,900(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Mumbai,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Mumbai,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Mumbai,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Mumbai,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Mumbai,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Mumbai,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Mumbai,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Mumbai,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Mumbai,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Mumbai,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Mumbai,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Mumbai,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,North East,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,North East,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,North East,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,North East,900(MHz),Bharti Airtel Limited,No,0,3.2,5,1
+7,North East,900(MHz),"Reliance JioInfocomm Limited",No,0,3.2,0,0
+7,North East,900(MHz),"Vodafone IdeaLimited",No,0,3.2,0,0
+7,North East,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,North East,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,North East,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,North East,2100(MHz),Bharti Airtel Limited,No,0,25,1,1
+7,North East,2100(MHz),"Reliance JioInfocomm Limited",No,0,25,0,0
+7,North East,2100(MHz),"Vodafone IdeaLimited",No,0,25,0,0
+7,North East,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,North East,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,North East,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Odisha,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Odisha,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Odisha,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Odisha,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Odisha,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Odisha,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Odisha,900(MHz),Bharti Airtel Limited,No,0,12.8,25,1
+7,Odisha,900(MHz),"Reliance JioInfocomm Limited",No,0,12.8,0,0
+7,Odisha,900(MHz),"Vodafone IdeaLimited",No,0,12.8,0,0
+7,Odisha,1800(MHz),Bharti Airtel Limited,No,0,7.8,5,1
+7,Odisha,1800(MHz),"Reliance JioInfocomm Limited",No,0,7.8,0,0
+7,Odisha,1800(MHz),"Vodafone IdeaLimited",No,0,7.8,0,0
+7,Odisha,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Odisha,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Odisha,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Odisha,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Odisha,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Odisha,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Punjab,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Punjab,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Punjab,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Punjab,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Punjab,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Punjab,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Punjab,900(MHz),Bharti Airtel Limited,No,0,20.8,0,0
+7,Punjab,900(MHz),"Reliance JioInfocomm Limited",No,0,20.8,0,0
+7,Punjab,900(MHz),"Vodafone IdeaLimited",No,0,20.8,6,1
+7,Punjab,1800(MHz),Bharti Airtel Limited,No,0,12.2,25,1
+7,Punjab,1800(MHz),"Reliance JioInfocomm Limited",No,0,12.2,0,0
+7,Punjab,1800(MHz),"Vodafone IdeaLimited",No,0,12.2,0,0
+7,Punjab,2100(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Punjab,2100(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Punjab,2100(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Punjab,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Punjab,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Punjab,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Rajasthan,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Rajasthan,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Rajasthan,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Rajasthan,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Rajasthan,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Rajasthan,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Rajasthan,900(MHz),Bharti Airtel Limited,No,0,27,20,1
+7,Rajasthan,900(MHz),"Reliance JioInfocomm Limited",No,0,27,0,0
+7,Rajasthan,900(MHz),"Vodafone IdeaLimited",No,0,27,2,2
+7,Rajasthan,1800(MHz),Bharti Airtel Limited,No,0,16.8,25,1
+7,Rajasthan,1800(MHz),"Reliance JioInfocomm Limited",No,0,16.8,0,0
+7,Rajasthan,1800(MHz),"Vodafone IdeaLimited",No,0,16.8,0,0
+7,Rajasthan,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Rajasthan,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Rajasthan,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Tamil Nadu,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,Tamil Nadu,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Tamil Nadu,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Tamil Nadu,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Tamil Nadu,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Tamil Nadu,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Tamil Nadu,900(MHz),Bharti Airtel Limited,No,0,44.4,0,0
+7,Tamil Nadu,900(MHz),"Reliance JioInfocomm Limited",No,0,44.4,0,0
+7,Tamil Nadu,900(MHz),"Vodafone IdeaLimited",No,0,44.4,12,1
+7,Tamil Nadu,1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Tamil Nadu,1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Tamil Nadu,1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Tamil Nadu,2300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Tamil Nadu,2300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Tamil Nadu,2300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Tamil Nadu,2500(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Tamil Nadu,2500(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Tamil Nadu,2500(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,Tamil Nadu,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,Tamil Nadu,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Tamil Nadu,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"Uttar Pradesh(East)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,"Uttar Pradesh(East)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"Uttar Pradesh(East)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"Uttar Pradesh(East)",800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"Uttar Pradesh(East)",800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"Uttar Pradesh(East)",800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"Uttar Pradesh(East)",900(MHz),Bharti Airtel Limited,No,0,37.2,25,2
+7,"Uttar Pradesh(East)",900(MHz),"Reliance JioInfocomm Limited",No,0,37.2,0,0
+7,"Uttar Pradesh(East)",900(MHz),"Vodafone IdeaLimited",No,0,37.2,6,1
+7,"Uttar Pradesh(East)",1800(MHz),Bharti Airtel Limited,No,0,36.8,5,1
+7,"Uttar Pradesh(East)",1800(MHz),"Reliance JioInfocomm Limited",No,0,36.8,0,0
+7,"Uttar Pradesh(East)",1800(MHz),"Vodafone IdeaLimited",No,0,36.8,0,0
+7,"Uttar Pradesh(East)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"Uttar Pradesh(East)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"Uttar Pradesh(East)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"Uttar Pradesh(West)",26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,"Uttar Pradesh(West)",26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"Uttar Pradesh(West)",26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"Uttar Pradesh(West)",900(MHz),Bharti Airtel Limited,No,0,30.4,0,0
+7,"Uttar Pradesh(West)",900(MHz),"Reliance JioInfocomm Limited",No,0,30.4,0,0
+7,"Uttar Pradesh(West)",900(MHz),"Vodafone IdeaLimited",No,0,30.4,25,1
+7,"Uttar Pradesh(West)",1800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"Uttar Pradesh(West)",1800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"Uttar Pradesh(West)",1800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,"Uttar Pradesh(West)",2100(MHz),Bharti Airtel Limited,No,0,360,1,1
+7,"Uttar Pradesh(West)",2100(MHz),"Reliance JioInfocomm Limited",No,0,360,0,0
+7,"Uttar Pradesh(West)",2100(MHz),"Vodafone IdeaLimited",No,0,360,0,0
+7,"Uttar Pradesh(West)",3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,"Uttar Pradesh(West)",3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,"Uttar Pradesh(West)",3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,West Bengal,26(GHz),Bharti Airtel Limited,No,0,0,0,0
+7,West Bengal,26(GHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,West Bengal,26(GHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,West Bengal,800(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,West Bengal,800(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,West Bengal,800(MHz),"Vodafone IdeaLimited",No,0,0,0,0
+7,West Bengal,900(MHz),Bharti Airtel Limited,No,0,19.8,25,1
+7,West Bengal,900(MHz),"Reliance JioInfocomm Limited",No,0,19.8,0,0
+7,West Bengal,900(MHz),"Vodafone IdeaLimited",No,0,19.8,19,2
+7,West Bengal,1800(MHz),Bharti Airtel Limited,No,0,11.774,19,2
+7,West Bengal,1800(MHz),"Reliance JioInfocomm Limited",No,0,11.774,47,1
+7,West Bengal,1800(MHz),"Vodafone IdeaLimited",No,0,11.774,0,0
+7,West Bengal,3300(MHz),Bharti Airtel Limited,No,0,0,0,0
+7,West Bengal,3300(MHz),"Reliance JioInfocomm Limited",No,0,0,0,0
+7,West Bengal,3300(MHz),"Vodafone IdeaLimited",No,0,0,0,0
