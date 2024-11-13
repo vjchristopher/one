@@ -128,27 +128,27 @@ Clock_Round,Service_Area,Band,Bidder,bid_decision,No. of Block(s) Selected,prov_
 1,Himachal Pradesh,3300,Bharti Airtel Limited,No,0,0,0,0
 1,Himachal Pradesh,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
 1,Himachal Pradesh,3300,"Vodafone IdeaLimited",No,0,0,0,0
-1,"Jammu &Kashmir",26,Bharti Airtel Limited,No,0,0,0,0
-1,"Jammu &Kashmir",26,"Reliance JioInfocomm Limited",No,0,0,0,0
-1,"Jammu &Kashmir",26,"Vodafone IdeaLimited",No,0,0,0,0
-1,"Jammu &Kashmir",800,Bharti Airtel Limited,No,0,0,0,0
-1,"Jammu &Kashmir",800,"Reliance JioInfocomm Limited",No,0,0,0,0
-1,"Jammu &Kashmir",800,"Vodafone IdeaLimited",No,0,0,0,0
-1,"Jammu &Kashmir",900,Bharti Airtel Limited,Bid,50,3.6,50,1
-1,"Jammu &Kashmir",900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
-1,"Jammu &Kashmir",900,"Vodafone IdeaLimited",No,0,3.6,0,0
-1,"Jammu &Kashmir",1800,Bharti Airtel Limited,No,0,0,0,0
-1,"Jammu &Kashmir",1800,"Reliance JioInfocomm Limited",No,0,0,0,0
-1,"Jammu &Kashmir",1800,"Vodafone IdeaLimited",No,0,0,0,0
-1,"Jammu &Kashmir",2100,Bharti Airtel Limited,Bid,1,40,1,1
-1,"Jammu &Kashmir",2100,"Reliance JioInfocomm Limited",No,0,40,0,0
-1,"Jammu &Kashmir",2100,"Vodafone IdeaLimited",No,0,40,0,0
-1,"Jammu &Kashmir",2500,Bharti Airtel Limited,No,0,0,0,0
-1,"Jammu &Kashmir",2500,"Reliance JioInfocomm Limited",No,0,0,0,0
-1,"Jammu &Kashmir",2500,"Vodafone IdeaLimited",No,0,0,0,0
-1,"Jammu &Kashmir",3300,Bharti Airtel Limited,No,0,0,0,0
-1,"Jammu &Kashmir",3300,"Reliance JioInfocomm Limited",No,0,0,0,0
-1,"Jammu &Kashmir",3300,"Vodafone IdeaLimited",No,0,0,0,0
+1,Jammu & Kashmir,26,Bharti Airtel Limited,No,0,0,0,0
+1,Jammu & Kashmir,26,"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Jammu & Kashmir,26,"Vodafone IdeaLimited",No,0,0,0,0
+1,Jammu & Kashmir,800,Bharti Airtel Limited,No,0,0,0,0
+1,Jammu & Kashmir,800,"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Jammu & Kashmir,800,"Vodafone IdeaLimited",No,0,0,0,0
+1,Jammu & Kashmir,900,Bharti Airtel Limited,Bid,50,3.6,50,1
+1,Jammu & Kashmir,900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
+1,Jammu & Kashmir,900,"Vodafone IdeaLimited",No,0,3.6,0,0
+1,Jammu & Kashmir,1800,Bharti Airtel Limited,No,0,0,0,0
+1,Jammu & Kashmir,1800,"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Jammu & Kashmir,1800,"Vodafone IdeaLimited",No,0,0,0,0
+1,Jammu & Kashmir,2100,Bharti Airtel Limited,Bid,1,40,1,1
+1,Jammu & Kashmir,2100,"Reliance JioInfocomm Limited",No,0,40,0,0
+1,Jammu & Kashmir,2100,"Vodafone IdeaLimited",No,0,40,0,0
+1,Jammu & Kashmir,2500,Bharti Airtel Limited,No,0,0,0,0
+1,Jammu & Kashmir,2500,"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Jammu & Kashmir,2500,"Vodafone IdeaLimited",No,0,0,0,0
+1,Jammu & Kashmir,3300,Bharti Airtel Limited,No,0,0,0,0
+1,Jammu & Kashmir,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
+1,Jammu & Kashmir,3300,"Vodafone IdeaLimited",No,0,0,0,0
 1,Karnataka,26,Bharti Airtel Limited,No,0,0,0,0
 1,Karnataka,26,"Reliance JioInfocomm Limited",No,0,0,0,0
 1,Karnataka,26,"Vodafone IdeaLimited",No,0,0,0,0
@@ -524,27 +524,27 @@ Clock_Round,Service_Area,Band,Bidder,bid_decision,No. of Block(s) Selected,prov_
 2,Himachal Pradesh,3300,Bharti Airtel Limited,No,0,0,0,0
 2,Himachal Pradesh,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
 2,Himachal Pradesh,3300,"Vodafone IdeaLimited",No,0,0,0,0
-2,"Jammu &Kashmir",26,Bharti Airtel Limited,No,0,0,0,0
-2,"Jammu &Kashmir",26,"Reliance JioInfocomm Limited",No,0,0,0,0
-2,"Jammu &Kashmir",26,"Vodafone IdeaLimited",No,0,0,0,0
-2,"Jammu &Kashmir",800,Bharti Airtel Limited,No,0,0,0,0
-2,"Jammu &Kashmir",800,"Reliance JioInfocomm Limited",No,0,0,0,0
-2,"Jammu &Kashmir",800,"Vodafone IdeaLimited",No,0,0,0,0
-2,"Jammu &Kashmir",900,Bharti Airtel Limited,No,0,3.6,50,1
-2,"Jammu &Kashmir",900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
-2,"Jammu &Kashmir",900,"Vodafone IdeaLimited",No,0,3.6,0,0
-2,"Jammu &Kashmir",1800,Bharti Airtel Limited,No,0,0,0,0
-2,"Jammu &Kashmir",1800,"Reliance JioInfocomm Limited",No,0,0,0,0
-2,"Jammu &Kashmir",1800,"Vodafone IdeaLimited",No,0,0,0,0
-2,"Jammu &Kashmir",2100,Bharti Airtel Limited,No,0,40,1,1
-2,"Jammu &Kashmir",2100,"Reliance JioInfocomm Limited",No,0,40,0,0
-2,"Jammu &Kashmir",2100,"Vodafone IdeaLimited",No,0,40,0,0
-2,"Jammu &Kashmir",2500,Bharti Airtel Limited,No,0,0,0,0
-2,"Jammu &Kashmir",2500,"Reliance JioInfocomm Limited",No,0,0,0,0
-2,"Jammu &Kashmir",2500,"Vodafone IdeaLimited",No,0,0,0,0
-2,"Jammu &Kashmir",3300,Bharti Airtel Limited,No,0,0,0,0
-2,"Jammu &Kashmir",3300,"Reliance JioInfocomm Limited",No,0,0,0,0
-2,"Jammu &Kashmir",3300,"Vodafone IdeaLimited",No,0,0,0,0
+2,Jammu & Kashmir,26,Bharti Airtel Limited,No,0,0,0,0
+2,Jammu & Kashmir,26,"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Jammu & Kashmir,26,"Vodafone IdeaLimited",No,0,0,0,0
+2,Jammu & Kashmir,800,Bharti Airtel Limited,No,0,0,0,0
+2,Jammu & Kashmir,800,"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Jammu & Kashmir,800,"Vodafone IdeaLimited",No,0,0,0,0
+2,Jammu & Kashmir,900,Bharti Airtel Limited,No,0,3.6,50,1
+2,Jammu & Kashmir,900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
+2,Jammu & Kashmir,900,"Vodafone IdeaLimited",No,0,3.6,0,0
+2,Jammu & Kashmir,1800,Bharti Airtel Limited,No,0,0,0,0
+2,Jammu & Kashmir,1800,"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Jammu & Kashmir,1800,"Vodafone IdeaLimited",No,0,0,0,0
+2,Jammu & Kashmir,2100,Bharti Airtel Limited,No,0,40,1,1
+2,Jammu & Kashmir,2100,"Reliance JioInfocomm Limited",No,0,40,0,0
+2,Jammu & Kashmir,2100,"Vodafone IdeaLimited",No,0,40,0,0
+2,Jammu & Kashmir,2500,Bharti Airtel Limited,No,0,0,0,0
+2,Jammu & Kashmir,2500,"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Jammu & Kashmir,2500,"Vodafone IdeaLimited",No,0,0,0,0
+2,Jammu & Kashmir,3300,Bharti Airtel Limited,No,0,0,0,0
+2,Jammu & Kashmir,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
+2,Jammu & Kashmir,3300,"Vodafone IdeaLimited",No,0,0,0,0
 2,Karnataka,26,Bharti Airtel Limited,No,0,0,0,0
 2,Karnataka,26,"Reliance JioInfocomm Limited",No,0,0,0,0
 2,Karnataka,26,"Vodafone IdeaLimited",No,0,0,0,0
@@ -920,27 +920,27 @@ Clock_Round,Service_Area,Band,Bidder,bid_decision,No. of Block(s) Selected,prov_
 3,Himachal Pradesh,3300,Bharti Airtel Limited,No,0,0,0,0
 3,Himachal Pradesh,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
 3,Himachal Pradesh,3300,"Vodafone IdeaLimited",No,0,0,0,0
-3,"Jammu &Kashmir",26,Bharti Airtel Limited,No,0,0,0,0
-3,"Jammu &Kashmir",26,"Reliance JioInfocomm Limited",No,0,0,0,0
-3,"Jammu &Kashmir",26,"Vodafone IdeaLimited",No,0,0,0,0
-3,"Jammu &Kashmir",800,Bharti Airtel Limited,No,0,0,0,0
-3,"Jammu &Kashmir",800,"Reliance JioInfocomm Limited",No,0,0,0,0
-3,"Jammu &Kashmir",800,"Vodafone IdeaLimited",No,0,0,0,0
-3,"Jammu &Kashmir",900,Bharti Airtel Limited,No,0,3.6,50,1
-3,"Jammu &Kashmir",900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
-3,"Jammu &Kashmir",900,"Vodafone IdeaLimited",No,0,3.6,0,0
-3,"Jammu &Kashmir",1800,Bharti Airtel Limited,No,0,0,0,0
-3,"Jammu &Kashmir",1800,"Reliance JioInfocomm Limited",No,0,0,0,0
-3,"Jammu &Kashmir",1800,"Vodafone IdeaLimited",No,0,0,0,0
-3,"Jammu &Kashmir",2100,Bharti Airtel Limited,No,0,40,1,1
-3,"Jammu &Kashmir",2100,"Reliance JioInfocomm Limited",No,0,40,0,0
-3,"Jammu &Kashmir",2100,"Vodafone IdeaLimited",No,0,40,0,0
-3,"Jammu &Kashmir",2500,Bharti Airtel Limited,No,0,0,0,0
-3,"Jammu &Kashmir",2500,"Reliance JioInfocomm Limited",No,0,0,0,0
-3,"Jammu &Kashmir",2500,"Vodafone IdeaLimited",No,0,0,0,0
-3,"Jammu &Kashmir",3300,Bharti Airtel Limited,No,0,0,0,0
-3,"Jammu &Kashmir",3300,"Reliance JioInfocomm Limited",No,0,0,0,0
-3,"Jammu &Kashmir",3300,"Vodafone IdeaLimited",No,0,0,0,0
+3,Jammu & Kashmir,26,Bharti Airtel Limited,No,0,0,0,0
+3,Jammu & Kashmir,26,"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Jammu & Kashmir,26,"Vodafone IdeaLimited",No,0,0,0,0
+3,Jammu & Kashmir,800,Bharti Airtel Limited,No,0,0,0,0
+3,Jammu & Kashmir,800,"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Jammu & Kashmir,800,"Vodafone IdeaLimited",No,0,0,0,0
+3,Jammu & Kashmir,900,Bharti Airtel Limited,No,0,3.6,50,1
+3,Jammu & Kashmir,900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
+3,Jammu & Kashmir,900,"Vodafone IdeaLimited",No,0,3.6,0,0
+3,Jammu & Kashmir,1800,Bharti Airtel Limited,No,0,0,0,0
+3,Jammu & Kashmir,1800,"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Jammu & Kashmir,1800,"Vodafone IdeaLimited",No,0,0,0,0
+3,Jammu & Kashmir,2100,Bharti Airtel Limited,No,0,40,1,1
+3,Jammu & Kashmir,2100,"Reliance JioInfocomm Limited",No,0,40,0,0
+3,Jammu & Kashmir,2100,"Vodafone IdeaLimited",No,0,40,0,0
+3,Jammu & Kashmir,2500,Bharti Airtel Limited,No,0,0,0,0
+3,Jammu & Kashmir,2500,"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Jammu & Kashmir,2500,"Vodafone IdeaLimited",No,0,0,0,0
+3,Jammu & Kashmir,3300,Bharti Airtel Limited,No,0,0,0,0
+3,Jammu & Kashmir,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
+3,Jammu & Kashmir,3300,"Vodafone IdeaLimited",No,0,0,0,0
 3,Karnataka,26,Bharti Airtel Limited,No,0,0,0,0
 3,Karnataka,26,"Reliance JioInfocomm Limited",No,0,0,0,0
 3,Karnataka,26,"Vodafone IdeaLimited",No,0,0,0,0
@@ -1316,27 +1316,27 @@ Clock_Round,Service_Area,Band,Bidder,bid_decision,No. of Block(s) Selected,prov_
 4,Himachal Pradesh,3300,Bharti Airtel Limited,No,0,0,0,0
 4,Himachal Pradesh,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
 4,Himachal Pradesh,3300,"Vodafone IdeaLimited",No,0,0,0,0
-4,"Jammu &Kashmir",26,Bharti Airtel Limited,No,0,0,0,0
-4,"Jammu &Kashmir",26,"Reliance JioInfocomm Limited",No,0,0,0,0
-4,"Jammu &Kashmir",26,"Vodafone IdeaLimited",No,0,0,0,0
-4,"Jammu &Kashmir",800,Bharti Airtel Limited,No,0,0,0,0
-4,"Jammu &Kashmir",800,"Reliance JioInfocomm Limited",No,0,0,0,0
-4,"Jammu &Kashmir",800,"Vodafone IdeaLimited",No,0,0,0,0
-4,"Jammu &Kashmir",900,Bharti Airtel Limited,No,0,3.6,50,1
-4,"Jammu &Kashmir",900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
-4,"Jammu &Kashmir",900,"Vodafone IdeaLimited",No,0,3.6,0,0
-4,"Jammu &Kashmir",1800,Bharti Airtel Limited,No,0,0,0,0
-4,"Jammu &Kashmir",1800,"Reliance JioInfocomm Limited",No,0,0,0,0
-4,"Jammu &Kashmir",1800,"Vodafone IdeaLimited",No,0,0,0,0
-4,"Jammu &Kashmir",2100,Bharti Airtel Limited,No,0,40,1,1
-4,"Jammu &Kashmir",2100,"Reliance JioInfocomm Limited",No,0,40,0,0
-4,"Jammu &Kashmir",2100,"Vodafone IdeaLimited",No,0,40,0,0
-4,"Jammu &Kashmir",2500,Bharti Airtel Limited,No,0,0,0,0
-4,"Jammu &Kashmir",2500,"Reliance JioInfocomm Limited",No,0,0,0,0
-4,"Jammu &Kashmir",2500,"Vodafone IdeaLimited",No,0,0,0,0
-4,"Jammu &Kashmir",3300,Bharti Airtel Limited,No,0,0,0,0
-4,"Jammu &Kashmir",3300,"Reliance JioInfocomm Limited",No,0,0,0,0
-4,"Jammu &Kashmir",3300,"Vodafone IdeaLimited",No,0,0,0,0
+4,Jammu & Kashmir,26,Bharti Airtel Limited,No,0,0,0,0
+4,Jammu & Kashmir,26,"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Jammu & Kashmir,26,"Vodafone IdeaLimited",No,0,0,0,0
+4,Jammu & Kashmir,800,Bharti Airtel Limited,No,0,0,0,0
+4,Jammu & Kashmir,800,"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Jammu & Kashmir,800,"Vodafone IdeaLimited",No,0,0,0,0
+4,Jammu & Kashmir,900,Bharti Airtel Limited,No,0,3.6,50,1
+4,Jammu & Kashmir,900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
+4,Jammu & Kashmir,900,"Vodafone IdeaLimited",No,0,3.6,0,0
+4,Jammu & Kashmir,1800,Bharti Airtel Limited,No,0,0,0,0
+4,Jammu & Kashmir,1800,"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Jammu & Kashmir,1800,"Vodafone IdeaLimited",No,0,0,0,0
+4,Jammu & Kashmir,2100,Bharti Airtel Limited,No,0,40,1,1
+4,Jammu & Kashmir,2100,"Reliance JioInfocomm Limited",No,0,40,0,0
+4,Jammu & Kashmir,2100,"Vodafone IdeaLimited",No,0,40,0,0
+4,Jammu & Kashmir,2500,Bharti Airtel Limited,No,0,0,0,0
+4,Jammu & Kashmir,2500,"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Jammu & Kashmir,2500,"Vodafone IdeaLimited",No,0,0,0,0
+4,Jammu & Kashmir,3300,Bharti Airtel Limited,No,0,0,0,0
+4,Jammu & Kashmir,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
+4,Jammu & Kashmir,3300,"Vodafone IdeaLimited",No,0,0,0,0
 4,Karnataka,26,Bharti Airtel Limited,No,0,0,0,0
 4,Karnataka,26,"Reliance JioInfocomm Limited",No,0,0,0,0
 4,Karnataka,26,"Vodafone IdeaLimited",No,0,0,0,0
@@ -1712,27 +1712,27 @@ Clock_Round,Service_Area,Band,Bidder,bid_decision,No. of Block(s) Selected,prov_
 5,Himachal Pradesh,3300,Bharti Airtel Limited,No,0,0,0,0
 5,Himachal Pradesh,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
 5,Himachal Pradesh,3300,"Vodafone IdeaLimited",No,0,0,0,0
-5,"Jammu &Kashmir",26,Bharti Airtel Limited,No,0,0,0,0
-5,"Jammu &Kashmir",26,"Reliance JioInfocomm Limited",No,0,0,0,0
-5,"Jammu &Kashmir",26,"Vodafone IdeaLimited",No,0,0,0,0
-5,"Jammu &Kashmir",800,Bharti Airtel Limited,No,0,0,0,0
-5,"Jammu &Kashmir",800,"Reliance JioInfocomm Limited",No,0,0,0,0
-5,"Jammu &Kashmir",800,"Vodafone IdeaLimited",No,0,0,0,0
-5,"Jammu &Kashmir",900,Bharti Airtel Limited,No,0,3.6,50,1
-5,"Jammu &Kashmir",900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
-5,"Jammu &Kashmir",900,"Vodafone IdeaLimited",No,0,3.6,0,0
-5,"Jammu &Kashmir",1800,Bharti Airtel Limited,No,0,0,0,0
-5,"Jammu &Kashmir",1800,"Reliance JioInfocomm Limited",No,0,0,0,0
-5,"Jammu &Kashmir",1800,"Vodafone IdeaLimited",No,0,0,0,0
-5,"Jammu &Kashmir",2100,Bharti Airtel Limited,No,0,40,1,1
-5,"Jammu &Kashmir",2100,"Reliance JioInfocomm Limited",No,0,40,0,0
-5,"Jammu &Kashmir",2100,"Vodafone IdeaLimited",No,0,40,0,0
-5,"Jammu &Kashmir",2500,Bharti Airtel Limited,No,0,0,0,0
-5,"Jammu &Kashmir",2500,"Reliance JioInfocomm Limited",No,0,0,0,0
-5,"Jammu &Kashmir",2500,"Vodafone IdeaLimited",No,0,0,0,0
-5,"Jammu &Kashmir",3300,Bharti Airtel Limited,No,0,0,0,0
-5,"Jammu &Kashmir",3300,"Reliance JioInfocomm Limited",No,0,0,0,0
-5,"Jammu &Kashmir",3300,"Vodafone IdeaLimited",No,0,0,0,0
+5,Jammu & Kashmir,26,Bharti Airtel Limited,No,0,0,0,0
+5,Jammu & Kashmir,26,"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Jammu & Kashmir,26,"Vodafone IdeaLimited",No,0,0,0,0
+5,Jammu & Kashmir,800,Bharti Airtel Limited,No,0,0,0,0
+5,Jammu & Kashmir,800,"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Jammu & Kashmir,800,"Vodafone IdeaLimited",No,0,0,0,0
+5,Jammu & Kashmir,900,Bharti Airtel Limited,No,0,3.6,50,1
+5,Jammu & Kashmir,900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
+5,Jammu & Kashmir,900,"Vodafone IdeaLimited",No,0,3.6,0,0
+5,Jammu & Kashmir,1800,Bharti Airtel Limited,No,0,0,0,0
+5,Jammu & Kashmir,1800,"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Jammu & Kashmir,1800,"Vodafone IdeaLimited",No,0,0,0,0
+5,Jammu & Kashmir,2100,Bharti Airtel Limited,No,0,40,1,1
+5,Jammu & Kashmir,2100,"Reliance JioInfocomm Limited",No,0,40,0,0
+5,Jammu & Kashmir,2100,"Vodafone IdeaLimited",No,0,40,0,0
+5,Jammu & Kashmir,2500,Bharti Airtel Limited,No,0,0,0,0
+5,Jammu & Kashmir,2500,"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Jammu & Kashmir,2500,"Vodafone IdeaLimited",No,0,0,0,0
+5,Jammu & Kashmir,3300,Bharti Airtel Limited,No,0,0,0,0
+5,Jammu & Kashmir,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
+5,Jammu & Kashmir,3300,"Vodafone IdeaLimited",No,0,0,0,0
 5,Karnataka,26,Bharti Airtel Limited,No,0,0,0,0
 5,Karnataka,26,"Reliance JioInfocomm Limited",No,0,0,0,0
 5,Karnataka,26,"Vodafone IdeaLimited",No,0,0,0,0
@@ -2108,27 +2108,27 @@ Clock_Round,Service_Area,Band,Bidder,bid_decision,No. of Block(s) Selected,prov_
 6,Himachal Pradesh,3300,Bharti Airtel Limited,No,0,0,0,0
 6,Himachal Pradesh,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
 6,Himachal Pradesh,3300,"Vodafone IdeaLimited",No,0,0,0,0
-6,"Jammu &Kashmir",26,Bharti Airtel Limited,No,0,0,0,0
-6,"Jammu &Kashmir",26,"Reliance JioInfocomm Limited",No,0,0,0,0
-6,"Jammu &Kashmir",26,"Vodafone IdeaLimited",No,0,0,0,0
-6,"Jammu &Kashmir",800,Bharti Airtel Limited,No,0,0,0,0
-6,"Jammu &Kashmir",800,"Reliance JioInfocomm Limited",No,0,0,0,0
-6,"Jammu &Kashmir",800,"Vodafone IdeaLimited",No,0,0,0,0
-6,"Jammu &Kashmir",900,Bharti Airtel Limited,No,0,3.6,50,1
-6,"Jammu &Kashmir",900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
-6,"Jammu &Kashmir",900,"Vodafone IdeaLimited",No,0,3.6,0,0
-6,"Jammu &Kashmir",1800,Bharti Airtel Limited,No,0,0,0,0
-6,"Jammu &Kashmir",1800,"Reliance JioInfocomm Limited",No,0,0,0,0
-6,"Jammu &Kashmir",1800,"Vodafone IdeaLimited",No,0,0,0,0
-6,"Jammu &Kashmir",2100,Bharti Airtel Limited,No,0,40,1,1
-6,"Jammu &Kashmir",2100,"Reliance JioInfocomm Limited",No,0,40,0,0
-6,"Jammu &Kashmir",2100,"Vodafone IdeaLimited",No,0,40,0,0
-6,"Jammu &Kashmir",2500,Bharti Airtel Limited,No,0,0,0,0
-6,"Jammu &Kashmir",2500,"Reliance JioInfocomm Limited",No,0,0,0,0
-6,"Jammu &Kashmir",2500,"Vodafone IdeaLimited",No,0,0,0,0
-6,"Jammu &Kashmir",3300,Bharti Airtel Limited,No,0,0,0,0
-6,"Jammu &Kashmir",3300,"Reliance JioInfocomm Limited",No,0,0,0,0
-6,"Jammu &Kashmir",3300,"Vodafone IdeaLimited",No,0,0,0,0
+6,Jammu & Kashmir,26,Bharti Airtel Limited,No,0,0,0,0
+6,Jammu & Kashmir,26,"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Jammu & Kashmir,26,"Vodafone IdeaLimited",No,0,0,0,0
+6,Jammu & Kashmir,800,Bharti Airtel Limited,No,0,0,0,0
+6,Jammu & Kashmir,800,"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Jammu & Kashmir,800,"Vodafone IdeaLimited",No,0,0,0,0
+6,Jammu & Kashmir,900,Bharti Airtel Limited,No,0,3.6,50,1
+6,Jammu & Kashmir,900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
+6,Jammu & Kashmir,900,"Vodafone IdeaLimited",No,0,3.6,0,0
+6,Jammu & Kashmir,1800,Bharti Airtel Limited,No,0,0,0,0
+6,Jammu & Kashmir,1800,"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Jammu & Kashmir,1800,"Vodafone IdeaLimited",No,0,0,0,0
+6,Jammu & Kashmir,2100,Bharti Airtel Limited,No,0,40,1,1
+6,Jammu & Kashmir,2100,"Reliance JioInfocomm Limited",No,0,40,0,0
+6,Jammu & Kashmir,2100,"Vodafone IdeaLimited",No,0,40,0,0
+6,Jammu & Kashmir,2500,Bharti Airtel Limited,No,0,0,0,0
+6,Jammu & Kashmir,2500,"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Jammu & Kashmir,2500,"Vodafone IdeaLimited",No,0,0,0,0
+6,Jammu & Kashmir,3300,Bharti Airtel Limited,No,0,0,0,0
+6,Jammu & Kashmir,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
+6,Jammu & Kashmir,3300,"Vodafone IdeaLimited",No,0,0,0,0
 6,Karnataka,26,Bharti Airtel Limited,No,0,0,0,0
 6,Karnataka,26,"Reliance JioInfocomm Limited",No,0,0,0,0
 6,Karnataka,26,"Vodafone IdeaLimited",No,0,0,0,0
@@ -2504,27 +2504,27 @@ Clock_Round,Service_Area,Band,Bidder,bid_decision,No. of Block(s) Selected,prov_
 7,Himachal Pradesh,3300,Bharti Airtel Limited,No,0,0,0,0
 7,Himachal Pradesh,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
 7,Himachal Pradesh,3300,"Vodafone IdeaLimited",No,0,0,0,0
-7,"Jammu &Kashmir",26,Bharti Airtel Limited,No,0,0,0,0
-7,"Jammu &Kashmir",26,"Reliance JioInfocomm Limited",No,0,0,0,0
-7,"Jammu &Kashmir",26,"Vodafone IdeaLimited",No,0,0,0,0
-7,"Jammu &Kashmir",800,Bharti Airtel Limited,No,0,0,0,0
-7,"Jammu &Kashmir",800,"Reliance JioInfocomm Limited",No,0,0,0,0
-7,"Jammu &Kashmir",800,"Vodafone IdeaLimited",No,0,0,0,0
-7,"Jammu &Kashmir",900,Bharti Airtel Limited,No,0,3.6,50,1
-7,"Jammu &Kashmir",900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
-7,"Jammu &Kashmir",900,"Vodafone IdeaLimited",No,0,3.6,0,0
-7,"Jammu &Kashmir",1800,Bharti Airtel Limited,No,0,0,0,0
-7,"Jammu &Kashmir",1800,"Reliance JioInfocomm Limited",No,0,0,0,0
-7,"Jammu &Kashmir",1800,"Vodafone IdeaLimited",No,0,0,0,0
-7,"Jammu &Kashmir",2100,Bharti Airtel Limited,No,0,40,1,1
-7,"Jammu &Kashmir",2100,"Reliance JioInfocomm Limited",No,0,40,0,0
-7,"Jammu &Kashmir",2100,"Vodafone IdeaLimited",No,0,40,0,0
-7,"Jammu &Kashmir",2500,Bharti Airtel Limited,No,0,0,0,0
-7,"Jammu &Kashmir",2500,"Reliance JioInfocomm Limited",No,0,0,0,0
-7,"Jammu &Kashmir",2500,"Vodafone IdeaLimited",No,0,0,0,0
-7,"Jammu &Kashmir",3300,Bharti Airtel Limited,No,0,0,0,0
-7,"Jammu &Kashmir",3300,"Reliance JioInfocomm Limited",No,0,0,0,0
-7,"Jammu &Kashmir",3300,"Vodafone IdeaLimited",No,0,0,0,0
+7,Jammu & Kashmir,26,Bharti Airtel Limited,No,0,0,0,0
+7,Jammu & Kashmir,26,"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Jammu & Kashmir,26,"Vodafone IdeaLimited",No,0,0,0,0
+7,Jammu & Kashmir,800,Bharti Airtel Limited,No,0,0,0,0
+7,Jammu & Kashmir,800,"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Jammu & Kashmir,800,"Vodafone IdeaLimited",No,0,0,0,0
+7,Jammu & Kashmir,900,Bharti Airtel Limited,No,0,3.6,50,1
+7,Jammu & Kashmir,900,"Reliance JioInfocomm Limited",No,0,3.6,0,0
+7,Jammu & Kashmir,900,"Vodafone IdeaLimited",No,0,3.6,0,0
+7,Jammu & Kashmir,1800,Bharti Airtel Limited,No,0,0,0,0
+7,Jammu & Kashmir,1800,"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Jammu & Kashmir,1800,"Vodafone IdeaLimited",No,0,0,0,0
+7,Jammu & Kashmir,2100,Bharti Airtel Limited,No,0,40,1,1
+7,Jammu & Kashmir,2100,"Reliance JioInfocomm Limited",No,0,40,0,0
+7,Jammu & Kashmir,2100,"Vodafone IdeaLimited",No,0,40,0,0
+7,Jammu & Kashmir,2500,Bharti Airtel Limited,No,0,0,0,0
+7,Jammu & Kashmir,2500,"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Jammu & Kashmir,2500,"Vodafone IdeaLimited",No,0,0,0,0
+7,Jammu & Kashmir,3300,Bharti Airtel Limited,No,0,0,0,0
+7,Jammu & Kashmir,3300,"Reliance JioInfocomm Limited",No,0,0,0,0
+7,Jammu & Kashmir,3300,"Vodafone IdeaLimited",No,0,0,0,0
 7,Karnataka,26,Bharti Airtel Limited,No,0,0,0,0
 7,Karnataka,26,"Reliance JioInfocomm Limited",No,0,0,0,0
 7,Karnataka,26,"Vodafone IdeaLimited",No,0,0,0,0
