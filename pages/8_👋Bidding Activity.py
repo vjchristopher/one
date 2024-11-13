@@ -14,11 +14,12 @@ st.header('🆚 Activity plots for the various auctions :', divider='grey')
 
 
 def preprocess(frame):
-   #st.table(frame.head())
+   
    frame=frame.query('prov_win_bid!="-" ')\
         .query('prov_rank!="-"')\
         .query('bid_decision=="Bid"')\
         .reset_index()
+   #st.table(frame.head())
    return frame
 
 def pivot_data(frame):
@@ -122,6 +123,7 @@ my_dict={2010:[2100,2300],
          2016: [800,1800,2100,2300,2500],
          2021: [800,900,1800,2100,2300],
          2022: [700,800,900,1800,2100,2500,3300,26],
+         2024: [900,1800,2100,2500],
          }
 
 my_dataframe={2010: ['Auction2010_3G_Bid_Trail_Data.csv','Auction2010_BWA_Bid_Trail_Data.csv'],
@@ -130,7 +132,8 @@ my_dataframe={2010: ['Auction2010_3G_Bid_Trail_Data.csv','Auction2010_BWA_Bid_Tr
               2015:'Auction2015_Bid_Trail_Data.csv',
               2016:'Auction2016_Bid_Trail_Data.csv',
               2021:'Auction2021_Bid_Trail_Data.csv',
-              2022:'Auction2022_Bid_Trail_Data.csv'}
+              2022:'Auction2022_Bid_Trail_Data.csv',
+              2024:'Auction2024_Bid_Trail_Data.csv'}
 
 #First write the Spectrum Auction SMRA type
 
@@ -152,17 +155,19 @@ else:
    csv=my_dataframe[auction_year]
 #st.write(csv)
 df=pd.read_csv(csv,index_col=0)
-
+#st.dataframe(df)
+#st.write(df.columns)
 if 'Band' in df.columns:
    df=df.query('Band==@auction_band')
+
 df=preprocess(df)
 
 table=pivot_data(df)
-
+#st.dataframe(table)
 
 # Select the LSA
 lsa_names=table['Service_Area_'].unique().tolist()
-
+#st.write(lsa_names)
 #Creates two frames for two types of display. First create the columns required
 winrank_columns=['Clock_Round_','Service_Area_']+[col for col in table.columns if 'rank' in col]
 winbid_columns=['Clock_Round_','Service_Area_']+[col for col in table.columns if 'bid' in col]
