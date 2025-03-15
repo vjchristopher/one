@@ -29,7 +29,8 @@ with col3:
     4. Spectrum Shared among operators;<br>
     5. Spectrum Traded among operators;<br>
     6. The auction activity through the provisional bids and ranking;<br>
-    7. The plots are interactive to give granularity; 
+    7. Spectrum available with the Govt in 2025;<br>
+    8. The plots are interactive to give granularity; 
     </span>
      """, unsafe_allow_html=True )
 
