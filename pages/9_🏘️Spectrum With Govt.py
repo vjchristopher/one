@@ -82,7 +82,7 @@ if (submitted):
     # Calculate column-wise totals for numeric columns
     totals_price = df2[numeric_cols].sum()
     # Add a new row with totals for numeric columns; others set as empty or custom value
-    df2.loc['Total'] = [totals_price.get(col, '') for col in df2.columns]
+    #df2.loc['Total'] = [totals_price.get(col, '') for col in df2.columns]
     #df2 = df2.add_suffix('_price_in_₹_Crores')
     #st.dataframe(df2)
 
@@ -116,11 +116,12 @@ if (submitted):
     # Define which columns are quantity and which are price
     quantity_cols = [col for col in existing_preferred if col.endswith('MHz')]
     price_cols = [col for col in existing_preferred if col.endswith('_Crores')]
-
+    merged_df.loc["Total",price_cols]=merged_df[price_cols].sum()
     # Replace 0s in quantity columns with 'X'
     merged_df[quantity_cols] = merged_df[quantity_cols].mask(merged_df[quantity_cols] == 0, 'X')
     # Replace 0s in price columns with 'Y'
     merged_df[price_cols] = merged_df[price_cols].mask(merged_df[price_cols] == 0, 'Y')
+    
     
     # #Replace all 0s in the DataFrame with 'X'
     # merged_df = merged_df.mask(merged_df == 0, 'X')
