@@ -1,4 +1,3 @@
-
 import streamlit as st 
 import pandas as pd
 import plotly.express as px
@@ -214,8 +213,7 @@ if plot_type == ":green[Line Graph]":
         try:
             blok_row = dframe.query('LSA==@state')
             if blok_row.empty:
-                st.warning(f"No block data found for LSA '{state}'. Skipping...")
-                continue
+                st.warning(f"No block data found for LSA '{state}'. Skipping...")                
             blok = blok_row.values[0]
            # now filter the plotting data
             winbid_play=winbid.query('Service_Area==@state')
@@ -230,8 +228,7 @@ if plot_type == ":green[Line Graph]":
             (winbid_play.pipe(plotly_plot,state,kind,blok[1]))
          except Exception as e:
             st.error(f"Error fetching block info for LSA '{state}': {e}")
-            continue
-     
+               
        
 
     st.divider()
@@ -243,8 +240,7 @@ if plot_type == ":green[Line Graph]":
         try:
             blok_row = dframe.query('LSA==@state')
             if blok_row.empty:
-                st.warning(f"No block data found for LSA '{state}'. Skipping...")
-                continue
+                st.warning(f"No block data found for LSA '{state}'. Skipping...")               
             blok = blok_row.values[0]
             winrank_play=winrank.query('Service_Area==@state') 
         
@@ -257,8 +253,7 @@ if plot_type == ":green[Line Graph]":
             kind='Bid Rank'                  
             (winrank_play.pipe(plotly_plot,state,kind,blok[1]))
         except Exception as e:
-            st.error(f"Error fetching block info for LSA '{state}': {e}")
-            continue
+            st.error(f"Error fetching block info for LSA '{state}': {e}")            
         # now filter the plotting data
        
         # winrank_play=winrank.query('Service_Area==@state') 
