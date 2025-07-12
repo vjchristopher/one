@@ -211,9 +211,9 @@ if plot_type == ":green[Line Graph]":
         #st.dataframe(winbid)    
         #blok=dframe.query('LSA==@state').values[0]         
         try:
-            blok_row = dframe.query('LSA==@state')
-            if blok_row.empty:
-                st.warning(f"No block data found for LSA '{state}'. Skipping...")                
+          blok_row = dframe.query('LSA==@state')
+          if blok_row.empty:
+            st.warning(f"No block data found for LSA '{state}'. Skipping...")                
             blok = blok_row.values[0]
            # now filter the plotting data
             winbid_play=winbid.query('Service_Area==@state')
@@ -238,9 +238,9 @@ if plot_type == ":green[Line Graph]":
         #first no of blocks in the LSA
         #blok=dframe.query('LSA==@state').values[0]   
         try:
-            blok_row = dframe.query('LSA==@state')
-            if blok_row.empty:
-                st.warning(f"No block data found for LSA '{state}'. Skipping...")               
+          blok_row = dframe.query('LSA==@state')
+          if blok_row.empty:            
+            st.warning(f"No block data found for LSA '{state}'. Skipping...")               
             blok = blok_row.values[0]
             winrank_play=winrank.query('Service_Area==@state') 
         
@@ -269,42 +269,39 @@ if plot_type == ":green[Line Graph]":
     
 
 else:
-    #st.write("You selected Heatmap.")
-    #For bid amount heatmap
-    #states=winbid.Service_Area.unique()
-    states=LSAS
-    for state in states:
-        #first no of blocks in the LSA
-        blok=dframe.query('LSA==@state').values[0][1] 
-        #st.write(dframe.query('LSA==@state').values[0],blok)    
-        # now filter the plotting data
-        winbid_play=winbid.query('Service_Area==@state')
-        
-        if max_rounds:  #Checkbox selected
-            winbid_play=winbid_play.iloc[0:]
-        elif winbid_play.shape[0] < 40: 
-            winbid_play=winbid_play.iloc[0:]   
-        else: #only few LSA are less than 15
-            winbid_play=winbid_play.iloc[-40:] 
-        kind='Bid Value'      
-        (winbid_play.pipe(plotly_imshow,state,kind,blok))
-
-    st.divider()
-
-    #For bid rank heatmap
-    #states=winrank.Service_Area.unique()
-    for state in states:  
-        #first no of blocks in the LSA
-        blok=dframe.query('LSA==@state').values[0][1] 
+  states=LSAS
+  for state in states:
+    #first no of blocks in the LSA
+  blok=dframe.query('LSA==@state').values[0][1] 
+            #st.write(dframe.query('LSA==@state').values[0],blok)    
+            # now filter the plotting data
+  winbid_play=winbid.query('Service_Area==@state')
             
-        # now filter the plotting data
-        winrank_play=winrank.query('Service_Area==@state')
+  if max_rounds:  #Checkbox selected
+    winbid_play=winbid_play.iloc[0:]
+  elif winbid_play.shape[0] < 40: 
+    winbid_play=winbid_play.iloc[0:]   
+  else: #only few LSA are less than 15
+    winbid_play=winbid_play.iloc[-40:] 
+    kind='Bid Value'      
+   (winbid_play.pipe(plotly_imshow,state,kind,blok))
 
-        if max_rounds:  #Checkbox selected
-            winrank_play=winrank_play.iloc[0:]
-        elif winrank_play.shape[0] <40: 
-            winrank_play=winrank_play.iloc[0:]   
-        else: #only few LSA are less than 15
-            winrank_play=winrank_play.iloc[-40:]  
-        kind='Bid Rank'     
-        (winrank_play.pipe(plotly_imshow,state,kind,blok))
+   st.divider()
+
+            #For bid rank heatmap
+            #states=winrank.Service_Area.unique()
+   for state in states:  
+     #first no of blocks in the LSA
+     blok=dframe.query('LSA==@state').values[0][1] 
+                  
+                # now filter the plotting data
+     winrank_play=winrank.query('Service_Area==@state')
+        
+     if max_rounds:  #Checkbox selected
+       winrank_play=winrank_play.iloc[0:]
+     elif winrank_play.shape[0] <40: 
+       winrank_play=winrank_play.iloc[0:]   
+     else: #only few LSA are less than 15
+       winrank_play=winrank_play.iloc[-40:]  
+     kind='Bid Rank'     
+    (winrank_play.pipe(plotly_imshow,state,kind,blok))
