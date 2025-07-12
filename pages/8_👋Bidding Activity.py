@@ -231,7 +231,7 @@ if plot_type == ":green[Line Graph]":
         else: #more than/== 40            
             winbid_play=winbid_play.iloc[-40:]   
         kind='Bid Value'             
-        (winbid_play.pipe(plotly_plot,state,kind,blok[1]))
+       # (winbid_play.pipe(plotly_plot,state,kind,blok[1]))
 
     st.divider()
 
