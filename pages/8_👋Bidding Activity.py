@@ -217,43 +217,61 @@ if plot_type == ":green[Line Graph]":
                 st.warning(f"No block data found for LSA '{state}'. Skipping...")
                 continue
             blok = blok_row.values[0]
-        except Exception as e:
+           # now filter the plotting data
+            winbid_play=winbid.query('Service_Area==@state')
+            #st.dataframe(winbid_play)
+            if max_rounds:  #Checkbox selected display maximum
+                winbid_play=winbid_play.iloc[0:]
+            elif winbid_play.shape[0] < 40: #if the max is not selected and less than 20         
+                winbid_play=winbid_play.iloc[0:]   
+            else: #more than/== 40            
+                winbid_play=winbid_play.iloc[-40:]   
+            kind='Bid Value'             
+            (winbid_play.pipe(plotly_plot,state,kind,blok[1]))
+         except Exception as e:
             st.error(f"Error fetching block info for LSA '{state}': {e}")
             continue
      
-        # now filter the plotting data
-        winbid_play=winbid.query('Service_Area==@state')
-        #st.dataframe(winbid_play)
-        if max_rounds:  #Checkbox selected display maximum
-            winbid_play=winbid_play.iloc[0:]
-        elif winbid_play.shape[0] < 40: #if the max is not selected and less than 20         
-            winbid_play=winbid_play.iloc[0:]   
-        else: #more than/== 40            
-            winbid_play=winbid_play.iloc[-40:]   
-        kind='Bid Value'             
-       # (winbid_play.pipe(plotly_plot,state,kind,blok[1]))
+       
 
     st.divider()
 
     #states=winrank.Service_Area.unique()
     for state in states:   
         #first no of blocks in the LSA
-        blok=dframe.query('LSA==@state').values[0]   
-       
+        #blok=dframe.query('LSA==@state').values[0]   
+        try:
+            blok_row = dframe.query('LSA==@state')
+            if blok_row.empty:
+                st.warning(f"No block data found for LSA '{state}'. Skipping...")
+                continue
+            blok = blok_row.values[0]
+            winrank_play=winrank.query('Service_Area==@state') 
+        
+            if max_rounds:  #Checkbox selected
+                winrank_play=winrank_play.iloc[0:]
+            elif winrank_play.shape[0] < 40:      
+                winrank_play=winrank_play.iloc[0:]   
+            else: #only few LSA are less than 15
+                winrank_play=winrank_play.iloc[-40:] 
+            kind='Bid Rank'                  
+            (winrank_play.pipe(plotly_plot,state,kind,blok[1]))
+        except Exception as e:
+            st.error(f"Error fetching block info for LSA '{state}': {e}")
+            continue
         # now filter the plotting data
        
-        winrank_play=winrank.query('Service_Area==@state') 
+        # winrank_play=winrank.query('Service_Area==@state') 
         
-        if max_rounds:  #Checkbox selected
-            winrank_play=winrank_play.iloc[0:]
-        elif winrank_play.shape[0] < 40:      
-            winrank_play=winrank_play.iloc[0:]   
-        else: #only few LSA are less than 15
-            winrank_play=winrank_play.iloc[-40:] 
-        kind='Bid Rank'                  
-        (winrank_play.pipe(plotly_plot,state,kind,blok[1]))
+        # if max_rounds:  #Checkbox selected
+        #     winrank_play=winrank_play.iloc[0:]
+        # elif winrank_play.shape[0] < 40:      
+        #     winrank_play=winrank_play.iloc[0:]   
+        # else: #only few LSA are less than 15
+        #     winrank_play=winrank_play.iloc[-40:] 
+        # kind='Bid Rank'                  
+        # (winrank_play.pipe(plotly_plot,state,kind,blok[1]))
     
-
 
 else:
     #st.write("You selected Heatmap.")
