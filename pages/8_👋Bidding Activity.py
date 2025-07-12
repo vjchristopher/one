@@ -210,8 +210,17 @@ if plot_type == ":green[Line Graph]":
     for state in states:  
         #first no of blocks in the LSA
         #st.dataframe(winbid)    
-        blok=dframe.query('LSA==@state').values[0]         
-        #st.write(dframe.query('LSA==@state').values[0],blok)   
+        #blok=dframe.query('LSA==@state').values[0]         
+        try:
+            blok_row = dframe.query('LSA==@state')
+            if blok_row.empty:
+                st.warning(f"No block data found for LSA '{state}'. Skipping...")
+                continue
+            blok = blok_row.values[0]
+        except Exception as e:
+            st.error(f"Error fetching block info for LSA '{state}': {e}")
+            continue
+     
         # now filter the plotting data
         winbid_play=winbid.query('Service_Area==@state')
         #st.dataframe(winbid_play)
