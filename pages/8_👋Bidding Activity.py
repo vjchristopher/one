@@ -250,7 +250,7 @@ if plot_type == ":green[Line Graph]":
             winrank_play=winrank_play.iloc[0:]   
           else: #only few LSA are less than 15
              winrank_play=winrank_play.iloc[-40:] 
-            kind='Bid Rank'                  
+          kind='Bid Rank'                  
           (winrank_play.pipe(plotly_plot,state,kind,blok[1]))
     except Exception as e:
           st.error(f"Error fetching block info for LSA '{state}': {e}")            
