@@ -287,21 +287,18 @@ else:
   (winbid_play.pipe(plotly_imshow,state,kind,blok))
 
   st.divider()
-
-            #For bid rank heatmap
-            #states=winrank.Service_Area.unique()
+  #For bid rank heatmap
+  #states=winrank.Service_Area.unique()
   for state in states:      
-     #first no of blocks in the LSA
+    #first no of blocks in the LSA
     blok=dframe.query('LSA==@state').values[0][1] 
-                  
-                # now filter the plotting data
+    # now filter the plotting data
     winrank_play=winrank.query('Service_Area==@state')
-        
     if max_rounds:  #Checkbox selected
       winrank_play=winrank_play.iloc[0:]
     elif winrank_play.shape[0] <40: 
       winrank_play=winrank_play.iloc[0:]   
     else: #only few LSA are less than 15
       winrank_play=winrank_play.iloc[-40:]  
-   kind='Bid Rank'     
-   (winrank_play.pipe(plotly_imshow,state,kind,blok))
+    kind='Bid Rank'     
+    (winrank_play.pipe(plotly_imshow,state,kind,blok))
