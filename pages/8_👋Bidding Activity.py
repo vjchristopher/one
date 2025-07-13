@@ -212,8 +212,8 @@ if plot_type == ":green[Line Graph]":
         #blok=dframe.query('LSA==@state').values[0]         
     try:
         blok_row = dframe.query('LSA==@state')
-        if blok_row.empty:
-          st.warning(f"No block data found for LSA '{state}'. Skipping...")                
+        if not(blok_row.empty):
+          #st.warning(f"No block data found for LSA '{state}'. Skipping...")                
           blok = blok_row.values[0]
            # now filter the plotting data
           winbid_play=winbid.query('Service_Area==@state')
@@ -239,8 +239,8 @@ if plot_type == ":green[Line Graph]":
         #blok=dframe.query('LSA==@state').values[0]   
     try:
         blok_row = dframe.query('LSA==@state')
-        if blok_row.empty:            
-          st.warning(f"No block data found for LSA '{state}'. Skipping...")               
+        if not(blok_row.empty):            
+          #st.warning(f"No block data found for LSA '{state}'. Skipping...")               
           blok = blok_row.values[0]
           winrank_play=winrank.query('Service_Area==@state') 
         
