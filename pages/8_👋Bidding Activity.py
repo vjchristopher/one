@@ -217,7 +217,8 @@ if plot_type == ":green[Line Graph]":
           blok = blok_row.values[0]
            # now filter the plotting data
           winbid_play=winbid.query('Service_Area==@state')
-            #st.dataframe(winbid_play)
+          winbid_play=winbid_play.set_index('Service_Area')          
+          winbid_play=winbid_play.astype(float)
           if max_rounds:  #Checkbox selected display maximum
             winbid_play=winbid_play.iloc[0:]
           elif winbid_play.shape[0] < 40: #if the max is not selected and less than 20         
@@ -242,8 +243,9 @@ if plot_type == ":green[Line Graph]":
         if not(blok_row.empty):            
           #st.warning(f"No block data found for LSA '{state}'. Skipping...")               
           blok = blok_row.values[0]
-          winrank_play=winrank.query('Service_Area==@state') 
-        
+          winrank_play=winrank.query('Service_Area==@state')           
+          winrank_play=winrank_play.set_index('Service_Area')          
+          winrank_play=winrank_play.astype(float)
           if max_rounds:  #Checkbox selected
             winrank_play=winrank_play.iloc[0:]
           elif winrank_play.shape[0] < 40:      
