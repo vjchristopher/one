@@ -19,7 +19,7 @@ def load_data():
 def show_pie_chart(band):
     #st.write(band)
     df=load_data()    
-    df=df.fillna(0).drop(columns='LSA')
+    df=df.fillna(value=0).drop(columns='LSA')
     df1=df.groupby('TSP',as_index=False).sum()
     col=df1.columns[1:].to_list()
     df1['Total']=df1[col].sum(axis=1)
@@ -81,7 +81,7 @@ holding = load_data()
 
 valuation=pd.read_csv('valuation.csv')
 #fill the NANS
-holding.LSA=holding.LSA.fillna(method='ffill')
+holding.LSA=holding.LSA.ffill()
 holding.iloc[:,2:]=holding.iloc[:,2:].fillna(0)# filling value 0 in NAN
 
 valuation=valuation.set_index('LSA')
