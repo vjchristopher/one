@@ -7,9 +7,9 @@ st.title('🤝🏻Spectrum Sharing Information:')
 #read in the file
 share= pd.read_csv("share.csv")
 
-share.band=share.band.fillna(method='ffill') #LSA filling with previous value in place of NAN
-share.tsp1=share.tsp1.fillna(method='ffill')
-share.tsp2=share.tsp2.fillna(method='ffill')
+share.band=share.band.ffill() #LSA filling with previous value in place of NAN
+share.tsp1=share.tsp1.ffill()
+share.tsp2=share.tsp2.ffill()
 
 #first strip the blank spaces
 share['lsa']=share['lsa'].str.strip()
