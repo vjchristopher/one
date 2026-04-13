@@ -34,7 +34,7 @@ def manage_acquistion_data():
     df=load_acquistion_data()
     df.band=df.band.astype('str') #convert to string
     df['acquired_year']=df['acquired_year'].apply(lambda x: str(x)) #convert to string
-    df_pivot=df.pivot_table(index=['LSA','TSP','acquired_year'],columns='band',values=['bw','years_left']).fillna(0)
+    df_pivot=df.pivot_table(index=['LSA','TSP','acquired_year'],columns='band',values=['bw','years_left']).fillna(value=0)
     df_pivot.columns = ['-'.join(col).strip() for col in df_pivot.columns.values] #flatten multi index
     return df_pivot
 
@@ -45,7 +45,7 @@ form_resource.subheader('The market price for the spectrum held by different ope
 #Just to get the LSA names
 holding = load_holding_data()
 #fill the NANS
-holding.LSA=holding.LSA.fillna(method='ffill')
+holding.LSA=holding.LSA.ffill()
 holding.iloc[:,2:]=holding.iloc[:,2:].fillna(0)# filling value 0 in NAN
 #st.dataframe(holding)
 #LSA List
