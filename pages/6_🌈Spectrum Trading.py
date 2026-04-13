@@ -8,9 +8,9 @@ st.title('💰Spectrum Trading Information:')
 #share= pd.read_csv("share.csv")
 trade=pd.read_csv("trade.csv")
 
-trade.band=trade.band.fillna(method='ffill') #LSA filling with previous value in place of NAN
-trade.seller=trade.seller.fillna(method='ffill')
-trade.buyer=trade.buyer.fillna(method='ffill')
+trade.band=trade.band.ffill() #LSA filling with previous value in place of NAN
+trade.seller=trade.seller.ffill()
+trade.buyer=trade.buyer.ffill()
 
 trade['lsa']=trade['lsa'].str.strip()
 
