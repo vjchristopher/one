@@ -8,8 +8,8 @@ st.title('Spectrum Holding of Different Telecom Operators in MHz:')
 holding = pd.read_csv("spectrum_holding.csv")
 valuation=pd.read_csv('valuation.csv')
 #fill the NANS
-holding.LSA=holding.LSA.fillna(method='ffill')
-holding.iloc[:,2:]=holding.iloc[:,2:].fillna(0)# filling value 0 in NAN
+holding.LSA=holding.LSA.ffill()
+holding.iloc[:,2:]=holding.iloc[:,2:].fillna(value=0)# filling value 0 in NAN
 
 valuation=valuation.set_index('service_area')
 
