@@ -104,7 +104,7 @@ df=process_df(df)
 #Just to get the LSA names
 holding = load_holding_data()
 #fill the NANS
-holding.LSA=holding.LSA.fillna(method='ffill')
+holding.LSA=holding.LSA.ffill()
 service_area_list=holding['LSA'].unique().tolist() 
 #Add 'ALL LSAs" to LSA List
 service_area_list[:0]=['All LSAs']
