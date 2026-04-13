@@ -22,8 +22,8 @@ gov_holding = load_data()
 
 valuation=pd.read_csv('value_reserve_spectrum.csv')
 #fill the NANS
-gov_holding.LSA=gov_holding.LSA.fillna(method='ffill')
-gov_holding.iloc[:,2:]=gov_holding.iloc[:,2:].fillna(0)# filling value 0 in NAN
+gov_holding.LSA=gov_holding.LSA.ffill()
+gov_holding.iloc[:,2:]=gov_holding.iloc[:,2:].fillna(value=0)# filling value 0 in NAN
 
 #valuation=valuation.set_index('LSA')
 #st.dataframe(valuation)
